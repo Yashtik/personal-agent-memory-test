@@ -1,0 +1,1928 @@
+{
+ "person": {
+  "id": "devon",
+  "name": "Devon Carter",
+  "line": "Devon Carter, 21, a first-generation college senior in Atlanta who works part-time",
+  "pronoun": "he",
+  "today": "2026-10-08T09:00"
+ },
+ "contacts": [
+  {
+   "name": "Mom",
+   "relation": "mother (Angela Carter), lives in Macon",
+   "email": "angela.carter.macon@gmail.com",
+   "phone": "(478) 555-0127"
+  },
+  {
+   "name": "Kiara Carter",
+   "relation": "sister, lives in Macon",
+   "email": "kiaracarter00@gmail.com",
+   "phone": "(478) 555-0182"
+  },
+  {
+   "name": "Marcus Reed",
+   "relation": "coworker at Peach Street Grill (server), lives in Atlanta",
+   "email": "marcus.reed.atl@gmail.com",
+   "phone": "(404) 555-0163"
+  },
+  {
+   "name": "Jaylen Brooks",
+   "relation": "friend from Macon, lives in Atlanta",
+   "email": "jaylenbrooks22@gmail.com",
+   "phone": "(470) 555-0119"
+  },
+  {
+   "name": "Prof. Hayes",
+   "relation": "professor (Dr. Andrea Hayes), CIS 4495 and Senior Capstone, Georgia Metro University",
+   "email": "ahayes@georgiametro.edu",
+   "phone": "(404) 555-0291"
+  },
+  {
+   "name": "Trey Wallace",
+   "relation": "roommate",
+   "email": "trey.wallace@gmail.com",
+   "phone": "(678) 555-0144"
+  },
+  {
+   "name": "Tasha Bell",
+   "relation": "general manager, Peach Street Grill",
+   "email": "tasha@peachstreetgrill.com",
+   "phone": "(404) 555-0108"
+  },
+  {
+   "name": "Luis Ortega",
+   "relation": "assistant manager, Peach Street Grill",
+   "email": "luis@peachstreetgrill.com",
+   "phone": "(404) 555-0176"
+  },
+  {
+   "name": "Brianna Hollis",
+   "relation": "coworker at Peach Street Grill (host)",
+   "email": "bri.hollis@gmail.com",
+   "phone": "(470) 555-0135"
+  },
+  {
+   "name": "Simone Harris",
+   "relation": "Jaylen's girlfriend",
+   "email": "simoneharris.atl@gmail.com",
+   "phone": "(404) 555-0152"
+  },
+  {
+   "name": "Uncle Ray",
+   "relation": "uncle (Raymond Lewis), Mom's brother, lives in Macon",
+   "email": "raylewis.macon@gmail.com",
+   "phone": "(478) 555-0160"
+  },
+  {
+   "name": "Grandma Ruth",
+   "relation": "grandmother (Mom's mom), lives with Mom in Macon",
+   "email": "",
+   "phone": "(478) 555-0103"
+  },
+  {
+   "name": "Destiny Owens",
+   "relation": "classmate, capstone Team 4",
+   "email": "dowens14@student.georgiametro.edu",
+   "phone": "(404) 555-0171"
+  },
+  {
+   "name": "Priya Natarajan",
+   "relation": "classmate, capstone Team 4",
+   "email": "pnatarajan2@student.georgiametro.edu",
+   "phone": "(470) 555-0148"
+  },
+  {
+   "name": "Renee Patterson",
+   "relation": "First-Gen Scholars Program coordinator, Georgia Metro University",
+   "email": "rpatterson@georgiametro.edu",
+   "phone": "(404) 555-0244"
+  },
+  {
+   "name": "Jordan Pierce",
+   "relation": "campus recruiter, Southline Logistics",
+   "email": "jpierce@southlinelogistics.com",
+   "phone": "(678) 555-0193"
+  },
+  {
+   "name": "Andre Mitchell",
+   "relation": "friend, Tuesday hoops",
+   "email": "dre.mitchell@gmail.com",
+   "phone": "(470) 555-0187"
+  },
+  {
+   "name": "Moreland Auto Care",
+   "relation": "auto repair shop",
+   "email": "service@morelandautocare.com",
+   "phone": "(404) 555-0188"
+  },
+  {
+   "name": "Kroger Pharmacy #0347",
+   "relation": "pharmacy (Kroger, Glenwood Ave SE)",
+   "email": "",
+   "phone": "(404) 555-0131"
+  },
+  {
+   "name": "Edgewood Dental Studio",
+   "relation": "dentist",
+   "email": "frontdesk@edgewooddentalstudio.com",
+   "phone": "(404) 555-0199"
+  },
+  {
+   "name": "Glenwood Commons Leasing Office",
+   "relation": "apartment leasing office",
+   "email": "leasing@glenwoodcommonsatl.com",
+   "phone": "(404) 555-0115"
+  },
+  {
+   "name": "Kendra Lowe",
+   "relation": "campus recruiter, Delmar Consulting",
+   "email": "klowe@delmarconsulting.com",
+   "phone": "(404) 555-0216"
+  },
+  {
+   "name": "Keisha Carter",
+   "relation": "sister, lives in Macon",
+   "email": "keishacarter00@gmail.com",
+   "phone": "(478) 555-0182"
+  },
+  {
+   "name": "Kiara Brooks",
+   "relation": "Jaylen's sister, lives in Macon",
+   "email": "kiarabrooks.macon@gmail.com",
+   "phone": "(478) 555-0149"
+  }
+ ],
+ "notes": [
+  {
+   "id": "n1",
+   "title": "Taxes 2025",
+   "updated": "2026-02-10T20:30",
+   "body": "Filed with TaxSimple 2/10, free version.\nW-2 Peach Street Grill: $14,206.55 wages + tips.\nMom still claims me, checked the box that someone can claim me.\nFederal refund $412, should come around 2/24 to checking.\nGeorgia refund $96.\nPlan: $300 to savings, rest toward the Visa (laptop)."
+  },
+  {
+   "id": "n2",
+   "title": "Paychecks",
+   "updated": "2026-08-08T10:30",
+   "body": "Paychecks hit every other Friday\nPeach Street Grill direct deposit into Fulton CU checking 3381, usually there by 6 am.\nFall dates: 8/21, 9/4, 9/18, 10/2, 10/16, 10/30, 11/13, 11/27, 12/11, 12/25 (probably the 24th bc Christmas)\nEach check covers the two weeks ending the Sunday before. Card tips come on the check, cash tips I keep."
+  },
+  {
+   "id": "n3",
+   "title": "Class schedule fall 2026",
+   "updated": "2026-08-20T21:14",
+   "body": "Class schedule: Mon/Wed/Fri 9:00 am-12:15 pm, Tue/Thu 11:00 am-2:00 pm\n\nMWF\n9:00-10:15 CIS 4610 Database Systems, Calloway 310\n10:30-11:20 MGMT 3500 Human Resources, Sparks 204\n11:25-12:15 COMM 2050 Public Speaking, Langdale 118\n\nTue/Thu\n11:00-12:15 BLAW 3100 Business Law (Prof. Hayes), Calloway 220\n12:45-2:00 CIS 4980 Senior Capstone (Prof. Hayes), Calloway 220\n\nProf. Hayes office hours Tue/Thu 2:15-3:30, Calloway 512.\nTold Tasha my availability: MWF after 1, Tue/Thu after 3, weekends open."
+  },
+  {
+   "id": "n4",
+   "title": "Peach Street Grill stuff",
+   "updated": "2026-09-02T23:30",
+   "body": "Clock in on the POS, not more than 5 min early. Luis is strict about it.\nTip-out: 3% of food sales to bussers, 1% to bar, settled at end of shift.\nSwaps: both people request in ShiftPlanner, manager approves. Has to be at least 48 hrs before the shift.\nTime off: request 2 weeks ahead. Saturdays in football season need coverage before they'll approve.\nStaff meal half off, one per shift. No phones on the floor.\nUsually: Mon/Wed 5-10, Fri 5-11, Sat brunch 9-3. Sundays off.\nFood handler card expires 9/30. Need to redo it.\nWage $4.50/hr + tips. W-4 updated 8/10."
+  },
+  {
+   "id": "n5",
+   "title": "Bills + who pays what",
+   "updated": "2026-09-21T22:05",
+   "body": "Rent $1,450 total, my half $725. I pay mine on the Glenwood portal by the 1st, Trey pays his separately. Late fee after the 5th is $75.\nMetro Atlanta Power is in Trey's name. He pays, I Venmo him half when the bill comes. Sept was $88.60, sent $44.30 on 9/21.\nPeachnet Fiber $65, in my name, autopay the 10th from checking. Trey Venmos me $32.50.\nPhone is on Mom's Brightwave plan, I send her $35 by the 5th.\nCar insurance Southern Shield $118.40, autopay the 12th.\nCar payment to Uncle Ray $200 on the 15th through Dec ($600 left after Sept).\nTunebox Student $5.99 on the 21st (Visa).\nVisa 7719: pay the statement balance before the 25th.\nShared apartment stuff (paper towels, dish soap, trash bags, toilet paper): whoever buys it, the other one pays half."
+  },
+  {
+   "id": "n6",
+   "title": "Civic",
+   "updated": "2026-09-29T19:20",
+   "body": "2013 Honda Civic LX. Bought from Uncle Ray 4/11 for $2,800. Paid $1,200 down, $200 on the 15th through Dec.\n9/29 Moreland Auto Care: front pads + rotors, $311.98 on the Visa. Mom sent $100, so mine is $211.98.\nMileage at pickup 95,936.\nRear pads about 30%, recheck in spring.\nTire rotation free with next oil change.\nNext oil change at 98,400 or mid Oct. Last one 4/18 at 92,412.\nTag renewal due by my birthday 3/3.\nSouthern Shield policy SS-GA-4471902, card in glove box."
+  },
+  {
+   "id": "n7",
+   "title": "Meds + health",
+   "updated": "2026-10-02T19:45",
+   "body": "Fluticasone nasal spray, 2 sprays each side every morning (fall allergies). Kroger Pharmacy #0347, Rx 6608142, refill every 30 days, $4.20.\nAlbuterol inhaler, 2 puffs 15 min before hoops or if my chest gets tight. Rx 6608139, $10. One in the car, one in my backpack.\nInsurance: Mom's Pinebrook Health plan till 26. Member ID PBH 448271905-02. Dental is Pinebrook too.\nFlu shot done 9/30 at Student Health, free.\nDentist: Edgewood Dental Studio, moved to Tue 10/20 at 3 (was Wed 10/14 at 1, career fair).\nStudent Health walk-ins M-F 8-4."
+  },
+  {
+   "id": "n8",
+   "title": "To do",
+   "updated": "2026-10-04T21:40",
+   "body": "Food handler course on foodsafegeorgia.com ($12.95), send Tasha the certificate + receipt by 10/31\nPrint resumes for the career fair, free at Career Services through 10/13\nStill need to get the Business Law book\nDegree audit for Ms. Patterson on 10/13"
+  },
+  {
+   "id": "n9",
+   "title": "Rec letter packet for Prof. Hayes",
+   "updated": "2026-10-06T21:10",
+   "body": "Halcyon Health IT Analyst Development Program. App deadline Fri 10/30, letter goes through their portal.\nProf. Hayes said yes (email 10/6). She wants by Fri 10/16:\n- resume (add capstone + Peach Street)\n- program description link\n- unofficial transcript (GMU portal > Records)\n- paragraph on my part of the capstone (volunteer sign-up + reminder texts for Grant Park Community Pantry)\n- paragraph on working 20-25 hrs a week with a full load\nAfter I submit my part, forward her the portal invite. She's aiming for the 26th.\nThank-you card after."
+  },
+  {
+   "id": "n10",
+   "title": "Kroger list",
+   "updated": "2026-10-07T18:12",
+   "body": "eggs (digital coupon loaded)\nchicken thighs, family pack if it's still $1.49/lb\njasmine rice\nspinach\nfrozen broccoli x2\nbread\ncoffee (shared, split w/ Trey)\ntrash bags (shared, split w/ Trey)\nGatorade for hoops\npick up fluticasone at the pharmacy counter (ready since 10/6, they hold it 10 days)"
+  },
+  {
+   "id": "n11",
+   "title": "Macon Oct 23-25",
+   "updated": "2026-10-07T22:40",
+   "body": "Leave Fri 10/23 after class, around 1. Fill up at Kroger first with fuel points.\nMom's 50th dinner Sat 10/24 at 6, Natalie's Soul Kitchen, 2150 Riverside Dr. Party of 8. Keisha put down the $50 deposit, comes off the bill. Bill split 3 ways me, Keisha, Uncle Ray, about $90 each.\nGift: e-reader + cover, Keisha ordered it ($140.15). I owe her $70, send after the 10/16 check.\nElijah's soccer Sat 10 am at Tattnall Rec fields. I'm on Elijah duty.\nUncle Ray wants help moving his pictures to his new phone. Bring USB-C cable. Tell him not to reset the old one.\nGrandma wants 2 bottles of the Peach Street hot sauce.\nFri 10/23 off, approved 9/25. Sat brunch: Marcus takes it, I cover his Thu 10/22 5-10. Still need Luis to approve in ShiftPlanner once the 10/19 week posts.\nCapstone Milestone 3 due Fri 11:59 pm, submit before I leave.\nDrive back Sun after lunch."
+  }
+ ],
+ "email": [
+  {
+   "id": "e1",
+   "from": "Peach State Coach <bookings@peachstatecoach.com>",
+   "to": "me",
+   "date": "2025-11-20T21:48",
+   "subject": "Booking confirmed: Atlanta to Macon, Tue Nov 25",
+   "body": "Passenger: Devon Carter\nConfirmation: PSC-7Q4M2\n\nTue, Nov 25, 2025  3:15 PM Atlanta (Garnett St) - 4:55 PM Macon Terminal\nSun, Nov 30, 2025  2:00 PM Macon Terminal - 3:40 PM Atlanta (Garnett St)\n\nRound-trip fare: $28.00\nBooking fee: $3.50\nTotal: $31.50\nVisa ending 7719\n\nPlease arrive 20 minutes before departure. One carry-on and one checked bag included.",
+   "unread": false
+  },
+  {
+   "id": "e2",
+   "from": "Circuit Lane <orders@circuitlane.com>",
+   "to": "me",
+   "date": "2026-01-09T18:30",
+   "subject": "Order receipt #CL-212-40917",
+   "body": "Circuit Lane Store #212, North Druid Hills Rd, Atlanta\nJan 9, 2026\n\n14\" laptop, Ryzen 5, 16 GB / 512 GB: $649.99\nStudent discount: -$25.00\nSales tax (8.9%): $55.62\nTotal: $680.61\nVisa ending 7719\n\nProtection plan: declined\nReturn window: 15 days (through Jan 24, 2026)",
+   "unread": false
+  },
+  {
+   "id": "e3",
+   "from": "TaxSimple <noreply@taxsimple.com>",
+   "to": "me",
+   "date": "2026-02-10T20:40",
+   "subject": "Your federal return was accepted",
+   "body": "Good news, Devon. The IRS accepted your 2025 federal return on Feb 10, 2026.\n\nFederal refund: $412.00 by direct deposit to account ending 3381. Most refunds arrive within 21 days.\n\nYour Georgia return was also accepted. State refund: $96.00.\n\nTaxSimple",
+   "unread": false
+  },
+  {
+   "id": "e4",
+   "from": "Moreland Auto Care <service@morelandautocare.com>",
+   "to": "me",
+   "date": "2026-04-18T11:22",
+   "subject": "Receipt - oil change, 2013 Honda Civic",
+   "body": "Customer: Devon Carter\nVehicle: 2013 Honda Civic LX\nMileage: 92,412\n\nSynthetic blend oil change, 5 qt + filter: $49.99\nShop supplies: $3.00\nTax: $1.47\nTotal: $54.46\nPaid: debit ending 3381\n\nMulti-point inspection: front brakes 4 mm, plan on replacing within 6 months. Tires OK.\nNext oil change: 98,400 miles or 10/18/2026.\n\nMoreland Auto Care, 1120 Moreland Ave SE, Atlanta",
+   "unread": false
+  },
+  {
+   "id": "e5",
+   "from": "GMU Registrar <registrar@georgiametro.edu>",
+   "to": "me",
+   "date": "2026-05-12T17:00",
+   "subject": "Spring 2026 final grades are available",
+   "body": "Dear Devon,\n\nYour Spring 2026 final grades are posted in the student portal.\n\nTerm GPA: 3.47\nCumulative GPA: 3.29\nTotal earned hours: 93\n\nTo request an official transcript, use the Records tab in the portal.\n\nOffice of the Registrar\nGeorgia Metro University",
+   "unread": false
+  },
+  {
+   "id": "e6",
+   "from": "Glenwood Commons Leasing Office <leasing@glenwoodcommonsatl.com>",
+   "to": "me, Trey Wallace",
+   "date": "2026-07-15T16:02",
+   "subject": "Lease renewal fully signed - Unit 3B",
+   "body": "Hi Devon and Trey,\n\nYour renewal lease for Unit 3B is fully signed. Copies are in the resident portal under Documents.\n\nTerm: August 1, 2026 - July 31, 2027\nMonthly rent: $1,450.00 (was $1,320.00)\nResidents: Devon Carter, Trey Wallace\nParking: 2 permits, stickers at the office\n\nWork orders submitted with your renewal:\n- Bedroom 2 blinds replacement (scheduled 7/22)\n- Dishwasher noise inspection\n\nThanks for staying with us!\nGlenwood Commons Leasing Office",
+   "unread": false
+  },
+  {
+   "id": "e7",
+   "from": "Kroger Pharmacy <pharmacy@email.kroger.com>",
+   "to": "me",
+   "date": "2026-08-24T09:05",
+   "subject": "You're enrolled in refill reminders",
+   "body": "Hi Devon,\n\nYou're now set up for refill reminder texts at Kroger Pharmacy #0347, 800 Glenwood Ave SE.\n\nPrescriptions included:\n- Fluticasone propionate 50 mcg nasal spray (Rx 6608142)\n- Albuterol HFA inhaler (Rx 6608139)\n\nWe'll text (470) 555-0156 when a refill is due and when it's ready. Ready prescriptions are held for 10 days.\n\nPharmacy hours: Mon - Fri 9 AM - 9 PM, Sat 9 AM - 6 PM, Sun 11 AM - 5 PM\n\nKroger Pharmacy",
+   "unread": false
+  },
+  {
+   "id": "e8",
+   "from": "Campus Book Exchange <orders@campusbookexchange.com>",
+   "to": "me",
+   "date": "2026-08-26T12:10",
+   "subject": "Refund processed - order CBX-55190",
+   "body": "Your return of Labor Economics, 8th ed. (rental) has been processed.\n\nRefund amount: $38.60\nRefunded to: Visa ending 7719\n\nRentals still on your account (due back Dec 11, 2026):\n- Systems Analysis and Design, 11th ed.\n- Database Concepts, 10th ed.\n\nCampus Book Exchange, 33 Decatur St SE, Atlanta",
+   "unread": false
+  },
+  {
+   "id": "e9",
+   "from": "Kroger Delivery <delivery@email.kroger.com>",
+   "to": "me",
+   "date": "2026-09-14T10:15",
+   "subject": "Refund for unavailable items - order 2209-6631-58",
+   "body": "Hi Devon,\n\nSorry, 2 items from your delivery on Sunday, Sep 13 were unavailable at the store:\n\nKroger 2% Reduced Fat Milk, 1 gal  $3.29\nKroger Boneless Skinless Chicken Thighs, 1.84 lb  $6.47\n\nA refund of $9.76 has been issued to your Visa ending 7719. Please allow 3-5 business days for it to show up.\n\nKroger Delivery",
+   "unread": false
+  },
+  {
+   "id": "e10",
+   "from": "The Eastline <tickets@theeastline.com>",
+   "to": "me",
+   "date": "2026-09-15T20:04",
+   "subject": "Your tickets: Kofi Banks - Thu, Nov 5",
+   "body": "Order #EL-882014\n\nKofi Banks: The Long Way Home Tour\nThe Eastline, 486 Decatur St SE, Atlanta\nThursday, November 5, 2026  Doors 7:00 PM  Show 8:00 PM\n\nGeneral Admission x 2: $76.00\nService fees: $15.30\nFacility charge: $3.70\nTotal: $95.00\nCharged to Visa ending 7719\n\nMobile tickets will appear in your account 48 hours before the show. No re-entry.",
+   "unread": false
+  },
+  {
+   "id": "e11",
+   "from": "Tunebox <receipts@tunebox.com>",
+   "to": "me",
+   "date": "2026-09-21T03:10",
+   "subject": "Your Tunebox Student receipt",
+   "body": "Tunebox Student: $5.99/month\nBilled to Visa ending 7719 on Sep 21, 2026\nNext billing date: Oct 21, 2026\nStudent verification valid through Aug 2027",
+   "unread": false
+  },
+  {
+   "id": "e12",
+   "from": "Andrea Hayes <ahayes@georgiametro.edu>",
+   "to": "me, Destiny Owens, Priya Natarajan",
+   "date": "2026-09-28T09:10",
+   "subject": "Milestone 2 feedback - Team 4 (Grant Park Community Pantry)",
+   "body": "Team 4,\n\nGrade: 88/100\n\nStrengths: a clear requirements document and good interview notes from the pantry staff.\n\nTo fix for Milestone 3:\n- Your ER diagram is missing the relationship between Volunteer and Shift Slot. It's many-to-many and needs a join table.\n- The reminder-text use case needs an alternate flow for volunteers without a cell phone.\n- Describe the pantry's current paper sign-up sheet in the as-is section.\n\nMilestone 3 (prototype + test plan) is due Friday 10/23 at 11:59 PM.\n\nDr. Hayes",
+   "unread": false
+  },
+  {
+   "id": "e13",
+   "from": "Tasha Bell <tasha@peachstreetgrill.com>",
+   "to": "Peach Street Grill Staff",
+   "date": "2026-09-28T11:40",
+   "subject": "Food handler cards - due 10/31",
+   "body": "Hey team,\n\nOur inspection window is coming up, so everybody needs a current food handler card on file by Saturday, October 31. If yours expired or expires before then (Devon, Brianna, Jaime, Kenny, you're on the list), take the online course at foodsafegeorgia.com. It's $12.95 and takes about 90 minutes.\n\nEmail me your certificate and the receipt and I'll add the $12.95 back on your next check. Receipts after 10/31 won't be reimbursed.\n\nThanks,\nTasha",
+   "unread": false
+  },
+  {
+   "id": "e14",
+   "from": "Moreland Auto Care <service@morelandautocare.com>",
+   "to": "me",
+   "date": "2026-09-29T15:45",
+   "subject": "Invoice #MA-20488 - 2013 Honda Civic",
+   "body": "Customer: Devon Carter\nVehicle: 2013 Honda Civic LX\nMileage in: 95,931  Mileage out: 95,936\nDropped off: Mon 9/28  Picked up: Tue 9/29\n\nFront brake pads, ceramic: $64.99\nFront rotors, 2 x $54.50: $109.00\nLabor, 1.2 hrs x $95.00: $114.00\nShop supplies: $8.50\nTax (parts): $15.49\n\nTotal: $311.98\nPaid: Visa ending 7719\n\nTechnician notes: Front pads at 2 mm, rotors scored. Rear pads approx. 30%, recheck in spring. Tire rotation due, no charge with next oil change. Next oil change due at 98,400 miles.\n\nThanks for choosing Moreland Auto Care\n1120 Moreland Ave SE, Atlanta  (404) 555-0188",
+   "unread": false
+  },
+  {
+   "id": "e15",
+   "from": "GMU Student Health Center <studenthealth@georgiametro.edu>",
+   "to": "me",
+   "date": "2026-09-30T13:20",
+   "subject": "Visit summary - September 30, 2026",
+   "body": "Patient: Devon Carter  DOB: 03/03/2005\nVisit: Nurse visit, immunization\nProvider: Kimberly Shaw, RN\n\nInfluenza vaccine 0.5 mL, left deltoid. Lot FL6621.\nCharge: $0 (covered by student health fee)\n\nCommon side effects: sore arm and mild tiredness for 1-2 days.\n\nMedications on file: fluticasone propionate 50 mcg nasal spray, daily; albuterol HFA inhaler, as needed.\n\nGeorgia Metro University Student Health Center\n(404) 555-0230",
+   "unread": false
+  },
+  {
+   "id": "e16",
+   "from": "Glenwood Commons Leasing Office <leasing@glenwoodcommonsatl.com>",
+   "to": "me",
+   "date": "2026-10-01T08:16",
+   "subject": "Payment received - Unit 3B",
+   "body": "Hi Devon,\n\nWe received your payment of $725.00 on 10/01/2026 for Glenwood Commons, Unit 3B.\n\nPayment method: ACH, checking ending 3381\nConfirmation: GC-1001-55827\n\nRemaining unit balance for October: $725.00\n\nRent is due on the 1st. A $75 late fee applies to any unit balance after 11:59 PM on the 5th.\n\nGlenwood Commons Leasing Office\n950 Glenwood Ave SE, Atlanta",
+   "unread": false
+  },
+  {
+   "id": "e17",
+   "from": "Fulton Community CU Alerts <alerts@fultoncommunitycu.org>",
+   "to": "me",
+   "date": "2026-10-01T08:20",
+   "subject": "Low balance alert - Checking ending 3381",
+   "body": "Your available balance in Checking ending 3381 is $121.33 as of 10/01/2026 8:18 AM, below your alert setting of $150.00.\n\nTo change your alerts, log in to online banking.\n\nFulton Community Credit Union",
+   "unread": false
+  },
+  {
+   "id": "e18",
+   "from": "GMU Office of Financial Aid <finaid@georgiametro.edu>",
+   "to": "me",
+   "date": "2026-10-01T09:00",
+   "subject": "The 2027-28 FAFSA is open",
+   "body": "Dear Devon,\n\nThe 2027-28 FAFSA opened today. Even if you plan to graduate in May 2027, file it if you might enroll in summer 2027 or start graduate school next fall.\n\nSpring 2027: Your Federal Pell Grant and Georgia Metro First-Generation Scholarship are expected to disburse on January 8, 2027, as long as you are enrolled in at least 12 credit hours at the end of drop/add.\n\nFall 2026 refund: $1,214.00, disbursed 08/28/2026 to account ending 3381.\n\nQuestions? Visit the Student Services Center, Room 120, or call (404) 555-0240.\n\nOffice of Financial Aid\nGeorgia Metro University",
+   "unread": false
+  },
+  {
+   "id": "e19",
+   "from": "Renee Patterson <rpatterson@georgiametro.edu>",
+   "to": "me",
+   "date": "2026-10-01T14:12",
+   "subject": "First-Gen Scholars check-in - Tue 10/13 at 2:30",
+   "body": "Hi Devon,\n\nIt's time for your fall check-in. I have you down for Tuesday, October 13 at 2:30 PM in the Student Success Center, Room 210. We'll go over:\n\n- Your Spring 2027 course plan (please bring your degree audit)\n- Your graduation application (due November 15 for May graduates)\n- Your job and grad school plans\n\nA reminder that seniors who attend three program workshops this year receive the $500 completion grant. You've been to two (resume workshop 9/9 and financial wellness 9/23). The next one is Interview Skills on Wednesday, October 21 at 1:00 in Room 105.\n\nIf 10/13 doesn't work, reply with a couple of times and I'll move you.\n\nRenee Patterson\nFirst-Gen Scholars Program Coordinator",
+   "unread": false
+  },
+  {
+   "id": "e20",
+   "from": "Andrea Hayes <ahayes@georgiametro.edu>",
+   "to": "BLAW 3100 Section 002 <blaw3100-002@lists.georgiametro.edu>",
+   "date": "2026-10-01T16:05",
+   "subject": "BLAW 3100: what you can use on the midterm",
+   "body": "Hello everyone,\n\nA few of you asked after class about the midterm. It is open-book, but only a physical copy of the required text (Business Law Today, 13th ed.) is allowed. No laptops and no printouts.\n\nDr. Hayes",
+   "unread": false
+  },
+  {
+   "id": "e21",
+   "from": "me",
+   "to": "Renee Patterson <rpatterson@georgiametro.edu>",
+   "date": "2026-10-01T20:05",
+   "subject": "Re: First-Gen Scholars check-in - Tue 10/13 at 2:30",
+   "body": "Hi Ms. Patterson,\n\n10/13 at 2:30 works. I'll bring my degree audit. Can you also sign me up for the Interview Skills workshop on 10/21? I'm off until 5 that day.\n\nThanks,\nDevon",
+   "unread": false
+  },
+  {
+   "id": "e22",
+   "from": "Peach Street Grill Payroll <payroll@peachstreetgrill.com>",
+   "to": "me",
+   "date": "2026-10-02T06:02",
+   "subject": "Pay stub - pay date 10/02/2026",
+   "body": "Employee: Devon Carter\nPay period: 09/14/2026 - 09/27/2026\nPay date: 10/02/2026\n\nRegular hours: 27.25 x $4.50 = $122.63\nCredit card tips: $598.20\nGross pay: $720.83\n\nFederal income tax: $41.20\nSocial Security: $44.69\nMedicare: $10.45\nGeorgia income tax: $12.09\nTotal deductions: $108.43\n\nNet pay: $612.40\nDirect deposit: Fulton Community CU, account ending 3381\n\nYTD gross: $13,118.47\n\nQuestions about your check? Email payroll@peachstreetgrill.com or talk to Tasha.",
+   "unread": false
+  },
+  {
+   "id": "e23",
+   "from": "Edgewood Dental Studio <frontdesk@edgewooddentalstudio.com>",
+   "to": "me",
+   "date": "2026-10-02T11:05",
+   "subject": "Your appointment has been rescheduled",
+   "body": "Hi Devon,\n\nYour appointment has been changed.\n\nPrevious: Wednesday, October 14, 1:00 PM\nNew: Tuesday, October 20, 3:00 PM\nWith: Dr. Nadia Fofanah and hygienist Carla\nVisit: cleaning, exam, bitewing X-rays\n\nInsurance on file: Pinebrook Dental (subscriber Angela Carter). Estimated patient portion: $0. X-rays are covered once every 12 months; your last set was 9/2025.\n\nPlease arrive 10 minutes early. Cancellations with less than 24 hours notice are charged $40.\n\nEdgewood Dental Studio\n1365 Moreland Ave SE, Atlanta\n(404) 555-0199",
+   "unread": false
+  },
+  {
+   "id": "e24",
+   "from": "Peach Street Grill via ShiftPlanner <no-reply@shiftplanner.app>",
+   "to": "me",
+   "date": "2026-10-02T15:10",
+   "subject": "Your schedule for Oct 5 - Oct 11 is posted",
+   "body": "Hi Devon,\n\nYour schedule at Peach Street Grill for the week of Oct 5 - Oct 11 has been published.\n\nMon 10/5   5:00 PM - 10:00 PM   Server\nWed 10/7   5:00 PM - 10:00 PM   Server\nFri 10/9   5:00 PM - 11:00 PM   Server\nSat 10/10  9:00 AM - 3:00 PM    Server (Brunch)\n\nScheduled hours: 22.0\n\nTo request a swap or time off, open the ShiftPlanner app. Swaps need manager approval.\n\nShiftPlanner",
+   "unread": false
+  },
+  {
+   "id": "e25",
+   "from": "Peachnet Fiber <billing@peachnetfiber.com>",
+   "to": "me",
+   "date": "2026-10-03T07:00",
+   "subject": "Your Peachnet Fiber bill is ready",
+   "body": "Account: 7720-3341\nService address: 950 Glenwood Ave SE, Unit 3B, Atlanta\n\nBilling period: Oct 10 - Nov 9\nFiber 300 Mbps: $65.00\nTaxes and fees: included\n\nAmount due: $65.00\nAutopay is scheduled for Oct 10 from checking ending 3381. No action needed.\n\nPeachnet Fiber",
+   "unread": false
+  },
+  {
+   "id": "e26",
+   "from": "Fulton Community CU <statements@fultoncommunitycu.org>",
+   "to": "me",
+   "date": "2026-10-03T07:30",
+   "subject": "Your September statements are ready",
+   "body": "Hi Devon,\n\nYour statements are ready in online banking.\n\nChecking ending 3381, 09/01 - 09/30: ending balance $846.33\nVisa ending 7719, closing date 09/30: new balance $486.20, minimum payment $25.00, due 10/25/2026\n\nFulton Community Credit Union",
+   "unread": false
+  },
+  {
+   "id": "e27",
+   "from": "Midtown Mercy Hospital Onboarding <onboarding@midtownmercy.org>",
+   "to": "me",
+   "date": "2026-10-03T10:40",
+   "subject": "Onboarding item needed: TB skin test",
+   "body": "Hi Devon,\n\nWelcome to the IT Service Desk internship at Midtown Mercy Hospital. We're putting your onboarding file together and need one more item from you.\n\nPlease submit a negative TB skin test before your start date. The skin test takes two visits: after it is placed, you have to go back 48-72 hours later to have it read.\n\nReply to this email if you have any questions.\n\nThank you,\nTalent Acquisition\nMidtown Mercy Hospital",
+   "unread": false
+  },
+  {
+   "id": "e28",
+   "from": "Kroger <receipts@email.kroger.com>",
+   "to": "me",
+   "date": "2026-10-03T13:25",
+   "subject": "Your Kroger receipt - Oct 3, 2026",
+   "body": "Kroger #0347, 800 Glenwood Ave SE, Atlanta\nOct 3, 2026 1:21 PM\n\nKroger chicken thighs family pack  $8.47\nJasmine rice 5 lb  $6.99\nKroger large eggs 18 ct  $4.29\nKroger 2% milk 1 gal  $3.29\nBananas 2.31 lb @ $0.59  $1.36\nKroger frozen broccoli 2 @ $1.25  $2.50\nKroger white bread  $1.99\nPeanut butter 16 oz  $2.79\nGround turkey 1 lb  $5.49\nShredded cheddar  $2.50\nHoney nut cereal  $3.99\nPenne 2 @ $1.29  $2.58\nMarinara 24 oz  $2.29\nKroger paper towels 6 roll  $7.99\nDish soap  $3.49\nGatorade 8 pk  $5.99\n\nSubtotal: $66.00\nKroger Plus savings: -$4.85\nTax: $3.02\nTotal: $64.17\nVisa ending 7719\n\nFuel points earned this trip: 64\nTotal savings this year: $118.42",
+   "unread": false
+  },
+  {
+   "id": "e29",
+   "from": "Luis Ortega <luis@peachstreetgrill.com>",
+   "to": "Peach Street Grill Staff",
+   "date": "2026-10-04T21:30",
+   "subject": "Mandatory staff meeting Mon 10/12, 3:00 + fall menu tasting",
+   "body": "All FOH and BOH,\n\nStaff meeting Monday 10/12 at 3:00 in the dining room. Chef Omar will walk through the fall menu (starts Thursday 10/15) and we'll taste everything, so come hungry. You'll be paid for the hour.\n\nIf you're on the schedule that night, stay through for your shift. If you can't make it, tell me or Tasha by Friday.\n\nAlso, Halloween is a Saturday this year. Costumes are fine for servers who want to, nothing that covers your face.\n\nLuis",
+   "unread": false
+  },
+  {
+   "id": "e30",
+   "from": "Southern Shield Auto Insurance <billing@southernshieldins.com>",
+   "to": "me",
+   "date": "2026-10-05T08:00",
+   "subject": "Upcoming payment: $118.40 on Oct 12",
+   "body": "Policy: SS-GA-4471902\nVehicle: 2013 Honda Civic LX\n\nYour automatic payment of $118.40 will be drafted from checking ending 3381 on October 12, 2026.\n\nYour renewal term, 10/12/2026 - 04/12/2027, begins on 10/12. Your monthly payment changes from $118.40 to $124.10 starting with the November 12 draft. Renewal documents and new ID cards are in your account.\n\nSouthern Shield Auto Insurance",
+   "unread": true
+  },
+  {
+   "id": "e31",
+   "from": "GMU Career Services <careers@georgiametro.edu>",
+   "to": "me",
+   "date": "2026-10-05T10:30",
+   "subject": "Fall Career & Internship Fair - Wed, Oct 14",
+   "body": "Fall Career & Internship Fair\nWednesday, October 14, 12:00 - 4:00 PM\nStudent Center Ballroom, 3rd floor\n\n86 employers are registered, including Southline Logistics, Halcyon Health, Northgate Bank, City of Atlanta, Brightwave Wireless and Delmar Consulting.\n\n- Business casual\n- Bring 10-15 copies of your resume (free printing at the Career Services desk, Room 145, through Oct 13)\n- Check in with your student ID at the door\n\nDrop-in resume reviews: Mon - Thu, 10:00 - 3:00, Room 145.\n\nGMU Career Services",
+   "unread": false
+  },
+  {
+   "id": "e32",
+   "from": "Glenwood Commons Leasing Office <leasing@glenwoodcommonsatl.com>",
+   "to": "me",
+   "date": "2026-10-05T14:30",
+   "subject": "Schedule your November rent - Unit 3B",
+   "body": "Hi Devon,\n\nYour November rent of $725.00 for Glenwood Commons, Unit 3B is due on November 1. A late fee applies after the 5th.\n\nYou can schedule your payment ahead of time in the resident portal.\n\nGlenwood Commons Leasing Office\n950 Glenwood Ave SE, Atlanta",
+   "unread": false
+  },
+  {
+   "id": "e33",
+   "from": "Andrea Hayes <ahayes@georgiametro.edu>",
+   "to": "BLAW 3100 Section 002 <blaw3100-002@lists.georgiametro.edu>",
+   "date": "2026-10-05T16:40",
+   "subject": "BLAW 3100: midterm moved to Tuesday 10/20",
+   "body": "Hello everyone,\n\nI'll be at the AIS Southeast conference in Charlotte Monday and Tuesday next week, so the midterm is moving from Tuesday 10/13 to Tuesday 10/20, same time (11:00 in Calloway 220). You'll have the full 75 minutes.\n\nTuesday 10/13 class will still meet. Kevin Liang, our TA, will run a review session and go over the practice exam, which is posted on the course page now.\n\nThe exam covers Chapters 1-7.\n\nMy Tuesday office hours on 10/13 are cancelled. Thursday 10/15 office hours (2:15-3:30, Calloway 512) are on as usual.\n\nDr. Hayes",
+   "unread": false
+  },
+  {
+   "id": "e34",
+   "from": "Peach Street Grill via ShiftPlanner <no-reply@shiftplanner.app>",
+   "to": "me",
+   "date": "2026-10-06T07:30",
+   "subject": "Your schedule for Oct 12 - Oct 18 is posted",
+   "body": "Hi Devon,\n\nYour schedule at Peach Street Grill for the week of Oct 12 - Oct 18 has been published.\n\nMon 10/12  3:00 PM - 4:00 PM    Staff meeting\nMon 10/12  4:00 PM - 9:00 PM    Server\nTue 10/13  4:00 PM - 9:00 PM    Server\nThu 10/15  7:00 AM - 1:00 PM    Server (Open)\nFri 10/16  5:00 PM - 11:00 PM   Server\nSat 10/17  9:00 AM - 3:00 PM    Server (Brunch)\n\nScheduled hours: 29.0\n\nPending requests:\nTime off Sat 10/24: pending (coverage needed)\n\nShiftPlanner",
+   "unread": false
+  },
+  {
+   "id": "e35",
+   "from": "Glenwood Commons Leasing Office <leasing@glenwoodcommonsatl.com>",
+   "to": "Building 3 Residents",
+   "date": "2026-10-06T10:00",
+   "subject": "Quarterly pest control - Tuesday, October 13",
+   "body": "Residents of Building 3,\n\nGreenleaf Pest Solutions will treat all units in Building 3 on Tuesday, October 13, between 9:00 AM and 1:00 PM. You do not need to be home.\n\nTo prepare:\n- Clear items from under kitchen and bathroom sinks\n- Pull small appliances away from the walls if you can\n- Keep pets in a closed room or crate\n\nIf you have a pet that can't be contained or a concern about entry, reply to this email or call the office at (404) 555-0115 by Monday.\n\nThank you,\nGlenwood Commons Leasing Office",
+   "unread": false
+  },
+  {
+   "id": "e36",
+   "from": "me",
+   "to": "Andrea Hayes <ahayes@georgiametro.edu>",
+   "date": "2026-10-06T14:35",
+   "subject": "Recommendation letter request - Halcyon Health IT Analyst program",
+   "body": "Hi Dr. Hayes,\n\nI'm applying to the Halcyon Health IT Analyst Development Program, and the application is due Friday, October 30. It asks for one faculty recommendation. I took CIS 3300 with you last spring and I'm in your Business Law and capstone sections now, so I was hoping you'd be willing to write it.\n\nI can send my resume, the program description, and anything else that would help. If this month is too busy for you, I understand.\n\nThank you,\nDevon Carter\nStudent ID 002714836",
+   "unread": false
+  },
+  {
+   "id": "e37",
+   "from": "Andrea Hayes <ahayes@georgiametro.edu>",
+   "to": "me",
+   "date": "2026-10-06T19:22",
+   "subject": "Re: Recommendation letter request - Halcyon Health IT Analyst program",
+   "body": "Devon,\n\nI'd be glad to. Please send me the following by Friday, October 16 so I have time with it:\n\n1. Your current resume\n2. The program description (a link is fine)\n3. An unofficial transcript\n4. A short paragraph on your role in the capstone project with Grant Park Community Pantry, and one on how you've managed working at the restaurant while taking a full load\n\nOnce you submit your part of the application, forward me the portal invitation so I can upload the letter. I'll aim to have it in by the 26th.\n\nBest,\nDr. Hayes",
+   "unread": false
+  },
+  {
+   "id": "e38",
+   "from": "Keisha Carter <keishacarter00@gmail.com>",
+   "to": "me",
+   "date": "2026-10-06T20:40",
+   "subject": "Fwd: Your Shelfline order #SL-3305718",
+   "body": "This is the one for Mama. $140.15 with tax so $70 from you. It's coming to my house Thursday.\n\n---------- Forwarded message ----------\nFrom: Shelfline <orders@shelfline.com>\nDate: Tue, Oct 6, 2026\nSubject: Your Shelfline order #SL-3305718\n\nLumen 7 e-reader, 16 GB, sage: $114.99\nLumen 7 fabric cover, plum: $15.99\nShipping: free\nTax: $9.17\nTotal: $140.15\nPaid with Mastercard ending 2286\n\nShip to: Keisha Carter, Macon, GA\nEstimated delivery: Thursday, Oct 8",
+   "unread": false
+  },
+  {
+   "id": "e39",
+   "from": "Destiny Owens <dowens14@student.georgiametro.edu>",
+   "to": "me, Priya Natarajan",
+   "date": "2026-10-06T22:15",
+   "subject": "Pantry client meeting moved to Fri 10/16 at 1",
+   "body": "Hey guys,\n\nMs. Gloria at Grant Park Community Pantry can't do Thursday anymore, their food bank truck got moved to Thursdays. She can do Friday 10/16 at 1:00 at the pantry.\n\nI told her yes since Devon's free after 12:15 on Fridays and Priya said Fridays work. We need to show her the volunteer sign-up prototype and the shift reminder texts.\n\nDevon, can you bring your laptop with the demo? I'll print the feedback form. Priya's driving and can pick us up at the Calloway lot at 12:30.\n\nMilestone 3 is due to Dr. Hayes 10/23, so we need her feedback before then.\n\nDestiny",
+   "unread": false
+  },
+  {
+   "id": "e40",
+   "from": "Kroger <weeklyad@email.kroger.com>",
+   "to": "me",
+   "date": "2026-10-07T06:15",
+   "subject": "Your Weekly Ad: chicken thighs $1.49/lb + 4x fuel points this weekend",
+   "body": "Hi Devon,\n\nThis week at your store, Kroger #0347 (800 Glenwood Ave SE), Oct 7 - Oct 13:\n\n- Kroger chicken thighs, family pack: $1.49/lb with card\n- Kroger large eggs, 18 ct: $2.99 with digital coupon (loaded to your card)\n- Lay's chips: buy 2, get 1 free\n- Gatorade 8-pack: $5.49\n- 4x fuel points on gift cards, Fri - Sun\n\nYou have 412 fuel points. Points earned in September expire October 31.\n\nYou have 1 prescription ready for pickup at the pharmacy.\n\nSee all your digital coupons in the Kroger app.",
+   "unread": true
+  },
+  {
+   "id": "e41",
+   "from": "Kendra Lowe <klowe@delmarconsulting.com>",
+   "to": "me",
+   "date": "2026-10-07T10:42",
+   "subject": "Interview invitation - Business Analyst Intern",
+   "body": "Hi Devon,\n\nThanks for applying to the Business Analyst Internship at Delmar Consulting. We'd like to bring you in for a 45-minute in-person interview next week, October 12-16.\n\nPlease reply with a time that works for you that week.\n\nBest,\nKendra Lowe\nCampus Recruiter, Delmar Consulting\n(404) 555-0216",
+   "unread": false
+  },
+  {
+   "id": "e42",
+   "from": "Jordan Pierce <jpierce@southlinelogistics.com>",
+   "to": "me",
+   "date": "2026-10-07T16:20",
+   "subject": "Phone screen - IT Operations Analyst I",
+   "body": "Hi Devon,\n\nThanks for applying for the IT Operations Analyst I role at Southline Logistics. I'd like to set up a 30-minute phone screen. I have these times open:\n\n- Monday, October 19, 1:30 PM\n- Tuesday, October 20, 4:30 PM\n- Thursday, October 22, 10:00 AM\n\nPlease reply with the time that works best and the best number to reach you. I'll also be at the GMU career fair on 10/14 if you want to stop by our table.\n\nBest,\nJordan Pierce\nCampus Recruiter, Southline Logistics\n(678) 555-0193",
+   "unread": true
+  }
+ ],
+ "texts": [
+  {
+   "id": "t1",
+   "with": "Kroger",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Kroger",
+     "date": "2026-09-13T11:02",
+     "body": "Kroger: Your delivery order is on the way. Driver: Andre. Arriving 11:20-11:40 AM."
+    },
+    {
+     "from": "Kroger",
+     "date": "2026-09-13T11:34",
+     "body": "Kroger: Your order was delivered. 2 items were unavailable and will be refunded to your card."
+    }
+   ]
+  },
+  {
+   "id": "t2",
+   "with": "Fulton Community CU",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Fulton Community CU",
+     "date": "2026-09-18T06:01",
+     "body": "FCCU: Direct deposit of $548.92 posted to Checking x3381."
+    },
+    {
+     "from": "Fulton Community CU",
+     "date": "2026-10-01T08:18",
+     "body": "FCCU: Checking x3381 available balance $121.33 is below your $150.00 alert."
+    },
+    {
+     "from": "Fulton Community CU",
+     "date": "2026-10-02T06:01",
+     "body": "FCCU: Direct deposit of $612.40 posted to Checking x3381."
+    }
+   ]
+  },
+  {
+   "id": "t3",
+   "with": "Kroger Pharmacy #0347",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Kroger Pharmacy #0347",
+     "date": "2026-09-22T10:02",
+     "body": "Kroger Pharmacy: Rx 6608139 for DEVON is ready for pickup at Kroger #0347, 800 Glenwood Ave SE. Hours M-F 9a-9p, Sat 9a-6p, Sun 11a-5p. Reply STOP to opt out."
+    },
+    {
+     "from": "Kroger Pharmacy #0347",
+     "date": "2026-10-06T09:40",
+     "body": "Kroger Pharmacy: Rx 6608142 for DEVON is ready for pickup at Kroger #0347. Please pick up within 10 days or it will be returned to stock."
+    }
+   ]
+  },
+  {
+   "id": "t4",
+   "with": "Tasha Bell",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Tasha Bell",
+     "date": "2026-09-25T17:02",
+     "body": "Approved your Fri 10/23 off. Sat 10/24 is a home game day and we're short, so find coverage for that one and I'll approve it."
+    },
+    {
+     "from": "me",
+     "date": "2026-09-25T17:30",
+     "body": "Ok I'll ask around. Thank you"
+    },
+    {
+     "from": "Tasha Bell",
+     "date": "2026-10-01T14:05",
+     "body": "Hey Devon, can you come in at 4 instead of 5 tomorrow? We have a 20-top at 5:30, rehearsal dinner."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-01T14:20",
+     "body": "Yes I can do 4"
+    },
+    {
+     "from": "Tasha Bell",
+     "date": "2026-10-01T14:21",
+     "body": "Thank you! You and Marcus will have the private room."
+    }
+   ]
+  },
+  {
+   "id": "t5",
+   "with": "Grandma Ruth",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Grandma Ruth",
+     "date": "2026-09-27T16:20",
+     "body": "Devon this is Grandma. Are you eating. Your mother says you work too much"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-27T16:40",
+     "body": "Hi Grandma! I'm eating I promise. Made rice and chicken today"
+    },
+    {
+     "from": "Grandma Ruth",
+     "date": "2026-09-27T16:45",
+     "body": "Good. Bring me some of that hot sauce from your restaurant when you come"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-27T16:46",
+     "body": "Yes ma'am, 2 bottles"
+    }
+   ]
+  },
+  {
+   "id": "t6",
+   "with": "Moreland Auto Care",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Moreland Auto Care",
+     "date": "2026-09-28T12:58",
+     "body": "Moreland Auto Care: Hi Devon, your Civic is checked in. We'll text an estimate by 4."
+    },
+    {
+     "from": "Moreland Auto Care",
+     "date": "2026-09-28T15:35",
+     "body": "Front pads are down to 2mm and rotors are scored. Pads + rotors $311.98 out the door. Rear brakes OK for now. OK to proceed? Reply YES."
+    },
+    {
+     "from": "me",
+     "date": "2026-09-28T15:41",
+     "body": "YES. Can I get it tomorrow after 2:30? I have class till 2"
+    },
+    {
+     "from": "Moreland Auto Care",
+     "date": "2026-09-28T15:44",
+     "body": "Yes, it'll be ready by noon tomorrow. We close at 6."
+    },
+    {
+     "from": "Moreland Auto Care",
+     "date": "2026-09-29T11:50",
+     "body": "Moreland Auto Care: Your 2013 Honda Civic is ready for pickup."
+    }
+   ]
+  },
+  {
+   "id": "t7",
+   "with": "Mom",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Mom",
+     "date": "2026-09-29T15:58",
+     "body": "Sent you $100 on Zelle for the brakes. Don't argue with me"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-29T16:10",
+     "body": "Mama you didn't have to. Thank you. I'll pay you back"
+    },
+    {
+     "from": "Mom",
+     "date": "2026-09-29T16:12",
+     "body": "You will not. Did you get your flu shot yet"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-29T16:13",
+     "body": "Tomorrow at student health after class"
+    },
+    {
+     "from": "Mom",
+     "date": "2026-10-05T19:35",
+     "body": "Got the $35 for the phone, thank you baby"
+    }
+   ]
+  },
+  {
+   "id": "t8",
+   "with": "Edgewood Dental Studio",
+   "unread": false,
+   "messages": [
+    {
+     "from": "me",
+     "date": "2026-10-01T16:10",
+     "body": "Hi, this is Devon Carter. I have a cleaning Wed 10/14 at 1:00 but there's a career fair that day. Do you have anything the next week on Tue or Thu after 2:30?"
+    },
+    {
+     "from": "Edgewood Dental Studio",
+     "date": "2026-10-02T10:58",
+     "body": "Hi Devon, this is Marisol at Edgewood Dental. We have Tue 10/20 at 3:00 or Thu 10/22 at 2:45. Which works?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T11:02",
+     "body": "Tue 10/20 at 3 please"
+    },
+    {
+     "from": "Edgewood Dental Studio",
+     "date": "2026-10-02T11:04",
+     "body": "You're all set for Tue 10/20 at 3:00 PM with Carla. Confirmation email on the way."
+    }
+   ]
+  },
+  {
+   "id": "t9",
+   "with": "Simone Harris",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Simone Harris",
+     "date": "2026-10-02T11:40",
+     "body": "Hey! Jaylen's bday dinner is moving to SATURDAY 10/17, around 8, since you and Marcus work Friday."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T12:30",
+     "body": "Perfect, I'm off at 3 Saturday"
+    },
+    {
+     "from": "Simone Harris",
+     "date": "2026-10-02T12:31",
+     "body": "We're splitting his food between us, should be like $8-10 each. Venmo me after"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T12:33",
+     "body": "Bet. Does he know?"
+    },
+    {
+     "from": "Simone Harris",
+     "date": "2026-10-02T12:34",
+     "body": "He knows about dinner, not the cake. Don't say anything"
+    }
+   ]
+  },
+  {
+   "id": "t10",
+   "with": "ShiftPlanner",
+   "unread": false,
+   "messages": [
+    {
+     "from": "ShiftPlanner",
+     "date": "2026-10-02T13:00",
+     "body": "ShiftPlanner: Your shift on Fri 10/2 at Peach Street Grill was updated to 4:00 PM - 11:00 PM."
+    },
+    {
+     "from": "ShiftPlanner",
+     "date": "2026-10-05T15:00",
+     "body": "ShiftPlanner: Reminder, you work today at Peach Street Grill, 5:00 PM - 10:00 PM."
+    },
+    {
+     "from": "ShiftPlanner",
+     "date": "2026-10-07T15:00",
+     "body": "ShiftPlanner: Reminder, you work today at Peach Street Grill, 5:00 PM - 10:00 PM."
+    }
+   ]
+  },
+  {
+   "id": "t11",
+   "with": "Uncle Ray",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Uncle Ray",
+     "date": "2026-10-03T11:15",
+     "body": "Nephew. Got the new phone. When you come down for your mama's birthday can you move my pictures over? Keisha said you're good with that"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-03T11:40",
+     "body": "Yes sir. Don't reset the old one before I get there"
+    },
+    {
+     "from": "Uncle Ray",
+     "date": "2026-10-03T11:42",
+     "body": "Alright. And don't stress the $200 this month with the trip and all. Send it when you can"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-03T11:45",
+     "body": "Thank you Unc. I'll send it the 16th"
+    }
+   ]
+  },
+  {
+   "id": "t12",
+   "with": "Brianna Hollis",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Brianna Hollis",
+     "date": "2026-10-03T22:40",
+     "body": "any chance you can cover my sunday brunch 10/11? my sister's baby shower got moved"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-04T09:15",
+     "body": "Sorry B I can't, midterm on the 13th and Sunday is my study day. Try Marcus, he said he wanted hours"
+    },
+    {
+     "from": "Brianna Hollis",
+     "date": "2026-10-04T09:20",
+     "body": "ok ty, I'll post in the group"
+    }
+   ]
+  },
+  {
+   "id": "t13",
+   "with": "Jaylen Brooks",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Jaylen Brooks",
+     "date": "2026-10-04T12:30",
+     "body": "you working today?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-04T12:44",
+     "body": "nah I'm off Sundays. why"
+    },
+    {
+     "from": "Jaylen Brooks",
+     "date": "2026-10-04T12:45",
+     "body": "hoops at Candler at 3?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-04T12:47",
+     "body": "bet. bringing my inhaler this time lol"
+    },
+    {
+     "from": "Jaylen Brooks",
+     "date": "2026-10-05T22:10",
+     "body": "what I owe you for the Kofi Banks tix again"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T22:20",
+     "body": "$47.50"
+    },
+    {
+     "from": "Jaylen Brooks",
+     "date": "2026-10-05T22:24",
+     "body": "I got you the 15th when I get paid"
+    }
+   ]
+  },
+  {
+   "id": "t14",
+   "with": "Glenwood Commons Leasing Office",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Glenwood Commons Leasing Office",
+     "date": "2026-10-05T09:12",
+     "body": "Glenwood Commons: Work order #44120 (kitchen sink drip) is scheduled for Fri 10/9 between 8 AM and 12 PM. A technician will enter if no one is home."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T09:30",
+     "body": "Thanks. There's a cat in the back bedroom, please keep that door closed"
+    },
+    {
+     "from": "Glenwood Commons Leasing Office",
+     "date": "2026-10-05T09:41",
+     "body": "Noted on the work order. Thank you!"
+    }
+   ]
+  },
+  {
+   "id": "t15",
+   "with": "Kiara Brooks",
+   "unread": true,
+   "messages": [
+    {
+     "from": "Kiara Brooks",
+     "date": "2026-10-06T12:18",
+     "body": "I'm driving up from Macon after work, can't get there before like 8:30, can we do 9?"
+    }
+   ]
+  },
+  {
+   "id": "t16",
+   "with": "Marcus Reed",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Marcus Reed",
+     "date": "2026-10-06T14:20",
+     "body": "hey can you close for me Wed 10/14 from 3:30? I'll take your Thursday 10/15 opening in exchange"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T14:27",
+     "body": "bet, I got your Wednesday close, you got my Thursday open"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T13:05",
+     "body": "Yo you still need off Thursday the 22nd? I need somebody for Sat 10/24 brunch, I'll be in Macon for my mom's 50th"
+    },
+    {
+     "from": "Marcus Reed",
+     "date": "2026-10-07T13:22",
+     "body": "Bet. My cousin's thing is the 22nd at 7. You take my Thu 5-10 and I'll take your Sat 9-3?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T13:24",
+     "body": "Deal. Tasha said I gotta find coverage for Sat anyway"
+    },
+    {
+     "from": "Marcus Reed",
+     "date": "2026-10-07T13:30",
+     "body": "Luis gotta approve it in ShiftPlanner tho. The 10/19 week ain't posted yet"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T13:31",
+     "body": "He said it posts Friday. I'll put the swap in as soon as it's up, you accept it"
+    },
+    {
+     "from": "Marcus Reed",
+     "date": "2026-10-07T13:40",
+     "body": "Say less. Also you owe me $12 for the wings Sunday lol"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T13:41",
+     "body": "I got you tonight at work, cash"
+    }
+   ]
+  },
+  {
+   "id": "t17",
+   "with": "Trey Wallace",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Trey Wallace",
+     "date": "2026-10-06T18:20",
+     "body": "power bill came. $96.42, due the 19th. you're $48.21 whenever"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T18:45",
+     "body": "Can I send it the 16th when I get paid?"
+    },
+    {
+     "from": "Trey Wallace",
+     "date": "2026-10-06T18:46",
+     "body": "yeah that's fine"
+    },
+    {
+     "from": "Trey Wallace",
+     "date": "2026-10-06T21:02",
+     "body": "also pest control tuesday 9 to 1. I'll put Biscuit in my room w the door shut, can you clear under the kitchen sink? I open at 7"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T21:10",
+     "body": "Yeah I'll do it Monday night after my shift"
+    },
+    {
+     "from": "Trey Wallace",
+     "date": "2026-10-07T08:15",
+     "body": "we out of trash bags. adding to the kroger list"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T08:20",
+     "body": "Bet. Also you owe me $5.74, half the paper towels + dish soap from Saturday"
+    },
+    {
+     "from": "Trey Wallace",
+     "date": "2026-10-07T08:22",
+     "body": "venmo'd"
+    }
+   ]
+  },
+  {
+   "id": "t18",
+   "with": "Luis Ortega",
+   "unread": false,
+   "messages": [
+    {
+     "from": "me",
+     "date": "2026-10-07T13:25",
+     "body": "Hey Luis, Tasha approved my Fri 10/23 off but said Sat 10/24 needs coverage. Marcus said he can take it. Do we put that in as a swap?"
+    },
+    {
+     "from": "Luis Ortega",
+     "date": "2026-10-07T13:28",
+     "body": "Yeah. The 10/19 schedule posts Fri 10/9. Once it's up you request the swap and Marcus accepts. I'll approve as long as it doesn't put him over 32 hrs."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T13:29",
+     "body": "Ok thank you"
+    }
+   ]
+  },
+  {
+   "id": "t19",
+   "with": "Destiny Owens",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Destiny Owens",
+     "date": "2026-10-07T19:30",
+     "body": "did you push the reminder text code? Priya can't see it on github"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T22:15",
+     "body": "Pushed now. Test number is my phone for now"
+    },
+    {
+     "from": "Destiny Owens",
+     "date": "2026-10-07T22:18",
+     "body": "perfect. don't forget your laptop on the 16th"
+    }
+   ]
+  },
+  {
+   "id": "t20",
+   "with": "Priya Natarajan",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Priya Natarajan",
+     "date": "2026-10-07T21:00",
+     "body": "Hey Devon, for Friday the 16th can I grab you outside Langdale at 12:20 instead of the Calloway lot? Calloway charges me $5 now"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T22:16",
+     "body": "That works, I'm in Langdale 118 till 12:15. I'll be out front"
+    },
+    {
+     "from": "Priya Natarajan",
+     "date": "2026-10-07T22:20",
+     "body": "Cool, I'll tell Destiny to meet us there too"
+    }
+   ]
+  },
+  {
+   "id": "t21",
+   "with": "Keisha Carter",
+   "unread": true,
+   "messages": [
+    {
+     "from": "Keisha Carter",
+     "date": "2026-10-08T07:12",
+     "body": "Call me when you get out of class today. Need your shirt size for the matching shirts Mama doesn't know about"
+    },
+    {
+     "from": "Keisha Carter",
+     "date": "2026-10-08T07:13",
+     "body": "Also is Jaylen coming to the dinner or not? Mama asked about him. I have to give Natalie's a final count by the 20th"
+    }
+   ]
+  }
+ ],
+ "whatsapp": [
+  {
+   "id": "w1",
+   "chat": "Mom",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Mom",
+     "date": "2026-09-21T18:00",
+     "body": "Phone bill went up $4 with the new fees. Still just send $35, I'll cover the rest"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-21T18:15",
+     "body": "You sure? I can do $39"
+    },
+    {
+     "from": "Mom",
+     "date": "2026-09-21T18:16",
+     "body": "I'm sure. You got your car payment to your uncle"
+    },
+    {
+     "from": "Mom",
+     "date": "2026-10-06T08:30",
+     "body": "Grandma's eye doctor moved to Wed the 21st. Keisha's taking her. Just so you know"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T12:30",
+     "body": "Ok tell her I said good luck. Is she still doing the drops?"
+    },
+    {
+     "from": "Mom",
+     "date": "2026-10-06T12:40",
+     "body": "Morning and night. She keeps forgetting the night one so I put a sticky note on the bathroom mirror"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T12:42",
+     "body": "lol that'll work"
+    }
+   ]
+  },
+  {
+   "id": "w2",
+   "chat": "Capstone Team 4",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Priya Natarajan",
+     "date": "2026-09-28T09:40",
+     "body": "88 on milestone 2! Not bad"
+    },
+    {
+     "from": "Destiny Owens",
+     "date": "2026-09-28T09:45",
+     "body": "We need the join table for volunteer/shift slot. Devon that's you right?"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-28T12:30",
+     "body": "Yeah I'll redo the ERD this week. Meet Thursday after capstone? 2:15 library?"
+    },
+    {
+     "from": "Priya Natarajan",
+     "date": "2026-09-28T12:35",
+     "body": "Works"
+    },
+    {
+     "from": "Destiny Owens",
+     "date": "2026-09-28T12:41",
+     "body": "Can't Thursday, I work at 3. Tuesday 2:15?"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-28T12:44",
+     "body": "Tuesday 2:15 then. I'll book a room on the 2nd floor"
+    }
+   ]
+  },
+  {
+   "id": "w3",
+   "chat": "Jaylen Brooks",
+   "unread": false,
+   "messages": [
+    {
+     "from": "me",
+     "date": "2026-10-02T13:10",
+     "body": "Simone said your dinner moved to Saturday. 22 is old bro"
+    },
+    {
+     "from": "Jaylen Brooks",
+     "date": "2026-10-02T13:25",
+     "body": "lol shut up. she said Saturday at 8. you off?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T13:26",
+     "body": "Off at 3. Gotta shower the brunch off first"
+    },
+    {
+     "from": "Jaylen Brooks",
+     "date": "2026-10-02T13:27",
+     "body": "Keisha said your mom's party is the 24th? I'ma try to come, my mom wants to see your mom too. Gotta ask my manager for that Saturday"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T13:30",
+     "body": "Yeah 6pm at Natalie's. Let me know by next week so Keisha can count you"
+    }
+   ]
+  },
+  {
+   "id": "w4",
+   "chat": "PSG Servers",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Brianna Hollis",
+     "date": "2026-10-04T10:05",
+     "body": "Can anybody take my Sun 10/11 brunch 9-3? Baby shower got moved"
+    },
+    {
+     "from": "Kenny",
+     "date": "2026-10-04T10:30",
+     "body": "I'm already on that day"
+    },
+    {
+     "from": "Marcus Reed",
+     "date": "2026-10-04T11:12",
+     "body": "I got you B. Put it in the app"
+    },
+    {
+     "from": "Brianna Hollis",
+     "date": "2026-10-04T11:13",
+     "body": "THANK YOU Marcus"
+    },
+    {
+     "from": "Jaime",
+     "date": "2026-10-06T23:40",
+     "body": "heads up Luis said bar tip-out goes from 1% to 1.5% when the fall menu starts 10/15"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T23:52",
+     "body": "for real? did he say why"
+    },
+    {
+     "from": "Jaime",
+     "date": "2026-10-06T23:55",
+     "body": "new bar back on weekends. he's gonna go over it at the meeting monday"
+    }
+   ]
+  },
+  {
+   "id": "w5",
+   "chat": "Jaylen's 22nd (no Jaylen)",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Simone Harris",
+     "date": "2026-10-04T18:40",
+     "body": "we're doing Jaylen's birthday dinner Saturday Oct 17, keep it cheap, everybody's broke"
+    },
+    {
+     "from": "Simone Harris",
+     "date": "2026-10-05T20:00",
+     "body": "Ok cake ordered from Sugar Loaf Bakery, $42. Split 6 ways = $7 each. Venmo me by Friday the 16th"
+    },
+    {
+     "from": "Marcus Reed",
+     "date": "2026-10-05T20:05",
+     "body": "sent"
+    },
+    {
+     "from": "Trey Wallace",
+     "date": "2026-10-05T20:10",
+     "body": "sent"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T22:35",
+     "body": "I'll send it the 16th when I get paid"
+    },
+    {
+     "from": "Simone Harris",
+     "date": "2026-10-05T22:36",
+     "body": "That's fine. And remember nobody says anything about the cake!"
+    }
+   ]
+  },
+  {
+   "id": "w6",
+   "chat": "Carter Family",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Keisha Carter",
+     "date": "2026-10-04T19:02",
+     "body": "Ok it's official. Mama's 50th dinner Sat 10/24 at 6, Natalie's Soul Kitchen on Riverside. I put the deposit down for 8 people"
+    },
+    {
+     "from": "Mom",
+     "date": "2026-10-04T19:10",
+     "body": "Y'all didn't have to do all that. I just wanted some fish"
+    },
+    {
+     "from": "Keisha Carter",
+     "date": "2026-10-04T19:11",
+     "body": "They have fish Mama"
+    },
+    {
+     "from": "Uncle Ray",
+     "date": "2026-10-04T19:30",
+     "body": "I'll get the cake from Ms. Bea's. Red velvet right?"
+    },
+    {
+     "from": "Mom",
+     "date": "2026-10-04T19:31",
+     "body": "Red velvet. Cream cheese icing, not that whipped stuff"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-04T19:45",
+     "body": "I'm driving down Friday after class. Should be there by 3:30"
+    },
+    {
+     "from": "Mom",
+     "date": "2026-10-04T19:47",
+     "body": "Drive careful and text me when you leave"
+    },
+    {
+     "from": "Keisha Carter",
+     "date": "2026-10-04T19:48",
+     "body": "Devon you're on Elijah duty Saturday morning, his game is at 10"
+    }
+   ]
+  },
+  {
+   "id": "w7",
+   "chat": "Tuesday Hoops",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Andre Mitchell",
+     "date": "2026-10-05T17:00",
+     "body": "Candler courts getting resurfaced this week. Tuesday moved to Wednesday 9pm at Edgewood Rec Center gym, $3 drop in"
+    },
+    {
+     "from": "Jaylen Brooks",
+     "date": "2026-10-05T17:05",
+     "body": "Wed I'm good"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T17:30",
+     "body": "I work till 10 Wed. Next week"
+    },
+    {
+     "from": "Trey Wallace",
+     "date": "2026-10-05T17:31",
+     "body": "same I open at 7 thursday"
+    },
+    {
+     "from": "Andre Mitchell",
+     "date": "2026-10-05T17:40",
+     "body": "Back at Candler next week, Thursday the 15th at 8pm"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T17:42",
+     "body": "Bet I'm there the 15th"
+    }
+   ]
+  },
+  {
+   "id": "w8",
+   "chat": "Keisha Carter",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Keisha Carter",
+     "date": "2026-10-06T20:35",
+     "body": "Ordered it. E-reader plus the cover came to $140.15 with tax. Coming to my house Thursday. Forwarded you the receipt"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T20:50",
+     "body": "Ok so $70 from me. Can I send it the 16th? I get paid that Friday"
+    },
+    {
+     "from": "Keisha Carter",
+     "date": "2026-10-06T20:51",
+     "body": "Yeah that's fine. Don't forget"
+    },
+    {
+     "from": "Keisha Carter",
+     "date": "2026-10-06T20:52",
+     "body": "The $50 deposit at Natalie's comes off the bill so we're good on that"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T20:55",
+     "body": "Who's paying the bill?"
+    },
+    {
+     "from": "Keisha Carter",
+     "date": "2026-10-06T20:58",
+     "body": "Me, you and Uncle Ray split it 3 ways. Everybody else pays for their own drinks. Probably like $90 each"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T21:00",
+     "body": "Ok. That's after the 16th check too so I'm good"
+    }
+   ]
+  }
+ ],
+ "calendar": [
+  {
+   "id": "c1",
+   "title": "Drop Civic at Moreland Auto Care",
+   "start": "2026-09-28T12:45",
+   "end": "2026-09-28T13:15",
+   "location": "Moreland Auto Care, 1120 Moreland Ave SE, Atlanta",
+   "notes": "Brakes squealing. They text an estimate by 4. Pick up Tue after class."
+  },
+  {
+   "id": "c2",
+   "title": "Flu shot - Student Health",
+   "start": "2026-09-30T12:45",
+   "end": "2026-09-30T13:15",
+   "location": "GMU Student Health Center",
+   "notes": "Walk in after COMM. Free with student health fee."
+  },
+  {
+   "id": "c3",
+   "title": "Work - Peach Street Grill",
+   "start": "2026-10-09T17:00",
+   "end": "2026-10-09T23:00",
+   "location": "Peach Street Grill, 418 Edgewood Ave SE, Atlanta",
+   "notes": "Maintenance for the kitchen sink 8-12 same day, cat stays in Trey's room. Check ShiftPlanner for the 10/19 week and put in the swap with Marcus."
+  },
+  {
+   "id": "c4",
+   "title": "Staff meeting - fall menu tasting",
+   "start": "2026-10-12T15:00",
+   "end": "2026-10-12T16:00",
+   "location": "Peach Street Grill, 418 Edgewood Ave SE, Atlanta",
+   "notes": "Paid hour. Clear under the kitchen sink tonight for pest control."
+  },
+  {
+   "id": "c5",
+   "title": "Work shift - Peach Street Grill",
+   "start": "2026-10-12T16:00",
+   "end": "2026-10-12T21:00",
+   "location": "Peach Street Grill, 418 Edgewood Ave SE, Atlanta",
+   "notes": "Server 4-9, right after the staff meeting."
+  },
+  {
+   "id": "c6",
+   "title": "Pest control in unit",
+   "start": "2026-10-13T09:00",
+   "end": "2026-10-13T13:00",
+   "location": "Glenwood Commons, 950 Glenwood Ave SE, Unit 3B",
+   "notes": "Biscuit in Trey's room with the door shut. Under-sink stuff cleared."
+  },
+  {
+   "id": "c7",
+   "title": "First-Gen Scholars check-in - Ms. Patterson",
+   "start": "2026-10-13T14:30",
+   "end": "2026-10-13T15:00",
+   "location": "Student Success Center, Room 210",
+   "notes": "Bring degree audit + spring course plan. Grad application due 11/15."
+  },
+  {
+   "id": "c8",
+   "title": "Work shift - Peach Street Grill",
+   "start": "2026-10-13T16:00",
+   "end": "2026-10-13T21:00",
+   "location": "Peach Street Grill, 418 Edgewood Ave SE, Atlanta",
+   "notes": "Server 4-9."
+  },
+  {
+   "id": "c9",
+   "title": "Career & Internship Fair",
+   "start": "2026-10-14T12:30",
+   "end": "2026-10-14T16:00",
+   "location": "Student Center Ballroom, 3rd floor",
+   "notes": "15 resumes, business casual. Southline table (Jordan Pierce) + Halcyon Health."
+  },
+  {
+   "id": "c10",
+   "title": "Work shift (open) - Peach Street Grill",
+   "start": "2026-10-15T07:00",
+   "end": "2026-10-15T13:00",
+   "location": "Peach Street Grill, 418 Edgewood Ave SE, Atlanta",
+   "notes": "Opening shift 7 am-1 pm."
+  },
+  {
+   "id": "c11",
+   "title": "Prof. Hayes office hours",
+   "start": "2026-10-15T14:15",
+   "end": "2026-10-15T14:45",
+   "location": "Calloway 512",
+   "notes": "Questions on the rec letter packet before it's due Friday. Hoops at Candler 8pm."
+  },
+  {
+   "id": "c12",
+   "title": "Capstone client meeting - Grant Park Community Pantry",
+   "start": "2026-10-16T13:00",
+   "end": "2026-10-16T14:00",
+   "location": "Grant Park Community Pantry",
+   "notes": "Priya picks me up outside Langdale at 12:20. Bring laptop with demo. Payday: Keisha $70, Trey $48.21, Simone $7. Send Prof. Hayes the rec letter packet today. Work 5-11."
+  },
+  {
+   "id": "c13",
+   "title": "Jaylen's birthday dinner",
+   "start": "2026-10-17T20:00",
+   "end": "2026-10-17T22:30",
+   "location": "",
+   "notes": "Venmo Simone my share of Jaylen's food after. Don't mention the cake. Brunch shift 9-3 first."
+  },
+  {
+   "id": "c14",
+   "title": "Southline phone screen (tentative)",
+   "start": "2026-10-19T13:30",
+   "end": "2026-10-19T14:00",
+   "location": "Phone",
+   "notes": "Reply to Jordan Pierce to confirm. Other options Tue 10/20 4:30, Thu 10/22 10:00."
+  },
+  {
+   "id": "c15",
+   "title": "Business Law midterm",
+   "start": "2026-10-20T11:00",
+   "end": "2026-10-20T12:15",
+   "location": "Calloway 220",
+   "notes": "Moved from Tue 10/13."
+  },
+  {
+   "id": "c16",
+   "title": "Dentist - cleaning",
+   "start": "2026-10-20T15:00",
+   "end": "2026-10-20T16:00",
+   "location": "Edgewood Dental Studio, 1365 Moreland Ave SE, Atlanta",
+   "notes": "Moved from Wed 10/14. Pinebrook Dental under Mom. Arrive 2:50. $40 if I cancel under 24 hrs."
+  },
+  {
+   "id": "c17",
+   "title": "Interview Skills workshop (First-Gen Scholars)",
+   "start": "2026-10-21T13:00",
+   "end": "2026-10-21T14:00",
+   "location": "Student Success Center, Room 105",
+   "notes": "3rd workshop = $500 completion grant. Work at 5."
+  },
+  {
+   "id": "c18",
+   "title": "Cover Marcus's shift",
+   "start": "2026-10-22T17:00",
+   "end": "2026-10-22T22:00",
+   "location": "Peach Street Grill, 418 Edgewood Ave SE, Atlanta",
+   "notes": "Swap: Marcus takes my Sat 10/24 brunch. Needs Luis to approve in ShiftPlanner."
+  },
+  {
+   "id": "c19",
+   "title": "Macon - Mom's 50th",
+   "start": "2026-10-23T13:00",
+   "end": "2026-10-25T17:00",
+   "location": "Macon",
+   "notes": "Leave after class around 1, text Mom when I leave. Submit capstone Milestone 3 before I go. Elijah's soccer Sat 10 am. Uncle Ray's phone. 2 bottles hot sauce for Grandma."
+  },
+  {
+   "id": "c20",
+   "title": "Mom's 50th birthday dinner",
+   "start": "2026-10-24T18:00",
+   "end": "2026-10-24T20:30",
+   "location": "Natalie's Soul Kitchen, 2150 Riverside Dr, Macon",
+   "notes": "Party of 8. Bill split 3 ways with Keisha and Uncle Ray, about $90 each. Keisha's $50 deposit comes off. Ray bringing red velvet cake from Ms. Bea's."
+  },
+  {
+   "id": "c21",
+   "title": "Halcyon Health application deadline",
+   "start": "2026-10-30T17:00",
+   "end": "2026-10-30T17:30",
+   "location": "",
+   "notes": "Make sure Prof. Hayes uploaded her letter. Payday: Uncle Ray $200. Food handler card + receipt to Tasha by tomorrow."
+  },
+  {
+   "id": "c22",
+   "title": "Kofi Banks - The Eastline",
+   "start": "2026-11-05T20:00",
+   "end": "2026-11-05T23:00",
+   "location": "The Eastline, 486 Decatur St SE, Atlanta",
+   "notes": "Doors 7. 2 GA tickets, one is Jaylen's, he owes $47.50."
+  }
+ ],
+ "assistant_chats": [
+  {
+   "id": "a1",
+   "date": "2026-09-29T16:30",
+   "turns": [
+    {
+     "role": "user",
+     "text": "The brakes came to $311.98 on my Visa and Mom Zelled me $100. How much is actually on me and when is the Visa due?"
+    },
+    {
+     "role": "assistant",
+     "text": "Your part is $211.98. The Visa statement closes Sep 30, so the brake charge will land on that statement, and your payments have been due on the 25th, so this one is due Oct 25. If you move Mom's $100 to the card now, the other $211.98 can come out of your Oct 16 paycheck before the due date."
+    },
+    {
+     "role": "user",
+     "text": "Ok remind me Oct 16 to pay the Visa."
+    },
+    {
+     "role": "assistant",
+     "text": "Done. I'll remind you Friday, Oct 16 at 9 AM to pay Visa ending 7719, due Oct 25."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "date": "2026-10-01T15:55",
+   "turns": [
+    {
+     "role": "user",
+     "text": "Dentist is Wed 10/14 at 1 but the career fair is 12-4 that day. When could I move it without missing class or work?"
+    },
+    {
+     "role": "assistant",
+     "text": "Your classes are Mon/Wed/Fri 9:00-12:15 and Tue/Thu 11:00-2:00, and you usually work Mon/Wed 5-10, Fri 5-11 and Sat 9-3. The week after the fair, Tue 10/20 or Thu 10/22 between about 2:30 and 5 are open, and so are Mon/Wed/Fri between 1 and 4. Thursday 10/22 might fill up if you end up covering a shift, so Tuesday is the safer pick."
+    },
+    {
+     "role": "user",
+     "text": "Ok I'll ask for Tue or Thu after 2:30"
+    },
+    {
+     "role": "assistant",
+     "text": "Sounds good. Edgewood Dental Studio is (404) 555-0199 and they take texts at that number."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "date": "2026-10-06T13:55",
+   "turns": [
+    {
+     "role": "user",
+     "text": "Help me write an email to Prof. Hayes asking for a rec letter for the Halcyon Health IT Analyst program. Due Oct 30. I had her for CIS 3300 last spring and I'm in her Business Law and capstone now."
+    },
+    {
+     "role": "assistant",
+     "text": "Here's a draft:\n\nSubject: Recommendation letter request - Halcyon Health IT Analyst program\n\nDear Dr. Hayes,\n\nI am writing to ask whether you would be willing to write a letter of recommendation for my application to the Halcyon Health IT Analyst Development Program, which is due October 30. I took CIS 3300 with you in spring 2026 and am currently enrolled in Business Law and Senior Capstone. I would be happy to provide any materials you need.\n\nSincerely,\nDevon Carter"
+    },
+    {
+     "role": "user",
+     "text": "Make it less stiff and add my student ID. And say it's fine if she's too busy"
+    },
+    {
+     "role": "assistant",
+     "text": "Updated:\n\nHi Dr. Hayes,\n\nI'm applying to the Halcyon Health IT Analyst Development Program, and the application is due Friday, October 30. It asks for one faculty recommendation. I took CIS 3300 with you last spring and I'm in your Business Law and capstone sections now, so I was hoping you'd be willing to write it.\n\nI can send my resume, the program description, and anything else that would help. If this month is too busy for you, I understand.\n\nThank you,\nDevon Carter\nStudent ID 002714836"
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "date": "2026-10-07T22:50",
+   "turns": [
+    {
+     "role": "user",
+     "text": "What all am I paying out of the Oct 16 check?"
+    },
+    {
+     "role": "assistant",
+     "text": "Here's what you've said is coming out of the Oct 16 paycheck:\n- Keisha: $70 for Mom's e-reader\n- Trey: $48.21, half the power bill (due Oct 19)\n- Uncle Ray: $200 car payment\n- Simone: $7 for Jaylen's cake, plus about $8-10 for his dinner after the 17th\n- Visa ending 7719: $486.20 statement balance, due Oct 25\n\nWithout the Visa that's $325.21. Your last two checks were $548.92 and $612.40. Mom's $35 for the phone isn't due until Nov 5, and the dinner in Macon on the 24th will be about $90."
+    },
+    {
+     "role": "user",
+     "text": "Ok push Uncle Ray to the Oct 30 check, he said it's fine"
+    },
+    {
+     "role": "assistant",
+     "text": "Got it. Uncle Ray's $200 is moved to Friday, Oct 30. The Oct 16 list is now Keisha $70, Trey $48.21 and Simone $7, plus your share of Jaylen's dinner on the 17th and the Visa payment."
+    }
+   ]
+  }
+ ],
+ "transactions": [
+  {
+   "id": "x1",
+   "date": "2026-01-09T18:28",
+   "account": "Visa ending 7719",
+   "description": "CIRCUIT LANE #212 ATLANTA GA",
+   "amount": -680.61
+  },
+  {
+   "id": "x2",
+   "date": "2026-08-28T07:00",
+   "account": "Checking ending 3381",
+   "description": "GMU FINANCIAL AID REFUND",
+   "amount": 1214.0
+  },
+  {
+   "id": "x3",
+   "date": "2026-09-10T05:00",
+   "account": "Checking ending 3381",
+   "description": "PEACHNET FIBER AUTOPAY",
+   "amount": -65.0
+  },
+  {
+   "id": "x4",
+   "date": "2026-09-12T05:00",
+   "account": "Checking ending 3381",
+   "description": "SOUTHERN SHIELD INS AUTOPAY",
+   "amount": -118.4
+  },
+  {
+   "id": "x5",
+   "date": "2026-09-15T04:00",
+   "account": "Visa ending 7719",
+   "description": "KROGER DELIVERY REFUND",
+   "amount": 9.76
+  },
+  {
+   "id": "x6",
+   "date": "2026-09-15T09:00",
+   "account": "Checking ending 3381",
+   "description": "ZELLE TO RAYMOND LEWIS",
+   "amount": -200.0
+  },
+  {
+   "id": "x7",
+   "date": "2026-09-15T20:02",
+   "account": "Visa ending 7719",
+   "description": "THE EASTLINE TICKETS",
+   "amount": -95.0
+  },
+  {
+   "id": "x8",
+   "date": "2026-09-18T06:00",
+   "account": "Checking ending 3381",
+   "description": "PEACH STREET GRILL LLC DIR DEP PAYROLL",
+   "amount": 548.92
+  },
+  {
+   "id": "x9",
+   "date": "2026-09-21T22:00",
+   "account": "Checking ending 3381",
+   "description": "VENMO PAYMENT",
+   "amount": -44.3
+  },
+  {
+   "id": "x10",
+   "date": "2026-09-22T17:48",
+   "account": "Visa ending 7719",
+   "description": "KROGER PHARMACY #0347 ATLANTA GA",
+   "amount": -10.0
+  },
+  {
+   "id": "x11",
+   "date": "2026-09-25T10:00",
+   "account": "Checking ending 3381",
+   "description": "FCCU VISA PAYMENT TO X7719",
+   "amount": -250.0
+  },
+  {
+   "id": "x12",
+   "date": "2026-09-29T15:42",
+   "account": "Visa ending 7719",
+   "description": "MORELAND AUTO CARE ATLANTA GA",
+   "amount": -311.98
+  },
+  {
+   "id": "x13",
+   "date": "2026-09-29T15:57",
+   "account": "Checking ending 3381",
+   "description": "ZELLE FROM ANGELA CARTER",
+   "amount": 100.0
+  },
+  {
+   "id": "x14",
+   "date": "2026-10-01T08:14",
+   "account": "Checking ending 3381",
+   "description": "GLENWOOD COMMONS ACH RENT UNIT 3B",
+   "amount": -725.0
+  },
+  {
+   "id": "x15",
+   "date": "2026-10-02T06:00",
+   "account": "Checking ending 3381",
+   "description": "PEACH STREET GRILL LLC DIR DEP PAYROLL",
+   "amount": 612.4
+  },
+  {
+   "id": "x16",
+   "date": "2026-10-02T12:41",
+   "account": "Checking ending 3381",
+   "description": "GEORGIA METRO UNIV STUDENT ACCT WEB PMT",
+   "amount": -225.0
+  },
+  {
+   "id": "x17",
+   "date": "2026-10-02T15:35",
+   "account": "Checking ending 3381",
+   "description": "QT 712 ATLANTA GA",
+   "amount": -7.84
+  },
+  {
+   "id": "x18",
+   "date": "2026-10-03T13:21",
+   "account": "Visa ending 7719",
+   "description": "KROGER #0347 ATLANTA GA",
+   "amount": -64.17
+  },
+  {
+   "id": "x19",
+   "date": "2026-10-05T13:20",
+   "account": "Checking ending 3381",
+   "description": "WALMART SUPERCENTER #2595 ATLANTA GA",
+   "amount": -93.92
+  },
+  {
+   "id": "x20",
+   "date": "2026-10-05T16:40",
+   "account": "Checking ending 3381",
+   "description": "ZELLE TO ANGELA CARTER",
+   "amount": -35.0
+  },
+  {
+   "id": "x21",
+   "date": "2026-10-06T14:12",
+   "account": "Checking ending 3381",
+   "description": "CHICK-FIL-A #01842 ATLANTA GA",
+   "amount": -11.39
+  },
+  {
+   "id": "x22",
+   "date": "2026-10-06T16:30",
+   "account": "Checking ending 3381",
+   "description": "SQ *CROWN CUTS ATLANTA GA",
+   "amount": -30.0
+  },
+  {
+   "id": "x23",
+   "date": "2026-10-06T17:20",
+   "account": "Visa ending 7719",
+   "description": "KROGER FUEL #0347 ATLANTA GA",
+   "amount": -31.84
+  },
+  {
+   "id": "x24",
+   "date": "2026-10-07T12:41",
+   "account": "Checking ending 3381",
+   "description": "KROGER #0347 ATLANTA GA DEBIT 3381 - AVAIL BAL $318.72",
+   "amount": -11.86
+  }
+ ]
+}
