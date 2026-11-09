@@ -1,0 +1,1936 @@
+{
+ "person": {
+  "id": "hannah",
+  "name": "Hannah Brooks",
+  "line": "Hannah Brooks, 29, ICU night-shift nurse in Chicago",
+  "pronoun": "she",
+  "today": "2026-10-08T09:00"
+ },
+ "contacts": [
+  {
+   "name": "Caleb",
+   "relation": "partner",
+   "email": "caleb.novak@gmail.com",
+   "phone": "(312) 555-0187"
+  },
+  {
+   "name": "Dana",
+   "relation": "friend, RN on MICU 7 West (days)",
+   "email": "dana.whitfield@gmail.com",
+   "phone": "(773) 555-0124"
+  },
+  {
+   "name": "Priya",
+   "relation": "friend, pharmacist",
+   "email": "priya.raman.pharmd@gmail.com",
+   "phone": "(773) 555-0168"
+  },
+  {
+   "name": "Jules",
+   "relation": "friend, college roommate",
+   "email": "julesmoreau.design@gmail.com",
+   "phone": "(312) 555-0119"
+  },
+  {
+   "name": "Maya",
+   "relation": "pet sitter (Maya's Pet Care)",
+   "email": "maya@mayaspetcare.com",
+   "phone": "(773) 555-0193"
+  },
+  {
+   "name": "Ben",
+   "relation": "brother",
+   "email": "ben.brooks@gmail.com",
+   "phone": "(708) 555-0152"
+  },
+  {
+   "name": "Ramirez",
+   "relation": "Caleb's coworker at Halvorsen Builders",
+   "email": "lramirez@halvorsenbuilders.com",
+   "phone": "(312) 555-0176"
+  },
+  {
+   "name": "Dad",
+   "relation": "father (Tom Brooks)",
+   "email": "tombrooks59@yahoo.com",
+   "phone": "(773) 555-0108"
+  },
+  {
+   "name": "Aunt Carol",
+   "relation": "aunt, Dad's sister",
+   "email": "carol.haney@sbcglobal.net",
+   "phone": "(773) 555-0131"
+  },
+  {
+   "name": "Erin Brooks",
+   "relation": "sister-in-law, Ben's wife",
+   "email": "erin.brooks@gmail.com",
+   "phone": "(708) 555-0147"
+  },
+  {
+   "name": "Marisol Ortega",
+   "relation": "nurse manager, MICU 7 West",
+   "email": "mortega@lakeshoregeneral.org",
+   "phone": "(773) 555-0162"
+  },
+  {
+   "name": "Kim Sato",
+   "relation": "Dad's next-door neighbor",
+   "email": "kimsato.chi@gmail.com",
+   "phone": "(773) 555-0115"
+  },
+  {
+   "name": "Greg Haskins",
+   "relation": "building manager, Wilton Court Properties",
+   "email": "greg@wiltoncourtprops.com",
+   "phone": "(773) 555-0139"
+  },
+  {
+   "name": "Jenna Park",
+   "relation": "Dad's physical therapist at Northwestern Rehab",
+   "email": "jpark@nwrehabchicago.org",
+   "phone": "(312) 555-0172"
+  },
+  {
+   "name": "Linda Novak",
+   "relation": "Caleb's mom",
+   "email": "lindanovak@charter.net",
+   "phone": "(608) 555-0181"
+  },
+  {
+   "name": "Lakeview Animal Hospital",
+   "relation": "Biscuit's vet (Dr. Anita Kowalski)",
+   "email": "frontdesk@lakeviewanimalhosp.com",
+   "phone": "(773) 555-0150"
+  },
+  {
+   "name": "Walgreens",
+   "relation": "pharmacy, #7742 on N. Clark St",
+   "email": "noreply@walgreens.com",
+   "phone": "(773) 555-0185"
+  },
+  {
+   "name": "Northwestern Rehab",
+   "relation": "Dad's physical therapy clinic",
+   "email": "ptscheduling@nwrehabchicago.org",
+   "phone": "(312) 555-0170"
+  },
+  {
+   "name": "Employee Health",
+   "relation": "Lakeshore General employee health office",
+   "email": "employeehealth@lakeshoregeneral.org",
+   "phone": "(773) 555-0140"
+  },
+  {
+   "name": "CareRide Chicago",
+   "relation": "Dad's ride service",
+   "email": "rides@carerideschicago.com",
+   "phone": "(312) 555-0198"
+  },
+  {
+   "name": "Belmont Dental Studio",
+   "relation": "dentist",
+   "email": "appointments@belmontdentalstudio.com",
+   "phone": "(773) 555-0127"
+  },
+  {
+   "name": "Dr. Rachel Stein",
+   "relation": "primary care doctor, Lakeshore Primary Care",
+   "email": "mychart@lakeshoreprimary.org",
+   "phone": "(773) 555-0144"
+  }
+ ],
+ "email": [
+  {
+   "id": "e1",
+   "from": "Employee Health <employeehealth@lakeshoregeneral.org>",
+   "to": "me",
+   "date": "2025-09-10T14:30",
+   "subject": "Annual TB screening result",
+   "body": "Hannah Brooks, RN (Employee ID 208815)\n\nYour QuantiFERON-TB Gold Plus drawn on 09/03/2025 was NEGATIVE. Your annual TB screening requirement is complete through 09/2026.\n\nLakeshore General Employee Health",
+   "unread": false
+  },
+  {
+   "id": "e2",
+   "from": "Employee Health <employeehealth@lakeshoregeneral.org>",
+   "to": "me",
+   "date": "2025-10-01T09:20",
+   "subject": "Influenza vaccination recorded - 2025-26 season",
+   "body": "Hannah Brooks, RN (Employee ID 208815)\n\nYour influenza vaccination has been recorded:\nDate: 10/01/2025, 7:42 AM\nVaccine: Flucelvax Trivalent, Lot 4K118\nSite: left deltoid\nAdministered by: S. Abernathy, RN\n\nYou are compliant for the 2025-26 flu season. No further action is needed. Staff who are not vaccinated or exempt by November 1 must mask in all patient areas through March 31.\n\nLakeshore General Employee Health\nRoom B-114 | (773) 555-0140 | Mon-Fri 7:00 AM-3:30 PM",
+   "unread": false
+  },
+  {
+   "id": "e3",
+   "from": "Lakeview Animal Hospital <frontdesk@lakeviewanimalhosp.com>",
+   "to": "me",
+   "date": "2025-12-02T16:10",
+   "subject": "Estimate for Biscuit - dental cleaning",
+   "body": "Hi Hannah,\n\nAs discussed with Dr. Kowalski, here is the estimate for Biscuit's dental cleaning under anesthesia:\n\nPre-anesthetic bloodwork: $95.00\nAnesthesia and monitoring: $310.00\nCleaning and polish: $240.00\nFull-mouth dental X-rays: $185.00\nExtractions if needed: $45-$180 per tooth\nEstimated total: $830.00 - $1,190.00\n\nDrop-off 7:30 AM, pick-up after 4 PM. Nothing to eat after 10 PM the night before; water is fine.\n\nCall (773) 555-0150 to schedule.",
+   "unread": false
+  },
+  {
+   "id": "e4",
+   "from": "Dr. Anita Kowalski <frontdesk@lakeviewanimalhosp.com>",
+   "to": "me",
+   "date": "2026-02-03T13:25",
+   "subject": "Biscuit - food trial results",
+   "body": "Hi Hannah,\n\nThanks for keeping such a good log. Biscuit's itching and ear redness came back within 3 days of the chicken challenge and cleared again on the fish diet, which confirms a chicken allergy.\n\nPlan:\n- Stay on Natural Balance L.I.D. Sweet Potato & Fish.\n- Avoid chicken in every form: chicken meal, chicken fat, chicken broth, and chicken or poultry flavoring in treats, chews and supplements. Check labels on anything new.\n- If his ears flare again, call us before starting any leftover drops.\n\nI've added the allergy to his chart.\n\nDr. Anita Kowalski\nLakeview Animal Hospital",
+   "unread": false
+  },
+  {
+   "id": "e5",
+   "from": "Airbnb <automated@airbnb.com>",
+   "to": "me",
+   "date": "2026-05-30T20:40",
+   "subject": "Reservation confirmed - Galena",
+   "body": "You're going to Galena, Hannah!\n\nFarmhouse loft with valley views\nHosted by Doug & Pam\n\nCheck-in: Friday, Jun 19, 5:00 PM\nCheckout: Sunday, Jun 21, 11:00 AM\nGuests: 2 adults\nAddress: 1176 W. Stagecoach Trail, Galena, IL 61036\n\n$165.00 x 2 nights: $330.00\nCleaning fee: $60.00\nAirbnb service fee: $55.06\nTaxes: $42.90\nTotal (USD): $487.96\nPaid with Chase Freedom ending 6612\n\nConfirmation code: HM7RD2WQ5N",
+   "unread": false
+  },
+  {
+   "id": "e6",
+   "from": "Walgreens <noreply@walgreens.com>",
+   "to": "me",
+   "date": "2026-08-14T17:12",
+   "subject": "Your Walgreens receipt",
+   "body": "Walgreens #3318, 4000 N. Lincoln Ave\n08/14/2026 5:11 PM\n\nCarex raised toilet seat with arms: $49.99\nReacher grabber, 32 in: $14.99\nSock aid: $12.99\nmyWalgreens savings: -$7.80\nSubtotal: $70.17\nTax: $7.19\nTotal: $77.36\nPaid: Chase Freedom ending 6612\n\nmyWalgreens Cash earned: $0.70",
+   "unread": false
+  },
+  {
+   "id": "e7",
+   "from": "Chewy <customercare@chewy.com>",
+   "to": "me",
+   "date": "2026-08-21T09:48",
+   "subject": "Your refund has been processed",
+   "body": "Hi Hannah,\n\nSorry your order arrived damaged. We've refunded $64.98 to your Chase Freedom ending 6612 for:\n\nNatural Balance L.I.D. Sweet Potato & Fish Formula, 22-lb bag (bag torn in transit)\n\nNo need to send it back. If the inner bag is still sealed, a local shelter may be glad to take it. Refunds take 3 to 5 business days to appear.\n\nChewy Customer Care",
+   "unread": false
+  },
+  {
+   "id": "e8",
+   "from": "Jules via Paperless Post <invitations@paperlesspost.com>",
+   "to": "me",
+   "date": "2026-09-12T15:00",
+   "subject": "Jules is turning 30 - Milwaukee, Nov 13-15",
+   "body": "Jules Moreau invites you to: Thirty, Flirty & Mildly Tired\nFriday, November 13 - Sunday, November 15\nRiverwest, Milwaukee\n\nFriday dinner at Cafe Mirela, Saturday brewery crawl and dinner at the flat, Sunday brunch before we drive home.\n\nNote from Jules: Priya's booking the Airbnb, we'll split it 4 ways. No gifts, just come.\n\nRSVP by October 1.",
+   "unread": false
+  },
+  {
+   "id": "e9",
+   "from": "Lakeview Animal Hospital <frontdesk@lakeviewanimalhosp.com>",
+   "to": "me",
+   "date": "2026-09-14T12:18",
+   "subject": "Invoice - Biscuit Brooks - 09/14/2026",
+   "body": "Patient: Biscuit (canine, beagle/basset mix, 9 yrs, 34.6 lb)\nDoctor: Dr. Anita Kowalski\nALLERGY ON FILE: CHICKEN (food and flavorings)\n\nExam, lameness: $68.00\nRadiographs, hips (2 views): $164.00\nSenior chemistry panel: $32.40\nNail trim: $18.00\nMedical waste fee: $4.00\n\nTotal: $286.40\nPaid: Chase Freedom ending 6612\n\nDoctor's notes: Weight stable. Mild hind-limb stiffness after rest, no pain on palpation. Recheck in 6 weeks. Continue fish-based diet.\n\nNext due: Bordetella 03/2027.\n\nLakeview Animal Hospital, 3150 N. Southport Ave, Chicago, IL 60657",
+   "unread": false
+  },
+  {
+   "id": "e10",
+   "from": "Chewy Pharmacy <pharmacy@chewy.com>",
+   "to": "me",
+   "date": "2026-09-16T11:05",
+   "subject": "Prescription approved: Simparica Trio for Biscuit",
+   "body": "Hi Hannah,\n\nLakeview Animal Hospital approved Biscuit's prescription.\n\nSimparica Trio Chewable Tablets for Dogs, 22.1-44 lbs, 6 tablets\nRefills remaining: 1\nPrice: $142.99\n\nYour order will ship within 1 business day. Give one tablet monthly with or without food.",
+   "unread": false
+  },
+  {
+   "id": "e11",
+   "from": "Marisol Ortega <mortega@lakeshoregeneral.org>",
+   "to": "me",
+   "date": "2026-09-17T11:30",
+   "subject": "PTO approved - 10/31-11/1",
+   "body": "Hi Hannah,\n\nYour PTO request is approved. You're off the whole weekend of Saturday 10/31 and Sunday 11/1. It's in Kronos.\n\nMarisol\n\nMarisol Ortega, MSN, RN\nNurse Manager, MICU 7 West",
+   "unread": false
+  },
+  {
+   "id": "e12",
+   "from": "Airbnb <automated@airbnb.com>",
+   "to": "me",
+   "date": "2026-09-20T21:14",
+   "subject": "Reservation confirmed - Saugatuck",
+   "body": "Pack your bags, Hannah! You're going to Saugatuck.\n\nCozy cottage, 5 min walk to downtown\nHosted by Linnea\n\nCheck-in: Saturday, Nov 7, 4:00 PM\nCheckout: Sunday, Nov 8, 11:00 AM\nGuests: 2 adults\nAddress: 418 Griffith St, Saugatuck, MI 49453\n\n$289.00 x 1 night: $289.00\nCleaning fee: $85.00\nAirbnb service fee: $52.80\nTaxes: $25.26\nTotal (USD): $452.06\nPaid with Chase Freedom ending 6612\n\nCancellation policy: Free cancellation before Oct 31. After that, the first night and service fee are nonrefundable.\n\nConfirmation code: HMQ4X8K2TZ",
+   "unread": false
+  },
+  {
+   "id": "e13",
+   "from": "Northwestern Rehab <ptscheduling@nwrehabchicago.org>",
+   "to": "me",
+   "date": "2026-09-22T15:40",
+   "subject": "Appointment change - Thomas Brooks",
+   "body": "Hello,\n\nJenna Park is out Wednesday, September 23. Thomas Brooks's 2:00 PM physical therapy visit that day has been moved to Thursday, September 24 at 2:00 PM with Marcus Bell, PT.\n\nIf this time doesn't work, please call (312) 555-0170.\n\nNorthwestern Rehab Outpatient Scheduling",
+   "unread": false
+  },
+  {
+   "id": "e14",
+   "from": "Lakeshore General Payroll <payroll@lakeshoregeneral.org>",
+   "to": "me",
+   "date": "2026-09-24T18:00",
+   "subject": "Your pay statement for 09/06-09/19 is available",
+   "body": "Pay date: 09/25/2026\nRegular hours: 72.0\nNight differential hours: 72.0\nOvertime hours: 0.0\nGross pay: $3,672.00\nNet pay: $2,486.12\nDeposited to: Chase checking ending 3307\n\nView your full statement in Workday.",
+   "unread": false
+  },
+  {
+   "id": "e15",
+   "from": "Lakeview Animal Hospital <frontdesk@lakeviewanimalhosp.com>",
+   "to": "me",
+   "date": "2026-09-24T18:20",
+   "subject": "Biscuit - joint supplement",
+   "body": "Hi Hannah,\n\nDr. Kowalski asked us to let you know: please stop the Cosequin and start Biscuit on Dasuquin chews instead.\n\nCall (773) 555-0150 with any questions.\n\nLakeview Animal Hospital\n3150 N. Southport Ave, Chicago, IL 60657",
+   "unread": false
+  },
+  {
+   "id": "e16",
+   "from": "Walgreens <noreply@walgreens.com>",
+   "to": "me",
+   "date": "2026-09-26T08:00",
+   "subject": "Hannah, you have $5.00 in Walgreens Cash",
+   "body": "Your myWalgreens balance: $5.00 Walgreens Cash.\n\nUse it on anything in store or online by 11/30. Plus this week: 25% off cold and flu, buy 1 get 1 50% off vitamins.\n\nFlu shots and updated COVID vaccines available, no appointment needed at most locations.",
+   "unread": true
+  },
+  {
+   "id": "e17",
+   "from": "Employee Health <employeehealth@lakeshoregeneral.org>",
+   "to": "me",
+   "date": "2026-09-28T09:05",
+   "subject": "Reminder: annual requirements due October 31",
+   "body": "Hannah Brooks, RN (Employee ID 208815)\n\nOur records show the following are due by October 31, 2026:\n- Annual TB blood test (QuantiFERON)\n- Flu vaccine proof for the 2026-27 season\n\nLakeshore General Employee Health\nRoom B-114 | (773) 555-0140 | Mon-Fri 7:00 AM-3:30 PM",
+   "unread": false
+  },
+  {
+   "id": "e18",
+   "from": "Chewy <orders@chewy.com>",
+   "to": "me",
+   "date": "2026-09-28T14:22",
+   "subject": "Your Autoship order has shipped",
+   "body": "Hi Hannah,\n\nGood news, your Autoship order #1184307552 is on the way.\n\nNatural Balance L.I.D. Sweet Potato & Fish Formula Dry Dog Food, 22-lb bag, 1 x $64.98\nWhimzees Alligator Dental Dog Treats, Medium, 30 count, 1 x $19.49\nAutoship savings (5%): -$4.22\nTax: $0.80\nTotal: $81.05\nCharged to: Chase Freedom ending 6612\n\nEstimated delivery: Wednesday, September 30\nShipping to: Hannah Brooks, 3412 N. Wilton Ave, Apt 2R, Chicago, IL 60657\n\nNext Autoship: November 9 (every 6 weeks)",
+   "unread": false
+  },
+  {
+   "id": "e19",
+   "from": "Airbnb <automated@airbnb.com>",
+   "to": "me",
+   "date": "2026-09-29T19:03",
+   "subject": "Priya added you to a trip to Milwaukee",
+   "body": "Priya has added you to a reservation.\n\nRiverwest 3BR flat with rooftop deck\nFri, Nov 13 - Sun, Nov 15, 2026\nCheck-in after 4:00 PM, checkout 10:00 AM\nGuests: 4 adults\n\nPriya paid for this reservation. Open the itinerary to see the address, house rules and host contact.",
+   "unread": false
+  },
+  {
+   "id": "e20",
+   "from": "Jenna Park <jpark@nwrehabchicago.org>",
+   "to": "me, Ben <ben.brooks@gmail.com>",
+   "date": "2026-09-30T17:05",
+   "subject": "Tom - re-eval and home exercises",
+   "body": "Hi Hannah and Ben,\n\nTom did well at his re-eval today. He's walking about 300 feet with the walker and doing stairs with one rail, step-to pattern. Goals for the next 7 weeks: cane indoors, stairs step-over-step with the rail, and getting in and out of a car without help.\n\nHome exercises, once a day on non-PT days (Tue, Thu, weekends):\n- Heel slides, 2 x 10\n- Glute sets, 2 x 10, hold 5 sec\n- Standing hip abduction at the counter, 2 x 10\n- Sit to stand from a firm chair, 2 x 8\n\nHe's still on hip precautions until Dr. Halpern clears him: no crossing legs, no bending past 90 degrees. Keep the raised toilet seat for now.\n\nHe admitted he's been skipping the sit-to-stands. A nudge from you two would help.\n\nJenna Park, PT, DPT\nNorthwestern Rehab Outpatient Therapy",
+   "unread": false
+  },
+  {
+   "id": "e21",
+   "from": "Lakeshore Primary Care <mychart@lakeshoreprimary.org>",
+   "to": "me",
+   "date": "2026-10-01T09:00",
+   "subject": "Appointment reminder: Annual physical with Dr. Rachel Stein",
+   "body": "Hannah Brooks, you have an upcoming appointment:\n\nMonday, October 19, 2026 at 9:00 AM\nDr. Rachel Stein, MD - Annual physical\nLakeshore Primary Care, 2835 N. Sheffield Ave, Suite 210\n\nFasting labs: no food for 10 hours before. Water and black coffee are OK.\nPlease complete your pre-visit questionnaire in MyChart.",
+   "unread": false
+  },
+  {
+   "id": "e22",
+   "from": "Northwestern Rehab <ptscheduling@nwrehabchicago.org>",
+   "to": "me",
+   "date": "2026-10-01T10:12",
+   "subject": "Updated therapy schedule - Thomas Brooks",
+   "body": "Hello Hannah,\n\nYou're listed as a care contact for Thomas Brooks (DOB 03/14/1959). Following his re-evaluation with Jenna Park, PT on 9/30, his updated plan of care has been approved.\n\nPhysical therapy: every Monday, Wednesday and Friday at 2:00 PM\nDates: October 2 through November 20, 2026\nLocation: Northwestern Rehab Outpatient Therapy, 211 E. Chestnut St, 4th Floor, Chicago, IL 60611\n\nPlease arrive 10 minutes early and bring his walker. Parking validation is available at the front desk for the Chestnut St garage ($9 with validation).\n\nTo cancel or reschedule, call (312) 555-0170 at least 24 hours ahead. Late cancellations and no-shows may be charged $50.\n\nNorthwestern Rehab Outpatient Scheduling",
+   "unread": false
+  },
+  {
+   "id": "e23",
+   "from": "Lakeview Animal Hospital <news@lakeviewanimalhosp.com>",
+   "to": "me",
+   "date": "2026-10-02T07:00",
+   "subject": "Lakeview Paws - October: Halloween safety and dog flu",
+   "body": "Halloween candy, especially anything with chocolate or xylitol, is the number one reason for our October emergency calls. Keep candy bowls up high and take costumes off pets that seem stressed.\n\nCanine influenza: we're seeing cases from local daycares and boarding. The two-dose vaccine is $42 per dose; ask at your next visit.\n\nNew Saturday hours: 8 AM to 2 PM starting October 3.\n\nRefills: heartworm and flea/tick prescriptions can be ordered through our online pharmacy or approved for Chewy within one business day.",
+   "unread": true
+  },
+  {
+   "id": "e24",
+   "from": "ComEd <noreply@comed.com>",
+   "to": "me",
+   "date": "2026-10-02T07:12",
+   "subject": "Your ComEd bill is ready",
+   "body": "Account ending 4471-0\nService address: 3412 N Wilton Ave Apt 2R\nBilling period: 08/28/2026 - 09/28/2026\nAmount due: $74.31\nDue date: 10/21/2026\n\nAutoPay is on. $74.31 will be drafted from your bank account ending 3307 on 10/21/2026.",
+   "unread": false
+  },
+  {
+   "id": "e25",
+   "from": "Marisol Ortega <mortega@lakeshoregeneral.org>",
+   "to": "MICU 7 West RNs <micu7w-rn@lakeshoregeneral.org>",
+   "date": "2026-10-02T13:05",
+   "subject": "November schedule posted + holiday requests",
+   "body": "Hi all,\n\nThe November schedule (11/1-11/28) is posted in Kronos. Please check your shifts by Friday 10/9 and send me any errors.\n\nHoliday requests: Thanksgiving and Christmas sign-up sheets are on the board in the break room and in the shared drive. Requests close October 16. Night shift rotates either Thanksgiving or Christmas Eve/Day this year. If you worked Thanksgiving last year, you're expected to take a Christmas shift.\n\nReminder: if your ACLS card expires in November or December, renew now. The hospital class on Nov 2 still has 4 spots.\n\nThanks,\nMarisol\n\nMarisol Ortega, MSN, RN\nNurse Manager, MICU 7 West",
+   "unread": false
+  },
+  {
+   "id": "e26",
+   "from": "CareRide Chicago <rides@carerideschicago.com>",
+   "to": "me",
+   "date": "2026-10-02T15:54",
+   "subject": "Your CareRide receipt - Oct 2",
+   "body": "Rider: Thomas Brooks\nAccount holder: Hannah Brooks\n\nPickup: 4115 N. Hermitage Ave, 1:15 PM\nDrop-off: Northwestern Rehab, 211 E. Chestnut St, 1:43 PM\nReturn pickup: 3:05 PM\nDrop-off: 4115 N. Hermitage Ave, 3:40 PM\n\nRound trip, accessible sedan: $49.00\nDoor-to-door assist: $6.00\nTotal: $55.00\nCharged to: Chase Freedom ending 6612\n\nDriver: Luis R.",
+   "unread": false
+  },
+  {
+   "id": "e27",
+   "from": "Walgreens <noreply@walgreens.com>",
+   "to": "me",
+   "date": "2026-10-03T09:15",
+   "subject": "Refill reminder for THOMAS BROOKS",
+   "body": "Hi Hannah,\n\nAs a caregiver on Thomas Brooks's myWalgreens account, here's a reminder that these prescriptions are due for refill:\n\nATORVASTATIN 40MG TAB, Rx #5518830, last filled 09/08\nLISINOPRIL 10MG TAB, Rx #5518831, last filled 09/08\n\nPharmacy: Walgreens #3318, 4000 N. Lincoln Ave, Chicago, IL 60618\n\nRefill online or in the app. Auto-refill is off for these prescriptions.",
+   "unread": false
+  },
+  {
+   "id": "e28",
+   "from": "Lakeshore General Education <education@lakeshoregeneral.org>",
+   "to": "me",
+   "date": "2026-10-03T10:00",
+   "subject": "Registration confirmed: ACLS Renewal - Monday, November 2",
+   "body": "Hannah Brooks, you are registered for:\n\nACLS Provider Renewal\nMonday, November 2, 2026, 8:30 AM - 4:30 PM\nSimulation Center, Pavilion B, 2nd Floor\n\nComplete the online pre-assessment (70% or higher) and bring your printed certificate. Lunch is not provided. Paid education time: 8 hours, code EDU.",
+   "unread": false
+  },
+  {
+   "id": "e29",
+   "from": "Belmont Dental Studio <appointments@belmontdentalstudio.com>",
+   "to": "me",
+   "date": "2026-10-03T12:20",
+   "subject": "See you Saturday, October 17",
+   "body": "Hi Hannah,\n\nYour cleaning and exam with Dr. Farah Siddiqui and hygienist Leah are confirmed for Saturday, October 17 at 10:00 AM.\n\nYour Delta Dental PPO covers this visit at 100%. Bitewing X-rays are due this visit.\n\nBelmont Dental Studio, 1010 W. Belmont Ave\n(773) 555-0127",
+   "unread": false
+  },
+  {
+   "id": "e30",
+   "from": "Chewy <deals@em.chewy.com>",
+   "to": "me",
+   "date": "2026-10-04T06:30",
+   "subject": "Fall faves for your pup, plus 30% off your first fresh food Autoship",
+   "body": "Hi Hannah,\n\nCozy beds, rain jackets and Halloween costumes are here. Shop by size: Biscuit's profile says medium.\n\nTry fresh food: 30% off your first Autoship order of any fresh food, up to $20. Code FRESH30.\n\nFree shipping on orders over $49.",
+   "unread": true
+  },
+  {
+   "id": "e31",
+   "from": "Chase <no.reply.alerts@chase.com>",
+   "to": "me",
+   "date": "2026-10-04T08:00",
+   "subject": "Your Chase Freedom statement is ready",
+   "body": "Account ending 6612\nStatement balance: $1,486.53\nMinimum payment due: $40.00\nPayment due date: 10/29/2026\n\nAutoPay is set to pay your statement balance on the due date from checking ending 3307.",
+   "unread": false
+  },
+  {
+   "id": "e32",
+   "from": "Ben <ben.brooks@gmail.com>",
+   "to": "me",
+   "date": "2026-10-04T20:30",
+   "subject": "Dad rides - September",
+   "body": "Hey,\n\nSeptember CareRide totals from the account (it's on your card so double check me):\n\nFri 9/11 round trip: $55.00\nFri 9/18 round trip: $55.00\nThu 9/24 round trip: $55.00 (the Wednesday visit that got moved, Carol couldn't do Thursday)\nFri 9/25 round trip: $55.00\nTotal: $220.00, my half $110.00\n\nVenmo'd you the $110 just now. Northwestern billing sent Dad a statement for $48.60, he says he's paying it himself, so leave it.\n\nAlso Erin wants to know if you and Caleb are coming to Nora's party on the 18th. 2 PM, our place. She's turning 6 and wants unicorn everything.\n\nBen",
+   "unread": false
+  },
+  {
+   "id": "e33",
+   "from": "Northwestern Rehab Billing <billing@nwrehabchicago.org>",
+   "to": "me",
+   "date": "2026-10-05T08:30",
+   "subject": "Statement for Thomas Brooks - September services",
+   "body": "Account: 40018822\nPatient: Thomas Brooks\nStatement date: 10/01/2026\n\n09/09 - 09/30/2026 Physical therapy, 10 visits\nBilled: $2,140.00\nMedicare Part B paid: $1,312.48\nAARP Medicare Supplement Plan G paid: $328.12\nContractual adjustment: -$450.80\nPatient responsibility (remaining Part B deductible): $48.60\n\nAmount due: $48.60\nDue by: 10/30/2026\n\nPay online at nwrehabchicago.org/pay or call (312) 555-0171. A copy of this statement was also mailed to the patient.",
+   "unread": false
+  },
+  {
+   "id": "e34",
+   "from": "Employee Health <employeehealth@lakeshoregeneral.org>",
+   "to": "me",
+   "date": "2026-10-05T11:15",
+   "subject": "N95 fit test scheduled - Thursday, October 22",
+   "body": "Hi Hannah,\n\nYour annual N95 respirator fit test is scheduled:\n\nThursday, October 22, 7:45 AM\nEmployee Health, Room B-114\n\nPlease don't eat, drink anything but water, smoke or chew gum for 30 minutes before the test. Bring the model you currently wear (3M 1870+). The test takes about 20 minutes.\n\nIf you need a different time, reply to this email or call (773) 555-0140. Night shift staff can request 7:00-8:00 AM slots.\n\nLakeshore General Employee Health",
+   "unread": false
+  },
+  {
+   "id": "e35",
+   "from": "Walgreens <noreply@walgreens.com>",
+   "to": "me",
+   "date": "2026-10-05T13:41",
+   "subject": "Your prescription is ready for pickup",
+   "body": "Hi Hannah,\n\nYour prescription is ready at Walgreens #7742, 3201 N. Clark St, Chicago, IL 60657.\n\nRx #6029417 SUMATRIPTAN 50MG TAB, qty 9\nCopay: $10.00\n\nWe'll hold it for 10 days. Pharmacy hours: Mon-Fri 8 AM-9 PM, Sat-Sun 9 AM-6 PM.",
+   "unread": false
+  },
+  {
+   "id": "e36",
+   "from": "Greg Haskins <greg@wiltoncourtprops.com>",
+   "to": "Residents, 3412 N. Wilton",
+   "date": "2026-10-05T16:45",
+   "subject": "Heat turn-on and radiator service",
+   "body": "Hello residents,\n\nBoiler heat will be turned on Thursday, October 15. Before then, our maintenance tech Victor will bleed the radiators in every unit:\n\nMonday, October 12: units 1F, 1R, 2F, 2R, 9 AM-12 PM\nTuesday, October 13: units 3F, 3R, garden, 9 AM-12 PM\n\nYou don't need to be home, but please secure pets and clear a path to each radiator. If your time doesn't work, reply and we'll set up another one.\n\nThanks,\nGreg Haskins\nBuilding Manager, Wilton Court Properties\n(773) 555-0139",
+   "unread": false
+  },
+  {
+   "id": "e37",
+   "from": "Lakeshore General Benefits <benefits@lakeshoregeneral.org>",
+   "to": "me",
+   "date": "2026-10-06T08:00",
+   "subject": "Open enrollment: November 2-20",
+   "body": "2027 benefits open enrollment runs November 2-20 in Workday. What's changing:\n- PPO medical premiums increase 4.2%\n- Dependent care FSA limit rises to $7,500\n- Domestic partners can be added with a signed affidavit of domestic partnership\n\nIf you don't make changes, your current elections roll over, except FSA contributions, which must be re-elected each year.\n\nBenefits Fair: Thursday, October 29, 7:00-9:00 AM and 6:00-8:00 PM, Pavilion A atrium.",
+   "unread": true
+  },
+  {
+   "id": "e38",
+   "from": "Lakeview Animal Hospital <frontdesk@lakeviewanimalhosp.com>",
+   "to": "me",
+   "date": "2026-10-06T10:02",
+   "subject": "Reminder: Biscuit's appointment Monday, October 26",
+   "body": "Hi Hannah,\n\nThis is a reminder that Biscuit is scheduled for a recheck with Dr. Anita Kowalski on Monday, October 26 at 10:30 AM.\n\nReason: hind-limb stiffness recheck\n\nPlease bring a list of any supplements, treats or new foods he's had since his last visit. If you need to reschedule, call (773) 555-0150.\n\nLakeview Animal Hospital\n3150 N. Southport Ave, Chicago, IL 60657",
+   "unread": false
+  },
+  {
+   "id": "e39",
+   "from": "Marisol Ortega <mortega@lakeshoregeneral.org>",
+   "to": "MICU 7 West RNs <micu7w-rn@lakeshoregeneral.org>",
+   "date": "2026-10-06T22:10",
+   "subject": "Overtime needed: Saturday 10/17 nights",
+   "body": "We're short two RNs for Saturday 10/17 night shift (7p-7:30a). Incentive pay of $15/hr on top of OT applies. Reply to me directly if you can take it. First come, first served.\n\nMarisol",
+   "unread": true
+  },
+  {
+   "id": "e40",
+   "from": "Chewy <orders@chewy.com>",
+   "to": "me",
+   "date": "2026-10-07T08:30",
+   "subject": "Your next Autoship ships in 9 days",
+   "body": "Hi Hannah,\n\nHeads up, your next Autoship is coming up.\n\nCosequin Maximum Strength Plus MSM Soft Chews for Dogs, 120 count, 1 x $47.99\nAutoship savings (5%): -$2.40\nShips: Friday, October 16\nCharged to: Chase Freedom ending 6612\nShipping to: Hannah Brooks, 3412 N. Wilton Ave, Apt 2R, Chicago, IL 60657\n\nNeed to make a change? You can skip, delay or edit this order in your Autoship settings before it ships.",
+   "unread": false
+  },
+  {
+   "id": "e41",
+   "from": "Airbnb <automated@airbnb.com>",
+   "to": "me",
+   "date": "2026-10-07T12:00",
+   "subject": "Linnea sent you a message",
+   "body": "Linnea: Hi Hannah! Looking forward to hosting you and Caleb on the 7th. Heads up, street parking on Griffith fills up that weekend because of the fall art walk downtown, so please use the driveway (fits one car). The lockbox code comes the morning of check-in. There's coffee and a French press in the kitchen. Let me know if you need anything!\n\nReply on Airbnb",
+   "unread": false
+  },
+  {
+   "id": "e42",
+   "from": "CareRide Chicago <rides@carerideschicago.com>",
+   "to": "me",
+   "date": "2026-10-07T15:58",
+   "subject": "Your CareRide receipt - Oct 7",
+   "body": "Rider: Thomas Brooks\nAccount holder: Hannah Brooks\n\nPickup: 4115 N. Hermitage Ave, 1:12 PM\nDrop-off: Northwestern Rehab, 211 E. Chestnut St, 1:41 PM\nReturn pickup: 3:08 PM\nDrop-off: 4115 N. Hermitage Ave, 3:44 PM\n\nRound trip, accessible sedan: $49.00\nDoor-to-door assist: $6.00\nTotal: $55.00\nCharged to: Chase Freedom ending 6612\n\nDriver: Andre W.",
+   "unread": false
+  }
+ ],
+ "texts": [
+  {
+   "id": "t1",
+   "with": "Caleb",
+   "unread": false,
+   "messages": [
+    {
+     "from": "me",
+     "date": "2026-08-08T13:02",
+     "body": "Ok anniversary brainstorm. Dana sent me her list, it's mostly omakase places"
+    },
+    {
+     "from": "Caleb",
+     "date": "2026-08-08T13:20",
+     "body": "I'm not eating sushi, not even for our anniversary, pick anywhere else"
+    },
+    {
+     "from": "me",
+     "date": "2026-08-08T13:22",
+     "body": "Lol fine. Noted forever"
+    },
+    {
+     "from": "Caleb",
+     "date": "2026-10-04T18:40",
+     "body": "Swapped with Ramirez, I'm working Saturday Oct 31 overnight now instead of Sunday Nov 1"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T06:48",
+     "body": "Family meeting at 7 for bed 14, I won't be home till 8:15. Can you take Biscuit out before you go?"
+    },
+    {
+     "from": "Caleb",
+     "date": "2026-10-07T06:55",
+     "body": "Yep. I'll wait till you're home, Ramirez can grab me at 8:30 instead"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T16:40",
+     "body": "Linnea (Saugatuck host) says use the driveway, street parking is bad that weekend. Also you're good with Maya just Saturday night?"
+    },
+    {
+     "from": "Caleb",
+     "date": "2026-10-07T17:02",
+     "body": "Yes and yes. Back Sunday by 3? I told Ramirez I'd help him move a couch Sunday at 5"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T17:05",
+     "body": "Checkout is 11 so easy. Leaving for work, love you"
+    }
+   ]
+  },
+  {
+   "id": "t2",
+   "with": "Walgreens",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Walgreens",
+     "date": "2026-09-08T11:20",
+     "body": "Walgreens: Rx for THOMAS is ready at 4000 N LINCOLN AVE. Reply STOP to opt out."
+    },
+    {
+     "from": "Walgreens",
+     "date": "2026-10-02T09:05",
+     "body": "Walgreens: Your Rx for HANNAH is due for refill. Reply 1 to refill 1 Rx at 3201 N CLARK ST."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T16:30",
+     "body": "1"
+    },
+    {
+     "from": "Walgreens",
+     "date": "2026-10-05T13:41",
+     "body": "Walgreens: Rx for HANNAH is ready at 3201 N CLARK ST. Total due: $10.00."
+    }
+   ]
+  },
+  {
+   "id": "t3",
+   "with": "Lakeview Animal Hospital",
+   "unread": true,
+   "messages": [
+    {
+     "from": "Lakeview Animal Hospital",
+     "date": "2026-09-13T10:00",
+     "body": "Lakeview Animal Hospital: Reminder for BISCUIT, Mon 9/14 at 9:00 AM with Dr. Kowalski. Reply C to confirm."
+    },
+    {
+     "from": "me",
+     "date": "2026-09-13T11:15",
+     "body": "C"
+    },
+    {
+     "from": "Lakeview Animal Hospital",
+     "date": "2026-10-06T10:05",
+     "body": "Lakeview Animal Hospital: BISCUIT has a recheck Mon 10/26 at 10:30 AM with Dr. Kowalski. Reply C to confirm, R to reschedule."
+    }
+   ]
+  },
+  {
+   "id": "t4",
+   "with": "Maya",
+   "unread": false,
+   "messages": [
+    {
+     "from": "me",
+     "date": "2026-09-21T17:10",
+     "body": "Hi Maya! Are you free to stay with Biscuit Saturday Nov 7? We'd leave around 11am and be back Sunday by 3"
+    },
+    {
+     "from": "Maya",
+     "date": "2026-09-21T18:02",
+     "body": "Yes! Overnight is $70 like Galena. Do you want me there at 11 or is he ok until evening?"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-21T18:15",
+     "body": "Can you come at 11 when we leave? He can't be alone that long. Happy to pay for the daytime"
+    },
+    {
+     "from": "Maya",
+     "date": "2026-09-21T18:20",
+     "body": "Sure, 11am Sat to 3pm Sun, $110 total. Still the fish kibble and no chicken anything right?"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-21T18:22",
+     "body": "Right, nothing with chicken, even in treats. I'll leave his Zuke's salmon ones out"
+    },
+    {
+     "from": "Maya",
+     "date": "2026-10-02T14:15",
+     "body": "I can stay with Biscuit Friday Oct 23 to Sunday Oct 25, but I have to leave by 7pm Sunday"
+    },
+    {
+     "from": "Maya",
+     "date": "2026-10-05T12:30",
+     "body": "Reminder I'm there at 1 today for Biscuit while you do your dad's PT run. Key still under the green planter?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T12:41",
+     "body": "Yes! Back around 3:45. Thank you"
+    }
+   ]
+  },
+  {
+   "id": "t5",
+   "with": "Marisol Ortega",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Marisol Ortega",
+     "date": "2026-09-22T15:00",
+     "body": "Hannah, could you precept Ashley Tran on your shifts 10/13-10/15? She finished orientation on days and is moving to nights."
+    },
+    {
+     "from": "me",
+     "date": "2026-09-22T15:40",
+     "body": "Sure. Is she with me all three?"
+    },
+    {
+     "from": "Marisol Ortega",
+     "date": "2026-09-22T15:52",
+     "body": "Yes, Tue Wed Thu. Thank you!"
+    }
+   ]
+  },
+  {
+   "id": "t6",
+   "with": "Kim Sato",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Kim Sato",
+     "date": "2026-09-25T19:40",
+     "body": "Hi Hannah, it's Kim next door to your dad. His porch light has been out two nights. Want my son to change it?"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-25T20:05",
+     "body": "Yes please, thank you! I'll Venmo you for the bulb"
+    },
+    {
+     "from": "Kim Sato",
+     "date": "2026-09-25T20:10",
+     "body": "Don't be silly. He's doing well, I saw him walk to the mailbox with the walker"
+    }
+   ]
+  },
+  {
+   "id": "t7",
+   "with": "Ben",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Ben",
+     "date": "2026-09-27T19:10",
+     "body": "Dad says Jenna wants him off the walker by Thanksgiving. He's acting like it's a contest"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-27T19:30",
+     "body": "Good, let him. He keeps skipping the sit to stands though"
+    },
+    {
+     "from": "Ben",
+     "date": "2026-10-01T12:10",
+     "body": "Erin wants to do a quick call with you Friday morning about Nora's party on the 18th. Can you do 10?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-01T16:21",
+     "body": "I work Thursday nights, I'm out cold till 4 Friday afternoon. Tell her to just text me"
+    },
+    {
+     "from": "Ben",
+     "date": "2026-10-01T16:45",
+     "body": "Will do"
+    },
+    {
+     "from": "Ben",
+     "date": "2026-10-04T20:32",
+     "body": "Sent the CareRide breakdown to your email, Venmo'd $110"
+    }
+   ]
+  },
+  {
+   "id": "t8",
+   "with": "Chewy",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Chewy",
+     "date": "2026-09-28T14:25",
+     "body": "Chewy: Your order #1184307552 has shipped via FedEx. Track: chwy.co/t/9F2KD"
+    },
+    {
+     "from": "Chewy",
+     "date": "2026-09-30T13:12",
+     "body": "Chewy: Delivered! Your package was left at the front door."
+    }
+   ]
+  },
+  {
+   "id": "t9",
+   "with": "Jules",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Jules",
+     "date": "2026-09-28T19:40",
+     "body": "I already sent the restaurant $150 toward the dinner deposit myself, they took it off Priya's"
+    },
+    {
+     "from": "Jules",
+     "date": "2026-10-03T21:30",
+     "body": "Did Priya tell you the flat has a rooftop hot tub"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-03T21:45",
+     "body": "STOP. Bringing the good swimsuit"
+    },
+    {
+     "from": "Jules",
+     "date": "2026-10-03T21:47",
+     "body": "I'm taking Friday the 13th off to drive up early, want a ride?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-03T22:05",
+     "body": "I'm off Friday but I sleep till 4 after Thursday's shift, so I can't leave before 5. Priya said she'd wait and drive me"
+    },
+    {
+     "from": "Jules",
+     "date": "2026-10-03T22:06",
+     "body": "Ok you two come after, I'll get the keys"
+    }
+   ]
+  },
+  {
+   "id": "t10",
+   "with": "Priya",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Priya",
+     "date": "2026-09-29T12:10",
+     "body": "Booked the Milwaukee place! $612 all in, so $153 each. Venmo whenever"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-29T13:00",
+     "body": "Yay! Sent"
+    },
+    {
+     "from": "Priya",
+     "date": "2026-10-03T16:22",
+     "body": "I'll fly with you, just tell me which flights"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T14:20",
+     "body": "Random q. Dad's on meloxicam 7.5 since surgery, ortho said keep it 2 more weeks. Is Tylenol on top of that fine?"
+    },
+    {
+     "from": "Priya",
+     "date": "2026-10-06T14:48",
+     "body": "Yes, acetaminophen with meloxicam is fine. Max 3g a day for him. Meloxicam with food, and watch for black stools or stomach pain"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T14:50",
+     "body": "You're the best. Brunch is on me Sunday"
+    }
+   ]
+  },
+  {
+   "id": "t11",
+   "with": "Aunt Carol",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Aunt Carol",
+     "date": "2026-09-30T15:50",
+     "body": "Took your dad to PT. Jenna says his walking looks better. He wants a Portillo's run after next time, I said ask Hannah"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-30T16:30",
+     "body": "Thank you Carol! Portillo's allowed once a week lol"
+    },
+    {
+     "from": "Aunt Carol",
+     "date": "2026-10-05T19:00",
+     "body": "Hannah, I have my cataract follow-up Wed the 7th at 1:30. Can't drive your dad that day. Can CareRide take him?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T19:20",
+     "body": "Booked it, 1:12 pickup. Thanks for telling me early"
+    },
+    {
+     "from": "Aunt Carol",
+     "date": "2026-10-07T17:30",
+     "body": "Eye is fine."
+    }
+   ]
+  },
+  {
+   "id": "t12",
+   "with": "Northwestern Rehab",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Northwestern Rehab",
+     "date": "2026-10-01T14:00",
+     "body": "Northwestern Rehab: Reminder for THOMAS B, Fri 10/2 at 2:00 PM. Reply C to confirm or call 312-555-0170."
+    },
+    {
+     "from": "Northwestern Rehab",
+     "date": "2026-10-04T14:00",
+     "body": "Northwestern Rehab: Reminder for THOMAS B, Mon 10/5 at 2:00 PM. Reply C to confirm or call 312-555-0170."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-04T15:02",
+     "body": "C"
+    },
+    {
+     "from": "Northwestern Rehab",
+     "date": "2026-10-06T14:00",
+     "body": "Northwestern Rehab: Reminder for THOMAS B, Wed 10/7 at 2:00 PM. Reply C to confirm or call 312-555-0170."
+    }
+   ]
+  },
+  {
+   "id": "t13",
+   "with": "Ramirez",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Ramirez",
+     "date": "2026-10-02T18:05",
+     "body": "Hey Hannah, it's Ramirez. Elena and I are doing Halloween at our place Sat the 31st, 8pm. Costumes mandatory. Caleb already said he's going as a traffic cone"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T18:30",
+     "body": "Ha, of course he is. We're in! What can I bring?"
+    },
+    {
+     "from": "Ramirez",
+     "date": "2026-10-02T18:34",
+     "body": "Elena says the buffalo chicken dip from the Super Bowl party"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T18:36",
+     "body": "Done. Ok if we head out by midnight? Biscuit can't be alone that long so we'll have a sitter till 12"
+    },
+    {
+     "from": "Ramirez",
+     "date": "2026-10-02T18:40",
+     "body": "Of course. 1842 S. Throop, 2nd floor. Parking is rough, take a Lyft"
+    }
+   ]
+  },
+  {
+   "id": "t14",
+   "with": "Dana",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Dana",
+     "date": "2026-10-03T10:14",
+     "body": "Brunch tomorrow still on? Priya says Marigold doesn't take reservations under 6"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-03T11:30",
+     "body": "Can we push to next Sunday the 11th? Caleb's mom is here this weekend"
+    },
+    {
+     "from": "Dana",
+     "date": "2026-10-03T11:42",
+     "body": "Fine by me, I'll tell the group"
+    },
+    {
+     "from": "Dana",
+     "date": "2026-10-07T07:10",
+     "body": "Bed 14's daughter asked for you again lol. Great report btw"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T07:58",
+     "body": "She's sweet. Going home to die. Coffee Saturday?"
+    },
+    {
+     "from": "Dana",
+     "date": "2026-10-07T08:01",
+     "body": "I'm on Saturday. See you Sunday at brunch, next week coffee"
+    }
+   ]
+  },
+  {
+   "id": "t15",
+   "with": "Belmont Dental Studio",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Belmont Dental Studio",
+     "date": "2026-10-03T12:21",
+     "body": "Belmont Dental Studio: Hi Hannah, confirming Sat 10/17 at 10:00 AM. Reply Y to confirm."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-03T15:10",
+     "body": "Y"
+    }
+   ]
+  },
+  {
+   "id": "t16",
+   "with": "Dad",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Dad",
+     "date": "2026-10-04T18:20",
+     "body": "Hannah what time tomorrow"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-04T18:35",
+     "body": "Picking you up at 1:15. Shoes on and walker by the door please"
+    },
+    {
+     "from": "Dad",
+     "date": "2026-10-04T18:37",
+     "body": "I'll be ready. Jenna said I can try the cane at home"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-04T18:40",
+     "body": "Indoors only and only when someone's there. Not on the back stairs"
+    },
+    {
+     "from": "Dad",
+     "date": "2026-10-05T15:50",
+     "body": "Thanks for the ride sweetheart. Kim brought soup"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T17:15",
+     "body": "How was PT today? Did the CareRide driver come to the door?"
+    },
+    {
+     "from": "Dad",
+     "date": "2026-10-07T17:40",
+     "body": "Andre. Nice guy. Came right to the door. Jenna worked me hard"
+    }
+   ]
+  },
+  {
+   "id": "t17",
+   "with": "Erin Brooks",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Erin Brooks",
+     "date": "2026-10-05T10:30",
+     "body": "Hi! Nora's party is Sunday 10/18, 2-4:30. Unicorn theme, sorry in advance. Can you and Caleb come?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T11:02",
+     "body": "We'll be there! Anything she wants?"
+    },
+    {
+     "from": "Erin Brooks",
+     "date": "2026-10-05T11:10",
+     "body": "She's obsessed with the Magna-Tiles at school. Tom's coming too, Ben's picking him up so you don't have to"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T11:12",
+     "body": "Perfect. I'll bring a fruit tray"
+    }
+   ]
+  },
+  {
+   "id": "t18",
+   "with": "Employee Health",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Employee Health",
+     "date": "2026-10-05T11:16",
+     "body": "Lakeshore General Employee Health: N95 fit test Thu 10/22 7:45 AM, Room B-114. Reply Y to confirm."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T12:50",
+     "body": "Y"
+    }
+   ]
+  },
+  {
+   "id": "t19",
+   "with": "Greg Haskins",
+   "unread": false,
+   "messages": [
+    {
+     "from": "me",
+     "date": "2026-10-05T17:20",
+     "body": "Hi Greg, 2R here. Monday 9-12 works. Our dog Biscuit will be home with me, he barks but he's friendly"
+    },
+    {
+     "from": "Greg Haskins",
+     "date": "2026-10-05T17:45",
+     "body": "Thanks Hannah. Victor will text when he's on his way. Also the back door closer is fixed"
+    }
+   ]
+  },
+  {
+   "id": "t20",
+   "with": "CareRide Chicago",
+   "unread": false,
+   "messages": [
+    {
+     "from": "CareRide Chicago",
+     "date": "2026-10-07T13:02",
+     "body": "CareRide: Andre W. (silver Toyota Sienna, plate CF 48219) is on the way to pick up Thomas at 4115 N Hermitage Ave. ETA 1:12 PM."
+    },
+    {
+     "from": "CareRide Chicago",
+     "date": "2026-10-07T15:45",
+     "body": "CareRide: Thomas was dropped off at 4115 N Hermitage Ave. Rate your ride: carerideschicago.com/r/88431"
+    }
+   ]
+  }
+ ],
+ "whatsapp": [
+  {
+   "id": "w1",
+   "chat": "Biscuit care",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Maya",
+     "date": "2026-09-15T21:30",
+     "body": "Biscuit had dinner, 1 cup kibble plus the pumpkin. Walk done, he's on your side of the bed"
+    },
+    {
+     "from": "Caleb",
+     "date": "2026-09-15T21:45",
+     "body": "That's his side now honestly. Thanks Maya"
+    },
+    {
+     "from": "Maya",
+     "date": "2026-09-16T07:45",
+     "body": "Morning walk done. I'll stay till Hannah's home"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-16T07:58",
+     "body": "Pulling up now! Thank you"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-17T07:52",
+     "body": "Sent $140 for Tue and Wed nights. Caleb is back tonight so no need for tonight. See you in 5"
+    },
+    {
+     "from": "Maya",
+     "date": "2026-09-17T07:54",
+     "body": "Got it, thank you! He's the best boy"
+    }
+   ]
+  },
+  {
+   "id": "w2",
+   "chat": "Brunch Club",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Priya",
+     "date": "2026-09-17T15:12",
+     "body": "Dana is the bride so she doesn't pay for anything this weekend"
+    },
+    {
+     "from": "Priya",
+     "date": "2026-09-24T20:15",
+     "body": "I put down the dinner deposit for Friday night, $300"
+    },
+    {
+     "from": "Dana",
+     "date": "2026-10-01T19:30",
+     "body": "Welcome dinner in Nashville is Friday Oct 23, everyone has to be landed by 5pm"
+    },
+    {
+     "from": "Dana",
+     "date": "2026-10-03T11:45",
+     "body": "Brunch moving to Sun 10/11, Hannah has Caleb's mom this weekend. Marigold Kitchen 11am, I'll put our name down at 10:45"
+    },
+    {
+     "from": "Jules",
+     "date": "2026-10-03T11:50",
+     "body": "Works"
+    },
+    {
+     "from": "Priya",
+     "date": "2026-10-03T12:05",
+     "body": "I can do 11:15ish, church thing with my mom first"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-03T12:10",
+     "body": "I'll be there at 11. Dana covered mimosas last time so this round's on me"
+    },
+    {
+     "from": "Jules",
+     "date": "2026-10-04T09:30",
+     "body": "Wait is it the Marigold on Southport or the Lincoln Square one"
+    },
+    {
+     "from": "Dana",
+     "date": "2026-10-04T09:41",
+     "body": "Southport. 3524 N Southport"
+    }
+   ]
+  },
+  {
+   "id": "w3",
+   "chat": "Lakeview Dog Owners",
+   "unread": true,
+   "messages": [
+    {
+     "from": "Tara",
+     "date": "2026-09-24T16:50",
+     "body": "PSA the new peanut butter bones at the Southport farmers market have chicken broth in them, ask before you buy if your dog has allergies"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-24T17:10",
+     "body": "Thank you! Mine's allergic to chicken, good to know"
+    },
+    {
+     "from": "Mike",
+     "date": "2026-09-24T18:30",
+     "body": "Also coyote seen near Hamlin Park at dusk, keep small dogs leashed"
+    },
+    {
+     "from": "Tara",
+     "date": "2026-10-06T08:05",
+     "body": "Dog costume parade at Hamlin Park Sat 10/24, 10am, $10 entry goes to PAWS"
+    }
+   ]
+  },
+  {
+   "id": "w4",
+   "chat": "Brooks Family",
+   "unread": false,
+   "messages": [
+    {
+     "from": "me",
+     "date": "2026-09-28T13:05",
+     "body": "Ortho follow-up done. Dr. Halpern says the hip looks great on X-ray. Hip precautions 4 more weeks, meloxicam 2 more weeks then stop. Next visit Nov 23"
+    },
+    {
+     "from": "Aunt Carol",
+     "date": "2026-09-28T13:20",
+     "body": "Wonderful news Tom!"
+    },
+    {
+     "from": "Ben",
+     "date": "2026-09-28T13:31",
+     "body": "Great. Dad that means no driving yet right?"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-28T13:40",
+     "body": "Right, not until he's cleared. Rides stay the same as this month until CareRide's Friday service ends Oct 9: me Mondays, Carol Wednesdays, CareRide Fridays."
+    },
+    {
+     "from": "Dad",
+     "date": "2026-09-28T14:02",
+     "body": "I could drive fine"
+    },
+    {
+     "from": "Ben",
+     "date": "2026-09-28T14:03",
+     "body": "Dad."
+    },
+    {
+     "from": "Erin Brooks",
+     "date": "2026-10-06T19:10",
+     "body": "Reminder Nora's party 10/18! Tom, Ben will grab you at 1:30"
+    },
+    {
+     "from": "Dad",
+     "date": "2026-10-06T19:22",
+     "body": "Wouldn't miss it"
+    }
+   ]
+  },
+  {
+   "id": "w5",
+   "chat": "Jules 30th MKE",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Priya",
+     "date": "2026-09-29T12:15",
+     "body": "Airbnb is booked: Riverwest flat, Nov 13-15, $612 total. $153 each, Venmo @priya-raman"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-29T13:02",
+     "body": "Sent!"
+    },
+    {
+     "from": "Dana",
+     "date": "2026-09-30T08:20",
+     "body": "Sent. Who's driving? I can take 3 in the Rav4"
+    },
+    {
+     "from": "Jules",
+     "date": "2026-09-30T09:10",
+     "body": "Paid. I'm driving up early Friday"
+    },
+    {
+     "from": "Priya",
+     "date": "2026-10-01T18:00",
+     "body": "Friday dinner at Cafe Mirela booked for 8:30 under Raman. $40pp deposit went on my card"
+    },
+    {
+     "from": "Priya",
+     "date": "2026-10-01T18:05",
+     "body": "Tally: Airbnb all paid. Dinner deposit $160, Jules doesn't pay on her birthday, so Hannah and Dana $53.33 each to me"
+    },
+    {
+     "from": "Dana",
+     "date": "2026-10-01T18:20",
+     "body": "Lol fine. Sending $53.33"
+    },
+    {
+     "from": "Jules",
+     "date": "2026-10-01T18:31",
+     "body": "I love you all, I'm buying the first round Saturday"
+    }
+   ]
+  },
+  {
+   "id": "w6",
+   "chat": "Linda Novak",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Linda Novak",
+     "date": "2026-10-05T10:15",
+     "body": "Thank you both for a lovely weekend! Biscuit was such a gentleman. I left the casserole dish, keep it"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T10:40",
+     "body": "So glad you came! Sorry I was a zombie Saturday morning"
+    },
+    {
+     "from": "Linda Novak",
+     "date": "2026-10-05T10:42",
+     "body": "You work too hard. Are you two still coming to Madison for Thanksgiving?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T11:00",
+     "body": "Depends on the holiday schedule, I'll know after the 16th. If I get Thanksgiving off we're there"
+    }
+   ]
+  },
+  {
+   "id": "w7",
+   "chat": "3412 N Wilton Neighbors",
+   "unread": true,
+   "messages": [
+    {
+     "from": "Sam (3F)",
+     "date": "2026-10-05T17:00",
+     "body": "Did everyone get Greg's email about radiators? Mine's been banging since last winter"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T17:30",
+     "body": "Got it. Also someone opened one of our boxes in the vestibule last month, keep an eye out"
+    },
+    {
+     "from": "Nadia (1R)",
+     "date": "2026-10-05T17:41",
+     "body": "Same thing happened to me. I'm sending stuff to the Walgreens on Clark now, they have lockers"
+    },
+    {
+     "from": "Sam (3F)",
+     "date": "2026-10-06T09:12",
+     "body": "Recycling pickup moves to Wednesdays starting next week per the city"
+    }
+   ]
+  },
+  {
+   "id": "w8",
+   "chat": "7W Night Crew",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Keisha",
+     "date": "2026-10-06T18:40",
+     "body": "Anyone want to swap Thu 10/15 for Sun 10/18? Need the Thursday for my sister's thing"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T18:52",
+     "body": "Can't, I have Nora's party Sunday and I'm precepting Ashley that week"
+    },
+    {
+     "from": "Tomas",
+     "date": "2026-10-06T19:05",
+     "body": "I'll take it if Marisol ok's it"
+    },
+    {
+     "from": "Rob",
+     "date": "2026-10-07T04:15",
+     "body": "Whoever parked in the ED ambulance bay again, security is ticketing"
+    },
+    {
+     "from": "Keisha",
+     "date": "2026-10-07T04:20",
+     "body": "Not me lol"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T06:50",
+     "body": "Pastries from Belmont Bakehouse in the break room, birthday week for Tomas"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "id": "n1",
+   "title": "Biscuit - allergy",
+   "updated": "2026-02-04T19:20",
+   "body": "Biscuit is allergic to chicken - no chicken anything, including flavorings in treats.\nConfirmed by Dr. Kowalski after the food trial (Feb 2026). Itchy paws and ear flare within 3 days of chicken.\nAlso watch for: chicken meal, chicken fat, chicken broth, poultry flavor, 'natural flavor' (ask the company).\nSafe food: Natural Balance L.I.D. Sweet Potato & Fish, 1 cup twice a day."
+  },
+  {
+   "id": "n2",
+   "title": "Biscuit - when we're both out",
+   "updated": "2026-02-11T20:00",
+   "body": "Biscuit is home alone otherwise - someone must be with him.\nSeparation anxiety: chewed the door frame and the blinds in January when we were gone 6 hours.\nIf Caleb and I are both out more than 2 hours, or overnight, book Maya.\nMaya: (773) 555-0193. Backup: Dana (has a key).\nFood: 1 cup kibble at 7am and 6pm, spoon of plain pumpkin at night.\nWalks: 7am, noon-ish, 5pm, 10pm.\nVet: Lakeview Animal Hospital (773) 555-0150. After hours: VEG Chicago North (773) 555-0102."
+  },
+  {
+   "id": "n3",
+   "title": "Sleep after night shifts",
+   "updated": "2026-05-06T16:30",
+   "body": "After a night shift I sleep until 4pm, phone on do-not-disturb.\nEmergency bypass on for Caleb, Dad and Ben only.\nBlackout curtains, fan on, earplugs in the nightstand.\nDon't book anything before 4 on Wed, Thu or Fri. Appointments go on Mondays or Saturdays, or 7:30-8:30 AM right after shift if it's at the hospital.\nNo caffeine after 3 AM on shift."
+  },
+  {
+   "id": "n4",
+   "title": "Work day routine",
+   "updated": "2026-05-07T15:00",
+   "body": "On work days I leave for the hospital at 5:30pm.\nPark in Garage C, level 4 (night staff rate $6).\nPack: 2 meals, protein bar, compression socks, badge, stethoscope, charger.\nBiscuit walk at 5:00 before I go. Caleb does the 10pm one.\nShifts Tue/Wed/Thu 7p-7:30a. Report at 6:45."
+  },
+  {
+   "id": "n5",
+   "title": "Galena trip",
+   "updated": "2026-06-22T12:00",
+   "body": "Airbnb $487.96 on my card, Caleb paid back $243.98\nGas $46 - Caleb\nDinner at the brewpub on Main St $112 - Caleb\nWinery tasting $40 - me\nMaya $140 - split\nDoug & Pam were great hosts. Go back in the fall?"
+  },
+  {
+   "id": "n6",
+   "title": "Rent & bills - Caleb and me",
+   "updated": "2026-09-02T20:00",
+   "body": "Rent $2,150 to Wilton Court on the 1st from my checking. Caleb Zelles me $1,075.\nComEd - me (autopay, $70-90)\nPeoples Gas - Caleb\nXfinity $65 - Caleb\nGroceries - alternate weeks\nBiscuit (food, vet, Maya) - 50/50, settle at end of month\nAugust: Caleb owed me $143.20 for Biscuit (half of Chewy + Maya). Paid 9/2."
+  },
+  {
+   "id": "n7",
+   "title": "Nashville - Dana's bachelorette",
+   "updated": "2026-09-17T16:55",
+   "body": "Priya and I split the Nashville Airbnb for Dana's bachelorette, $1,200 total. I paid it on my card."
+  },
+  {
+   "id": "n8",
+   "title": "Saugatuck weekend",
+   "updated": "2026-09-21T18:30",
+   "body": "NO sushi (Caleb, firmly).\nSaugatuck Airbnb booked: Sat 11/7 4pm - Sun 11/8 11am, $452.06 on my card. Caleb pays for dinner + gas.\nDinner ideas: Harbor Lantern Bistro (steak, call, no online booking), Pinewood Pizza Co., the taco place by the chain ferry.\nMaya Sat 11am - Sun 3pm, $110."
+  },
+  {
+   "id": "n9",
+   "title": "Cosequin soft chews",
+   "updated": "2026-09-24T17:05",
+   "body": "Cosequin soft chews ingredients include chicken flavoring.\nSaw it on the label at Petco on Clark, under inactive ingredients.\nAsk Dr. Kowalski at the 10/26 recheck what else there is for his hips."
+  },
+  {
+   "id": "n10",
+   "title": "Biscuit treats - checked",
+   "updated": "2026-09-25T18:00",
+   "body": "OK (no chicken):\n- Zuke's Mini Naturals Salmon\n- Whimzees Alligator (veggie)\n- Plain pumpkin, carrots, apple slices (no seeds)\n- Simparica Trio (pork liver flavor, vet ok'd)\n\nNO:\n- Milk-Bone Soft & Chewy (chicken)\n- Greenies (poultry flavor)\n- Pupperoni\n- Peanut butter bones from the Southport market (chicken broth)\n- Anything from Dad's kitchen, he sneaks him rotisserie chicken"
+  },
+  {
+   "id": "n11",
+   "title": "Milwaukee - Jules 30th",
+   "updated": "2026-10-01T18:40",
+   "body": "Fri 11/13 - Sun 11/15, Riverwest flat (Priya booked).\nAirbnb $612 / 4 = $153 - PAID Priya 9/29.\nCafe Mirela dinner deposit $160, Jules free = $53.33 each for me and Dana. Owe Priya.\nDriving: Priya and me, leave Fri after 5 (I sleep till 4 after Thursday). Jules goes up early.\nNo gifts. Card + the Loyola photo book."
+  },
+  {
+   "id": "n12",
+   "title": "Halloween at Ramirez's",
+   "updated": "2026-10-02T19:00",
+   "body": "Sat 10/31 8pm, 1842 S. Throop, 2nd floor. Costumes mandatory.\nCaleb = traffic cone. Me = construction worker to match?\nBring buffalo chicken dip, double batch. Lyft both ways.\nSitter 7:30 till midnight - ask Maya."
+  },
+  {
+   "id": "n13",
+   "title": "Holiday requests 2026",
+   "updated": "2026-10-04T15:10",
+   "body": "Due to Marisol by 10/16.\nWorked Thanksgiving 2025, so expected to take a Christmas shift this year.\n1st choice: work Christmas Eve night 12/24, off Thanksgiving (Madison with Caleb's family)\n2nd choice: work 12/25 night\nDad does Christmas morning at Ben's, I can come after I sleep."
+  },
+  {
+   "id": "n14",
+   "title": "Dr. Stein - physical 10/19",
+   "updated": "2026-10-04T16:20",
+   "body": "Fasting 10 hrs, nothing after 11pm Sunday.\nAsk:\n- Migraines up to 3-4/month since starting nights. Sumatriptan works, 9 a month enough?\n- Sleep averaging 6 hrs on work days\n- Vitamin D, was 18 in March\n- Birth control refill for 12 months\n- Tetanus, last one 2017?\nAfter: Dad has PT at 2."
+  },
+  {
+   "id": "n15",
+   "title": "Employee Health 2026",
+   "updated": "2026-10-05T13:00",
+   "body": "Flu shot - last year 10/1/25 at Employee Health (Flucelvax, after shift)\nTB QuantiFERON - last one 9/3/25, negative\nN95 fit test - Thu 10/22 7:45 AM, B-114, bring 3M 1870+\nHep B titer - on file\nACLS - expires 11/2026, renewal class Mon 11/2\nBLS - good till 4/2027\nEmployee Health hours 7-3:30 M-F, go right after shift."
+  },
+  {
+   "id": "n16",
+   "title": "Maya - payments",
+   "updated": "2026-10-05T16:00",
+   "body": "Rates: drop-in $25, afternoon sit (up to 3 hrs) $45, overnight 6:30p-8a $70\nVenmo @Maya-Castellanos\n\n6/19-6/21 Galena: 2 overnights = $140 PAID\n9/14 Mon PT sit $45 PAID\n9/15-9/16 Caleb's Indy trip: 2 overnights = $140 PAID 9/17\n9/21 Mon PT sit $45 PAID\n9/28 Mon PT sit $45 PAID\n10/5 Mon PT sit $45 - owe\n11/7-11/8 Saugatuck: $110 (booked)\n10/31 Halloween 7:30p-midnight - ask her"
+  },
+  {
+   "id": "n17",
+   "title": "Dad's PT rides",
+   "updated": "2026-10-05T19:25",
+   "body": "PT every Mon, Wed, Fri at 2pm, Northwestern Rehab, 211 E. Chestnut, 4th floor. Through Nov 20.\nSeptember setup, through Fri 10/9:\nMon: me. Pick up 1:15. Maya with Biscuit 1-4.\nWed: Aunt Carol. (10/7 her eye appt, CareRide booked, 1:12 pickup)\nFri: CareRide, 1:15 pickup, on my Chase card. Ben pays half at the end of the month. CareRide's Friday service ends 10/9.\nParking: Chestnut garage, validate at front desk = $9.\nBring walker, water bottle, his reading glasses for forms.\nNov 2: I'm at ACLS all day, Ben said he'd take that Monday."
+  },
+  {
+   "id": "n18",
+   "title": "Dad - meds",
+   "updated": "2026-10-06T15:00",
+   "body": "Atorvastatin 40mg - night\nLisinopril 10mg - morning\nMeloxicam 7.5mg - with breakfast, stop around 10/12 (ortho 9/28)\nTylenol 500mg x2 up to 3x/day as needed (Priya: max 3g/day)\nEliquis 2.5mg - FINISHED 9/22 (35 days after surgery)\nWalgreens #3318 on Lincoln. I'm caregiver on his myWalgreens.\nPill organizer refill Sundays (Ben or me)."
+  },
+  {
+   "id": "n19",
+   "title": "Groceries",
+   "updated": "2026-10-06T15:30",
+   "body": "Jewel: eggs, spinach, Greek yogurt, oat milk (Caleb), bananas, frozen dumplings, ground turkey, tortillas, canned pumpkin (plain, NOT pie filling) for Biscuit, coffee, LaCroix\nTrader Joe's: everything bagels, mandarin orange chicken (Caleb), cold brew concentrate\nFor shift: protein bars, string cheese, clementines"
+  },
+  {
+   "id": "n20",
+   "title": "Saugatuck packing",
+   "updated": "2026-10-07T16:50",
+   "body": "Hiking boots, rain jacket, 2 sweaters, dinner outfit, chargers, speaker.\nFor Maya: food scoop out, pumpkin, Zuke's salmon treats, key under the planter, Venmo $110.\nLeave by 11 Sat. Driveway parking at the cottage."
+  }
+ ],
+ "calendar": [
+  {
+   "id": "c1",
+   "title": "Dinner at Dana's",
+   "start": "2026-09-26T19:00",
+   "end": "2026-09-26T22:00",
+   "location": "Dana's, 2245 W. Roscoe St",
+   "notes": "Bring wine and lemon bars. Caleb coming."
+  },
+  {
+   "id": "c2",
+   "title": "Dad - ortho follow-up, Dr. Halpern",
+   "start": "2026-09-28T10:00",
+   "end": "2026-09-28T11:00",
+   "location": "Northwestern Orthopaedics, 676 N. St. Clair St, Suite 1350",
+   "notes": "6-week post-op X-ray. Bring med list. PT at 2 after."
+  },
+  {
+   "id": "c3",
+   "title": "Badge renewal - Security",
+   "start": "2026-10-01T07:40",
+   "end": "2026-10-01T08:00",
+   "location": "Lakeshore General, Security Office, Pavilion A lobby",
+   "notes": "Walk-in right after shift. Bring old badge."
+  },
+  {
+   "id": "c4",
+   "title": "Linda visiting",
+   "start": "2026-10-03T12:00",
+   "end": "2026-10-04T17:00",
+   "location": "Home",
+   "notes": "Caleb's mom driving in from Madison. Dinner Sat at Tavola on Clark, 7pm. Clean the office for the air mattress."
+  },
+  {
+   "id": "c5",
+   "title": "Sleep - do not disturb until 4pm",
+   "start": "2026-10-08T08:00",
+   "end": "2026-10-08T16:00",
+   "location": "Home",
+   "notes": "Repeats on mornings after night shifts (Wednesday, Thursday, Friday). Phone on do-not-disturb."
+  },
+  {
+   "id": "c6",
+   "title": "Night shift - MICU 7 West",
+   "start": "2026-10-08T19:00",
+   "end": "2026-10-09T07:30",
+   "location": "Lakeshore General Hospital, 7 West MICU",
+   "notes": "Night shift 7pm-7:30am, repeats every Tuesday, Wednesday and Thursday. Series started May 5, 2026. Leave home 5:30pm."
+  },
+  {
+   "id": "c7",
+   "title": "Brunch - Marigold Kitchen",
+   "start": "2026-10-11T11:00",
+   "end": "2026-10-11T12:30",
+   "location": "Marigold Kitchen, 3524 N. Southport Ave",
+   "notes": "Dana, Priya, Jules. My turn for mimosas. Pay Priya $53.33."
+  },
+  {
+   "id": "c8",
+   "title": "Radiator bleeding - Victor",
+   "start": "2026-10-12T09:00",
+   "end": "2026-10-12T12:00",
+   "location": "Home, Apt 2R",
+   "notes": "Clear a path to the radiators. Biscuit in the bedroom."
+  },
+  {
+   "id": "c9",
+   "title": "Dad PT - Northwestern Rehab",
+   "start": "2026-10-12T14:00",
+   "end": "2026-10-12T15:00",
+   "location": "Northwestern Rehab Outpatient Therapy, 211 E. Chestnut St, 4th Floor",
+   "notes": "Dad's PT repeats Mon, Wed, Fri at 2pm through Nov 20. CareRide's Friday service ends 10/9."
+  },
+  {
+   "id": "c10",
+   "title": "Biscuit annual check-up",
+   "start": "2026-10-12T16:30",
+   "end": "2026-10-12T17:00",
+   "location": "Lakeview Animal Hospital, 3150 N. Southport Ave",
+   "notes": "Dr. Kowalski."
+  },
+  {
+   "id": "c11",
+   "title": "Dentist - Belmont Dental Studio",
+   "start": "2026-10-17T10:00",
+   "end": "2026-10-17T11:00",
+   "location": "Belmont Dental Studio, 1010 W. Belmont Ave",
+   "notes": "Cleaning + bitewings with Dr. Siddiqui and Leah."
+  },
+  {
+   "id": "c12",
+   "title": "Nora's 6th birthday",
+   "start": "2026-10-18T14:00",
+   "end": "2026-10-18T16:30",
+   "location": "Ben & Erin's, 1027 S. Euclid Ave, Oak Park",
+   "notes": "Gift: Magna-Tiles. Bring fruit tray. Ben picking up Dad at 1:30."
+  },
+  {
+   "id": "c13",
+   "title": "Annual physical - Dr. Stein",
+   "start": "2026-10-19T09:00",
+   "end": "2026-10-19T09:45",
+   "location": "Lakeshore Primary Care, 2835 N. Sheffield Ave, Suite 210",
+   "notes": "Fasting 10 hrs. Questions in notes. Dad PT at 2."
+  },
+  {
+   "id": "c14",
+   "title": "N95 fit test",
+   "start": "2026-10-22T07:45",
+   "end": "2026-10-22T08:15",
+   "location": "Lakeshore General, Employee Health Room B-114",
+   "notes": "Right after shift. Nothing but water 30 min before. Bring 3M 1870+."
+  },
+  {
+   "id": "c15",
+   "title": "Night shift - MICU 7 West",
+   "start": "2026-10-22T19:00",
+   "end": "2026-10-23T07:30",
+   "location": "Lakeshore General Hospital, 7 West MICU",
+   "notes": "Thursday night, off at 7:30am Friday 10/23."
+  },
+  {
+   "id": "c16",
+   "title": "Biscuit recheck - Dr. Kowalski",
+   "start": "2026-10-26T10:30",
+   "end": "2026-10-26T11:00",
+   "location": "Lakeview Animal Hospital, 3150 N. Southport Ave",
+   "notes": "Hind-limb stiffness recheck. Bring treat list."
+  },
+  {
+   "id": "c17",
+   "title": "Halloween at Ramirez & Elena's",
+   "start": "2026-10-31T20:00",
+   "end": "2026-11-01T00:00",
+   "location": "1842 S. Throop St, 2nd Floor",
+   "notes": "Costumes. Buffalo chicken dip. Lyft. Sitter till midnight."
+  },
+  {
+   "id": "c18",
+   "title": "Anniversary with Caleb",
+   "start": "2026-11-01T00:00",
+   "end": "2026-11-01T23:59",
+   "location": "",
+   "notes": ""
+  },
+  {
+   "id": "c19",
+   "title": "ACLS renewal",
+   "start": "2026-11-02T08:30",
+   "end": "2026-11-02T16:30",
+   "location": "Lakeshore General Simulation Center, Pavilion B, 2nd Floor",
+   "notes": "Print pre-assessment certificate. Pack lunch. Ben taking Dad to PT."
+  },
+  {
+   "id": "c20",
+   "title": "Saugatuck weekend",
+   "start": "2026-11-07T11:00",
+   "end": "2026-11-08T15:00",
+   "location": "418 Griffith St, Saugatuck, MI 49453",
+   "notes": "Airbnb check-in 4pm Sat, checkout 11am Sun. Confirmation HMQ4X8K2TZ. Maya with Biscuit Sat 11am - Sun 3pm."
+  }
+ ],
+ "assistant_chats": [
+  {
+   "id": "a1",
+   "date": "2026-09-14T15:30",
+   "turns": [
+    {
+     "role": "user",
+     "text": "Can you give me a list of dog treats without chicken? Biscuit's allergic, even to chicken flavoring."
+    },
+    {
+     "role": "assistant",
+     "text": "Some to look at: Zuke's Mini Naturals Salmon, Whimzees (vegetable-based chews), and single-ingredient fish skins like dehydrated salmon skin. Plain pumpkin, carrots and apple slices without seeds also work. Formulas change, so check each label for chicken, chicken meal, chicken fat, chicken broth and poultry or natural flavor before you buy."
+    },
+    {
+     "role": "user",
+     "text": "Add pumpkin and carrots and save it as a note. I'll fill in the rest after I check labels."
+    },
+    {
+     "role": "assistant",
+     "text": "Saved a note called 'Biscuit treats - checked' with Zuke's Salmon, Whimzees, plain pumpkin, carrots and apple slices under OK. You can add the NO list as you go."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "date": "2026-09-20T20:50",
+   "turns": [
+    {
+     "role": "user",
+     "text": "Help me find a Saugatuck Airbnb for Nov 7, one night, under $500 total, walkable to downtown."
+    },
+    {
+     "role": "assistant",
+     "text": "Three options fit: a cottage on Griffith St hosted by Linnea, $452 total, 5-minute walk to downtown, free cancellation until Oct 31; a studio above a shop on Butler St, $398 but street parking only; and a 2-bedroom near Oval Beach at $489, which is a 20-minute walk to town."
+    },
+    {
+     "role": "user",
+     "text": "Booked Linnea's. Put it on my calendar and remind me to ask Maya about Biscuit."
+    },
+    {
+     "role": "assistant",
+     "text": "Added 'Saugatuck weekend' for Saturday, Nov 7 to Sunday, Nov 8, check-in 4 PM, checkout 11 AM, confirmation HMQ4X8K2TZ. I'll remind you tomorrow at 5 PM to text Maya about Saturday into Sunday."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "date": "2026-10-05T21:00",
+   "turns": [
+    {
+     "role": "user",
+     "text": "Ben says September CareRide was $220 and his half is $110. Does that match the receipts?"
+    },
+    {
+     "role": "assistant",
+     "text": "Yes. There are four $55 round-trip receipts in September: Friday 9/11, Friday 9/18, Thursday 9/24 (the moved Wednesday visit) and Friday 9/25. That's $220, so half is $110. Ben's $110 Venmo came in last night at 8:28 PM."
+    },
+    {
+     "role": "user",
+     "text": "Great. October so far?"
+    },
+    {
+     "role": "assistant",
+     "text": "One so far: Friday 10/2, $55.00 round trip. The next booked ride is Wednesday 10/7 at 1:12 PM, since Carol has her eye appointment."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "date": "2026-10-06T13:30",
+   "turns": [
+    {
+     "role": "user",
+     "text": "What do I still owe Priya for Milwaukee?"
+    },
+    {
+     "role": "assistant",
+     "text": "You paid her $153 for the Airbnb on 9/29. Still open: $53.33, your share of the Cafe Mirela dinner deposit she put on her card on 10/1. Dana has already paid hers."
+    },
+    {
+     "role": "user",
+     "text": "Remind me Sunday at brunch."
+    },
+    {
+     "role": "assistant",
+     "text": "Done. Reminder set for Sunday, Oct 11 at 11:00 AM: pay Priya $53.33 for the Milwaukee dinner deposit."
+    }
+   ]
+  }
+ ],
+ "transactions": [
+  {
+   "id": "x1",
+   "date": "2026-08-14T17:11",
+   "account": "Chase Freedom ending 6612",
+   "description": "WALGREENS #3318 CHICAGO IL",
+   "amount": -77.36
+  },
+  {
+   "id": "x2",
+   "date": "2026-08-21T09:50",
+   "account": "Chase Freedom ending 6612",
+   "description": "CHEWY.COM REFUND",
+   "amount": 64.98
+  },
+  {
+   "id": "x3",
+   "date": "2026-09-14T10:05",
+   "account": "Chase Freedom ending 6612",
+   "description": "LAKEVIEW ANIMAL HOSPITAL",
+   "amount": -286.4
+  },
+  {
+   "id": "x4",
+   "date": "2026-09-17T07:51",
+   "account": "Chase checking ending 3307",
+   "description": "VENMO PAYMENT MAYA CASTELLANOS",
+   "amount": -140.0
+  },
+  {
+   "id": "x5",
+   "date": "2026-09-17T16:48",
+   "account": "Chase Freedom ending 6612",
+   "description": "AIRBNB * HMB7N3KXQ2",
+   "amount": -1200.0
+  },
+  {
+   "id": "x6",
+   "date": "2026-09-20T21:14",
+   "account": "Chase Freedom ending 6612",
+   "description": "AIRBNB * HMQ4X8K2TZ",
+   "amount": -452.06
+  },
+  {
+   "id": "x7",
+   "date": "2026-09-21T06:00",
+   "account": "Chase checking ending 3307",
+   "description": "COMED AUTOPAY",
+   "amount": -88.64
+  },
+  {
+   "id": "x8",
+   "date": "2026-09-25T00:01",
+   "account": "Chase checking ending 3307",
+   "description": "LAKESHORE GENERAL PAYROLL DIR DEP",
+   "amount": 2486.12
+  },
+  {
+   "id": "x9",
+   "date": "2026-09-25T15:50",
+   "account": "Chase Freedom ending 6612",
+   "description": "CARERIDE CHICAGO",
+   "amount": -55.0
+  },
+  {
+   "id": "x10",
+   "date": "2026-09-28T14:20",
+   "account": "Chase Freedom ending 6612",
+   "description": "CHEWY.COM AUTOSHIP",
+   "amount": -81.05
+  },
+  {
+   "id": "x11",
+   "date": "2026-09-28T16:30",
+   "account": "Chase checking ending 3307",
+   "description": "VENMO PAYMENT MAYA CASTELLANOS",
+   "amount": -45.0
+  },
+  {
+   "id": "x12",
+   "date": "2026-09-28T17:12",
+   "account": "Chase Freedom ending 6612",
+   "description": "WALGREENS #7742 IMMUNIZATION FLU VACCINE",
+   "amount": -40.99
+  },
+  {
+   "id": "x13",
+   "date": "2026-09-29T13:01",
+   "account": "Chase checking ending 3307",
+   "description": "VENMO PAYMENT PRIYA RAMAN",
+   "amount": -153.0
+  },
+  {
+   "id": "x14",
+   "date": "2026-10-01T06:00",
+   "account": "Chase checking ending 3307",
+   "description": "ZELLE TO WILTON COURT PROPERTIES RENT OCT",
+   "amount": -2150.0
+  },
+  {
+   "id": "x15",
+   "date": "2026-10-01T08:14",
+   "account": "Chase checking ending 3307",
+   "description": "ZELLE FROM CALEB NOVAK RENT",
+   "amount": 1075.0
+  },
+  {
+   "id": "x16",
+   "date": "2026-10-02T15:54",
+   "account": "Chase Freedom ending 6612",
+   "description": "CARERIDE CHICAGO",
+   "amount": -55.0
+  },
+  {
+   "id": "x17",
+   "date": "2026-10-03T21:05",
+   "account": "Chase Freedom ending 6612",
+   "description": "TAVOLA ON CLARK CHICAGO IL",
+   "amount": -126.4
+  },
+  {
+   "id": "x18",
+   "date": "2026-10-04T20:28",
+   "account": "Chase checking ending 3307",
+   "description": "VENMO CASHOUT FROM BEN BROOKS",
+   "amount": 110.0
+  },
+  {
+   "id": "x19",
+   "date": "2026-10-05T15:40",
+   "account": "Chase Freedom ending 6612",
+   "description": "WALGREENS #7742 CHICAGO IL",
+   "amount": -10.0
+  },
+  {
+   "id": "x20",
+   "date": "2026-10-05T19:40",
+   "account": "Chase Freedom ending 6612",
+   "description": "JEWEL OSCO #3443 CHICAGO IL",
+   "amount": -84.17
+  },
+  {
+   "id": "x21",
+   "date": "2026-10-07T15:58",
+   "account": "Chase Freedom ending 6612",
+   "description": "CARERIDE CHICAGO",
+   "amount": -55.0
+  }
+ ]
+}
