@@ -1,0 +1,202 @@
+{
+ "source": "wei",
+ "style": [
+  {
+   "section": "email",
+   "record": {
+    "from": "Parkside Inn, Flushing <reservations@parksideinnflushing.com>",
+    "to": "me",
+    "date": "2026-03-23T11:10",
+    "subject": "Your folio - PKF-701356",
+    "body": "Guest: Hong Li\nStay: March 18-23, 2026 (5 nights)\n\nRoom, queen ground floor, 5 x $169.00: $845.00\nBreakfast add-on, 5 x $14.00: $70.00\nTaxes and fees: $133.94\n\nTotal: $1,048.94\nCharged to: Visa ending 4417\n\nThank you for staying with us.",
+    "unread": false
+   }
+  },
+  {
+   "section": "email",
+   "record": {
+    "from": "Rosa Delgado <rdelgado@harmonyhomecareny.com>",
+    "to": "me",
+    "date": "2026-10-02T11:48",
+    "subject": "Fang - Monday, October 12",
+    "body": "Hi Mr. Zhang,\n\nFang let us know she can't work Monday, October 12 (family commitment). We can send Yolanda Reyes, who covered for Fang in June, from 8 AM to 1 PM. Please let me know by Thursday 10/8 whether you'd like the substitute or if family will cover. There's no charge for 10/12 if no aide is sent.\n\nThank you,\nRosa Delgado\nCare Coordinator, Harmony Home Care",
+    "unread": false
+   }
+  },
+  {
+   "section": "texts",
+   "record": {
+    "with": "Verado Home Delivery",
+    "unread": false,
+    "messages": [
+     {
+      "from": "Verado Home Delivery",
+      "date": "2026-09-22T09:14",
+      "body": "Verado: Your package for LIN Z (order 7731-0942) is out for delivery today."
+     },
+     {
+      "from": "Verado Home Delivery",
+      "date": "2026-09-22T13:47",
+      "body": "Verado: Delivered. Left at front door."
+     }
+    ]
+   }
+  },
+  {
+   "section": "texts",
+   "record": {
+    "with": "Briarwood Dental Arts",
+    "unread": false,
+    "messages": [
+     {
+      "from": "Briarwood Dental Arts",
+      "date": "2026-10-07T11:31",
+      "body": "Briarwood Dental Arts: Reminder for LIN, Wed 10/14 at 1:45 PM. Reply Y to confirm."
+     },
+     {
+      "from": "me",
+      "date": "2026-10-07T11:40",
+      "body": "Y. Can we be done by 3? She has medication at 3."
+     },
+     {
+      "from": "Briarwood Dental Arts",
+      "date": "2026-10-07T11:52",
+      "body": "Hi Mr. Zhang, this is Tanya at the front desk. Cleaning and exam take about an hour, you should be out by 2:50. You're welcome to give her the medication here, we'll have water ready."
+     }
+    ]
+   }
+  },
+  {
+   "section": "whatsapp",
+   "record": {
+    "chat": "David",
+    "unread": false,
+    "messages": [
+     {
+      "from": "me",
+      "date": "2026-10-03T11:00",
+      "body": "David, Wexley sent a bill for $140.20 for my September visit. I am waiting for the Plan G EOB before I pay. Same as August."
+     },
+     {
+      "from": "David",
+      "date": "2026-10-03T11:30",
+      "body": "Makes sense. The Medicare notice says that's your deductible?"
+     },
+     {
+      "from": "me",
+      "date": "2026-10-03T11:35",
+      "body": "Yes. $142.80 in August plus $140.20 now is the $283. After this Plan G covers the rest of the year."
+     },
+     {
+      "from": "David",
+      "date": "2026-10-03T11:37",
+      "body": "Good. When is it due?"
+     },
+     {
+      "from": "me",
+      "date": "2026-10-03T11:38",
+      "body": "October 28. The EOB usually comes 2 to 3 weeks after Medicare."
+     }
+    ]
+   }
+  },
+  {
+   "section": "notes",
+   "record": {
+    "title": "House rules for helpers",
+    "updated": "2026-07-20T18:00",
+    "body": "For Fang, Mei, Helen, anyone staying with Lin:\n- Pills on time: 7, 11, 3, 7. Blue box.\n- Lin does not do the basement stairs alone. Front steps with the rail and someone beside her.\n- Shower chair in the tub. Bathroom night light stays on.\n- No rugs in the hallway.\n- Lunch at least 30 minutes after the 11 am pill.\n- Keep the front door locked, she goes out to check the mail.\n- Emergency: 911 first, then me. Dr. Feinberg (718) 555-0146. Grace Liu next door has a key."
+   }
+  },
+  {
+   "section": "notes",
+   "record": {
+    "title": "Dr. Okafor 10/22",
+    "updated": "2026-10-02T20:00",
+    "body": "Labs posted 9/27. Ask about A1c, cholesterol on atorvastatin 20, PSA.\nRight knee still aches on stairs. PT?\nSleep: up at night with Lin, about 5 hours.\nHome blood pressure average 138/84.\nShingles second dose: did I get it? Check with Tresswell.\nHong will be with Lin."
+   }
+  },
+  {
+   "section": "calendar",
+   "record": {
+    "title": "Annual wellness visit - Dr. Okafor",
+    "start": "2026-09-24T10:00",
+    "end": "2026-09-24T11:00",
+    "location": "Wexley Medical Group, 136-20 38th Ave, 2nd Floor, Flushing",
+    "notes": "Fasting for labs, nothing after midnight. Mei with Lin 9:30 to 12. Kissena car both ways."
+   }
+  },
+  {
+   "section": "calendar",
+   "record": {
+    "title": "Dr. Okafor follow-up",
+    "start": "2026-10-22T09:15",
+    "end": "2026-10-22T10:00",
+    "location": "Wexley Medical Group, 136-20 38th Ave, 2nd Floor",
+    "notes": "Review labs. Hong with Lin. Hong's flight 6 pm from LGA, car at 3."
+   }
+  },
+  {
+   "section": "calendar",
+   "record": {
+    "title": "Flu shots - Wei and Lin",
+    "start": "2026-09-30T13:30",
+    "end": "2026-09-30T14:00",
+    "location": "Tresswell Pharmacy #112, 41-02 Main St, Flushing",
+    "notes": "High dose. Bring both Medicare cards."
+   }
+  },
+  {
+   "section": "transactions",
+   "record": {
+    "date": "2026-10-01T00:05",
+    "account": "Checking ending 2290",
+    "description": "HARTWELL MUTUAL PLAN G PREMIUM",
+    "amount": -485.08
+   }
+  },
+  {
+   "section": "transactions",
+   "record": {
+    "date": "2026-09-24T11:40",
+    "account": "Visa ending 4417",
+    "description": "KISSENA CAR SERVICE",
+    "amount": -24.0
+   }
+  }
+ ],
+ "placements": [
+  {
+   "with": "David",
+   "before": [
+    {
+     "from": "David",
+     "date": "2026-10-06T19:11",
+     "body": "Got it. Park in the garage on 39th Ave?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T19:13",
+     "body": "Yes, the Wexley lot is always full. They validate 2 hours at the front desk."
+    }
+   ],
+   "after": [
+    {
+     "from": "David",
+     "date": "2026-10-06T19:11",
+     "body": "Got it. Park in the garage on 39th Ave?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T19:13",
+     "body": "Yes, the Wexley lot is always full. They validate 2 hours at the front desk."
+    },
+    {
+     "from": "David",
+     "date": "2026-10-07T18:40",
+     "body": "Mei, Helen and I are doing a video call for Mom's birthday on Sunday Oct 11"
+    }
+   ]
+  }
+ ]
+}

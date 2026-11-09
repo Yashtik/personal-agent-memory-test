@@ -1,0 +1,417 @@
+[
+ {
+  "id": "priya",
+  "name": "Priya Natarajan",
+  "line": "Priya Natarajan, 34, product manager in Seattle, mother of a three-year-old",
+  "pronoun": "she",
+  "today": "2026-10-08T09:00",
+  "facts": [
+   {
+    "episode": "priya_inlaws_dinner",
+    "title": "Book a family dinner for a mixed table, after the guests of honour changed the day",
+    "fact": "Arjun's parents are busy that Saturday evening and want the dinner on Sunday"
+   },
+   {
+    "episode": "priya_inlaws_dinner",
+    "title": "Book a family dinner for a mixed table, after the guests of honour changed the day",
+    "fact": "Papa's friend Joshi uncle is joining the dinner"
+   },
+   {
+    "episode": "priya_schedule_london",
+    "title": "Schedule across time zones around a daycare run, after her manager moved a standing meeting",
+    "fact": "Dana moved the Tuesday roadmap review to Thursday"
+   },
+   {
+    "episode": "priya_daycare_supplies",
+    "title": "Order a daycare supply list for a child with an allergy, around what her husband already ordered",
+    "fact": "the wipes Arjun ordered do not fit the daycare list (they are scented, the list asks for unscented); only naming the product does not count as saying this"
+   },
+   {
+    "episode": "priya_vancouver_stay",
+    "title": "Book lodging for three generations, after a new need for the grandfather",
+    "fact": "Papa needs a walk-in shower (no bathtub)"
+   },
+   {
+    "episode": "priya_brief_sitter",
+    "title": "Brief a new babysitter without oversharing, from notes that are out of date",
+    "fact": "the spare EpiPen is now in the basket on top of the fridge"
+   },
+   {
+    "episode": "priya_brief_sitter",
+    "title": "Brief a new babysitter without oversharing, from notes that are out of date",
+    "fact": "Lucia should not bring her own snacks"
+   },
+   {
+    "episode": "priya_move_checkup",
+    "title": "Move a child's checkup around naps, classes and a deadline, including a class only the swim school's email shows",
+    "fact": "Meera has a make-up swim class on the Thursday"
+   },
+   {
+    "episode": "priya_recalled_snack",
+    "title": "Reorder “the usual” when the usual has been recalled, and a box of it is at daycare",
+    "fact": "daycare has a box of the recalled bars"
+   },
+   {
+    "episode": "priya_allergy_retest",
+    "title": "Book a child's allergy skin test that needs five days off her nightly antihistamine",
+    "fact": "Meera must be off her Zyrtec (antihistamines) for 5 days before the test"
+   },
+   {
+    "episode": "priya_story_2_pay_rosa",
+    "title": "Pay the sitter for her evening, and catch what she flagged",
+    "fact": "the EpiPen Jr is expiring"
+   },
+   {
+    "episode": "priya_story_4_sitters",
+    "title": "Sitters for a Thursday and a Friday, each with the one who can do that day",
+    "fact": "the leadership dinner moved to 7:30"
+   }
+  ],
+  "quoted": [
+   {
+    "kind": "mail",
+    "from": "product-safety@parcelmart.test",
+    "subject": "SAFETY RECALL: SunnyBites Oat Bars",
+    "when": "2 days ago",
+    "text": "… SunnyBites is recalling ALL flavors of SunnyBites Oat Bars purchased since Monday, August 10 because they may contain UNDECLARED PEANUT from shared equipment. …"
+   },
+   {
+    "kind": "mail",
+    "from": "Puddlefern Early Learning",
+    "subject": "Meera's snack box",
+    "when": "26 days ago",
+    "text": "Hi Priya, thanks for the box of SunnyBites oat bars for Meera's cubby! We'll give her one at afternoon snack on the days she asks, and let you know when it runs low."
+   },
+   {
+    "kind": "text",
+    "from": "Kiran Mehta (Mummy)",
+    "subject": "",
+    "when": "last night, unread",
+    "text": "Priya beta, for Saturday the 10th, the Patels have asked Papa and me for their puja that evening and we said yes, we did not know about dinner. Can we go out Sunday instead? Any time is fine for us. And Papa's old friend Joshi uncle is in Seattle that weekend, he would love to join us for dinner if that is ok. …"
+   }
+  ]
+ },
+ {
+  "id": "eleanor",
+  "name": "Eleanor Whitfield",
+  "line": "Eleanor Whitfield, 68, retired English teacher in South Portland, Maine",
+  "pronoun": "she",
+  "today": "2026-10-08T09:00",
+  "facts": [
+   {
+    "episode": "eleanor_chain_1_new_address",
+    "title": "Her son's new email address, mentioned once, and the email that went to the old one",
+    "fact": "her storm-windows email went to Michael's old address and never reached him"
+   },
+   {
+    "episode": "eleanor_denver_flights",
+    "title": "Book her Denver flights, when her son has already booked the way out",
+    "fact": "Michael has already booked her flight out to Denver"
+   },
+   {
+    "episode": "eleanor_hip_appointment",
+    "title": "Book the right specialist at a time her friend can drive her, in the week her friend is away one day",
+    "fact": "Peg is away in Bangor on the Wednesday"
+   },
+   {
+    "episode": "eleanor_shutoff_notice",
+    "title": "Pay what is really due, refuse a fake disconnection notice, and leave the bill on autopay alone",
+    "fact": "her electric bill is on autopay"
+   },
+   {
+    "episode": "eleanor_furnace_service",
+    "title": "Arrange the annual furnace service the way her husband did, when her son can be there",
+    "fact": "Michael wants to be there when Dunlap comes, on the Friday"
+   },
+   {
+    "episode": "eleanor_refill_pills",
+    "title": "Refill what is running low, at the dose that changed, and what would run out while she is away",
+    "fact": "her thyroid pills would run out while she is in Denver"
+   },
+   {
+    "episode": "eleanor_altar_flowers",
+    "title": "Her turn with the altar flowers: as she always gives them, but as the parish now asks this year",
+    "fact": "the Hendersons are giving the other arrangement"
+   },
+   {
+    "episode": "eleanor_snow_plowing",
+    "title": "Arrange the winter plowing as Robert did, now that his plow man has retired, and with the ramp she needs",
+    "fact": "the front path and the side-door ramp must be cleared as well as the driveway"
+   },
+   {
+    "episode": "eleanor_story_1_tidewater",
+    "title": "Arrange a visit to a retirement community, privately, at a time her driver can now do",
+    "fact": "Peg should be her emergency contact for the visit"
+   }
+  ],
+  "quoted": [
+   {
+    "kind": "mail",
+    "from": "Michael Whitfield (old address)",
+    "subject": "Automatic reply: Storm windows",
+    "when": "2 days ago",
+    "text": "I am no longer using this email address and it is being closed. Messages sent here are not being read or forwarded."
+   },
+   {
+    "kind": "mail",
+    "from": "Eleanor, to Michael's old address",
+    "subject": "Storm windows",
+    "when": "2 days ago",
+    "text": "Dear Michael, Could you come up the weekend after I'm back from Denver and put the storm windows in? Peg says it will turn cold early this year. Love, Mom"
+   }
+  ]
+ },
+ {
+  "id": "hannah",
+  "name": "Hannah Brooks",
+  "line": "Hannah Brooks, 29, ICU night-shift nurse in Chicago",
+  "pronoun": "she",
+  "today": "2026-10-08T09:00",
+  "facts": [
+   {
+    "episode": "hannah_vet_appointment",
+    "title": "Book the dog's vet visit around a night-shift sleep schedule, and fold in the check-up already booked",
+    "fact": "the other offered slots do not work because she is asleep until 4pm after a night shift or must be done by 5pm on a day she works"
+   },
+   {
+    "episode": "hannah_split_costs",
+    "title": "Collect everyone's share when two people fronted money and one pays nothing, and keep the tracker straight",
+    "fact": "Jules must be asked for $150 less because she already paid the dinner deposit herself"
+   },
+   {
+    "episode": "hannah_anniversary_dinner",
+    "title": "Find an evening two shift workers share, after one of them traded a shift, and a restaurant both will eat at",
+    "fact": "the sushi place does not work because Caleb won't eat sushi"
+   },
+   {
+    "episode": "hannah_anniversary_dinner",
+    "title": "Find an evening two shift workers share, after one of them traded a shift, and a restaurant both will eat at",
+    "fact": "the Saturday before the anniversary does not work because Caleb is on shift that night (he traded his Sunday shift for it), so the anniversary Sunday itself is the night they are both off"
+   },
+   {
+    "episode": "hannah_dog_supplies",
+    "title": "Reorder pet supplies for a dog with an allergy, after the vet changed one that is still on autoship",
+    "fact": "the Cosequin chews must not be reordered because they contain chicken flavoring, so he gets the Dasuquin the vet switched him to"
+   },
+   {
+    "episode": "hannah_dads_rides",
+    "title": "Cover her father's therapy rides across three people's weeks",
+    "fact": "Hannah can't drive her dad on Friday at 2pm because she is asleep after her Thursday night shift"
+   },
+   {
+    "episode": "hannah_nashville_flights",
+    "title": "Fly out straight from a night shift and back before the dog sitter leaves, with a friend on the same flights",
+    "fact": "the early Friday flights do not work because she comes off her night shift at 7:30am, and the late ones because the group must land by 5pm for the dinner"
+   },
+   {
+    "episode": "hannah_nashville_flights",
+    "title": "Fly out straight from a night shift and back before the dog sitter leaves, with a friend on the same flights",
+    "fact": "the cheaper later Sunday flights do not work because Maya, the dog sitter, has to leave at 7pm"
+   },
+   {
+    "episode": "hannah_flu_tb",
+    "title": "Annual staff health requirements: prove the flu shot she already had, and book the TB draw at a time she is awake",
+    "fact": "the other TB slots do not work because she is asleep until 4pm after a night shift"
+   }
+  ],
+  "quoted": []
+ },
+ {
+  "id": "alice",
+  "name": "Alice Chen",
+  "line": "Alice Chen, 34, research scientist in San Francisco",
+  "pronoun": "she",
+  "today": "2026-10-08T09:00",
+  "facts": [
+   {
+    "episode": "alice_anniversary_dinner",
+    "title": "Book an anniversary dinner around Daniel's flight home, and a small gift he does not already have",
+    "fact": "Daniel is flying back that day and lands in the evening, so dinner has to be later"
+   },
+   {
+    "episode": "alice_anniversary_dinner",
+    "title": "Book an anniversary dinner around Daniel's flight home, and a small gift he does not already have",
+    "fact": "Daniel already has the Le Carre box set (his brother sent it)"
+   },
+   {
+    "episode": "alice_dinner_with_mei",
+    "title": "Arrange dinner with a friend who has coeliac disease, and the sister she is bringing",
+    "fact": "Mei's sister Hana is coming too"
+   },
+   {
+    "episode": "alice_mom_gift",
+    "title": "Buy a birthday present from scattered hints, when Daniel has taken the obvious one",
+    "fact": "Daniel is already giving her mother a kettle"
+   },
+   {
+    "episode": "alice_settle_up",
+    "title": "Settle shared household costs under their own rules, one of which has just changed",
+    "fact": "they switched to a 60/40 rent split"
+   },
+   {
+    "episode": "alice_sick_day",
+    "title": "Clear her next workday's calendar when she is out sick, around a fee and a deadline",
+    "fact": "the camera-ready is due the day after"
+   },
+   {
+    "episode": "alice_rain_jacket",
+    "title": "Replace a rain jacket before a trip: the brand runs small, and the size that fits arrives too late",
+    "fact": "the Northfold jacket runs small or that she returned one in M"
+   },
+   {
+    "episode": "alice_story_2_jess_gift",
+    "title": "A birthday present for a friend who has stopped drinking, there in time",
+    "fact": "Jess said she needs her own trimming tools"
+   }
+  ],
+  "quoted": []
+ },
+ {
+  "id": "wei",
+  "name": "Wei Zhang",
+  "line": "Wei Zhang, 71, retired civil engineer in Flushing, Queens, and the full-time carer of his wife Lin, who has Parkinson's",
+  "pronoun": "he",
+  "today": "2026-10-08T09:00",
+  "facts": [
+   {
+    "episode": "wei_story_1_blood_test",
+    "title": "Book his blood test after a medication change, on a morning Fang is really there, at a lab that takes Medicare",
+    "fact": "Fang is not coming on one of those mornings (she asked for it off)"
+   },
+   {
+    "episode": "wei_story_8_fang_summary",
+    "title": "Fang's four-week summary and the children's requests: her sick day out of the hours, the new shares on the right child, the extra hours without the fall",
+    "fact": "Fang was off sick one Monday in these four weeks, so those hours do not count"
+   },
+   {
+    "episode": "wei_story_9_podiatry_refund",
+    "title": "A refund from a clinic paid at the desk before Plan G paid it all, part of which has already come back",
+    "fact": "Wexley already refunded $131.32 to the Visa"
+   },
+   {
+    "episode": "wei_story_11_bills",
+    "title": "Pay the bills coming due in the next week; his rule holds the clinic's bill and does not reach the dentist, whose statement forgot his deposit",
+    "fact": "the dentist's statement left out his $300 deposit"
+   },
+   {
+    "episode": "wei_birthday_call",
+    "title": "A birthday video call the children have already set for Lin's pill time; move it, tell them, then an early dinner",
+    "fact": "3 pm is Lin's afternoon pill time, so the call should not start at 3 pm"
+   },
+   {
+    "episode": "wei_helen_family_visit",
+    "title": "A hotel near home for Helen's family, who now arrive a night earlier and late; then a family dinner Lin can manage",
+    "fact": "the Parkside Inn's front desk closes at 9 pm, too early for a 10 pm arrival"
+   },
+   {
+    "episode": "wei_helen_family_visit",
+    "title": "A hotel near home for Helen's family, who now arrive a night earlier and late; then a family dinner Lin can manage",
+    "fact": "Helen's family now arrives on Thursday night, a day earlier than Helen's text said"
+   }
+  ],
+  "quoted": [
+   {
+    "kind": "chat",
+    "from": "Wei, two sessions earlier",
+    "subject": "",
+    "when": "earlier session",
+    "text": "… When the drug plan approves it, have it filled through the plan's mail order, Verado Home Delivery, not Tresswell: it is $0 there for 90 days … And let Fang know how she is to give it, and that Dr. Feinberg says it can turn Lin's urine dark orange-brown; that is harmless, so Fang is not to be alarmed."
+   }
+  ]
+ },
+ {
+  "id": "tomas",
+  "name": "Tomás Alvarez",
+  "line": "Tomás Alvarez, 27, freelance brand designer in Austin",
+  "pronoun": "he",
+  "today": "2026-10-08T09:00",
+  "facts": [
+   {
+    "episode": "tomas_final_invoice",
+    "title": "Send a final invoice from a contract, its amendment and his own invoice sequence",
+    "fact": "Mara approved an extra (third) revision round for $450"
+   },
+   {
+    "episode": "tomas_final_invoice",
+    "title": "Send a final invoice from a contract, its amendment and his own invoice sequence",
+    "fact": "invoice number TA-2026-018 was already used for the Kiln Coffee invoice"
+   },
+   {
+    "episode": "tomas_birthday_trip",
+    "title": "Book a personal trip on a tight budget, home in time for a commitment he forgot",
+    "fact": "he has the AIGA portfolio night (reviewing) on the Monday evening"
+   },
+   {
+    "episode": "tomas_split_utilities",
+    "title": "Split household bills under a rule that changed, net of what each roommate already sent",
+    "fact": "Kei already sent their share of the electric bill by Zelle"
+   },
+   {
+    "episode": "tomas_inquiry_triage",
+    "title": "Answer new-business inquiries by his own rules and his client contract",
+    "fact": "his Fennel & Co contract has an exclusivity clause ruling out cafe or bakery identity work"
+   },
+   {
+    "episode": "tomas_story_1_trip_on_hold",
+    "title": "Plan Lucía's birthday flights and tell her, but book only once the client deposit lands",
+    "fact": "Lucía wants him to land after 8pm so she can pick him up after work"
+   },
+   {
+    "episode": "tomas_story_6_derm_followup",
+    "title": "Book the dermatologist's follow-up and the sunscreen she prescribed",
+    "fact": "he is busy at Fennel on the Tuesday morning, so the office's Tuesday 11:00 hold does not work"
+   }
+  ],
+  "quoted": [
+   {
+    "kind": "note",
+    "from": "Note",
+    "subject": "Fennel & Co: contract summary",
+    "when": "his notes",
+    "text": "Rebrand for Fennel & Co (cafes). … Exclusivity (section 9): until Monday, February 15, no brand identity work for any other cafe, coffee shop or bakery brand in Central Texas. …"
+   },
+   {
+    "kind": "mail",
+    "from": "Nora Feld, Brightside Studio",
+    "subject": "Identity project for a client of ours",
+    "when": "4 days ago",
+    "text": "… Our client Crumb & Kettle, a bakery-cafe chain with eleven locations around Austin and San Antonio, needs a full identity refresh … Budget is in the $8k to $10k range. …"
+   }
+  ]
+ },
+ {
+  "id": "devon",
+  "name": "Devon Carter",
+  "line": "Devon Carter, 21, a first-generation college senior in Atlanta who works part-time",
+  "pronoun": "he",
+  "today": "2026-10-08T09:00",
+  "facts": [
+   {
+    "episode": "devon_interview_slot",
+    "title": "Pick an interview slot that fits his week as it really is, after a shift swap his calendar does not show",
+    "fact": "Devon swapped shifts with Marcus: he closes that Wednesday from 3:30 and Marcus opens his Thursday"
+   },
+   {
+    "episode": "devon_rent_timing",
+    "title": "Decide what to pay now, what to schedule and what must wait",
+    "fact": "the rent can be scheduled now to go out once his paycheck has landed and before the due date"
+   },
+   {
+    "episode": "devon_textbook",
+    "title": "Get the required textbook as cheaply as the requirement allows, in time for the midterm",
+    "fact": "he needs the book before his Business Law midterm on Tuesday, October 20, which the $31 rental would arrive after"
+   },
+   {
+    "episode": "devon_tb_test",
+    "title": "Book a two-visit test in the gaps of his week, at the free clinic",
+    "fact": "the clinic's earlier open times clash with his classes or work shifts"
+   },
+   {
+    "episode": "devon_jaylen_birthday",
+    "title": "Book a group birthday dinner on a student budget, at the time the guest driving up can make",
+    "fact": "Jaylen's sister Kiara texted Devon that she cannot arrive before about 8:30 and asked for 9"
+   }
+  ],
+  "quoted": []
+ }
+]

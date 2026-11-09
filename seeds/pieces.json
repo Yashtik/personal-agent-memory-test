@@ -1,0 +1,1537 @@
+{
+ "priya": [
+  {
+   "episode": "priya_inlaws_dinner",
+   "fact": "Arjun's parents are busy that Saturday evening and want the dinner on Sunday",
+   "pieces": [
+    {
+     "text": "Arjun: Mummy and Papa are staying with us from Oct 3 to Nov 3. I told them we'd do a big family dinner out on Saturday Oct 10 while they're here",
+     "app": "text",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Book the family dinner for Arjun's parents",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "Which restaurant has a table, and the exact time; Mummy's text already says they are busy Saturday evening and asks for Sunday."
+  },
+  {
+   "episode": "priya_inlaws_dinner",
+   "fact": "Papa's friend Joshi uncle is joining the dinner",
+   "pieces": [
+    {
+     "text": "Arjun: Saw Mummy's message. Of course Joshi uncle should come, I already called Papa and told him to bring him along",
+     "app": "whatsapp",
+     "when": "this morning",
+     "role": "background"
+    },
+    {
+     "text": "Book the family dinner for Arjun's parents",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "Restaurant availability and seating; Joshi uncle's invitation is already in Mummy's text."
+  },
+  {
+   "episode": "priya_schedule_london",
+   "fact": "Dana moved the Tuesday roadmap review to Thursday",
+   "pieces": [
+    {
+     "text": "Roadmap review with Dana, weekly on Tuesdays 8:30–9:30 am PT",
+     "app": "calendar",
+     "when": "recurring, next on Oct 13",
+     "role": "background"
+    },
+    {
+     "text": "From Dana Whitfield: Hi all, I'm moving next week's roadmap review from Tuesday Oct 13 to Thursday Oct 15, same time. Back to Tuesdays after that.",
+     "app": "email",
+     "when": "yesterday",
+     "role": "background"
+    },
+    {
+     "text": "Set up the call with the London team next week, it has to fit around my 8 am daycare drop-off",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "Free slots on the London team's calendars."
+  },
+  {
+   "episode": "priya_daycare_supplies",
+   "fact": "the wipes Arjun ordered do not fit the daycare list (they are scented, the list asks for unscented); only naming the product does not count as saying this",
+   "pieces": [
+    {
+     "text": "From Puddlefern Early Learning: Fall supply list for the Sprouts room: 2 packs unscented baby wipes, 1 full change of clothes, 1 crib sheet, 1 tube of diaper cream, 1 refillable water bottle labeled with name",
+     "app": "email",
+     "when": "10 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Order confirmed: CloudSoft Baby Wipes, Fresh Cucumber Scent, 2-pack (ordered by Arjun Mehta)",
+     "app": "transaction",
+     "when": "4 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Order whatever is still needed for Meera's daycare supply list",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "Prices and delivery dates of the remaining items."
+  },
+  {
+   "episode": "priya_vancouver_stay",
+   "fact": "Papa needs a walk-in shower (no bathtub)",
+   "pieces": [
+    {
+     "text": "Mummy: Papa saw the physio again after his knee surgery. She said no climbing into bathtubs at all, he must have a walk-in shower wherever he stays",
+     "app": "whatsapp",
+     "when": "5 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Book a place in Lake Chelan for all five of us, Oct 30 to Nov 1",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "Which rentals are available and their bathroom layouts."
+  },
+  {
+   "episode": "priya_brief_sitter",
+   "fact": "the spare EpiPen is now in the basket on top of the fridge",
+   "pieces": [
+    {
+     "text": "Sitter notes: Meera has a peanut allergy. Spare EpiPen is in the hallway drawer under the coat hooks. Bedtime 7:30.",
+     "app": "note",
+     "when": "5 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Arjun: Meera worked out how to open the hallway drawer, so I moved the spare EpiPen into the basket on top of the fridge",
+     "app": "text",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Write up a briefing for Lucia for her first evening with Meera on Wednesday Oct 14",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "priya_brief_sitter",
+   "fact": "Lucia should not bring her own snacks",
+   "pieces": [
+    {
+     "text": "House rule for sitters: no food brought in from outside the house, only what's in our kitchen",
+     "app": "note",
+     "when": "5 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Lucia: Hi Priya, looking forward to Wednesday! I usually bring my own snacks and a granola bar for the evening, hope that's ok",
+     "app": "text",
+     "when": "yesterday",
+     "role": "background"
+    },
+    {
+     "text": "Write up a briefing for Lucia for her first evening with Meera on Wednesday Oct 14",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "priya_move_checkup",
+   "fact": "Meera has a make-up swim class on the Thursday",
+   "pieces": [
+    {
+     "text": "From Splash Starts Swim School: Meera's make-up lesson for the missed Sept 24 class is booked for Thursday Oct 15 at 10:00 am, Little Dippers pool",
+     "app": "email",
+     "when": "6 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Move Meera's 3-year checkup to next week, it has to be done before the daycare health form is due",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "The clinic's open appointment slots."
+  },
+  {
+   "episode": "priya_recalled_snack",
+   "fact": "daycare has a box of the recalled bars",
+   "pieces": [
+    {
+     "text": "ParcelMart order: SunnyBites Oat Bars, variety pack, 24 ct, delivered Sept 10",
+     "app": "transaction",
+     "when": "4 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Reorder the usual snack bars for Meera",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing; the recall and the daycare box are already in the existing emails."
+  },
+  {
+   "episode": "priya_allergy_retest",
+   "fact": "Meera must be off her Zyrtec (antihistamines) for 5 days before the test",
+   "pieces": [
+    {
+     "text": "Meera: Zyrtec 2.5 ml every night at bedtime",
+     "app": "note",
+     "when": "2 months ago",
+     "role": "background"
+    },
+    {
+     "text": "From Cascade Pediatric Allergy: Before a skin prick test, stop all antihistamines, including Zyrtec, Claritin and Benadryl, for 5 days. Antihistamines block the test result.",
+     "app": "email",
+     "when": "1 week ago",
+     "role": "background"
+    },
+    {
+     "text": "Book Meera's allergy skin test",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "The allergy clinic's available test dates."
+  },
+  {
+   "episode": "priya_story_2_pay_rosa",
+   "fact": "the EpiPen Jr is expiring",
+   "pieces": [
+    {
+     "text": "Hana babysitting, 5:30–10 pm",
+     "app": "calendar",
+     "when": "2 days ago (Tue Oct 6)",
+     "role": "background"
+    },
+    {
+     "text": "Hana: Thanks for Tuesday, Meera was great and went down easy! One thing, the EpiPen Jr in the diaper bag says it expires 10/2026",
+     "app": "text",
+     "when": "yesterday",
+     "role": "background"
+    },
+    {
+     "text": "Pay Hana for Tuesday evening",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "Payment amount and method."
+  },
+  {
+   "episode": "priya_story_4_sitters",
+   "fact": "the leadership dinner moved to 7:30",
+   "pieces": [
+    {
+     "text": "From the CEO's office: The leadership dinner on Thursday Oct 22 now starts at 7:30 pm instead of 6:00 pm. Same venue.",
+     "app": "email",
+     "when": "yesterday",
+     "role": "background"
+    },
+    {
+     "text": "Find sitters for Thursday Oct 22 and Friday Oct 23, whichever of Hana and Lucia can do each night",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "Which sitter is free on which night."
+  }
+ ],
+ "eleanor": [
+  {
+   "episode": "eleanor_chain_1_new_address",
+   "fact": "her storm-windows email went to Michael's old address and never reached him",
+   "pieces": [
+    {
+     "text": "Mom, new email for me is michael.whitfield@northmail.com, the old work one is going away",
+     "app": "text",
+     "when": "5 weeks ago",
+     "role": "background"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "eleanor_denver_flights",
+   "fact": "Michael has already booked her flight out to Denver",
+   "pieces": [
+    {
+     "text": "Denver – stay with Amy and the kids, Oct 22–29",
+     "app": "calendar",
+     "when": "in 2 weeks",
+     "role": "background"
+    },
+    {
+     "text": "Mom, I booked your flight out to Denver for Thursday Oct 22, Portland to Denver, leaving 7:10 am. Confirmation is KQ7R2M. Still need to sort your flight home.",
+     "app": "email",
+     "when": "10 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Book my October Denver flights",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "eleanor_hip_appointment",
+   "fact": "Peg is away in Bangor on the Wednesday",
+   "pieces": [
+    {
+     "text": "Dr. Marsh referred me to a retina specialist. They put dilating drops in, so no driving afterward. Peg says she'll take me.",
+     "app": "note",
+     "when": "2 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Heads up, I'm in Bangor all day Wednesday Oct 14 with my sister for her surgery. Any other day next week is fine for driving you.",
+     "app": "text",
+     "when": "3 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Book the retina specialist for next week at a time Peg can drive me",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "the specialist's open appointment times"
+  },
+  {
+   "episode": "eleanor_shutoff_notice",
+   "fact": "her electric bill is on autopay",
+   "pieces": [
+    {
+     "text": "Central Maine Power AUTOPAY -$84.12",
+     "app": "transaction",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Central Maine Power: Your automatic payment of $91.40 is scheduled for October 15 from your checking account ending 2207.",
+     "app": "email",
+     "when": "4 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Pay the bills that are due this month, and a man called saying my power gets cut off today unless I pay him by gift card",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "eleanor_furnace_service",
+   "fact": "Michael wants to be there when Dunlap comes, on the Friday",
+   "pieces": [
+    {
+     "text": "Furnace: Dunlap Heating every October. Robert always called them himself and asked for Rick.",
+     "app": "note",
+     "when": "1 year ago",
+     "role": "background"
+    },
+    {
+     "text": "Mom, when Dunlap does the furnace this year I want to be there to see what they check. Friday is the only day I can get up to you.",
+     "app": "text",
+     "when": "2 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Set up the furnace service with Dunlap",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "Dunlap's available dates"
+  },
+  {
+   "episode": "eleanor_refill_pills",
+   "fact": "her thyroid pills would run out while she is in Denver",
+   "pieces": [
+    {
+     "text": "Hannaford Pharmacy – levothyroxine 88 mcg, 30 tablets, $6.00",
+     "app": "transaction",
+     "when": "12 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Thyroid pill: one every morning before breakfast, new dose 88 mcg from Dr. Marsh",
+     "app": "note",
+     "when": "1 month ago",
+     "role": "background"
+    },
+    {
+     "text": "Refill whatever is running low before I go to Denver",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "eleanor_altar_flowers",
+   "fact": "the Hendersons are giving the other arrangement",
+   "pieces": [
+    {
+     "text": "Altar Guild: Starting this year there will be two arrangements each Sunday, given by two households. Eleanor, you are down for Sunday October 18.",
+     "app": "email",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Eleanor, we're doing the other altar arrangement on the 18th, in memory of Dad. Joan Henderson",
+     "app": "text",
+     "when": "1 week ago",
+     "role": "background"
+    },
+    {
+     "text": "Order my altar flowers for my Sunday, white lilies like always",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "florist prices and delivery times"
+  },
+  {
+   "episode": "eleanor_snow_plowing",
+   "fact": "the front path and the side-door ramp must be cleared as well as the driveway",
+   "pieces": [
+    {
+     "text": "Winter: Gary Pelletier plows the driveway. Robert did the front path and the side-door ramp by hand.",
+     "app": "note",
+     "when": "2 years ago",
+     "role": "background"
+    },
+    {
+     "text": "Eleanor, I'm retiring this winter and selling the plow. Thanks for all the years with Robert.",
+     "app": "text",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "After your hip replacement, no shoveling or lifting snow this winter, and use the ramp rather than the front steps.",
+     "app": "email",
+     "when": "2 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Find someone to do the winter plowing like Gary did",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "plow services' rates and availability"
+  },
+  {
+   "episode": "eleanor_story_1_tidewater",
+   "fact": "Peg should be her emergency contact for the visit",
+   "pieces": [
+    {
+     "text": "Emergency contact on doctor and insurance forms: Michael",
+     "app": "note",
+     "when": "1 year ago",
+     "role": "background"
+    },
+    {
+     "text": "Don't say anything to Michael about looking at retirement places until I've made up my mind.",
+     "app": "note",
+     "when": "2 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "My exercise class moved to mornings, so I'm free to drive you Tuesday afternoons now",
+     "app": "text",
+     "when": "5 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Set up a visit to Piper Shores on a Tuesday afternoon, Peg will drive me",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "Piper Shores' tour times"
+  }
+ ],
+ "hannah": [
+  {
+   "episode": "hannah_vet_appointment",
+   "fact": "the other offered slots do not work because she is asleep until 4pm after a night shift or must be done by 5pm on a day she works",
+   "pieces": [
+    {
+     "text": "After a night shift I sleep until 4pm, phone on do-not-disturb",
+     "app": "note",
+     "when": "5 months ago",
+     "role": "background"
+    },
+    {
+     "text": "On work days I leave for the hospital at 5:30pm",
+     "app": "note",
+     "when": "5 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Night shift 7pm–7:30am, repeats every Tuesday, Wednesday and Thursday",
+     "app": "calendar",
+     "when": "recurring, started 5 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Biscuit annual check-up, Lakeview Animal Hospital, Monday Oct 12, 4:30pm",
+     "app": "calendar",
+     "when": "in 4 days",
+     "role": "background"
+    },
+    {
+     "text": "Book Biscuit a vet visit for his scratching ear and fold it into his check-up if they can't see him then",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "the specific slots the vet clinic offers"
+  },
+  {
+   "episode": "hannah_split_costs",
+   "fact": "Jules must be asked for $150 less because she already paid the dinner deposit herself",
+   "pieces": [
+    {
+     "text": "Priya and I split the Nashville Airbnb for Dana's bachelorette, $1,200 total, I paid it on my card",
+     "app": "note",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Dana is the bride so she doesn't pay for anything this weekend",
+     "app": "whatsapp",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Priya: I put down the dinner deposit for Friday night, $300",
+     "app": "whatsapp",
+     "when": "2 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Jules: I already sent the restaurant $150 toward the dinner deposit myself, they took it off Priya's",
+     "app": "text",
+     "when": "10 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Payment to Airbnb, $1,200.00",
+     "app": "transaction",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Send everyone their share for the bachelorette and update the tracker",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "hannah_anniversary_dinner",
+   "fact": "the sushi place does not work because Caleb won't eat sushi",
+   "pieces": [
+    {
+     "text": "Caleb: I'm not eating sushi, not even for our anniversary, pick anywhere else",
+     "app": "text",
+     "when": "2 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Find a restaurant for our anniversary dinner with Caleb, maybe that sushi place on Clark",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "which restaurants have tables"
+  },
+  {
+   "episode": "hannah_anniversary_dinner",
+   "fact": "the Saturday before the anniversary does not work because Caleb is on shift that night (he traded his Sunday shift for it), so the anniversary Sunday itself is the night they are both off",
+   "pieces": [
+    {
+     "text": "Anniversary with Caleb — Sunday Nov 1",
+     "app": "calendar",
+     "when": "in 24 days",
+     "role": "background"
+    },
+    {
+     "text": "Caleb: swapped with Ramirez, I'm working Saturday Oct 31 overnight now instead of Sunday Nov 1",
+     "app": "text",
+     "when": "4 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Off the whole weekend of Oct 31–Nov 1, approved PTO",
+     "app": "email",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Pick a night around our anniversary when Caleb and I are both off",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "hannah_dog_supplies",
+   "fact": "the Cosequin chews must not be reordered because they contain chicken flavoring, so he gets the Dasuquin the vet switched him to",
+   "pieces": [
+    {
+     "text": "Biscuit is allergic to chicken — no chicken anything, including flavorings in treats",
+     "app": "note",
+     "when": "8 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Cosequin soft chews ingredients include chicken flavoring",
+     "app": "note",
+     "when": "2 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Vet: please stop the Cosequin and start Biscuit on Dasuquin chews instead",
+     "app": "email",
+     "when": "2 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Chewy autoship: Cosequin soft chews, next shipment in 9 days",
+     "app": "email",
+     "when": "yesterday",
+     "role": "background"
+    },
+    {
+     "text": "Reorder Biscuit's food and supplements",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "prices and delivery dates"
+  },
+  {
+   "episode": "hannah_dads_rides",
+   "fact": "Hannah can't drive her dad on Friday at 2pm because she is asleep after her Thursday night shift",
+   "pieces": [
+    {
+     "text": "Dad's physical therapy is every Monday, Wednesday and Friday at 2pm at Northwestern rehab",
+     "app": "email",
+     "when": "1 week ago",
+     "role": "background"
+    },
+    {
+     "text": "Me to Ben: I work Thursday nights, I'm out cold till 4 Friday afternoon",
+     "app": "text",
+     "when": "1 week ago",
+     "role": "background"
+    },
+    {
+     "text": "Split Dad's therapy rides between me, Ben and Aunt Carol",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "hannah_nashville_flights",
+   "fact": "the early Friday flights do not work because she comes off her night shift at 7:30am, and the late ones because the group must land by 5pm for the dinner",
+   "pieces": [
+    {
+     "text": "Thursday Oct 22 night shift ends 7:30am Friday Oct 23",
+     "app": "calendar",
+     "when": "in 14 days",
+     "role": "background"
+    },
+    {
+     "text": "Dana: welcome dinner in Nashville Friday Oct 23, everyone has to be landed by 5pm",
+     "app": "whatsapp",
+     "when": "1 week ago",
+     "role": "background"
+    },
+    {
+     "text": "Priya: I'll fly with you, just tell me which flights",
+     "app": "text",
+     "when": "5 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Book flights to Nashville for me and Priya, out Friday Oct 23 and back Sunday Oct 25",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "flight times and fares"
+  },
+  {
+   "episode": "hannah_nashville_flights",
+   "fact": "the cheaper later Sunday flights do not work because Maya, the dog sitter, has to leave at 7pm",
+   "pieces": [
+    {
+     "text": "Maya: I can stay with Biscuit Friday Oct 23 to Sunday Oct 25, but I have to leave by 7pm Sunday",
+     "app": "text",
+     "when": "6 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Biscuit is home alone otherwise — someone must be with him",
+     "app": "note",
+     "when": "8 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Get us the cheapest return flight Sunday Oct 25",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "which return flights are cheaper and their times"
+  },
+  {
+   "episode": "hannah_flu_tb",
+   "fact": "the other TB slots do not work because she is asleep until 4pm after a night shift",
+   "pieces": [
+    {
+     "text": "Employee Health: annual TB blood test and flu vaccine proof due by Oct 31",
+     "app": "email",
+     "when": "10 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Walgreens: flu vaccine administered, Sept 28",
+     "app": "transaction",
+     "when": "10 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Sleep — do not disturb until 4pm, on mornings after night shifts",
+     "app": "calendar",
+     "when": "recurring",
+     "role": "background"
+    },
+    {
+     "text": "Upload my flu shot record and book the TB draw",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "the TB draw slots offered"
+  }
+ ],
+ "alice": [
+  {
+   "episode": "alice_anniversary_dinner",
+   "fact": "Daniel is flying back that day and lands in the evening, so dinner has to be later",
+   "pieces": [
+    {
+     "text": "Anniversary with Daniel — Saturday Oct 17",
+     "app": "calendar",
+     "when": "in 9 days",
+     "role": "background"
+    },
+    {
+     "text": "Itinerary for Daniel Park: UA 1532 departs New York JFK 3:05 pm, arrives San Francisco SFO 6:20 pm, Saturday Oct 17",
+     "app": "email",
+     "when": "2 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "I'll come straight from SFO on the 17th, no time to go home first",
+     "app": "text",
+     "when": "4 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Book a dinner for our anniversary on Oct 17",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "which restaurants have tables and at what times"
+  },
+  {
+   "episode": "alice_anniversary_dinner",
+   "fact": "Daniel already has the Le Carre box set (his brother sent it)",
+   "pieces": [
+    {
+     "text": "Tom sent me the whole Le Carré box set for my birthday, all the Smiley ones",
+     "app": "whatsapp",
+     "when": "5 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Daniel gift ideas: spy novels, good pens, coffee stuff",
+     "app": "note",
+     "when": "3 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Find a small anniversary gift for Daniel",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "prices and delivery dates of possible gifts"
+  },
+  {
+   "episode": "alice_dinner_with_mei",
+   "fact": "Mei's sister Hana is coming too",
+   "pieces": [
+    {
+     "text": "Mei has coeliac disease — no gluten at all, cross-contamination matters too",
+     "app": "note",
+     "when": "1 year ago",
+     "role": "background"
+    },
+    {
+     "text": "Hana's visiting that week so I'm bringing her along to dinner, hope that's ok!",
+     "app": "whatsapp",
+     "when": "2 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Set up dinner with Mei on Wednesday Oct 14",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "which restaurants have tables or gluten-free menus"
+  },
+  {
+   "episode": "alice_mom_gift",
+   "fact": "Daniel is already giving her mother a kettle",
+   "pieces": [
+    {
+     "text": "Mom's birthday — Sunday Oct 25",
+     "app": "calendar",
+     "when": "in 17 days",
+     "role": "background"
+    },
+    {
+     "text": "Ordered your mom that Fellow kettle she kept looking at last time, it's from me for her birthday",
+     "app": "text",
+     "when": "6 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Mom mentioned her gardening gloves are falling apart and she's into jigsaw puzzles again",
+     "app": "note",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Buy Mom a birthday present",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "shop prices and delivery dates"
+  },
+  {
+   "episode": "alice_settle_up",
+   "fact": "they switched to a 60/40 rent split",
+   "pieces": [
+    {
+     "text": "House money rules: rent split 50/50, utilities 50/50, groceries paid by whoever shops, settle up on the 1st",
+     "app": "note",
+     "when": "8 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Since my raise, let's do rent 60/40 starting October — I'll cover the 60",
+     "app": "text",
+     "when": "10 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Rent payment $4,200 to Mission Street Properties",
+     "app": "transaction",
+     "when": "7 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Settle up October household costs with Daniel",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "alice_sick_day",
+   "fact": "the camera-ready is due the day after",
+   "pieces": [
+    {
+     "text": "Reminder: camera-ready versions are due Saturday Oct 10, 11:59 pm AoE",
+     "app": "email",
+     "when": "1 week ago",
+     "role": "background"
+    },
+    {
+     "text": "Camera-ready due",
+     "app": "calendar",
+     "when": "in 2 days",
+     "role": "background"
+    },
+    {
+     "text": "I'm sick, clear my calendar for tomorrow, Friday Oct 9",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "alice_rain_jacket",
+   "fact": "the Northfold jacket runs small or that she returned one in M",
+   "pieces": [
+    {
+     "text": "Return received: Northfold Ridgeline Rain Shell, size M — refund issued",
+     "app": "email",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Refund $189.00 Northfold Outfitters",
+     "app": "transaction",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "the Northfold M was way too tight in the shoulders, sent it back",
+     "app": "text",
+     "when": "4 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Portland trip Oct 22–25",
+     "app": "calendar",
+     "when": "in 14 days",
+     "role": "background"
+    },
+    {
+     "text": "Replace my rain jacket before the Portland trip",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "delivery dates and stock of each size"
+  },
+  {
+   "episode": "alice_story_2_jess_gift",
+   "fact": "Jess said she needs her own trimming tools",
+   "pieces": [
+    {
+     "text": "Jess's birthday — Tuesday Oct 20",
+     "app": "calendar",
+     "when": "in 12 days",
+     "role": "background"
+    },
+    {
+     "text": "Jess — not drinking since June",
+     "app": "note",
+     "when": "4 months ago",
+     "role": "background"
+    },
+    {
+     "text": "I keep borrowing Sam's shears for the bonsai, I really need my own trimming tools",
+     "app": "whatsapp",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Get Jess a birthday present that arrives in time",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "prices and delivery dates of tool sets"
+  }
+ ],
+ "wei": [
+  {
+   "episode": "wei_story_1_blood_test",
+   "fact": "Fang is not coming on one of those mornings (she asked for it off)",
+   "pieces": [
+    {
+     "text": "Fang comes Monday, Wednesday and Friday mornings, 8 am to 1 pm",
+     "app": "note",
+     "when": "5 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Dr. Okafor: since we started the new blood pressure pill on Oct 5, I want a fasting blood test between Oct 14 and Oct 21. Any Medicare lab is fine.",
+     "app": "email",
+     "when": "3 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Wei is on Original Medicare with a Plan G supplement",
+     "app": "note",
+     "when": "1 year ago",
+     "role": "background"
+    },
+    {
+     "text": "Fang: Mr. Zhang, may I have Friday Oct 16 off? My grandson's school ceremony. I will come Monday as usual.",
+     "app": "whatsapp",
+     "when": "2 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Wei: Yes, that's fine, Fang. See you Monday.",
+     "app": "whatsapp",
+     "when": "2 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Book my fasting blood test at a lab that takes Medicare, on a morning Fang is here with Lin",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "the labs' open slots and which labs take Medicare"
+  },
+  {
+   "episode": "wei_story_8_fang_summary",
+   "fact": "Fang was off sick one Monday in these four weeks, so those hours do not count",
+   "pieces": [
+    {
+     "text": "Fang: Mr. Zhang, I have a fever, I cannot come today, Monday. Very sorry.",
+     "app": "text",
+     "when": "Sep 21, 2026, 6:40 am",
+     "role": "background"
+    },
+    {
+     "text": "Wei: Rest well, Fang. See you Wednesday.",
+     "app": "text",
+     "when": "Sep 21, 2026, 7:05 am",
+     "role": "background"
+    },
+    {
+     "text": "Make Fang's hours summary for Sep 14 to Oct 9 and send the children their shares",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "wei_story_9_podiatry_refund",
+   "fact": "Wexley already refunded $131.32 to the Visa",
+   "pieces": [
+    {
+     "text": "WEXLEY MEDICAL GROUP  $211.32  Visa ending 4417",
+     "app": "transaction",
+     "when": "Sep 2, 2026",
+     "role": "background"
+    },
+    {
+     "text": "Plan G explanation of benefits: Wexley Medical Group, date of service Sep 2, 2026. Amount you owe the provider: $0.00",
+     "app": "email",
+     "when": "Sep 24, 2026",
+     "role": "background"
+    },
+    {
+     "text": "WEXLEY MEDICAL GROUP  credit -$131.32  Visa ending 4417",
+     "app": "transaction",
+     "when": "Sep 30, 2026",
+     "role": "background"
+    },
+    {
+     "text": "Get back from Wexley what I paid at the desk on Sep 2",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "wei_story_11_bills",
+   "fact": "the dentist's statement left out his $300 deposit",
+   "pieces": [
+    {
+     "text": "Lin – crown prep, Briarwood Dental Arts, 10 am",
+     "app": "calendar",
+     "when": "Aug 20, 2026",
+     "role": "background"
+    },
+    {
+     "text": "BRIARWOOD DENTAL ARTS  $300.00  Visa ending 4417",
+     "app": "transaction",
+     "when": "Aug 20, 2026",
+     "role": "background"
+    },
+    {
+     "text": "Briarwood Dental Arts statement for Lin Zhang: Crown, upper right, $1,450.00. Payments received: $0.00. Balance due $1,450.00 by Oct 14, 2026.",
+     "app": "email",
+     "when": "4 days ago",
+     "role": "background"
+    },
+    {
+     "text": "My rule: don't pay a doctor's bill until the Plan G explanation of benefits for it has come",
+     "app": "note",
+     "when": "8 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Pay the bills that come due in the next week",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "wei_birthday_call",
+   "fact": "3 pm is Lin's afternoon pill time, so the call should not start at 3 pm",
+   "pieces": [
+    {
+     "text": "Lin's carbidopa-levodopa: 7 am, 11 am, 3 pm, 7 pm. Dr. Feinberg: keep the times exact.",
+     "app": "note",
+     "when": "4 months ago",
+     "role": "background"
+    },
+    {
+     "text": "David: Mei, Helen and I are doing a video call for Mom's birthday on Sunday Oct 11",
+     "app": "text",
+     "when": "yesterday",
+     "role": "background"
+    },
+    {
+     "text": "The kids set Mom's birthday call for Sunday Oct 11 at 3 pm; move it, tell them, and plan an early dinner after",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "wei_helen_family_visit",
+   "fact": "the Parkside Inn's front desk closes at 9 pm, too early for a 10 pm arrival",
+   "pieces": [
+    {
+     "text": "Parkside Inn, Flushing – booking confirmation for Ms. Hong Li: Front desk hours 7:00 am – 9:00 pm. Guests arriving after 9:00 pm cannot be checked in.",
+     "app": "email",
+     "when": "11 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Helen: by the time we get the bags and a car from JFK we'll be in Flushing around 10 pm",
+     "app": "text",
+     "when": "yesterday",
+     "role": "background"
+    },
+    {
+     "text": "Book a hotel near home for Helen's family, then a family dinner Lin can manage",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "the hotels' room availability and rates"
+  },
+  {
+   "episode": "wei_helen_family_visit",
+   "fact": "Helen's family now arrives on Thursday night, a day earlier than Helen's text said",
+   "pieces": [
+    {
+     "text": "Helen: We arrive Friday Oct 16 and stay three nights, can't wait to see Mom!",
+     "app": "text",
+     "when": "2 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Fwd from Helen – JetBlue schedule change: Flight 1123 now departs Seattle Thu Oct 15, arrives JFK 9:05 pm",
+     "app": "email",
+     "when": "yesterday",
+     "role": "background"
+    }
+   ],
+   "left_out": "nothing"
+  }
+ ],
+ "tomas": [
+  {
+   "episode": "tomas_final_invoice",
+   "fact": "Mara approved an extra (third) revision round for $450",
+   "pieces": [
+    {
+     "text": "Fennel & Co contract, section 4: fee covers two rounds of revisions on the identity system; additional rounds billed separately at an agreed price.",
+     "app": "note",
+     "when": "2 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Mara Quinn (Fennel & Co): Approved, please go ahead with a third revision round at the $450 you quoted. Consider this an amendment to the contract.",
+     "app": "email",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Send Mara the final invoice for the Fennel & Co rebrand.",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "tomas_final_invoice",
+   "fact": "invoice number TA-2026-018 was already used for the Kiln Coffee invoice",
+   "pieces": [
+    {
+     "text": "Sent: Invoice TA-2026-018 to Kiln Coffee, label illustrations for retail bags, $2,400, due in 30 days.",
+     "app": "email",
+     "when": "3 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Make the final Fennel & Co invoice with the next invoice number and send it.",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "tomas_birthday_trip",
+   "fact": "he has the AIGA portfolio night (reviewing) on the Monday evening",
+   "pieces": [
+    {
+     "text": "AIGA Austin: Thanks for signing up to review at Portfolio Night, Monday, October 19, 6:00 to 9:00 pm at the Austin Central Library. Please arrive by 5:45.",
+     "app": "email",
+     "when": "5 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "AIGA Portfolio Night, reviewing, Mon Oct 19, 6:00–9:00 pm",
+     "app": "calendar",
+     "when": "in 11 days",
+     "role": "background"
+    },
+    {
+     "text": "Book me a cheap trip to New Orleans, out Friday Oct 16 and back Monday Oct 19, flights under $250 total.",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "flight times and fares"
+  },
+  {
+   "episode": "tomas_split_utilities",
+   "fact": "Kei already sent their share of the electric bill by Zelle",
+   "pieces": [
+    {
+     "text": "Zelle received from Kei Tanaka, $54.30, memo: electric sept",
+     "app": "transaction",
+     "when": "2 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Work out what each roommate still owes for September's bills and send them requests.",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "tomas_inquiry_triage",
+   "fact": "his Fennel & Co contract has an exclusivity clause ruling out cafe or bakery identity work",
+   "pieces": [
+    {
+     "text": "Reply to Nora at Brightside about the Crumb & Kettle identity project.",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing; the contract note and Nora's email already hold the background"
+  },
+  {
+   "episode": "tomas_story_1_trip_on_hold",
+   "fact": "Lucía wants him to land after 8pm so she can pick him up after work",
+   "pieces": [
+    {
+     "text": "Lucía: my birthday is Saturday the 24th, come up to Chicago for the weekend!!",
+     "app": "whatsapp",
+     "when": "10 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Lucía: if you come in Friday land after 8pm pls, I'm at work til 7 and I want to be the one picking you up",
+     "app": "whatsapp",
+     "when": "9 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Plan flights to Chicago for Lucía's birthday, out Friday Oct 23 and back Sunday Oct 25, tell her the plan, but only book once the Harbor Goods deposit lands.",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "flight times, fares and the deposit's arrival date"
+  },
+  {
+   "episode": "tomas_story_6_derm_followup",
+   "fact": "he is busy at Fennel on the Tuesday morning, so the office's Tuesday 11:00 hold does not work",
+   "pieces": [
+    {
+     "text": "Fennel & Co on-site signage walkthrough, South Congress location, Tue Oct 13, 9:00 am–12:30 pm",
+     "app": "calendar",
+     "when": "in 5 days",
+     "role": "background"
+    },
+    {
+     "text": "Dr. Patel's office: we're holding Tuesday, October 13 at 11:00 for your follow-up. Please call to confirm.",
+     "app": "text",
+     "when": "yesterday",
+     "role": "background"
+    },
+    {
+     "text": "Book the follow-up Dr. Patel asked for and order the sunscreen she prescribed",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "other open appointment slots and sunscreen price or delivery"
+  }
+ ],
+ "devon": [
+  {
+   "episode": "devon_interview_slot",
+   "fact": "Devon swapped shifts with Marcus: he closes that Wednesday from 3:30 and Marcus opens his Thursday",
+   "pieces": [
+    {
+     "text": "Work shift: open 7:00 am–1:00 pm, Thursday Oct 15",
+     "app": "calendar",
+     "when": "in 7 days",
+     "role": "background"
+    },
+    {
+     "text": "Marcus: hey can you close for me Wed 10/14 from 3:30? I'll take your Thursday 10/15 opening in exchange",
+     "app": "text",
+     "when": "2 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Devon to Marcus: bet, I got your Wednesday close, you got my Thursday open",
+     "app": "text",
+     "when": "2 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Recruiter email: thanks for applying to the analyst internship, please reply with a time that works for a 45-minute in-person interview next week, Oct 12–16",
+     "app": "email",
+     "when": "yesterday",
+     "role": "background"
+    },
+    {
+     "text": "Pick and send the recruiter an interview time for next week",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "the specific interview slots the recruiter offers"
+  },
+  {
+   "episode": "devon_rent_timing",
+   "fact": "the rent can be scheduled now to go out once his paycheck has landed and before the due date",
+   "pieces": [
+    {
+     "text": "Payroll direct deposit from Peach Street Grill $612.40, Friday Oct 2",
+     "app": "transaction",
+     "when": "6 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Paychecks hit every other Friday",
+     "app": "note",
+     "when": "2 months ago",
+     "role": "background"
+    },
+    {
+     "text": "Landlord email: November rent of $725 is due November 1; late fee applies after the 5th; payments can be scheduled ahead in the resident portal",
+     "app": "email",
+     "when": "3 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Checking balance $318.72 after Kroger purchase",
+     "app": "transaction",
+     "when": "yesterday",
+     "role": "background"
+    },
+    {
+     "text": "Figure out which bills to pay now, which to schedule and which have to wait",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "nothing"
+  },
+  {
+   "episode": "devon_textbook",
+   "fact": "he needs the book before his Business Law midterm on Tuesday, October 20, which the $31 rental would arrive after",
+   "pieces": [
+    {
+     "text": "Business Law midterm, Tuesday Oct 20, 11:00 am",
+     "app": "calendar",
+     "when": "in 12 days",
+     "role": "background"
+    },
+    {
+     "text": "Prof. Hayes email: the midterm is open-book, but only a physical copy of the required text (Business Law Today, 13th ed.) is allowed, no laptops or printouts",
+     "app": "email",
+     "when": "1 week ago",
+     "role": "background"
+    },
+    {
+     "text": "Still need to get the Business Law book",
+     "app": "note",
+     "when": "4 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Get the Business Law textbook as cheaply as possible",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "the $31 rental price and its delivery date"
+  },
+  {
+   "episode": "devon_tb_test",
+   "fact": "the clinic's earlier open times clash with his classes or work shifts",
+   "pieces": [
+    {
+     "text": "Internship onboarding email: submit a negative TB skin test before your start date; the test needs a second visit 48–72 hours after placement to be read",
+     "app": "email",
+     "when": "5 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Class schedule: Mon/Wed/Fri 9:00 am–12:15 pm, Tue/Thu 11:00 am–2:00 pm",
+     "app": "note",
+     "when": "7 weeks ago",
+     "role": "background"
+    },
+    {
+     "text": "Work shift: 4:00–9:00 pm, Monday Oct 12 and Tuesday Oct 13",
+     "app": "calendar",
+     "when": "in 4 days",
+     "role": "background"
+    },
+    {
+     "text": "Book the TB test at the free clinic on Ponce",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "the clinic's open hours and available appointment slots"
+  },
+  {
+   "episode": "devon_jaylen_birthday",
+   "fact": "Jaylen's sister Kiara texted Devon that she cannot arrive before about 8:30 and asked for 9",
+   "pieces": [
+    {
+     "text": "Group chat: we're doing Jaylen's birthday dinner Saturday Oct 17, keep it cheap, everybody's broke",
+     "app": "whatsapp",
+     "when": "4 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Kiara: I'm driving up from Macon after work, can't get there before like 8:30, can we do 9?",
+     "app": "text",
+     "when": "2 days ago",
+     "role": "background"
+    },
+    {
+     "text": "Book Jaylen's birthday dinner for the group of 8",
+     "app": "assistant_chat",
+     "when": "today",
+     "role": "trigger"
+    }
+   ],
+   "left_out": "which restaurants have a table and their prices"
+  }
+ ]
+}
