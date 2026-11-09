@@ -1,0 +1,1082 @@
+[
+ {
+  "person": "alice",
+  "arm": "facts",
+  "q": 1,
+  "agent": "08476ad1-83da-43d8-a53b-63d41e12c12c",
+  "searches": [
+   "house money note",
+   "house money",
+   "rent"
+  ],
+  "breaks": [],
+  "answer": "I’ll go to the Mission Street resident portal and schedule your November rent payment of $1,680 from checking ending 8203—your 40% share under the current 60/40 split with Daniel.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "alice",
+  "arm": "implications",
+  "q": 1,
+  "agent": "15a75029-fd62-4a7e-a576-bcf78cd2959d",
+  "searches": [
+   "house money",
+   "money note",
+   "rent",
+   "house"
+  ],
+  "breaks": [],
+  "answer": "I'd log into the Mission Street Properties resident portal and pay $1,680 — your 40% share of November's $4,200 rent under the updated 60/40 split — via ACH from your Bayline checking account ending 8203. I'll also remind Daniel to pay his $2,520 share on the portal by the 1st.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "alice",
+  "arm": "facts",
+  "q": 2,
+  "agent": "0e34ec24-fbeb-4dec-97bd-61cf843322ff",
+  "searches": [
+   "Fellow|kettle"
+  ],
+  "breaks": [],
+  "answer": "Daniel already ordered the Fellow kettle for your mom's birthday back on October 2 — his text said it's from him, so you don't need to place another one. I'll just make sure it matches what she wanted and note it as his gift.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "alice",
+  "arm": "implications",
+  "q": 2,
+  "agent": "0883153e-e187-444d-b774-f88656ea91b5",
+  "searches": [
+   "Fellow kettle"
+  ],
+  "breaks": [],
+  "answer": "I’d tell Alice: “Daniel already ordered the Fellow kettle for your mom’s birthday on Oct 2 — it’s from him — so you don’t need to order another one.”",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "alice",
+  "arm": "facts",
+  "q": 3,
+  "agent": "fd6ab9cc-9a2a-4e35-9ec7-c309af21245a",
+  "searches": [
+   "Mei|restaurant|dinner|gluten|GF|sushi|italian|thai|vegan|vegetarian|Brightwater|Mission| Hayes|Castro|Noe|reservation",
+   "Dinner next week|Hana's visiting|Wildgrain|Crumb Theory|restaurant",
+   "Wildgrain"
+  ],
+  "breaks": [],
+  "answer": "I'd book a table for **three** at Wildgrain Kitchen for next week — Mei already texted that Hana is visiting and she's bringing her along. I'd aim for Tuesday or Thursday evening since you have PT early Tuesday and the Wednesday water shutoff/lab meeting. Which day and time works best for you?",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "alice",
+  "arm": "implications",
+  "q": 3,
+  "agent": "9b039a78-04e8-4599-98c6-f44236d1e3a3",
+  "searches": [
+   "Mei|Wildgrain|Crumb Theory|gluten-free|dinner"
+  ],
+  "breaks": [],
+  "answer": "I'd tell Alice that Mei already texted back saying her sister Hana is visiting that week and wants to join the dinner, so a \"just us two\" reservation conflicts with Mei's reply. I'd suggest booking a table for three at Wildgrain Kitchen instead — it's fully gluten-free and one of Mei's trusted spots — unless Alice wants me to push back and confirm the original two-person plan.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "alice",
+  "arm": "facts",
+  "q": 4,
+  "agent": "8b1f2494-da47-4bfc-9b52-13c882a11501",
+  "searches": [
+   "haircut",
+   "cancellation policy",
+   "salon|barber|stylist|appointment",
+   "10/9|Oct 9|tomorrow"
+  ],
+  "breaks": [],
+  "answer": "Your haircut is with Ana at Bloom Hair Studio tomorrow, Friday 10/9, at 4:30 PM. Cancellations with less than 24 hours' notice are charged the full $72, so if you need to cancel, do it before 4:30 PM today to avoid the fee.",
+  "correct": 1,
+  "type": "lookup"
+ },
+ {
+  "person": "alice",
+  "arm": "implications",
+  "q": 4,
+  "agent": "4b994cc6-c6a8-4a3f-bf7f-a7ecee81cd7f",
+  "searches": [
+   "haircut"
+  ],
+  "breaks": [],
+  "answer": "I don't see a haircut appointment in my notes or phone records for tomorrow. I'd check the booking confirmation or salon's website for the cancellation policy, and I'd be happy to look up the salon's contact info if you remember the name.",
+  "correct": 0,
+  "type": "lookup"
+ },
+ {
+  "person": "alice",
+  "arm": "facts",
+  "q": 5,
+  "agent": "17669313-7ae0-45bc-a0eb-578021cc97dc",
+  "searches": [
+   "rent|split|60/40|fifty|Daniel"
+  ],
+  "breaks": [],
+  "answer": "With the twelve-month renewal at $4,429 and your current 60/40 split, you'd pay 60% of $4,429, or $2,657.40 a month. That's $137.40 more than the $2,520 you pay now.",
+  "correct": 0,
+  "type": "combine"
+ },
+ {
+  "person": "alice",
+  "arm": "implications",
+  "q": 5,
+  "agent": "f99aba45-a0cc-4645-9e8e-91b2474e6c59",
+  "searches": [],
+  "breaks": [],
+  "answer": "With your 40% share, the 12-month renewal would cost you **$1,771.60 per month** — that's **$120.40 less** than the month-to-month option, not more. I don't have your current rent amount to compare it to.",
+  "correct": 0,
+  "type": "combine"
+ },
+ {
+  "person": "alice",
+  "arm": "facts",
+  "q": 6,
+  "agent": "76bc6884-9064-4daf-b24c-4c4e7f04615f",
+  "searches": [],
+  "breaks": [],
+  "answer": "Your United flight K7QM2D lands in Denver at 11:52 AM, and Owen is picking you up.",
+  "correct": 1,
+  "type": "changed"
+ },
+ {
+  "person": "alice",
+  "arm": "implications",
+  "q": 6,
+  "agent": "79dcf111-9e4e-4a70-8884-297d62e7d7b0",
+  "searches": [
+   "Denver|arrival|pickup|flight|airport|DIA| Lyft|Uber|rental car|pick up",
+   "11:52|10:38|pickup|pick up|Lena.*Denver|Denver.*Lena|arrival|arriving"
+  ],
+  "breaks": [],
+  "answer": "You land Friday, October 30, at Denver International on United 2274 from SFO at 11:52 AM, and Owen is picking you and Daniel up. You told Mom you'd be at her place by 1 PM, and your return flight is UA 1839 on Monday, November 2, departing Denver at 6:15 PM.",
+  "correct": 1,
+  "type": "changed"
+ },
+ {
+  "person": "devon",
+  "arm": "facts",
+  "q": 1,
+  "agent": "a56ff7c4-bccb-4a22-9f95-24a37f61be0f",
+  "searches": [
+   "Kendra",
+   "interview"
+  ],
+  "breaks": [],
+  "answer": "I’ll reply to Kendra Lowe at Delmar Consulting and confirm your Business Analyst Intern interview for Wednesday, October 14 at 4:00 PM. Just to double-check: your fall classes are M/W/F 9:00 AM–12:15 PM, so 4 PM that Wednesday is free.",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "devon",
+  "arm": "implications",
+  "q": 1,
+  "agent": "3abb72d9-51ab-4def-baf8-6f9715ea45c5",
+  "searches": [
+   "Kendra"
+  ],
+  "breaks": [],
+  "answer": "I would email Kendra Lowe at klowe@delmarconsulting.com (or text/call her at (404) 555-0216) and say: “Hi Kendra, thanks for the invitation. Wednesday, October 14 at 4:00 PM works for me for the Business Analyst Intern interview.”",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "devon",
+  "arm": "facts",
+  "q": 2,
+  "agent": "94dc2a60-dc91-4ca8-bc38-85604a3d34c9",
+  "searches": [
+   "Uncle Ray|Ray|car payment|Honda Civic",
+   "Uncle Ray.*Venmo|Uncle Ray.*Zelle|Uncle Ray.*Cash|send Uncle Ray|payment.*Uncle Ray|Uncle Ray.*payment",
+   "Uncle Ray",
+   "Raymond Lewis|raylewis|Venmo.*Ray|Ray.*Venmo|Zelle|Cash App|Apple Pay"
+  ],
+  "breaks": [],
+  "answer": "I'll queue the $200 car payment to Uncle Ray for the 15th as usual, moving it back from the Oct 30 date we'd set. Want me to send it the same way as before, or do you need to update his payment info?",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "devon",
+  "arm": "implications",
+  "q": 2,
+  "agent": "662cf6cb-fbb5-496e-bd6d-6f3c1f919752",
+  "searches": [],
+  "breaks": [],
+  "answer": "I'll queue Uncle Ray's $200 car payment for Friday, October 30. Since today is October 8, that gives us three weeks until it needs to go out.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "devon",
+  "arm": "facts",
+  "q": 3,
+  "agent": "5a0973f4-3845-4544-bacb-a3faadfc0308",
+  "searches": [
+   "Mama|birthday|Macon|Natalie|off work|weekend"
+  ],
+  "breaks": [],
+  "answer": "I'd hold off on texting Mama until Luis approves the Saturday brunch swap in ShiftPlanner, since Friday is already covered but Saturday still needs his final sign-off. Once you confirm that's done, I'll send: \"Hey Mama, I'm all set to be off for your birthday weekend and I'll see y'all in Macon Friday after class.\"",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "devon",
+  "arm": "implications",
+  "q": 3,
+  "agent": "6c858680-45e0-446a-bc5e-63b0bbb74f98",
+  "searches": [
+   "Mama|Macon|Mom's 50th|birthday weekend"
+  ],
+  "breaks": [],
+  "answer": "I'd text Mama: \"Hey Mama, I'm all set to be off for your birthday weekend — Friday 10/23 is already approved and Marcus is covering my Saturday brunch shift so I can be in Macon. I'll head out after class Friday and text you when I leave.\"",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "devon",
+  "arm": "facts",
+  "q": 4,
+  "agent": "7fbfe127-b2ff-41c1-bc2e-cb7afee50afe",
+  "searches": [
+   "Business Law",
+   "midterm",
+   "open book|open-note|notes allowed|cheat sheet|permitted|allowed.*bring|bring.*class"
+  ],
+  "breaks": [],
+  "answer": "For Dr. Hayes's Business Law midterm, you can bring only a physical copy of the required textbook, *Business Law Today*, 13th edition. Laptops and printouts aren't allowed, so make sure you have the actual book with you in Calloway 220 at 11:00 on Tuesday 10/20.",
+  "correct": 1,
+  "type": "lookup"
+ },
+ {
+  "person": "devon",
+  "arm": "implications",
+  "q": 4,
+  "agent": "572f0f2c-7f7a-4ee2-a578-d83cbc68bac9",
+  "searches": [],
+  "breaks": [],
+  "answer": "You can bring only the physical textbook. Your notes say the BLAW midterm is open-book with physical textbook only.",
+  "correct": 1,
+  "type": "lookup"
+ },
+ {
+  "person": "devon",
+  "arm": "facts",
+  "q": 5,
+  "agent": "85c2d771-99b3-4a8e-84b5-e557e5b56db2",
+  "searches": [
+   "Priya",
+   "pantry",
+   "next Friday"
+  ],
+  "breaks": [],
+  "answer": "Priya is picking you up outside Langdale Hall at 12:20 next Friday, then you're heading to the Grant Park Community Pantry for the 1pm client meeting. Bring your laptop with the demo, and Destiny will meet you there too.",
+  "correct": 1,
+  "type": "changed"
+ },
+ {
+  "person": "devon",
+  "arm": "implications",
+  "q": 5,
+  "agent": "60dc74a0-78f7-424d-b864-037726b57c0f",
+  "searches": [
+   "Priya|pantry"
+  ],
+  "breaks": [],
+  "answer": "You're meeting Priya outside Langdale at 12:20 PM next Friday the 16th, and she'll drive you both to the Grant Park Community Pantry for the 1:00 PM client meeting.",
+  "correct": 1,
+  "type": "changed"
+ },
+ {
+  "person": "eleanor",
+  "arm": "facts",
+  "q": 1,
+  "agent": "27aa4a5f-e6fe-4006-92a9-1f7aba770943",
+  "searches": [
+   "plow|plowing"
+  ],
+  "breaks": [],
+  "answer": "I'd tell Eleanor that Gary Pelletier is retiring and won't be plowing this winter, so we can't use him again. Instead, I'll find a new plowing service for 14 Fickett St and get options lined up quickly, since she shouldn't be shoveling or lifting snow with her hip precautions.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "eleanor",
+  "arm": "implications",
+  "q": 1,
+  "agent": "48519ebb-9d00-4190-97a2-5cba4dc408d3",
+  "searches": [],
+  "breaks": [],
+  "answer": "I can’t arrange plowing with Gary—your notes say he’s retiring and selling his plow this winter. Because of your hip precautions you shouldn’t clear snow yourself, so I’ll find a new snow-removal service for you. Do you want me to call a few companies to get quotes and schedule regular plowing?",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "eleanor",
+  "arm": "facts",
+  "q": 2,
+  "agent": "15f137c8-0888-418a-a573-c0c86c96ccdc",
+  "searches": [
+   "Oct(ober)?\\s+(1[2-8]|12|13|14|15|16|17|18)",
+   "10/(1[2-8])",
+   "next week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday",
+   "flu shot|flu"
+  ],
+  "breaks": [],
+  "answer": "I’d tell Eleanor to send Michael this text: “Next week I have PT Tuesday at 2:30 with Peg driving, a flu shot Thursday at 11 at Hannaford, Pastor Linda is stopping by Thursday at 2 to talk about the All Saints service, and Joan and I are hosting coffee hour Sunday.”",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "eleanor",
+  "arm": "implications",
+  "q": 2,
+  "agent": "f0f7afd1-a2b1-4a8e-9bf3-34d25273cdc7",
+  "searches": [
+   "10/1[12]",
+   "Oct(ober)? (1[12]|8)",
+   "next week|Harbor|PT|retina|specialist|Peg",
+   "10/(1[45678])",
+   "Sunday 10/18|coffee hour|altar guild|10/18",
+   "flu shot|flu|Hannaford.*pharmacy|pharmacy",
+   "All Saints|Rev\\. Linda|Linda Carver|calendar.*10-15|10-15.*calendar"
+  ],
+  "breaks": [],
+  "answer": "I’d text Michael: “Next week I have PT Tuesday at 2:30 with Peg driving, a flu shot Thursday at 11 and Rev. Linda visiting at 2 to talk about All Saints, and I’m hosting coffee hour at church Sunday the 18th.” I won’t mention Monday’s Thornton Ridge tour since you asked me to keep the retirement-community search private from Michael and the family WhatsApp.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "eleanor",
+  "arm": "facts",
+  "q": 3,
+  "agent": "1195a780-0806-42af-ae57-5ab114b650a3",
+  "searches": [],
+  "breaks": [],
+  "answer": "I’d call Rick Thibodeau at Dunlap Heating and ask to schedule Eleanor Whitfield’s annual furnace tune-up for Wednesday, October 14, at a time that works for her. If I reach voicemail, I’d leave her name, address (14 Fickett St, South Portland ME 04106), and phone number and ask Rick to confirm the appointment. Once it’s booked, I’d tell Eleanor the date and time and remind her to keep the furnace area accessible.",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "eleanor",
+  "arm": "implications",
+  "q": 3,
+  "agent": "4cecf363-e5fa-4931-ae17-18435bc50b46",
+  "searches": [
+   "Rick|furnace"
+  ],
+  "breaks": [],
+  "answer": "I’ll call Dunlap Heating at (207) 555-0100 and ask to book Rick Thibodeau for next Wednesday, October 14th. Just a heads-up: Michael texted that he wants to be there when Dunlap does the furnace this year and Friday is the only day he can get up to you — should I check with him before confirming Wednesday, or keep the Wednesday appointment and let him know?",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "eleanor",
+  "arm": "facts",
+  "q": 4,
+  "agent": "5f28490b-72db-4ae6-80f6-1a16e661453e",
+  "searches": [
+   "caulk gun",
+   "caulk"
+  ],
+  "breaks": [],
+  "answer": "You told Michael the caulk gun was on the pegboard in the garage, left side.",
+  "correct": 1,
+  "type": "lookup"
+ },
+ {
+  "person": "eleanor",
+  "arm": "implications",
+  "q": 4,
+  "agent": "a722b934-c1e5-480f-b9b1-db819aeb2d6b",
+  "searches": [
+   "caulk gun",
+   "caulk",
+   "porch window trim",
+   "caulk gun"
+  ],
+  "breaks": [],
+  "answer": "You told Michael the caulk gun was \"on the pegboard in the garage, left side\" in a WhatsApp reply on October 4 at 10:30 AM.",
+  "correct": 1,
+  "type": "lookup"
+ },
+ {
+  "person": "eleanor",
+  "arm": "facts",
+  "q": 5,
+  "agent": "d9c330a7-3ebd-45cf-9cc6-d6daa7707c75",
+  "searches": [
+   "piano|Seaside Commons|Thornton Ridge|cost|price"
+  ],
+  "breaks": [],
+  "answer": "The **Ledge Lane cottage at Seaside Commons** would take the piano (the one-bedroom/den apartment H-314 would not). It costs **$84,000 more upfront** ($298,000 vs. $214,000) and **$660 more per month** ($4,640 vs. $3,980). I don't have Thornton Ridge's piano or pricing details in my notes yet.",
+  "correct": 1,
+  "type": "combine"
+ },
+ {
+  "person": "eleanor",
+  "arm": "implications",
+  "q": 5,
+  "agent": "06e25eaa-e319-42b9-acde-5094f74fe5c5",
+  "searches": [
+   "piano",
+   "Seaside Commons",
+   "Thornton Ridge"
+  ],
+  "breaks": [],
+  "answer": "The Seaside Commons cottage on Ledge Lane would take the piano — it’s the two-bedroom with a garage and no stairs, available spring 2027. It would cost $84,000 more upfront ($298,000 vs. $214,000) and $660 more per month ($4,640 vs. $3,980) than the one-bedroom apartment with den.",
+  "correct": 1,
+  "type": "combine"
+ },
+ {
+  "person": "eleanor",
+  "arm": "facts",
+  "q": 6,
+  "agent": "cdb3b4f9-1b33-432e-9e55-9f33f4eed0af",
+  "searches": [
+   "PT.*Tuesday|Tuesday.*PT|Harbor.*ride|ride.*Harbor|driv.*PT|PT.*driv|taking.*PT|pick.*up.*PT|PT.*pick",
+   "Peg.*PT|PT.*Peg|pickup 2:10|2:10|Joan.*PT|PT.*Joan"
+  ],
+  "breaks": [],
+  "answer": "Peg Dorsey is taking you to PT on Tuesday. Be ready for pickup at 2:10 PM so you can get to Harbor Physical Therapy for your 2:30 appointment.",
+  "correct": 1,
+  "type": "changed"
+ },
+ {
+  "person": "eleanor",
+  "arm": "implications",
+  "q": 6,
+  "agent": "7bba7cad-cf72-4414-8f0e-2926a986a623",
+  "searches": [],
+  "breaks": [],
+  "answer": "Peg is taking you to PT on Tuesday. She’ll pick you up at 2:10 PM for your 2:30 PM Harbor appointment. Be ready by 2:10.",
+  "correct": 1,
+  "type": "changed"
+ },
+ {
+  "person": "hannah",
+  "arm": "facts",
+  "q": 1,
+  "agent": "9c743144-8f94-49e9-b6c7-aea6fdc0688b",
+  "searches": [
+   "Dana"
+  ],
+  "breaks": [],
+  "answer": "I can't set up coffee for next Friday morning because you work Thursday night and sleep until at least 4pm on Fridays. I can text Dana at (773) 555-0124 and ask if Friday afternoon, maybe around 4:30pm, works instead—does that sound good?",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "hannah",
+  "arm": "implications",
+  "q": 1,
+  "agent": "b7e21024-dd7f-429a-b5af-fcd7f8d77007",
+  "searches": [
+   "Dana"
+  ],
+  "breaks": [],
+  "answer": "I’d push that back: next Friday morning conflicts with your post-Thursday-night-shift sleep block, and your notes say not to book anything before 4 PM on Fridays. I’d text Dana to suggest Friday afternoon after 4 PM, or Saturday or Sunday morning instead.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "hannah",
+  "arm": "facts",
+  "q": 2,
+  "agent": "70856067-4a6f-4e7d-9892-9e11f5c63298",
+  "searches": [
+   "Nashville",
+   "flight|airport|ORD|MDW|Chicago|home"
+  ],
+  "breaks": [],
+  "answer": "I'll book a Sunday, October 25 flight from Nashville (BNA) to Chicago arriving around 8 PM and check both ORD and MDW options. Before I finalize, I'll loop in Priya since she said she'd fly back with you, and I'll make sure the timing still works with Biscuit's Monday 10:30 AM recheck.",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "hannah",
+  "arm": "implications",
+  "q": 2,
+  "agent": "33e3abfa-d84b-44f5-ac8c-ce44fc413e59",
+  "searches": [
+   "Nashville|flight|return.*Nashville|home.*Nashville|airport",
+   "ORD|MDW|United|Southwest|American Airlines|Delta|frequent flyer|miles|airline|airport"
+  ],
+  "breaks": [],
+  "answer": "I'd search for a Sunday, October 25 BNA→Chicago flight arriving around 8 PM, then text Priya the best options since she asked to fly with you. The Airbnb checkout is 11 AM that day, so an evening departure gives you a relaxed buffer. Want me to narrow to O'Hare or Midway, or a preferred airline?",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "hannah",
+  "arm": "facts",
+  "q": 3,
+  "agent": "7e78aa0d-33e9-4c53-b8c3-ddc3eee9a3e4",
+  "searches": [
+   "ACLS"
+  ],
+  "breaks": [],
+  "answer": "Your ACLS renewal is Monday, November 2, 8:30 AM–4:30 PM at the Lakeshore General Simulation Center, Pavilion B, 2nd Floor. Bring your printed online pre-assessment certificate (you need 70% or higher), and pack a lunch because it’s not provided.",
+  "correct": 1,
+  "type": "lookup"
+ },
+ {
+  "person": "hannah",
+  "arm": "implications",
+  "q": 3,
+  "agent": "cd77f797-3068-4e11-8872-111f13d70661",
+  "searches": [
+   "ACLS"
+  ],
+  "breaks": [],
+  "answer": "Your ACLS renewal is Monday, November 2 at 8:30 AM–4:30 PM in the Simulation Center, Pavilion B, 2nd Floor at Lakeshore General. Bring your printed online pre-assessment certificate (you need 70% or higher), and pack a lunch since it’s not provided. Ben is taking your dad to PT that day, so you’re covered there.",
+  "correct": 1,
+  "type": "lookup"
+ },
+ {
+  "person": "hannah",
+  "arm": "facts",
+  "q": 4,
+  "agent": "d0f57fe4-3d24-4a97-b98c-b66cd7dc6148",
+  "searches": [
+   "CareRide",
+   "Ben"
+  ],
+  "breaks": [],
+  "answer": "Dad’s CareRide total for October so far is **$110** — that’s the Oct 2 Friday ride plus the Oct 7 Wednesday ride while Aunt Carol had her eye appointment — so **Ben’s half is $55.00**.",
+  "correct": 1,
+  "type": "combine"
+ },
+ {
+  "person": "hannah",
+  "arm": "implications",
+  "q": 4,
+  "agent": "62667310-c1a9-4b87-bfa2-d5ad483d455c",
+  "searches": [
+   "CareRide",
+   "Oct [0-9].*CareRide|CareRide.*Oct [0-9]|Total: \\$[0-9]",
+   "Thomas Brooks|Dad.*ride|ride.*Dad"
+  ],
+  "breaks": [],
+  "answer": "Dad's CareRide total for October so far is $110.00 — that's the Oct 2 and Oct 7 rides at $55 each — so Ben's half is $55.00.",
+  "correct": 1,
+  "type": "combine"
+ },
+ {
+  "person": "hannah",
+  "arm": "facts",
+  "q": 5,
+  "agent": "6c223aba-4374-4ecd-b281-72338fe809d3",
+  "searches": [],
+  "breaks": [],
+  "answer": "Biscuit should stay on **Dasuquin** for his joints.",
+  "correct": 1,
+  "type": "changed"
+ },
+ {
+  "person": "hannah",
+  "arm": "implications",
+  "q": 5,
+  "agent": "46e757ce-b1ca-4df5-b39c-238fc166526e",
+  "searches": [],
+  "breaks": [],
+  "answer": "Biscuit should stay on Dasuquin chews, not Cosequin, because of his severe chicken allergy.",
+  "correct": 1,
+  "type": "changed"
+ },
+ {
+  "person": "priya",
+  "arm": "facts",
+  "q": 1,
+  "agent": "84bcd661-c452-41ba-832c-9b57b81c9b68",
+  "searches": [
+   "Lucia",
+   "sitter",
+   "emergency",
+   "Arjun",
+   "Rachel",
+   "Anjali Rao",
+   "Puddlefern Early Learning",
+   "Wall.*Children|pediatrician",
+   "Kiran Mehta",
+   "Ramesh Mehta"
+  ],
+  "breaks": [],
+  "answer": "I’ll pull together the sitter notes for Lucia covering Meera’s peanut allergy and EpiPen, Zyrtec dosing, bedtime routine, emergency contacts, house rules, and this Wednesday’s 3:30–7:30 schedule, then send it to her at lucia.o.seattle@gmail.com / (206) 555-0191 by Tuesday evening. One quick check: should I remind her about the no-outside-food rule, since she mentioned she usually brings her own snacks?",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "priya",
+  "arm": "implications",
+  "q": 1,
+  "agent": "456922e9-38e0-455f-bdc7-7dfa1d927a00",
+  "searches": [
+   "Lucia",
+   "10/14",
+   "Wednesday"
+  ],
+  "breaks": [],
+  "answer": "I'd send Lucia this before Wednesday: Meera has a severe peanut allergy, so please don't bring any snacks or granola bars with nuts and check labels on any outside food; if she gets hives plus swelling, vomiting, or coughing, use the EpiPen Jr 0.15 mg in her diaper bag and call 911. For Wednesday 10/14, pick her up at Puddlefern at 3:30, give Zyrtec 2.5 ml at bedtime using the syringe by the kitchen sink, and have her asleep by 7:30.",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "priya",
+  "arm": "facts",
+  "q": 2,
+  "agent": "22b45744-17ad-4fb0-86c4-d01adc2628c9",
+  "searches": [
+   "Lucia|snack|Wednesday",
+   "\\[Lucia\\]"
+  ],
+  "breaks": [],
+  "answer": "I’d reply to Lucia: “Of course, bring whatever you need for yourself, but please keep it separate from Meera and don’t share it with her. Because of her peanut allergy, we only give her food from our kitchen, so no outside snacks for her.”",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "priya",
+  "arm": "implications",
+  "q": 2,
+  "agent": "033e0adc-ede7-4f81-9736-1e4eac4288fe",
+  "searches": [
+   "Lucia",
+   "granola|snack"
+  ],
+  "breaks": [],
+  "answer": "Thanks for checking — because of Meera's severe peanut allergy, I'd tell Lucia that outside snacks, including granola bars, aren't allowed in the house. I'd say she can help herself to anything in our kitchen, and remind her about the allergy rule and hand-washing when she arrives. I'd keep it friendly but firm, something like: \"Hi Lucia! Actually we keep our house peanut-free and don't bring in outside food — could you eat your snacks before you arrive and grab anything here instead? Looking forward to seeing you Wednesday!\"",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "priya",
+  "arm": "facts",
+  "q": 3,
+  "agent": "b8591d7d-a2ac-4311-aa80-5ae4dabcbe89",
+  "searches": [
+   "Hana",
+   "September"
+  ],
+  "breaks": [],
+  "answer": "I’d tell you the September total for Hana was already paid: $828 via two Venmo payments on October 2 ($348 for Saturdays and $480 for Wednesdays). So no need to send anything now.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "priya",
+  "arm": "implications",
+  "q": 3,
+  "agent": "a8a3180f-f694-4a4d-bd7b-57518474e98e",
+  "searches": [
+   "Hana",
+   "September"
+  ],
+  "breaks": [],
+  "answer": "I already paid Hana the September total — $348 for the Saturday shifts plus $480 for the five Wednesday shifts, totaling $828 — via Venmo on October 2, per your Sitter hours note.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "priya",
+  "arm": "facts",
+  "q": 4,
+  "agent": "47800c85-202f-4751-bc28-ed89ee0442cc",
+  "searches": [
+   "park|parking",
+   "Cascade Pediatric Allergy|Anjali Rao|Dr\\. Rao"
+  ],
+  "breaks": [],
+  "answer": "Park free in the garage off NE 98th Street, then bring your ticket to the front desk at Cascade Pediatric Allergy for validation. Arrive 10 minutes early for the 10:15 AM appointment, and don’t forget Meera’s two EpiPens, insurance card, and medication list.",
+  "correct": 1,
+  "type": "lookup"
+ },
+ {
+  "person": "priya",
+  "arm": "implications",
+  "q": 4,
+  "agent": "d4d890c7-8a1f-48af-88ca-f5ba7a3ebb38",
+  "searches": [
+   "Dr\\. Rao|parking|Rao"
+  ],
+  "breaks": [],
+  "answer": "Park in the free garage off NE 98th St and bring your ticket to the front desk for validation. The appointment is at Cascade Pediatric Allergy, 9730 3rd Ave NE, Suite 210, on Tuesday, October 20 at 10:15 AM.",
+  "correct": 1,
+  "type": "lookup"
+ },
+ {
+  "person": "priya",
+  "arm": "facts",
+  "q": 5,
+  "agent": "573f2263-3478-4982-b87d-0c9747c6c7a7",
+  "searches": [
+   "airfare|Nisha|transfer"
+  ],
+  "breaks": [],
+  "answer": "Nisha sent $1,243, which is half of the $2,486 airfare, so the remaining $1,243 is on you and Arjun.",
+  "correct": 1,
+  "type": "combine"
+ },
+ {
+  "person": "priya",
+  "arm": "implications",
+  "q": 5,
+  "agent": "1ce9dd2e-19ae-46de-954a-d83d29ca5b57",
+  "searches": [
+   "airfare|Nisha|transfer|Mummy|Papa|Kiran|Ramesh"
+  ],
+  "breaks": [],
+  "answer": "Mummy and Papa’s tickets were $2,486 total, and Nisha sent $1,243 by Zelle, so $1,243 is still on you.",
+  "correct": 1,
+  "type": "combine"
+ },
+ {
+  "person": "priya",
+  "arm": "facts",
+  "q": 6,
+  "agent": "ced582e8-bb10-4029-9c8a-e6c55dc8e8c4",
+  "searches": [
+   "roadmap review"
+  ],
+  "breaks": [],
+  "answer": "Next week's roadmap review moved to **Thursday, October 15 at 8:30 AM** — Dana shifted it from Tuesday the 13th and it'll return to Tuesdays after that.",
+  "correct": 1,
+  "type": "changed"
+ },
+ {
+  "person": "priya",
+  "arm": "implications",
+  "q": 6,
+  "agent": "bb8da993-ab52-4300-b024-703ee6c0948c",
+  "searches": [
+   "roadmap review"
+  ],
+  "breaks": [],
+  "answer": "Next week's roadmap review is Thursday, October 15 at 8:30 AM — Dana moved it from Tuesday the 13th. It goes back to Tuesdays the week after.",
+  "correct": 1,
+  "type": "changed"
+ },
+ {
+  "person": "tomas",
+  "arm": "facts",
+  "q": 1,
+  "agent": "519f578b-5c7c-49f1-851e-68b2a1b71e69",
+  "searches": [
+   "Patel"
+  ],
+  "breaks": [],
+  "answer": "I'll call Patel Family Medicine at (512) 555-0142 to confirm the follow-up appointment they're holding for you on Tuesday, October 13 at 11:00 AM.",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "tomas",
+  "arm": "implications",
+  "q": 1,
+  "agent": "c2d7a35e-17ca-409d-a7be-f5759efccc26",
+  "searches": [
+   "Patel",
+   "Patel"
+  ],
+  "breaks": [],
+  "answer": "I'll call Patel Family Medicine at (512) 555-0142 to confirm the Tuesday, October 13 at 11:00 AM follow-up slot they're holding for you. Your calendar looks clear that morning, so I'll lock it in unless they need to move it.",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "tomas",
+  "arm": "facts",
+  "q": 2,
+  "agent": "792d9516-c898-4747-acdb-776b155479bd",
+  "searches": [
+   "Nora",
+   "Crumb",
+   "Brightside"
+  ],
+  "breaks": [],
+  "answer": "I’d reply to Nora Feld’s Brightside email from October 4 and tell her you’re in for the Crumb & Kettle identity project, then ask her to set up the call with their creative director whenever it fits your schedule.",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "tomas",
+  "arm": "implications",
+  "q": 2,
+  "agent": "f10bc0f5-9662-46a3-b640-298c7779a0f0",
+  "searches": [
+   "Crumb & Kettle|Fennel|exclusivity|Nora",
+   "Crumb and Kettle|Crumb & Kettle|Crumb|Kettle|Nora Feld"
+  ],
+  "breaks": [],
+  "answer": "I wouldn't tell Nora you're in yet. Your Fennel contract has an exclusivity clause through February 15, 2027 that bars brand identity work for any other cafe, coffee shop, or bakery in Central Texas, and Crumb & Kettle is an Austin/San Antonio bakery-cafe chain. I'd flag the conflict and ask whether you want me to decline, check with Mara about a waiver, or proceed anyway.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "tomas",
+  "arm": "facts",
+  "q": 3,
+  "agent": "b69c3beb-3576-4a82-8c7c-d82607f085fe",
+  "searches": [
+   "Fennel",
+   "round 2",
+   "approval",
+   "TA-2026-016",
+   "invoice #",
+   "PO 7740"
+  ],
+  "breaks": [],
+  "answer": "I would ask Mara to confirm round 2 approval in writing first—her email yesterday gives feedback but still requests two changes, and your contract note says to invoice only once she confirms. Once she confirms, I’ll send Fennel & Co Accounts Payable (ap@fennelandco.com) a $3,500 invoice marked with PO 7740 and invoice number TA-2026-016.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "tomas",
+  "arm": "implications",
+  "q": 3,
+  "agent": "bcea3937-b35d-4a32-afbc-6b8ec80c6191",
+  "searches": [],
+  "breaks": [],
+  "answer": "I’d need Mara’s written confirmation before sending the $3,500 Fennel round 2 invoice—could you forward that to me? Once I have it, I’ll send the invoice right away.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "tomas",
+  "arm": "facts",
+  "q": 4,
+  "agent": "19418161-dced-4049-9709-66562e37cd17",
+  "searches": [
+   "Central"
+  ],
+  "breaks": [],
+  "answer": "You have two holds waiting at the Central Library: **Logo Modernism** by Jens Müller and **Designing Brand Identity, 6th ed.** by Alina Wheeler. They need to be picked up by **Monday, October 13, 2026**.",
+  "correct": 1,
+  "type": "lookup"
+ },
+ {
+  "person": "tomas",
+  "arm": "implications",
+  "q": 4,
+  "agent": "99355bbb-a27e-4f94-bb09-03759b78086b",
+  "searches": [
+   "Central|library|book|hold|pick up|due|waiting"
+  ],
+  "breaks": [],
+  "answer": "Two holds are waiting for you at the Austin Central Library: *Logo Modernism* by Jens Müller and *Designing Brand Identity, 6th ed.* by Alina Wheeler. The pickup deadline is **October 13, 2026** — your calendar already has a note to grab them during your Central Library work block that day.",
+  "correct": 1,
+  "type": "lookup"
+ },
+ {
+  "person": "tomas",
+  "arm": "facts",
+  "q": 5,
+  "agent": "182fd4b9-2b08-4aa6-918c-c96bf8536bce",
+  "searches": [
+   "Austin Energy|energy bill|electric bill|utility|bill.*Kei|Kei.*bill"
+  ],
+  "breaks": [],
+  "answer": "Your actual share of the current Austin Energy bill is **$54.30**. Under the agreement, since the bill is in your name, Kei owes you half of the $108.60 total once it posts.",
+  "correct": 1,
+  "type": "combine"
+ },
+ {
+  "person": "tomas",
+  "arm": "implications",
+  "q": 5,
+  "agent": "6ee28e4b-2fe3-4992-85da-26b89dca0dcc",
+  "searches": [
+   "Austin Energy|Kei.*bill|electric|utility|108\\.60|autopay"
+  ],
+  "breaks": [],
+  "answer": "Your share is **$54.30** — half of the $108.60 Austin Energy bill. Kei already Zelled you exactly $54.30 for \"electric sept,\" so your net cost is covered and the split is even.",
+  "correct": 1,
+  "type": "combine"
+ },
+ {
+  "person": "tomas",
+  "arm": "facts",
+  "q": 6,
+  "agent": "bd3f2da2-2d43-4589-9077-50577a8796d4",
+  "searches": [
+   "Ben",
+   "birthday dinner",
+   "birthday"
+  ],
+  "breaks": [],
+  "answer": "Ben's birthday dinner is at **7:30 PM** at Marisol Cocina in Chicago. Lucía texted that he changed it from 7:00 PM because the restaurant couldn't seat 12 people at 7:00.",
+  "correct": 1,
+  "type": "changed"
+ },
+ {
+  "person": "tomas",
+  "arm": "implications",
+  "q": 6,
+  "agent": "98c7bcb3-22cf-439a-83ae-da3d35e3041c",
+  "searches": [
+   "Ben",
+   "birthday dinner"
+  ],
+  "breaks": [],
+  "answer": "Ben's birthday dinner is at 7:30 PM at Marisol Cocina — Lucía texted on the 7th that Ben moved it from 7 PM because the restaurant couldn't seat 12 at 7.",
+  "correct": 1,
+  "type": "changed"
+ },
+ {
+  "person": "wei",
+  "arm": "facts",
+  "q": 1,
+  "agent": "28b16ffa-a54b-4cd0-bbe8-f1482fbd5666",
+  "searches": [
+   "EOB|Wexley|September",
+   "09/24/2026|26-0902|26-0924|Dr\\. Okafor.*09"
+  ],
+  "breaks": [],
+  "answer": "I'd wait to pay until the Plan G EOB for the 9/24 visit arrives, since your rule is to pay only after the EOB confirms \"your responsibility\" matches the bill, and Hartwell emailed on 10/6 saying not to pay until then. The EOB should come within about two weeks, well before the 10/28 due date. If you want me to go ahead and pay now anyway, just confirm and I'll use wexleymedical.com/pay or call (718) 555-0140 option 3.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "wei",
+  "arm": "implications",
+  "q": 1,
+  "agent": "746cb4f1-a8a1-4940-bd95-45489579432b",
+  "searches": [
+   "Wexley"
+  ],
+  "breaks": [],
+  "answer": "I’ll hold off on paying it right now—your rule is to wait for the Hartwell Plan G EOB first and confirm the “your responsibility” amount matches the bill before sending money. The 9/24 Wexley claim was only received on 10/6 and typically takes about 14 days, so I’ll check for the EOB and pay once it arrives if the amount lines up.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "wei",
+  "arm": "facts",
+  "q": 2,
+  "agent": "85b5dcc8-dd04-43a2-88c0-4ac629346aa5",
+  "searches": [],
+  "breaks": [],
+  "answer": "Fang is already scheduled Mon/Wed/Fri 8 am–1 pm, so next Friday (10/9) morning is already covered under the normal rotation. No extra booking needed unless you want her to arrive earlier or stay past 1 pm. Let me know if you want me to ask Rosa to extend the shift.",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "wei",
+  "arm": "implications",
+  "q": 2,
+  "agent": "3355d6df-f004-443e-a964-a5080c9b0026",
+  "searches": [],
+  "breaks": [],
+  "answer": "Fang is already marked off on Friday 10/16, so I can’t put her down for that morning. Would you like me to ask Mei to cover, or double-check with Fang whether she’s available anyway?",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "wei",
+  "arm": "facts",
+  "q": 3,
+  "agent": "7e36585c-4368-4a26-9575-2f0444653fad",
+  "searches": [
+   "Con Edison",
+   "bill due 19"
+  ],
+  "breaks": [],
+  "answer": "I found the Con Edison bill for $118.42 due October 19, and your bank records show it was already paid on October 5 with your Visa ending in 4417, so no further action is needed.",
+  "correct": 1,
+  "type": "catch"
+ },
+ {
+  "person": "wei",
+  "arm": "implications",
+  "q": 3,
+  "agent": "7396df45-91b8-4bd2-87a5-43fce6f5bd15",
+  "searches": [
+   "Con Edison"
+  ],
+  "breaks": [],
+  "answer": "I'll pay the Con Edison bill of **$118.42** for account ending **6634** (43-18 158th St, Flushing) due **10/19/2026**, and let Wei know once it's scheduled. I'll use his usual online payment method unless he prefers otherwise.",
+  "correct": 0,
+  "type": "catch"
+ },
+ {
+  "person": "wei",
+  "arm": "facts",
+  "q": 4,
+  "agent": "a8b92b85-2598-4754-b007-dc1449639460",
+  "searches": [
+   "Ming",
+   "cash"
+  ],
+  "breaks": [],
+  "answer": "I'd tell you to have **$180 in cash** ready for Ming Zhao tomorrow, since he's coming Friday at 2 pm to install the 24-inch grab bar by the toilet and tighten the shower bar. Make sure Fang moves the towels off the rack in the morning before she leaves at 1 pm.",
+  "correct": 1,
+  "type": "lookup"
+ },
+ {
+  "person": "wei",
+  "arm": "implications",
+  "q": 4,
+  "agent": "7a8aad61-f593-415c-becd-c36651531047",
+  "searches": [],
+  "breaks": [],
+  "answer": "Have \\$180 in cash ready for Ming’s grab bar installation at 2 p.m. tomorrow.",
+  "correct": 1,
+  "type": "lookup"
+ },
+ {
+  "person": "wei",
+  "arm": "facts",
+  "q": 5,
+  "agent": "3b9a8972-f795-4e8a-9f0b-64a9f574708f",
+  "searches": [],
+  "breaks": [],
+  "answer": "Fang normally works 12 Mon/Wed/Fri days in October (13 scheduled days minus 10/12 off), at 5 hours × $29 = $145 per day, so the shared October bill is $1,740. Split that David ½ ($870), Helen ¼ ($435), and Wei ¼ ($435), with Helen also covering the extra 10/29 shift ($145), making Helen’s total $580.",
+  "correct": 0,
+  "type": "combine"
+ },
+ {
+  "person": "wei",
+  "arm": "implications",
+  "q": 5,
+  "agent": "0265f53b-c8b1-424f-9cc5-38f66f093b93",
+  "searches": [
+   "Fang",
+   "rate|hourly|pay|cost|\\$/hour"
+  ],
+  "breaks": [],
+  "answer": "Mei is covering both days Fang is off (10/12 and 10/16), so those cost nothing. In October, Fang will have 11 regular visits at $145 each, totaling $1,595. Split that as: David $797.50, Helen $398.75, and you $398.75; Helen also pays the extra 10/29 day ($145), so her October total is $543.75.",
+  "correct": 1,
+  "type": "combine"
+ },
+ {
+  "person": "wei",
+  "arm": "facts",
+  "q": 6,
+  "agent": "8cace1a7-d53d-422c-8023-6f8e1e8fe7bf",
+  "searches": [],
+  "breaks": [],
+  "answer": "Hong's room at the Parkside Inn is booked from October 15 through October 22, with the confirmation code PKF-778104.",
+  "correct": 1,
+  "type": "changed"
+ },
+ {
+  "person": "wei",
+  "arm": "implications",
+  "q": 6,
+  "agent": "bdd28c9e-c825-49b3-82fb-d29ba204ccbf",
+  "searches": [],
+  "breaks": [],
+  "answer": "Hong’s room is booked from October 15 through October 22 at Parkside Inn (PKF-778104).",
+  "correct": 1,
+  "type": "changed"
+ }
+]

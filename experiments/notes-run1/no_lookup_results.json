@@ -1,0 +1,208 @@
+[
+ {
+  "person": "wei",
+  "arm": "facts",
+  "agent": "2c53f5d2-9e6c-4423-aee6-167bc4545966",
+  "correct": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "score": 2,
+  "answer": "1. I'd wait on paying Wexley until the EOB arrives, since the note says to wait for it; the $140.20 isn't due until 10/28.\n2. I'd put Fang down for Friday, October 16, 8 am–1 pm; it's her regular Friday shift and she isn't marked off that day.\n3. I don't have any note about a Con Edison bill, so I can't take care of it from the information I have.\n4. I don't have any notes about Ming or a payment to Ming, so I can't tell you how much cash to have ready.\n5. Fang works 12 paid days in October (5-hour days at $29/hr, with 10/12 off and 10/29 extra covered by Helen). Shared cost is $1,740: David budgets $870, Helen $435, and Wei $435. If you include Helen paying for the extra 10/29 shift, Helen's total is $580.\n6. Hong's room at Parkside Inn is booked for October 15–22, confirmation PKF-778104."
+ },
+ {
+  "person": "wei",
+  "arm": "implications",
+  "agent": "54e8a961-a865-45da-ab99-97d30b870512",
+  "correct": [
+   1,
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "score": 4,
+  "answer": "1. I don't have any notes about a Wexley bill or September visit. Based on your Hartwell Plan rule, I'd wait for the EOB before paying any doctor bill, and I'd ask you for Wexley's account details before doing anything."
+ },
+ {
+  "person": "tomas",
+  "arm": "facts",
+  "agent": "1fd3de65-6a30-4d82-b7b2-7df70b518079",
+  "correct": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  "score": 1,
+  "answer": "1. Your notes only show an annual physical with Dr. Patel on Tuesday, October 20 at 8:30 AM—there's no mention of an 11 AM slot, so I can't confirm that from what I have."
+ },
+ {
+  "person": "tomas",
+  "arm": "implications",
+  "agent": "f7c8af39-a2b7-46d5-a7df-f7dfd3829114",
+  "correct": [
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  "score": 2,
+  "answer": "1. I don't have Patel's phone number or any note about a Tuesday 11 slot, so I'd tell you I need more info before calling.\n2. I'd tell Nora you have to decline the Crumb & Kettle project because the Fennel exclusivity runs until 2/15/2027.\n3. I wouldn't send the Fennel invoice yet—the notes say you still need Mara's written confirmation before invoicing the $3,500.\n4. Your notes don't mention anything about books waiting at Central, so I can't answer that.\n5. Your notes don't say Kei is contributing to the Austin Energy bill; the $81.60 figure is for Kei's birthday dinner, so I can't calculate a share.\n6. Your notes don't mention Ben or a birthday dinner for Ben, only Kei's on 10/10 at 7:30."
+ },
+ {
+  "person": "priya",
+  "arm": "facts",
+  "agent": "ef2cf611-a53d-4d69-8869-0715a141cba2",
+  "correct": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "score": 0,
+  "answer": "1. I don't have any notes about sitter notes or Lucia, so I can't prepare those for you.\n2. I don't have details about Lucia bringing snacks on Wednesday, so I can't draft that reply.\n3. My notes don't include Hana, a September total, or any payment amount, so I can't help with that.\n4. The notes mention Dr. Rao at Cascade Pediatric Allergy but don't include parking details; I'd need that info from elsewhere.\n5. I don't have any notes about the airfare cost or Nisha's transfer amount.\n6. My notes don't include anything about a roadmap review schedule."
+ },
+ {
+  "person": "priya",
+  "arm": "implications",
+  "agent": "ccb281bf-5be9-4d67-bee4-218a57046afe",
+  "correct": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "score": 0,
+  "answer": "1. I don’t have your sitter notes in the information you gave me, so I can’t prepare them yet. Please share what should go in them or where they’re stored, and I’ll draft it for you to send Lucia."
+ },
+ {
+  "person": "devon",
+  "arm": "facts",
+  "agent": "cd8c2555-ccd6-42fe-8a9b-7fc17a97c072",
+  "correct": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "score": 0,
+  "answer": "1. I don’t have Kendra or an interview in my notes, so I’d tell Devon I need more details before messaging her."
+ },
+ {
+  "person": "devon",
+  "arm": "implications",
+  "agent": "4796a3d3-df39-41e2-958b-a91a7eb919d6",
+  "correct": [
+   0,
+   1,
+   0,
+   1,
+   0
+  ],
+  "score": 2,
+  "answer": "1. I don’t have any notes about an interview with Kendra or a Wednesday 4 pm time, so I’d ask you to confirm the details before I message her."
+ },
+ {
+  "person": "alice",
+  "arm": "facts",
+  "agent": "adeca7e2-2107-47aa-8997-ec00d7446993",
+  "correct": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "score": 1,
+  "answer": "1. I don't see a \"house money note\" in your memory notes. With the current 60/40 split on $4,200 rent, your share would be $2,520, but I'd need the account or setup details before I could arrange the payment."
+ },
+ {
+  "person": "alice",
+  "arm": "implications",
+  "agent": "c9c27a7f-e015-42c7-ac0a-fe6dfb95c058",
+  "correct": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "score": 0,
+  "answer": "1. I don't have the total November rent amount in my notes, so I can't calculate your 40% share or set up the payment. Please give me the rent total and how you'd like it paid."
+ },
+ {
+  "person": "hannah",
+  "arm": "facts",
+  "agent": "24c07a2f-954e-4701-ac83-62cd7a7302ed",
+  "correct": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "score": 2,
+  "answer": "1. I’d flag that your rule is no bookings before 4pm Wednesday–Friday, so a Friday morning coffee doesn’t fit unless you want to override it; I’d ask you to confirm an afternoon slot or pick a different day."
+ },
+ {
+  "person": "hannah",
+  "arm": "implications",
+  "agent": "7cc2f637-1a4e-4552-8054-496153ecae5a",
+  "correct": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "score": 2,
+  "answer": "1. Friday mornings are blocked until 4pm because you're recovering from night shifts, so I'd suggest coffee after 4pm on Friday or a weekend slot instead.\n2. I don't see your home airport in my notes—tell me which airport to search and I'll pull Sunday 10/25 flights from Nashville arriving around 8pm for you to book.\n3. My notes only say ACLS renewal is Monday 11/2; I don't have the location or what to bring, so check your renewal email or the AHA site.\n4. My notes don't mention CareRide, Dad's transportation costs, or Ben, so I can't calculate that total for you.\n5. Biscuit should be on Dasuquin chews, not Cosequin; I'd double-check the formula is chicken-free because of his severe allergy."
+ },
+ {
+  "person": "eleanor",
+  "arm": "facts",
+  "agent": "4100e080-8541-4384-a40e-316c049b84f7",
+  "correct": [
+   1,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  "score": 2,
+  "answer": "1. I can't arrange that with Gary—your notes say he's retiring, so we'd need to set up a new plow service. I'd ask if you have a company in mind or if you'd like me to look into options."
+ },
+ {
+  "person": "eleanor",
+  "arm": "implications",
+  "agent": "1eee1433-9249-43bf-8e9f-b0e955d7cefd",
+  "correct": [
+   1,
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "score": 3,
+  "answer": "1. I'd tell you that Gary Pelletier is retiring and selling his plow this year, so I can't arrange plowing with him again. I would look for a new snow removal service for you instead, since you can't clear snow yourself."
+ }
+]
