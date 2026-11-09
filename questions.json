@@ -1,0 +1,490 @@
+[
+  {
+    "person": "priya",
+    "question": "Can you get my sitter notes ready to send Lucia before Wednesday?",
+    "type": "catch",
+    "answer": "Updates the spare EpiPen location to the basket on top of the fridge before sharing the sitter notes.",
+    "catch": "The saved note points Lucia to the wrong location; Arjun moved the spare after Meera learned to open the drawer.",
+    "record_ids": [
+      "n2",
+      "t1"
+    ],
+    "likely_wrong_answer": "Send the saved note unchanged, saying the spare EpiPen is in the hallway drawer."
+  },
+  {
+    "person": "priya",
+    "question": "Reply to Lucia about bringing snacks on Wednesday. Just something quick.",
+    "type": "catch",
+    "answer": "Tells Lucia not to bring outside snacks, including her own, under the house food rule.",
+    "catch": "Lucia's text asks to bring her own snacks, but the house rules prohibit all outside food, including sitters' snacks.",
+    "record_ids": [
+      "t12",
+      "n3"
+    ],
+    "likely_wrong_answer": "Tell Lucia that bringing her own snacks is fine."
+  },
+  {
+    "person": "priya",
+    "question": "Can you pay Hana the September total we worked out?",
+    "type": "catch",
+    "answer": "Does not pay again: Hana’s $828 September total was already paid.",
+    "catch": "The earlier assistant calculation looks like an outstanding amount, but two later transactions settle it.",
+    "record_ids": [
+      "a3",
+      "x17",
+      "x18"
+    ],
+    "likely_wrong_answer": "Venmo Hana another $828."
+  },
+  {
+    "person": "priya",
+    "question": "Where do I park for Meera's appointment with Dr. Rao?",
+    "type": "lookup",
+    "answer": "Identifies the garage off NE 98th St and says to bring the ticket for free parking validation.",
+    "catch": null,
+    "record_ids": [
+      "e41"
+    ],
+    "likely_wrong_answer": "Park on the street or pay for the garage without requesting validation."
+  },
+  {
+    "person": "priya",
+    "question": "How much of Mummy and Papa's airfare is actually on us after Nisha's transfer?",
+    "type": "combine",
+    "answer": "Gives $1,243 as the household’s remaining airfare cost after Nisha’s transfer.",
+    "catch": null,
+    "record_ids": [
+      "e20",
+      "x15"
+    ],
+    "likely_wrong_answer": "Your household still has the full $2,486 airfare to cover."
+  },
+  {
+    "person": "priya",
+    "question": "When's next week's roadmap review?",
+    "type": "changed",
+    "answer": "Gives Thursday, October 15, 8:30–9:30 AM PT.",
+    "catch": null,
+    "record_ids": [
+      "c8",
+      "e49"
+    ],
+    "likely_wrong_answer": "Tuesday, October 13, at 8:30 AM."
+  },
+  {
+    "person": "wei",
+    "question": "Please pay the Wexley bill for my September visit.",
+    "type": "catch",
+    "answer": "Waits for the Plan G EOB before paying the September Wexley bill.",
+    "catch": "Wei's standing rule requires the Plan G EOB before payment, and the insurer has not yet supplied it in these records.",
+    "record_ids": [
+      "e32",
+      "n2",
+      "e39"
+    ],
+    "likely_wrong_answer": "Pay $140.20 immediately because the amount matches the deductible."
+  },
+  {
+    "person": "wei",
+    "question": "Put Fang down to stay with Lin next Friday morning.",
+    "type": "catch",
+    "answer": "Flags that Fang has October 16 off instead of scheduling her that morning.",
+    "catch": "The recurring Mon/Wed/Fri calendar entry does not include the Friday absence approved in WhatsApp.",
+    "record_ids": [
+      "c7",
+      "w1"
+    ],
+    "likely_wrong_answer": "Schedule Fang for Friday, October 16, from 8 AM to 1 PM."
+  },
+  {
+    "person": "wei",
+    "question": "Please take care of the Con Edison bill due on the 19th.",
+    "type": "catch",
+    "answer": "Does not pay again: the Con Edison bill was paid October 5.",
+    "catch": "The bill email still shows an upcoming due date, while a separate note records that it has been paid.",
+    "record_ids": [
+      "e19",
+      "n11"
+    ],
+    "likely_wrong_answer": "Send another $118.42 payment to Con Edison."
+  },
+  {
+    "person": "wei",
+    "question": "How much cash should I have ready for Ming tomorrow?",
+    "type": "lookup",
+    "answer": "Gives $180 cash.",
+    "catch": null,
+    "record_ids": [
+      "t15"
+    ],
+    "likely_wrong_answer": "Have $180 ready for each job, $360 total."
+  },
+  {
+    "person": "wei",
+    "question": "With the days Fang is taking off, what should each of us budget for October?",
+    "type": "combine",
+    "answer": "Accounts for both October 12 and 16 off and Helen alone paying the October 29 extra visit: expected shares are David $797.50, Wei $398.75, Helen $543.75.",
+    "catch": null,
+    "record_ids": [
+      "n3",
+      "n10",
+      "w1",
+      "t21"
+    ],
+    "likely_wrong_answer": "David $870, Wei $435 and Helen $580, overlooking Fang's October 16 absence."
+  },
+  {
+    "person": "wei",
+    "question": "What dates is Hong's room booked for?",
+    "type": "changed",
+    "answer": "Gives October 15–22, seven nights.",
+    "catch": null,
+    "record_ids": [
+      "e12",
+      "e21"
+    ],
+    "likely_wrong_answer": "October 14–22, eight nights."
+  },
+  {
+    "person": "alice",
+    "question": "Set up my November rent payment using the house money note.",
+    "type": "catch",
+    "answer": "Uses Alice’s updated 40% rent share of $1,680, rather than $2,100.",
+    "catch": "The house note says 50/50, but Daniel's later text changes rent to 60/40 starting October, with him paying 60%.",
+    "record_ids": [
+      "n3",
+      "t3"
+    ],
+    "likely_wrong_answer": "Set up a $2,100 payment based on the old 50/50 split."
+  },
+  {
+    "person": "alice",
+    "question": "Order Mom that Fellow kettle for her birthday.",
+    "type": "catch",
+    "answer": "Flags that Daniel already bought the Fellow kettle and avoids ordering a duplicate.",
+    "catch": "Daniel's separate text says he has already bought this exact gift.",
+    "record_ids": [
+      "t3",
+      "n7"
+    ],
+    "likely_wrong_answer": "Order a second Fellow kettle for Mom."
+  },
+  {
+    "person": "alice",
+    "question": "Book somewhere for dinner with Mei next week, just us two.",
+    "type": "catch",
+    "answer": "Flags that Hana is joining, making three diners, and respects Mei’s coeliac cross-contamination restrictions when selecting a restaurant.",
+    "catch": "Mei added Hana in WhatsApp, and the separate food note rules out choosing a restaurant solely because it offers gluten-free dishes.",
+    "record_ids": [
+      "w10",
+      "n1"
+    ],
+    "likely_wrong_answer": "Book a table for two at any restaurant with a gluten-free menu."
+  },
+  {
+    "person": "alice",
+    "question": "What's the cancellation policy for my haircut tomorrow?",
+    "type": "lookup",
+    "answer": "States that cancellation with less than 24 hours’ notice incurs the full appointment charge.",
+    "catch": null,
+    "record_ids": [
+      "c5"
+    ],
+    "likely_wrong_answer": "You can cancel tomorrow morning without being charged."
+  },
+  {
+    "person": "alice",
+    "question": "If we take the twelve-month renewal, how much more would I pay each month with our current split?",
+    "type": "combine",
+    "answer": "Gives a $91.60 monthly increase for Alice, assuming the 60/40 split continues.",
+    "catch": null,
+    "record_ids": [
+      "e16",
+      "t3"
+    ],
+    "likely_wrong_answer": "Your share rises by $114.50 to $2,214.50, using the old equal split."
+  },
+  {
+    "person": "alice",
+    "question": "What's the Denver arrival and pickup plan?",
+    "type": "changed",
+    "answer": "Gives an October 30 arrival at 11:52 AM with Owen picking them up.",
+    "catch": null,
+    "record_ids": [
+      "e37",
+      "a4",
+      "t20"
+    ],
+    "likely_wrong_answer": "Land at 10:38 AM and meet Lena, or use the new arrival time but still expect Lena."
+  },
+  {
+    "person": "tomas",
+    "question": "Call Patel and confirm that Tuesday 11 slot they're holding.",
+    "type": "catch",
+    "answer": "Flags the October 13, 11 AM conflict with the Fennel walkthrough and does not confirm that slot.",
+    "catch": "The clinic text offers a slot that conflicts with a client commitment in the calendar.",
+    "record_ids": [
+      "t18",
+      "c8"
+    ],
+    "likely_wrong_answer": "Confirm October 13 at 11 AM with Patel."
+  },
+  {
+    "person": "tomas",
+    "question": "Tell Nora I'm in for the Crumb & Kettle identity project.",
+    "type": "catch",
+    "answer": "Flags the Fennel exclusivity conflict before accepting Crumb & Kettle’s identity project.",
+    "catch": "The attractive project email conflicts with an existing exclusivity restriction stored in the contract note.",
+    "record_ids": [
+      "e33",
+      "n2"
+    ],
+    "likely_wrong_answer": "Accept the project and ask Nora to arrange the kickoff."
+  },
+  {
+    "person": "tomas",
+    "question": "Send Fennel the round 2 invoice.",
+    "type": "catch",
+    "answer": "Gets explicit written round 2 approval from Mara before sending the $3,500 invoice.",
+    "catch": "Partial approvals in the feedback email do not satisfy the recorded instruction to obtain written round 2 approval before invoicing.",
+    "record_ids": [
+      "e44",
+      "n2",
+      "n9"
+    ],
+    "likely_wrong_answer": "Send the $3,500 invoice immediately because several design elements say approved."
+  },
+  {
+    "person": "tomas",
+    "question": "Which books are waiting at Central and when do I have to grab them?",
+    "type": "lookup",
+    "answer": "Names Logo Modernism and Designing Brand Identity, 6th edition, with pickup due October 13.",
+    "catch": null,
+    "record_ids": [
+      "e39"
+    ],
+    "likely_wrong_answer": "Only Logo Modernism is ready, with no pickup deadline."
+  },
+  {
+    "person": "tomas",
+    "question": "What's my actual share of the current Austin Energy bill now Kei's sent his bit?",
+    "type": "combine",
+    "answer": "Gives $54.30 as Tomás’s own share after Kei’s $54.30 reimbursement.",
+    "catch": null,
+    "record_ids": [
+      "n3",
+      "e17",
+      "e42"
+    ],
+    "likely_wrong_answer": "Treat Kei's reimbursement as a payment to Austin Energy and expect only $54.30 to leave checking on October 20."
+  },
+  {
+    "person": "tomas",
+    "question": "What time are we doing Ben's birthday dinner?",
+    "type": "changed",
+    "answer": "Gives 7:30 PM on October 31.",
+    "catch": null,
+    "record_ids": [
+      "c18",
+      "t20"
+    ],
+    "likely_wrong_answer": "7 PM on October 31."
+  },
+  {
+    "person": "eleanor",
+    "question": "Please arrange the plowing with Gary again for this winter.",
+    "type": "catch",
+    "answer": "Flags that Gary is retiring and cannot be assumed to provide plowing this winter.",
+    "catch": "The plowing note is for 2025–26; Gary's September 17, 2026 text says he is retiring this winter.",
+    "record_ids": [
+      "n3",
+      "t1"
+    ],
+    "likely_wrong_answer": "Renew Gary for $475 with checks on November 1 and January 15."
+  },
+  {
+    "person": "eleanor",
+    "question": "Put together a little update for Michael about what I have on next week.",
+    "type": "catch",
+    "answer": "Keeps the retirement-community tour out of Michael’s update, respecting Eleanor’s instruction not to tell him.",
+    "catch": "The calendar includes a retirement-community tour, but the private note explicitly says Michael must not be told yet.",
+    "record_ids": [
+      "c6",
+      "c7",
+      "c8",
+      "c9",
+      "n12"
+    ],
+    "likely_wrong_answer": "Include the Thornton Ridge tour with Peg in Michael's update."
+  },
+  {
+    "person": "eleanor",
+    "question": "Would you book Rick for the furnace next Wednesday?",
+    "type": "catch",
+    "answer": "Flags that Michael wants to attend and can only come on Fridays before booking Wednesday.",
+    "catch": "The furnace note identifies Rick, but Michael's separate text restricts the day if he is to attend.",
+    "record_ids": [
+      "n5",
+      "t2"
+    ],
+    "likely_wrong_answer": "Book Rick for Wednesday, October 14 without checking Michael's availability."
+  },
+  {
+    "person": "eleanor",
+    "question": "Where did I tell Michael the caulk gun was?",
+    "type": "lookup",
+    "answer": "Locates the caulk gun on the garage pegboard, left side.",
+    "catch": null,
+    "record_ids": [
+      "w7"
+    ],
+    "likely_wrong_answer": "In the basement with the other tools."
+  },
+  {
+    "person": "eleanor",
+    "question": "Which Seaside place would take the piano, and how much more would that one cost?",
+    "type": "combine",
+    "answer": "Identifies the cottage as fitting the piano and costing $84,000 more upfront plus $660 more per month than H-314.",
+    "catch": null,
+    "record_ids": [
+      "n10",
+      "e24"
+    ],
+    "likely_wrong_answer": "Say both homes fit the piano, or compare only the monthly fees and miss the $84,000 entrance-fee difference."
+  },
+  {
+    "person": "eleanor",
+    "question": "Who is taking me to PT on Tuesday, and when should I be ready?",
+    "type": "changed",
+    "answer": "Identifies Peg as the October 13 PT driver, with pickup at 2:10 PM.",
+    "catch": null,
+    "record_ids": [
+      "t12",
+      "t16"
+    ],
+    "likely_wrong_answer": "Joan will pick you up at 2:10 PM."
+  },
+  {
+    "person": "devon",
+    "question": "Tell Kendra I can do Wednesday at 4 for the interview.",
+    "type": "catch",
+    "answer": "Flags the approved Wednesday shift starting at 3:30 PM and does not offer Kendra a 4 PM interview.",
+    "catch": "The calendar's old Thursday opening can distract from the approved swap recorded in texts; Devon now works Wednesday from 3:30.",
+    "record_ids": [
+      "e41",
+      "t16",
+      "t10"
+    ],
+    "likely_wrong_answer": "Offer Kendra October 14 at 4 PM because Devon's usual Wednesday shift starts at 5."
+  },
+  {
+    "person": "devon",
+    "question": "Queue up Uncle Ray's car payment for the usual day.",
+    "type": "catch",
+    "answer": "Uses October 30 for this month’s $200 car payment to Uncle Ray.",
+    "catch": "The standing bills note says the 15th, but the later assistant chat contains Devon's explicit instruction to defer this payment.",
+    "record_ids": [
+      "n5",
+      "a4"
+    ],
+    "likely_wrong_answer": "Schedule $200 for October 15, or use the superseded October 16 promise."
+  },
+  {
+    "person": "devon",
+    "question": "Text Mama that I'm all set to be off for her birthday weekend.",
+    "type": "catch",
+    "answer": "Flags that Saturday October 24 still needs Luis’s ShiftPlanner approval instead of claiming the whole weekend is approved off.",
+    "catch": "Marcus's agreement is not manager approval. The calendar and Luis's message both show the Saturday swap is still pending.",
+    "record_ids": [
+      "c21",
+      "t18"
+    ],
+    "likely_wrong_answer": "Tell Mom both Friday and Saturday are fully approved off."
+  },
+  {
+    "person": "devon",
+    "question": "What can I actually bring into the Business Law midterm?",
+    "type": "lookup",
+    "answer": "Specifies a physical copy of Business Law Today, 13th edition; no laptops or printouts.",
+    "catch": null,
+    "record_ids": [
+      "e20"
+    ],
+    "likely_wrong_answer": "Bring a laptop or printed notes because the exam is open-book."
+  },
+  {
+    "person": "devon",
+    "question": "Where am I meeting Priya for the pantry thing next Friday?",
+    "type": "changed",
+    "answer": "Gives outside Langdale at 12:20 PM on October 16.",
+    "catch": null,
+    "record_ids": [
+      "e39",
+      "t20"
+    ],
+    "likely_wrong_answer": "At the Calloway lot at 12:30 PM."
+  },
+  {
+    "person": "hannah",
+    "question": "Set up coffee with Dana next Friday morning.",
+    "type": "catch",
+    "answer": "Does not book Friday-morning coffee because Hannah sleeps until 4 PM after her Thursday night shift.",
+    "catch": "Dana's text suggests coffee next week, but Hannah's standing sleep rule blocks Friday mornings after night shifts.",
+    "record_ids": [
+      "t14",
+      "n3",
+      "n4"
+    ],
+    "likely_wrong_answer": "Book coffee for Friday, October 16 at 10 AM because the night shift has ended."
+  },
+  {
+    "person": "hannah",
+    "question": "Book me a flight home from Nashville that gets in around 8 Sunday night.",
+    "type": "catch",
+    "answer": "Flags the care gap because Maya leaves at 7 PM Sunday and requires earlier arrival home or replacement care before booking an 8 PM flight arrival.",
+    "catch": "The Nashville trip ends Sunday, but Maya's hard 7 PM departure and Biscuit's need for company make an 8 PM arrival unsuitable without extra care.",
+    "record_ids": [
+      "c16",
+      "t4",
+      "n2"
+    ],
+    "likely_wrong_answer": "Book an 8 PM Sunday arrival without extending or replacing Biscuit's care."
+  },
+  {
+    "person": "hannah",
+    "question": "What do I need to bring to ACLS, and where is it again?",
+    "type": "lookup",
+    "answer": "Lists the printed pre-assessment certificate and lunch, and locates ACLS at Lakeshore General Simulation Center, Pavilion B, second floor.",
+    "catch": null,
+    "record_ids": [
+      "c20"
+    ],
+    "likely_wrong_answer": "Go to Employee Health Room B-114 with only your badge."
+  },
+  {
+    "person": "hannah",
+    "question": "What's Dad's CareRide total for October so far, and Ben's half?",
+    "type": "combine",
+    "answer": "Gives $110 in October CareRide charges so far and $55 as Ben’s half.",
+    "catch": null,
+    "record_ids": [
+      "e28",
+      "e44",
+      "n17"
+    ],
+    "likely_wrong_answer": "Only count the October 2 ride: $55 total and $27.50 for Ben."
+  },
+  {
+    "person": "hannah",
+    "question": "Which joint supplement should Biscuit be on?",
+    "type": "changed",
+    "answer": "Identifies Dasuquin chews as the vet’s replacement for Cosequin.",
+    "catch": null,
+    "record_ids": [
+      "n9",
+      "e16",
+      "n1"
+    ],
+    "likely_wrong_answer": "Say to keep waiting until the October 26 visit to ask about an alternative, overlooking the later vet instruction."
+  }
+]
