@@ -267,7 +267,7 @@
    "to": "me",
    "date": "2026-09-24T13:50",
    "subject": "Explanation of Benefits - claim 26-0902-3917",
-   "body": "Member: Lin Zhang\nPolicy: Medicare Supplement Plan G, ID HMG-558204\n\nService date: 09/02/2026\nProvider: Wexley Medical Group\nMedicare approved amount: $176.40\nMedicare paid: $141.12\nPlan G paid: $35.28\nAmount you owe the provider: $0.00\n\nTHIS IS NOT A BILL.",
+   "body": "Member: Lin Zhang\nPolicy: Medicare Supplement Plan G, ID HMG-558204\n\nService date: 09/02/2026\nProvider: Wexley Medical Group - Dr. Okafor\nMedicare approved amount: $176.40\nMedicare paid: $141.12\nPlan G paid: $35.28\nYour responsibility: $0.00\n\nTHIS IS NOT A BILL.",
    "unread": false
   },
   {
@@ -366,7 +366,7 @@
    "to": "me",
    "date": "2026-10-01T15:30",
    "subject": "Invoice HHC-26-0918 - September services",
-   "body": "Client: Lin Zhang\nService period: September 1-30, 2026\nAide: Fang\nSchedule: Mon/Wed/Fri, 8:00 AM - 1:00 PM\n\nVisits: 12 (no visit Mon 9/7, Labor Day)\nHours: 60 at $29.00/hour\nTotal: $1,740.00\n\nPayment: automatic debit from checking ending 2290 on 10/02/2026.\n\nQuestions: Rosa Delgado, (718) 555-0131",
+   "body": "Client: Lin Zhang\nService period: September 1-30, 2026\nAide: Fang\nSchedule: Mon/Wed/Fri, 8:00 AM - 1:00 PM\n\nVisits: 12 (Mon 9/7 Labor Day visit as requested)\nDates: 9/2, 9/4, 9/7, 9/9, 9/11, 9/14, 9/16, 9/18, 9/23, 9/25, 9/28, 9/30\nHours: 60 at $29.00/hour\nTotal: $1,740.00\n\nPayment: automatic debit from checking ending 2290 on 10/02/2026.\n\nQuestions: Rosa Delgado, (718) 555-0131",
    "unread": false
   },
   {
@@ -452,15 +452,24 @@
   },
   {
    "id": "e36",
-   "from": "Dr. Okafor <okafor.office@wexleymedical.com>",
+   "from": "Tresswell Pharmacy <receipts@tresswell.com>",
    "to": "me",
-   "date": "2026-10-05T16:20",
-   "subject": "Fasting blood test",
-   "body": "Dear Mr. Zhang,\n\nSince we started the new blood pressure pill on Oct 5, I want a fasting blood test between Oct 14 and Oct 21. Any Medicare lab is fine.\n\nBest regards,\nDr. Okafor\nInternal Medicine, Wexley Medical Group",
+   "date": "2026-10-05T12:22",
+   "subject": "Your Tresswell receipt",
+   "body": "Tresswell Pharmacy #112, 41-02 Main St, Flushing\n10/05/2026 12:20 PM\n\nAmlodipine 5 mg, 30 tablets - Wei Zhang - Rx #7716034, Dr. Okafor - $3.50\nLatanoprost 0.005% eye drops, 2.5 mL - Wei Zhang - $9.99\n\nTotal: $13.49, Visa ending 4417\nTresswell Rewards earned: 13 points. Balance: $5.00 reward available.",
    "unread": false
   },
   {
    "id": "e37",
+   "from": "Dr. Okafor <okafor.office@wexleymedical.com>",
+   "to": "me",
+   "date": "2026-10-05T16:20",
+   "subject": "Fasting blood test",
+   "body": "Dear Mr. Zhang,\n\nSince we started the new blood pressure pill today, Oct 5, I want a fasting blood test between Oct 14 and Oct 21. Any Medicare lab is fine.\n\nBest regards,\nDr. Okafor\nInternal Medicine, Wexley Medical Group",
+   "unread": false
+  },
+  {
+   "id": "e38",
    "from": "Wexley Medical Group <reminders@wexleymedical.com>",
    "to": "me",
    "date": "2026-10-06T08:02",
@@ -469,16 +478,16 @@
    "unread": false
   },
   {
-   "id": "e38",
+   "id": "e39",
    "from": "Hartwell Mutual Plan G Supplement <claims@hartwellmutual.com>",
    "to": "me",
    "date": "2026-10-06T09:20",
    "subject": "Claim received - 26-0924-5102",
    "body": "Member: Wei Zhang, Plan G, HMG-558203\n\nWe received a Medicare crossover claim for services on 09/24/2026 from Wexley Medical Group (Dr. Okafor). Most claims are processed within 14 days. You will receive an Explanation of Benefits when processing is complete.\n\nPlease do not pay your provider for this service until you receive your EOB.",
-   "unread": true
+   "unread": false
   },
   {
-   "id": "e39",
+   "id": "e40",
    "from": "Verado Home Delivery <orders@veradohome.com>",
    "to": "me",
    "date": "2026-10-06T19:41",
@@ -487,7 +496,7 @@
    "unread": true
   },
   {
-   "id": "e40",
+   "id": "e41",
    "from": "Briarwood Dental Arts <frontdesk@briarwooddentalarts.com>",
    "to": "me",
    "date": "2026-10-07T11:30",
@@ -496,12 +505,12 @@
    "unread": false
   },
   {
-   "id": "e41",
+   "id": "e42",
    "from": "Helen <helen.zhang.sea@gmail.com>",
    "to": "me",
    "date": "2026-10-07T20:48",
    "subject": "Fwd: Schedule change - confirmation MZPKWT",
-   "body": "Dad, they moved our flight to Thursday.\n\n---------- Forwarded message ---------\nFrom: JetBlue <reservations@jetblue.com>\nSubject: Your flight schedule has changed\nConfirmation: MZPKWT\n\nWe've made a change to your itinerary.\n\nNew: Thu Oct 15: B6 1123 Seattle (SEA) 12:50 PM - New York JFK 9:05 PM, Terminal 5\nPreviously: Fri Oct 16: B6 1123\n\nIf the new time doesn't work for you, you can change or cancel at no cost at jetblue.com/manage-trips.",
+   "body": "Dad, they moved our flight to Thursday.\n\n---------- Forwarded message ---------\nFrom: JetBlue <reservations@jetblue.com>\nSubject: Your flight schedule has changed\nConfirmation: MZPKWT\nTravelers: Helen Zhang, Mark Ellison, Sophie Ellison, Owen Ellison\n\nWe've made a change to your itinerary.\n\nNew: Thu Oct 15: B6 1123 Seattle (SEA) 12:50 PM - New York JFK 9:05 PM, Terminal 5\nPreviously: Fri Oct 16: B6 1123\n\nIf the new time doesn't work for you, you can change or cancel at no cost at jetblue.com/manage-trips.",
    "unread": false
   }
  ],
@@ -756,8 +765,13 @@
     },
     {
      "from": "Tresswell Pharmacy",
-     "date": "2026-10-06T14:12",
-     "body": "Tresswell #112: Thank you for picking up your prescription today."
+     "date": "2026-10-05T10:12",
+     "body": "Tresswell #112: 1 new prescription ready for WEI Z. Pick up by 10/15."
+    },
+    {
+     "from": "Tresswell Pharmacy",
+     "date": "2026-10-05T12:20",
+     "body": "Tresswell #112: Thank you for picking up your prescriptions today."
     }
    ]
   },
@@ -834,6 +848,11 @@
      "from": "me",
      "date": "2026-10-05T07:54",
      "body": "OK no problem. Lin had her 7 am pill already. Breakfast when you come."
+    },
+    {
+     "from": "Fang",
+     "date": "2026-10-05T07:55",
+     "body": "I'll stay until 1:15."
     },
     {
      "from": "Fang",
@@ -1057,6 +1076,43 @@
  "whatsapp": [
   {
    "id": "w1",
+   "chat": "Fang",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Fang",
+     "date": "2026-09-14T12:40",
+     "body": "Mr. Zhang, Lin did the whole PT sheet today, both rounds of the leg exercises. Very good day."
+    },
+    {
+     "from": "me",
+     "date": "2026-09-14T12:52",
+     "body": "Wonderful. Thank you Fang."
+    },
+    {
+     "from": "Fang",
+     "date": "2026-09-28T11:10",
+     "body": "The back wheel on Lin's walker was squeaking, I put a little oil. Better now."
+    },
+    {
+     "from": "me",
+     "date": "2026-09-28T11:25",
+     "body": "Thank you, Fang."
+    },
+    {
+     "from": "Fang",
+     "date": "2026-10-06T16:30",
+     "body": "Mr. Zhang, may I have Friday Oct 16 off? My grandson's school ceremony. I will come Monday as usual."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T16:45",
+     "body": "Yes, that's fine, Fang. See you Monday."
+    }
+   ]
+  },
+  {
+   "id": "w2",
    "chat": "Bridges Division Retirees",
    "unread": false,
    "messages": [
@@ -1088,7 +1144,7 @@
    ]
   },
   {
-   "id": "w2",
+   "id": "w3",
    "chat": "Zhang Family",
    "unread": false,
    "messages": [
@@ -1120,14 +1176,14 @@
    ]
   },
   {
-   "id": "w3",
+   "id": "w4",
    "chat": "Zhang Family",
    "unread": false,
    "messages": [
     {
      "from": "me",
      "date": "2026-10-01T16:10",
-     "body": "Harmony invoice for September: 12 visits, 60 hours, $1,740. Fang was off Labor Day."
+     "body": "Harmony invoice for September: 12 visits, 60 hours, $1,740."
     },
     {
      "from": "David",
@@ -1152,7 +1208,7 @@
    ]
   },
   {
-   "id": "w4",
+   "id": "w5",
    "chat": "Helen",
    "unread": false,
    "messages": [
@@ -1179,7 +1235,7 @@
    ]
   },
   {
-   "id": "w5",
+   "id": "w6",
    "chat": "David",
    "unread": false,
    "messages": [
@@ -1211,7 +1267,7 @@
    ]
   },
   {
-   "id": "w6",
+   "id": "w7",
    "chat": "Zhang Family",
    "unread": false,
    "messages": [
@@ -1229,11 +1285,16 @@
      "from": "me",
      "date": "2026-10-04T12:30",
      "body": "OK, OK. We will pick up Hong at the Parkside Inn at 5:10 on the way."
+    },
+    {
+     "from": "Helen",
+     "date": "2026-10-04T12:45",
+     "body": "We can't do Sunday evening, Mark's brother has us over in Montclair that night. We'd like our own dinner with Mom while we're in town."
     }
    ]
   },
   {
-   "id": "w7",
+   "id": "w8",
    "chat": "PD Caregivers Queens",
    "unread": false,
    "messages": [
@@ -1266,23 +1327,6 @@
      "from": "Raymond Cruz",
      "date": "2026-10-06T09:40",
      "body": "Check the label for refills left. When it says 0, call the neurologist a month ahead. Verado won't ship without a new script."
-    }
-   ]
-  },
-  {
-   "id": "w8",
-   "chat": "Fang",
-   "unread": false,
-   "messages": [
-    {
-     "from": "Fang",
-     "date": "2026-10-06T16:30",
-     "body": "Mr. Zhang, may I have Friday Oct 16 off? My grandson's school ceremony. I will come Monday as usual."
-    },
-    {
-     "from": "me",
-     "date": "2026-10-06T16:45",
-     "body": "Yes, that's fine, Fang. See you Monday."
     }
    ]
   },
@@ -1353,8 +1397,8 @@
   {
    "id": "n6",
    "title": "Pharmacy: who has what",
-   "updated": "2026-08-07T09:00",
-   "body": "Verado Home Delivery (mail order, 90 days), (800) 555-0177:\n- Lin's carbidopa-levodopa\n- my atorvastatin 20, my lisinopril 10\nOrder 10 days before running out.\n\nTresswell #112, Main St (local, short supply, drops, flu shots):\n- my latanoprost eye drops\n- Lin's Colace, other drugstore things\n\nAugust: Verado held Lin's order because the prescription had no refills left. Tresswell gave a 10-day bridge 8/6 ($6.20). Dr. Feinberg's office sent the new prescription and Verado shipped 8/8.\nLesson: check refills left on the Verado label."
+   "updated": "2026-08-08T19:00",
+   "body": "Verado Home Delivery (mail order, 90 days), (800) 555-0177:\n- Lin's carbidopa-levodopa\n- my atorvastatin 20, my lisinopril 10\nOrder 10 days before running out.\n\nTresswell #112, Main St (local, short supply, drops, flu shots):\n- my latanoprost eye drops\n- Lin's Colace, other drugstore things\n\nAugust: Verado held Lin's order because the prescription had no refills left. Tresswell gave a 10-day bridge 8/6 ($6.20). Dr. Feinberg's office sent the new prescription and Verado shipped a 30-day supply 8/8.\nLesson: check refills left on the Verado label."
   },
   {
    "id": "n7",
@@ -1396,6 +1440,14 @@
  "calendar": [
   {
    "id": "c1",
+   "title": "Dr. Okafor",
+   "start": "2026-08-12T10:00",
+   "end": "2026-08-12T10:45",
+   "location": "Wexley Medical Group, 136-20 38th Ave, 2nd Floor, Flushing",
+   "notes": "Fang with Lin. Bring medication list, Medicare and Plan G cards."
+  },
+  {
+   "id": "c2",
    "title": "Lin - crown prep",
    "start": "2026-08-20T10:00",
    "end": "2026-08-20T11:30",
@@ -1403,7 +1455,23 @@
    "notes": "Dr. Kim. Bring 11 am pill and water."
   },
   {
-   "id": "c2",
+   "id": "c3",
+   "title": "Lin - Dr. Okafor",
+   "start": "2026-09-02T10:15",
+   "end": "2026-09-02T11:00",
+   "location": "Wexley Medical Group, 136-20 38th Ave, 2nd Floor, Flushing",
+   "notes": "Fang comes along. Bring 11 am pill and water, Lin's Medicare and Plan G cards."
+  },
+  {
+   "id": "c4",
+   "title": "Lin - crown seating",
+   "start": "2026-09-03T10:00",
+   "end": "2026-09-03T11:30",
+   "location": "Briarwood Dental Arts, 138-50 Queens Blvd, Briarwood",
+   "notes": "Dr. Kim. Bring 11 am pill and water."
+  },
+  {
+   "id": "c5",
    "title": "Annual wellness visit - Dr. Okafor",
    "start": "2026-09-24T10:00",
    "end": "2026-09-24T11:00",
@@ -1411,7 +1479,7 @@
    "notes": "Fasting for labs, nothing after midnight. Mei with Lin 9:30 to 12. Kissena car both ways."
   },
   {
-   "id": "c3",
+   "id": "c6",
    "title": "Flu shots - Wei and Lin",
    "start": "2026-09-30T13:30",
    "end": "2026-09-30T14:00",
@@ -1419,7 +1487,7 @@
    "notes": "High dose. Bring both Medicare cards."
   },
   {
-   "id": "c4",
+   "id": "c7",
    "title": "Fang (Mon/Wed/Fri 8-1)",
    "start": "2026-10-05T08:00",
    "end": "2026-10-05T13:00",
@@ -1427,7 +1495,7 @@
    "notes": "Repeats every Mon, Wed, Fri. Off Mon 10/12 (Mei covers). Extra Thu 10/29."
   },
   {
-   "id": "c5",
+   "id": "c8",
    "title": "Ming - grab bars",
    "start": "2026-10-09T14:00",
    "end": "2026-10-09T15:30",
@@ -1435,7 +1503,7 @@
    "notes": "New bar next to toilet, tighten shower bar. $180 cash."
   },
   {
-   "id": "c6",
+   "id": "c9",
    "title": "Mei covers for Fang",
    "start": "2026-10-12T07:45",
    "end": "2026-10-12T13:00",
@@ -1443,7 +1511,7 @@
    "notes": "Fang off. 11 am pill in the blue box, Monday slot. Lucas coming too."
   },
   {
-   "id": "c7",
+   "id": "c10",
    "title": "PD caregivers group",
    "start": "2026-10-13T13:00",
    "end": "2026-10-13T14:30",
@@ -1451,7 +1519,7 @@
    "notes": "Speaker on swallowing. $20 fall dues cash. Bring walker brochure for Susan. Leave by 2:30 for 3 pm pill."
   },
   {
-   "id": "c8",
+   "id": "c11",
    "title": "Lin - dental cleaning",
    "start": "2026-10-14T13:45",
    "end": "2026-10-14T14:50",
@@ -1459,7 +1527,7 @@
    "notes": "Maribel cleaning, exam Dr. Kim. Bring 3 pm pill and water. Car at 1:15."
   },
   {
-   "id": "c9",
+   "id": "c12",
    "title": "Hong arrives LGA (AC 726)",
    "start": "2026-10-15T16:10",
    "end": "2026-10-15T17:30",
@@ -1467,7 +1535,7 @@
    "notes": "Mei picks up, drops at Parkside Inn. Conf PKF-778104."
   },
   {
-   "id": "c10",
+   "id": "c13",
    "title": "Dinner for Hong - Jade Garden Seafood",
    "start": "2026-10-18T17:30",
    "end": "2026-10-18T19:00",
@@ -1475,7 +1543,7 @@
    "notes": "Table for 9. Pick up Hong at Parkside Inn 5:10. Home before 7 for Lin's pill. Mei and David paying."
   },
   {
-   "id": "c11",
+   "id": "c14",
    "title": "Lin - Dr. Feinberg",
    "start": "2026-10-20T10:30",
    "end": "2026-10-20T11:30",
@@ -1483,7 +1551,7 @@
    "notes": "David picks up 9:45. Bring 11 am pill, med log, question list. Garage on 39th Ave, validate 2 hrs."
   },
   {
-   "id": "c12",
+   "id": "c15",
    "title": "Dr. Okafor follow-up",
    "start": "2026-10-22T09:15",
    "end": "2026-10-22T10:00",
@@ -1491,7 +1559,7 @@
    "notes": "Review labs. Hong with Lin. Hong's flight 6 pm from LGA, car at 3."
   },
   {
-   "id": "c13",
+   "id": "c16",
    "title": "Bridges retirees lunch",
    "start": "2026-10-27T12:00",
    "end": "2026-10-27T14:00",
@@ -1499,7 +1567,7 @@
    "notes": "$35 cash at the table."
   },
   {
-   "id": "c14",
+   "id": "c17",
    "title": "HIICAP - Part D review",
    "start": "2026-10-29T10:00",
    "end": "2026-10-29T11:00",
@@ -1507,7 +1575,7 @@
    "notes": "Bring Verado drug list and the Annual Notice of Change letter. Fang 8-1 extra today, Helen pays."
   },
   {
-   "id": "c15",
+   "id": "c18",
    "title": "Call Verado about Lin's refill",
    "start": "2026-11-02T09:00",
    "end": "2026-11-02T09:15",
@@ -1518,6 +1586,20 @@
  "assistant_chats": [
   {
    "id": "a1",
+   "date": "2026-09-01T19:10",
+   "turns": [
+    {
+     "role": "user",
+     "text": "Harmony invoice was $1,885 for August. What's everyone's share?"
+    },
+    {
+     "role": "assistant",
+     "text": "With your split (David half, Helen a quarter, you a quarter): David $942.50, Helen $471.25, you $471.25. That's 13 visits of 5 hours at $29 an hour, every Mon/Wed/Fri in August."
+    }
+   ]
+  },
+  {
+   "id": "a2",
    "date": "2026-09-20T18:50",
    "turns": [
     {
@@ -1539,20 +1621,12 @@
    ]
   },
   {
-   "id": "a2",
+   "id": "a3",
    "date": "2026-10-01T16:00",
    "turns": [
     {
      "role": "user",
-     "text": "Harmony invoice was $1,885 for August. What's everyone's share?"
-    },
-    {
-     "role": "assistant",
-     "text": "With your split (David half, Helen a quarter, you a quarter): David $942.50, Helen $471.25, you $471.25. That's 13 visits of 5 hours at $29 an hour, every Mon/Wed/Fri in August."
-    },
-    {
-     "role": "user",
-     "text": "And October, if Fang is off the 12th?"
+     "text": "Fang is off Monday the 12th, and we may add Thursday the 29th. What does October come to?"
     },
     {
      "role": "assistant",
@@ -1569,7 +1643,7 @@
    ]
   },
   {
-   "id": "a3",
+   "id": "a4",
    "date": "2026-10-02T19:20",
    "turns": [
     {
@@ -1583,7 +1657,7 @@
    ]
   },
   {
-   "id": "a4",
+   "id": "a5",
    "date": "2026-10-03T11:40",
    "turns": [
     {
@@ -1605,7 +1679,7 @@
    ]
   },
   {
-   "id": "a5",
+   "id": "a6",
    "date": "2026-10-05T20:30",
    "turns": [
     {
@@ -1665,122 +1739,129 @@
   },
   {
    "id": "x6",
+   "date": "2026-08-08T10:05",
+   "account": "Visa ending 4417",
+   "description": "VERADO HOME DELIVERY",
+   "amount": -16.0
+  },
+  {
+   "id": "x7",
    "date": "2026-08-20T11:40",
    "account": "Visa ending 4417",
    "description": "BRIARWOOD DENTAL ARTS",
    "amount": -300.0
   },
   {
-   "id": "x7",
+   "id": "x8",
    "date": "2026-09-02T11:15",
    "account": "Visa ending 4417",
-   "description": "WEXLEY MEDICAL GROUP",
+   "description": "WEXLEY MEDICAL GROUP FLUSHING NY",
    "amount": -211.32
   },
   {
-   "id": "x8",
+   "id": "x9",
    "date": "2026-09-09T06:00",
    "account": "Checking ending 2290",
    "description": "SSA TREAS 310 SOC SEC",
    "amount": 2914.0
   },
   {
-   "id": "x9",
+   "id": "x10",
    "date": "2026-09-10T10:12",
    "account": "Visa ending 4417",
    "description": "WEXLEY MEDICAL GROUP FLUSHING NY",
    "amount": -142.8
   },
   {
-   "id": "x10",
+   "id": "x11",
    "date": "2026-09-19T13:20",
    "account": "Visa ending 4417",
    "description": "VERADO HOME DELIVERY",
    "amount": -47.0
   },
   {
-   "id": "x11",
+   "id": "x12",
    "date": "2026-09-20T19:22",
    "account": "Visa ending 4417",
    "description": "PARKSIDE INN FLUSHING NY",
    "amount": -189.0
   },
   {
-   "id": "x12",
+   "id": "x13",
    "date": "2026-09-24T11:40",
    "account": "Visa ending 4417",
    "description": "KISSENA CAR SERVICE",
    "amount": -24.0
   },
   {
-   "id": "x13",
+   "id": "x14",
    "date": "2026-09-28T16:05",
    "account": "Visa ending 4417",
    "description": "GOLDEN HARVEST MARKET FLUSHING",
    "amount": -86.32
   },
   {
-   "id": "x14",
+   "id": "x15",
    "date": "2026-09-30T09:30",
    "account": "Visa ending 4417",
    "description": "WEXLEY MEDICAL GROUP CREDIT",
    "amount": 131.32
   },
   {
-   "id": "x15",
+   "id": "x16",
    "date": "2026-09-30T14:18",
    "account": "Visa ending 4417",
    "description": "TRESSWELL PHARMACY #112",
    "amount": -18.47
   },
   {
-   "id": "x16",
+   "id": "x17",
    "date": "2026-10-01T00:05",
    "account": "Checking ending 2290",
    "description": "HARTWELL MUTUAL PLAN G PREMIUM",
    "amount": -485.08
   },
   {
-   "id": "x17",
+   "id": "x18",
    "date": "2026-10-01T20:04",
    "account": "Checking ending 2290",
    "description": "ZELLE FROM DAVID ZHANG",
    "amount": 870.0
   },
   {
-   "id": "x18",
+   "id": "x19",
    "date": "2026-10-02T06:00",
    "account": "Checking ending 2290",
    "description": "HARMONY HOME CARE ACH",
    "amount": -1740.0
   },
   {
-   "id": "x19",
+   "id": "x20",
    "date": "2026-10-03T12:00",
    "account": "Checking ending 2290",
    "description": "ZELLE FROM HELEN ZHANG",
    "amount": 435.0
   },
   {
-   "id": "x20",
+   "id": "x21",
    "date": "2026-10-03T15:55",
    "account": "Visa ending 4417",
    "description": "GOLDEN HARVEST MARKET FLUSHING",
    "amount": -41.76
   },
   {
-   "id": "x21",
+   "id": "x22",
    "date": "2026-10-05T09:45",
    "account": "Visa ending 4417",
    "description": "CON EDISON",
    "amount": -118.42
   },
   {
-   "id": "x22",
-   "date": "2026-10-06T14:12",
+   "id": "x23",
+   "date": "2026-10-05T12:20",
    "account": "Visa ending 4417",
    "description": "TRESSWELL PHARMACY #112",
-   "amount": -9.99
+   "amount": -13.49
   }
  ]
 }

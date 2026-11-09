@@ -293,23 +293,21 @@ Phone:
 
 
 def merge(phone: dict, edits: dict) -> dict:
-    """Apply the insertion pass: records with a known id replace the old one, others are added."""
+    """Apply an insertion or fix-up pass: records with a known id (contacts: name) replace the old one, others are
+    added."""
     out = {k: list(v) for k, v in phone.items()}
-    gone = set(edits.get("deleted_ids", []))
+    gone = set(edits.get("deleted_ids", []))  # record ids, or contact names
     for sec in out:
-        if sec != "contacts":
-            out[sec] = [r for r in out[sec] if r["id"] not in gone]
+        key = "name" if sec == "contacts" else "id"
+        out[sec] = [r for r in out[sec] if r[key] not in gone]
     for sec, recs in edits.items():
         if sec == "deleted_ids":
             continue
-        if sec == "contacts":
-            known = {c["name"] for c in out["contacts"]}
-            out["contacts"] += [c for c in recs if c["name"] not in known]
-            continue
-        index = {r["id"]: i for i, r in enumerate(out[sec])}
+        key = "name" if sec == "contacts" else "id"
+        index = {r[key]: i for i, r in enumerate(out[sec])}
         for r in recs:
-            if r["id"] in index:
-                out[sec][index[r["id"]]] = r
+            if r[key] in index:
+                out[sec][index[r[key]]] = r
             else:
                 out[sec].append(r)
     return out
@@ -339,11 +337,22 @@ def real_domains(obj):
     return obj
 
 
+def schema_order(obj, schema: dict):
+    """Put every record's fields in the schema's order, so records written by different passes look alike."""
+    if schema.get("type") == "array" and isinstance(obj, list):
+        return [schema_order(x, schema["items"]) for x in obj]
+    if schema.get("type") == "object" and isinstance(obj, dict):
+        props = schema["properties"]
+        return ({k: schema_order(obj[k], props[k]) for k in props if k in obj}
+                | {k: v for k, v in obj.items() if k not in props})
+    return obj
+
+
 def normalize(phone: dict) -> tuple:
     """Sort every section by date and renumber ids in that order, so records placed late don't stand out by
     position or id. Returns the new phone and a map from old to new ids."""
     out, idmap = {}, {}
-    phone = real_domains(phone)
+    phone = schema_order(real_domains(phone), PHONE_SCHEMA)
     for sec, recs in phone.items():
         if sec not in PREFIX:
             out[sec] = recs

@@ -237,11 +237,20 @@
    "to": "me",
    "date": "2026-09-17T11:30",
    "subject": "PTO approved - 10/31-11/1",
-   "body": "Hi Hannah,\n\nYour PTO request is approved. You're off the whole weekend of Saturday 10/31 and Sunday 11/1. It's in Kronos.\n\nMarisol\n\nMarisol Ortega, MSN, RN\nNurse Manager, MICU 7 West",
+   "body": "Hi Hannah,\n\nYour PTO request is approved. You were down for weekend coverage on the rotation for 10/31-11/1, and I've taken you off it. You're off the whole weekend of Saturday 10/31 and Sunday 11/1. It's in Kronos.\n\nMarisol\n\nMarisol Ortega, MSN, RN\nNurse Manager, MICU 7 West",
    "unread": false
   },
   {
    "id": "e12",
+   "from": "Airbnb <automated@airbnb.com>",
+   "to": "me",
+   "date": "2026-09-17T16:48",
+   "subject": "Reservation confirmed - Nashville",
+   "body": "You're going to Nashville, Hannah!\n\nLockeland Springs bungalow with porch swing\nHosted by Shayla\n\nCheck-in: Friday, Oct 23, 4:00 PM\nCheckout: Sunday, Oct 25, 11:00 AM\nGuests: 4 adults\nAddress: 1214 Boscobel St, Nashville, TN 37206\n\n$410.00 x 2 nights: $820.00\nCleaning fee: $110.00\nAirbnb service fee: $128.17\nTaxes: $141.83\nTotal (USD): $1,200.00\nPaid with Chase Freedom ending 6612\n\nConfirmation code: HMB7N3KXQ2",
+   "unread": false
+  },
+  {
+   "id": "e13",
    "from": "Airbnb <automated@airbnb.com>",
    "to": "me",
    "date": "2026-09-20T21:14",
@@ -250,7 +259,7 @@
    "unread": false
   },
   {
-   "id": "e13",
+   "id": "e14",
    "from": "Northwestern Rehab <ptscheduling@nwrehabchicago.org>",
    "to": "me",
    "date": "2026-09-22T15:40",
@@ -259,7 +268,7 @@
    "unread": false
   },
   {
-   "id": "e14",
+   "id": "e15",
    "from": "Lakeshore General Payroll <payroll@lakeshoregeneral.org>",
    "to": "me",
    "date": "2026-09-24T18:00",
@@ -268,7 +277,7 @@
    "unread": false
   },
   {
-   "id": "e15",
+   "id": "e16",
    "from": "Lakeview Animal Hospital <frontdesk@lakeviewanimalhosp.com>",
    "to": "me",
    "date": "2026-09-24T18:20",
@@ -277,7 +286,7 @@
    "unread": false
   },
   {
-   "id": "e16",
+   "id": "e17",
    "from": "Walgreens <noreply@walgreens.com>",
    "to": "me",
    "date": "2026-09-26T08:00",
@@ -286,7 +295,7 @@
    "unread": true
   },
   {
-   "id": "e17",
+   "id": "e18",
    "from": "Employee Health <employeehealth@lakeshoregeneral.org>",
    "to": "me",
    "date": "2026-09-28T09:05",
@@ -295,7 +304,7 @@
    "unread": false
   },
   {
-   "id": "e18",
+   "id": "e19",
    "from": "Chewy <orders@chewy.com>",
    "to": "me",
    "date": "2026-09-28T14:22",
@@ -304,7 +313,16 @@
    "unread": false
   },
   {
-   "id": "e19",
+   "id": "e20",
+   "from": "Walgreens <noreply@walgreens.com>",
+   "to": "me",
+   "date": "2026-09-28T17:20",
+   "subject": "Your vaccination record",
+   "body": "Hi Hannah,\n\nThanks for getting your flu shot at Walgreens. Here's your vaccination record:\n\nPatient: Hannah Brooks\nVaccine: Influenza (Flucelvax Trivalent 2026-2027)\nDate given: 09/28/2026, 5:05 PM\nLot: 5M204\nSite: left deltoid\nGiven by: Daniel Okafor, PharmD\nLocation: Walgreens #7742, 3201 N. Clark St, Chicago, IL 60657\nAmount paid: $40.99\n\nThis vaccination has been reported to I-CARE, the Illinois immunization registry. You can view or download this record anytime in the Walgreens app under Health > Vaccinations.",
+   "unread": false
+  },
+  {
+   "id": "e21",
    "from": "Airbnb <automated@airbnb.com>",
    "to": "me",
    "date": "2026-09-29T19:03",
@@ -313,7 +331,7 @@
    "unread": false
   },
   {
-   "id": "e20",
+   "id": "e22",
    "from": "Jenna Park <jpark@nwrehabchicago.org>",
    "to": "me, Ben <ben.brooks@gmail.com>",
    "date": "2026-09-30T17:05",
@@ -322,7 +340,7 @@
    "unread": false
   },
   {
-   "id": "e21",
+   "id": "e23",
    "from": "Lakeshore Primary Care <mychart@lakeshoreprimary.org>",
    "to": "me",
    "date": "2026-10-01T09:00",
@@ -331,7 +349,7 @@
    "unread": false
   },
   {
-   "id": "e22",
+   "id": "e24",
    "from": "Northwestern Rehab <ptscheduling@nwrehabchicago.org>",
    "to": "me",
    "date": "2026-10-01T10:12",
@@ -340,7 +358,7 @@
    "unread": false
   },
   {
-   "id": "e23",
+   "id": "e25",
    "from": "Lakeview Animal Hospital <news@lakeviewanimalhosp.com>",
    "to": "me",
    "date": "2026-10-02T07:00",
@@ -349,7 +367,7 @@
    "unread": true
   },
   {
-   "id": "e24",
+   "id": "e26",
    "from": "ComEd <noreply@comed.com>",
    "to": "me",
    "date": "2026-10-02T07:12",
@@ -358,7 +376,7 @@
    "unread": false
   },
   {
-   "id": "e25",
+   "id": "e27",
    "from": "Marisol Ortega <mortega@lakeshoregeneral.org>",
    "to": "MICU 7 West RNs <micu7w-rn@lakeshoregeneral.org>",
    "date": "2026-10-02T13:05",
@@ -367,7 +385,7 @@
    "unread": false
   },
   {
-   "id": "e26",
+   "id": "e28",
    "from": "CareRide Chicago <rides@carerideschicago.com>",
    "to": "me",
    "date": "2026-10-02T15:54",
@@ -376,7 +394,7 @@
    "unread": false
   },
   {
-   "id": "e27",
+   "id": "e29",
    "from": "Walgreens <noreply@walgreens.com>",
    "to": "me",
    "date": "2026-10-03T09:15",
@@ -385,7 +403,7 @@
    "unread": false
   },
   {
-   "id": "e28",
+   "id": "e30",
    "from": "Lakeshore General Education <education@lakeshoregeneral.org>",
    "to": "me",
    "date": "2026-10-03T10:00",
@@ -394,7 +412,7 @@
    "unread": false
   },
   {
-   "id": "e29",
+   "id": "e31",
    "from": "Belmont Dental Studio <appointments@belmontdentalstudio.com>",
    "to": "me",
    "date": "2026-10-03T12:20",
@@ -403,7 +421,7 @@
    "unread": false
   },
   {
-   "id": "e30",
+   "id": "e32",
    "from": "Chewy <deals@em.chewy.com>",
    "to": "me",
    "date": "2026-10-04T06:30",
@@ -412,7 +430,7 @@
    "unread": true
   },
   {
-   "id": "e31",
+   "id": "e33",
    "from": "Chase <no.reply.alerts@chase.com>",
    "to": "me",
    "date": "2026-10-04T08:00",
@@ -421,7 +439,7 @@
    "unread": false
   },
   {
-   "id": "e32",
+   "id": "e34",
    "from": "Ben <ben.brooks@gmail.com>",
    "to": "me",
    "date": "2026-10-04T20:30",
@@ -430,7 +448,7 @@
    "unread": false
   },
   {
-   "id": "e33",
+   "id": "e35",
    "from": "Northwestern Rehab Billing <billing@nwrehabchicago.org>",
    "to": "me",
    "date": "2026-10-05T08:30",
@@ -439,7 +457,7 @@
    "unread": false
   },
   {
-   "id": "e34",
+   "id": "e36",
    "from": "Employee Health <employeehealth@lakeshoregeneral.org>",
    "to": "me",
    "date": "2026-10-05T11:15",
@@ -448,7 +466,7 @@
    "unread": false
   },
   {
-   "id": "e35",
+   "id": "e37",
    "from": "Walgreens <noreply@walgreens.com>",
    "to": "me",
    "date": "2026-10-05T13:41",
@@ -457,7 +475,7 @@
    "unread": false
   },
   {
-   "id": "e36",
+   "id": "e38",
    "from": "Greg Haskins <greg@wiltoncourtprops.com>",
    "to": "Residents, 3412 N. Wilton",
    "date": "2026-10-05T16:45",
@@ -466,7 +484,7 @@
    "unread": false
   },
   {
-   "id": "e37",
+   "id": "e39",
    "from": "Lakeshore General Benefits <benefits@lakeshoregeneral.org>",
    "to": "me",
    "date": "2026-10-06T08:00",
@@ -475,7 +493,7 @@
    "unread": true
   },
   {
-   "id": "e38",
+   "id": "e40",
    "from": "Lakeview Animal Hospital <frontdesk@lakeviewanimalhosp.com>",
    "to": "me",
    "date": "2026-10-06T10:02",
@@ -484,7 +502,7 @@
    "unread": false
   },
   {
-   "id": "e39",
+   "id": "e41",
    "from": "Marisol Ortega <mortega@lakeshoregeneral.org>",
    "to": "MICU 7 West RNs <micu7w-rn@lakeshoregeneral.org>",
    "date": "2026-10-06T22:10",
@@ -493,7 +511,7 @@
    "unread": true
   },
   {
-   "id": "e40",
+   "id": "e42",
    "from": "Chewy <orders@chewy.com>",
    "to": "me",
    "date": "2026-10-07T08:30",
@@ -502,7 +520,7 @@
    "unread": false
   },
   {
-   "id": "e41",
+   "id": "e43",
    "from": "Airbnb <automated@airbnb.com>",
    "to": "me",
    "date": "2026-10-07T12:00",
@@ -511,7 +529,7 @@
    "unread": false
   },
   {
-   "id": "e42",
+   "id": "e44",
    "from": "CareRide Chicago <rides@carerideschicago.com>",
    "to": "me",
    "date": "2026-10-07T15:58",
@@ -545,6 +563,16 @@
      "from": "Caleb",
      "date": "2026-10-04T18:40",
      "body": "Swapped with Ramirez, I'm working Saturday Oct 31 overnight now instead of Sunday Nov 1"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-04T18:44",
+     "body": "Wait so you'll miss Ramirez's party?"
+    },
+    {
+     "from": "Caleb",
+     "date": "2026-10-04T18:47",
+     "body": "Yeah, that's why he wanted the swap. Go without me, have fun"
     },
     {
      "from": "me",
@@ -617,6 +645,11 @@
     },
     {
      "from": "Lakeview Animal Hospital",
+     "date": "2026-10-05T10:00",
+     "body": "Lakeview Animal Hospital: BISCUIT is due for his annual exam Mon 10/12 at 4:30 PM with Dr. Kowalski. Reply C to confirm, R to reschedule."
+    },
+    {
+     "from": "Lakeview Animal Hospital",
      "date": "2026-10-06T10:05",
      "body": "Lakeview Animal Hospital: BISCUIT has a recheck Mon 10/26 at 10:30 AM with Dr. Kowalski. Reply C to confirm, R to reschedule."
     }
@@ -653,9 +686,19 @@
      "body": "Right, nothing with chicken, even in treats. I'll leave his Zuke's salmon ones out"
     },
     {
+     "from": "me",
+     "date": "2026-10-01T16:25",
+     "body": "Hi Maya! Any chance you could stay with Biscuit the weekend of the 23rd? I'm in Nashville for a bachelorette and Caleb's away that weekend too"
+    },
+    {
      "from": "Maya",
      "date": "2026-10-02T14:15",
      "body": "I can stay with Biscuit Friday Oct 23 to Sunday Oct 25, but I have to leave by 7pm Sunday"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T16:20",
+     "body": "Thank you Maya, that's a huge help!"
     },
     {
      "from": "Maya",
@@ -775,7 +818,7 @@
     {
      "from": "Jules",
      "date": "2026-09-28T19:40",
-     "body": "I already sent the restaurant $150 toward the dinner deposit myself, they took it off Priya's"
+     "body": "I already sent the Nashville restaurant $150 toward the dinner deposit myself, they took it off Priya's"
     },
     {
      "from": "Jules",
@@ -1153,12 +1196,12 @@
     {
      "from": "Priya",
      "date": "2026-09-17T15:12",
-     "body": "Dana is the bride so she doesn't pay for anything this weekend"
+     "body": "For Nashville, Dana is the bride so she doesn't pay for anything that weekend"
     },
     {
      "from": "Priya",
      "date": "2026-09-24T20:15",
-     "body": "I put down the dinner deposit for Friday night, $300"
+     "body": "I put down the dinner deposit for Friday night in Nashville, $300"
     },
     {
      "from": "Dana",
@@ -1427,7 +1470,7 @@
    "id": "n3",
    "title": "Sleep after night shifts",
    "updated": "2026-05-06T16:30",
-   "body": "After a night shift I sleep until 4pm, phone on do-not-disturb.\nEmergency bypass on for Caleb, Dad and Ben only.\nBlackout curtains, fan on, earplugs in the nightstand.\nDon't book anything before 4 on Wed, Thu or Fri. Appointments go on Mondays or Saturdays, or 7:30-8:30 AM right after shift if it's at the hospital.\nNo caffeine after 3 AM on shift."
+   "body": "After a night shift I sleep until 4pm, phone on do-not-disturb.\nEmergency bypass on for Caleb, Dad and Ben only.\nBlackout curtains, fan on, earplugs in the nightstand.\nDon't book anything before 4 on Wed, Thu or Fri.\nNo caffeine after 3 AM on shift."
   },
   {
    "id": "n4",
@@ -1449,9 +1492,9 @@
   },
   {
    "id": "n7",
-   "title": "Nashville - Dana's bachelorette",
+   "title": "Nashville - Dana's bach tracker",
    "updated": "2026-09-17T16:55",
-   "body": "Priya and I split the Nashville Airbnb for Dana's bachelorette, $1,200 total. I paid it on my card."
+   "body": "Fri 10/23 - Sun 10/25\nGoing: me, Priya, Jules, Dana (bride, free)\nPriya and I split the Nashville Airbnb for Dana's bachelorette, $1,200 total. I paid it on my card.\nI fronted the Airbnb for the group."
   },
   {
    "id": "n8",
@@ -1479,33 +1522,33 @@
   },
   {
    "id": "n12",
-   "title": "Halloween at Ramirez's",
-   "updated": "2026-10-02T19:00",
-   "body": "Sat 10/31 8pm, 1842 S. Throop, 2nd floor. Costumes mandatory.\nCaleb = traffic cone. Me = construction worker to match?\nBring buffalo chicken dip, double batch. Lyft both ways.\nSitter 7:30 till midnight - ask Maya."
-  },
-  {
-   "id": "n13",
    "title": "Holiday requests 2026",
    "updated": "2026-10-04T15:10",
    "body": "Due to Marisol by 10/16.\nWorked Thanksgiving 2025, so expected to take a Christmas shift this year.\n1st choice: work Christmas Eve night 12/24, off Thanksgiving (Madison with Caleb's family)\n2nd choice: work 12/25 night\nDad does Christmas morning at Ben's, I can come after I sleep."
   },
   {
-   "id": "n14",
+   "id": "n13",
    "title": "Dr. Stein - physical 10/19",
    "updated": "2026-10-04T16:20",
    "body": "Fasting 10 hrs, nothing after 11pm Sunday.\nAsk:\n- Migraines up to 3-4/month since starting nights. Sumatriptan works, 9 a month enough?\n- Sleep averaging 6 hrs on work days\n- Vitamin D, was 18 in March\n- Birth control refill for 12 months\n- Tetanus, last one 2017?\nAfter: Dad has PT at 2."
   },
   {
+   "id": "n14",
+   "title": "Halloween at Ramirez's",
+   "updated": "2026-10-04T18:50",
+   "body": "Sat 10/31 8pm, 1842 S. Throop, 2nd floor. Costumes mandatory.\nCostume for me?\nBring buffalo chicken dip, double batch. Lyft both ways.\nSitter 7:30 till midnight - ask Maya."
+  },
+  {
    "id": "n15",
    "title": "Employee Health 2026",
    "updated": "2026-10-05T13:00",
-   "body": "Flu shot - last year 10/1/25 at Employee Health (Flucelvax, after shift)\nTB QuantiFERON - last one 9/3/25, negative\nN95 fit test - Thu 10/22 7:45 AM, B-114, bring 3M 1870+\nHep B titer - on file\nACLS - expires 11/2026, renewal class Mon 11/2\nBLS - good till 4/2027\nEmployee Health hours 7-3:30 M-F, go right after shift."
+   "body": "Flu shot - last year 10/1/25 at Employee Health (Flucelvax, after shift)\nFlu shot - this year 9/28/26 at Walgreens on Clark\nTB QuantiFERON - last one 9/3/25, negative\nN95 fit test - Thu 10/22 7:45 AM, B-114, bring 3M 1870+\nHep B titer - on file\nACLS - expires 11/2026, renewal class Mon 11/2\nBLS - good till 4/2027\nEmployee Health hours 7-3:30 M-F."
   },
   {
    "id": "n16",
    "title": "Maya - payments",
    "updated": "2026-10-05T16:00",
-   "body": "Rates: drop-in $25, afternoon sit (up to 3 hrs) $45, overnight 6:30p-8a $70\nVenmo @Maya-Castellanos\n\n6/19-6/21 Galena: 2 overnights = $140 PAID\n9/14 Mon PT sit $45 PAID\n9/15-9/16 Caleb's Indy trip: 2 overnights = $140 PAID 9/17\n9/21 Mon PT sit $45 PAID\n9/28 Mon PT sit $45 PAID\n10/5 Mon PT sit $45 - owe\n11/7-11/8 Saugatuck: $110 (booked)\n10/31 Halloween 7:30p-midnight - ask her"
+   "body": "Rates: drop-in $25, afternoon sit (up to 3 hrs) $45, overnight 6:30p-8a $70\nVenmo @Maya-Castellanos\n\n6/19-6/21 Galena: 2 overnights = $140 PAID\n9/14 Mon PT sit $45 PAID\n9/15-9/16 Caleb's Indy trip: 2 overnights = $140 PAID 9/17\n9/21 Mon PT sit $45 PAID\n9/28 Mon PT sit $45 PAID\n10/5 Mon PT sit $45 - owe\n10/23-10/25 Nashville bach: booked\n11/7-11/8 Saugatuck: $110 (booked)\n10/31 Halloween 7:30p-midnight - ask her"
   },
   {
    "id": "n17",
@@ -1651,10 +1694,18 @@
    "start": "2026-10-22T19:00",
    "end": "2026-10-23T07:30",
    "location": "Lakeshore General Hospital, 7 West MICU",
-   "notes": "Thursday night, off at 7:30am Friday 10/23."
+   "notes": "Charge nurse this shift. Thursday night, off at 7:30am Friday 10/23."
   },
   {
    "id": "c16",
+   "title": "Nashville - Dana's bach",
+   "start": "2026-10-23T00:00",
+   "end": "2026-10-25T23:59",
+   "location": "1214 Boscobel St, Nashville, TN 37206",
+   "notes": "Airbnb check-in 4pm Fri, checkout 11am Sun. Confirmation HMB7N3KXQ2. Me, Priya, Jules and Dana."
+  },
+  {
+   "id": "c17",
    "title": "Biscuit recheck - Dr. Kowalski",
    "start": "2026-10-26T10:30",
    "end": "2026-10-26T11:00",
@@ -1662,7 +1713,7 @@
    "notes": "Hind-limb stiffness recheck. Bring treat list."
   },
   {
-   "id": "c17",
+   "id": "c18",
    "title": "Halloween at Ramirez & Elena's",
    "start": "2026-10-31T20:00",
    "end": "2026-11-01T00:00",
@@ -1670,15 +1721,15 @@
    "notes": "Costumes. Buffalo chicken dip. Lyft. Sitter till midnight."
   },
   {
-   "id": "c18",
+   "id": "c19",
    "title": "Anniversary with Caleb",
    "start": "2026-11-01T00:00",
    "end": "2026-11-01T23:59",
-   "location": "",
-   "notes": ""
+   "location": "TBD",
+   "notes": "Year 4."
   },
   {
-   "id": "c19",
+   "id": "c20",
    "title": "ACLS renewal",
    "start": "2026-11-02T08:30",
    "end": "2026-11-02T16:30",
@@ -1686,7 +1737,15 @@
    "notes": "Print pre-assessment certificate. Pack lunch. Ben taking Dad to PT."
   },
   {
-   "id": "c20",
+   "id": "c21",
+   "title": "Election Day",
+   "start": "2026-11-03T00:00",
+   "end": "2026-11-03T23:59",
+   "location": "Polling place: Blaine Elementary, 1420 W. Grace St",
+   "notes": "Polls open 6 AM-7 PM."
+  },
+  {
+   "id": "c22",
    "title": "Saugatuck weekend",
    "start": "2026-11-07T11:00",
    "end": "2026-11-08T15:00",

@@ -14,12 +14,6 @@
    "phone": "(478) 555-0127"
   },
   {
-   "name": "Kiara Carter",
-   "relation": "sister, lives in Macon",
-   "email": "kiaracarter00@gmail.com",
-   "phone": "(478) 555-0182"
-  },
-  {
    "name": "Marcus Reed",
    "relation": "coworker at Peach Street Grill (server), lives in Atlanta",
    "email": "marcus.reed.atl@gmail.com",
@@ -150,74 +144,6 @@
    "relation": "Jaylen's sister, lives in Macon",
    "email": "kiarabrooks.macon@gmail.com",
    "phone": "(478) 555-0149"
-  }
- ],
- "notes": [
-  {
-   "id": "n1",
-   "title": "Taxes 2025",
-   "updated": "2026-02-10T20:30",
-   "body": "Filed with TaxSimple 2/10, free version.\nW-2 Peach Street Grill: $14,206.55 wages + tips.\nMom still claims me, checked the box that someone can claim me.\nFederal refund $412, should come around 2/24 to checking.\nGeorgia refund $96.\nPlan: $300 to savings, rest toward the Visa (laptop)."
-  },
-  {
-   "id": "n2",
-   "title": "Paychecks",
-   "updated": "2026-08-08T10:30",
-   "body": "Paychecks hit every other Friday\nPeach Street Grill direct deposit into Fulton CU checking 3381, usually there by 6 am.\nFall dates: 8/21, 9/4, 9/18, 10/2, 10/16, 10/30, 11/13, 11/27, 12/11, 12/25 (probably the 24th bc Christmas)\nEach check covers the two weeks ending the Sunday before. Card tips come on the check, cash tips I keep."
-  },
-  {
-   "id": "n3",
-   "title": "Class schedule fall 2026",
-   "updated": "2026-08-20T21:14",
-   "body": "Class schedule: Mon/Wed/Fri 9:00 am-12:15 pm, Tue/Thu 11:00 am-2:00 pm\n\nMWF\n9:00-10:15 CIS 4610 Database Systems, Calloway 310\n10:30-11:20 MGMT 3500 Human Resources, Sparks 204\n11:25-12:15 COMM 2050 Public Speaking, Langdale 118\n\nTue/Thu\n11:00-12:15 BLAW 3100 Business Law (Prof. Hayes), Calloway 220\n12:45-2:00 CIS 4980 Senior Capstone (Prof. Hayes), Calloway 220\n\nProf. Hayes office hours Tue/Thu 2:15-3:30, Calloway 512.\nTold Tasha my availability: MWF after 1, Tue/Thu after 3, weekends open."
-  },
-  {
-   "id": "n4",
-   "title": "Peach Street Grill stuff",
-   "updated": "2026-09-02T23:30",
-   "body": "Clock in on the POS, not more than 5 min early. Luis is strict about it.\nTip-out: 3% of food sales to bussers, 1% to bar, settled at end of shift.\nSwaps: both people request in ShiftPlanner, manager approves. Has to be at least 48 hrs before the shift.\nTime off: request 2 weeks ahead. Saturdays in football season need coverage before they'll approve.\nStaff meal half off, one per shift. No phones on the floor.\nUsually: Mon/Wed 5-10, Fri 5-11, Sat brunch 9-3. Sundays off.\nFood handler card expires 9/30. Need to redo it.\nWage $4.50/hr + tips. W-4 updated 8/10."
-  },
-  {
-   "id": "n5",
-   "title": "Bills + who pays what",
-   "updated": "2026-09-21T22:05",
-   "body": "Rent $1,450 total, my half $725. I pay mine on the Glenwood portal by the 1st, Trey pays his separately. Late fee after the 5th is $75.\nMetro Atlanta Power is in Trey's name. He pays, I Venmo him half when the bill comes. Sept was $88.60, sent $44.30 on 9/21.\nPeachnet Fiber $65, in my name, autopay the 10th from checking. Trey Venmos me $32.50.\nPhone is on Mom's Brightwave plan, I send her $35 by the 5th.\nCar insurance Southern Shield $118.40, autopay the 12th.\nCar payment to Uncle Ray $200 on the 15th through Dec ($600 left after Sept).\nTunebox Student $5.99 on the 21st (Visa).\nVisa 7719: pay the statement balance before the 25th.\nShared apartment stuff (paper towels, dish soap, trash bags, toilet paper): whoever buys it, the other one pays half."
-  },
-  {
-   "id": "n6",
-   "title": "Civic",
-   "updated": "2026-09-29T19:20",
-   "body": "2013 Honda Civic LX. Bought from Uncle Ray 4/11 for $2,800. Paid $1,200 down, $200 on the 15th through Dec.\n9/29 Moreland Auto Care: front pads + rotors, $311.98 on the Visa. Mom sent $100, so mine is $211.98.\nMileage at pickup 95,936.\nRear pads about 30%, recheck in spring.\nTire rotation free with next oil change.\nNext oil change at 98,400 or mid Oct. Last one 4/18 at 92,412.\nTag renewal due by my birthday 3/3.\nSouthern Shield policy SS-GA-4471902, card in glove box."
-  },
-  {
-   "id": "n7",
-   "title": "Meds + health",
-   "updated": "2026-10-02T19:45",
-   "body": "Fluticasone nasal spray, 2 sprays each side every morning (fall allergies). Kroger Pharmacy #0347, Rx 6608142, refill every 30 days, $4.20.\nAlbuterol inhaler, 2 puffs 15 min before hoops or if my chest gets tight. Rx 6608139, $10. One in the car, one in my backpack.\nInsurance: Mom's Pinebrook Health plan till 26. Member ID PBH 448271905-02. Dental is Pinebrook too.\nFlu shot done 9/30 at Student Health, free.\nDentist: Edgewood Dental Studio, moved to Tue 10/20 at 3 (was Wed 10/14 at 1, career fair).\nStudent Health walk-ins M-F 8-4."
-  },
-  {
-   "id": "n8",
-   "title": "To do",
-   "updated": "2026-10-04T21:40",
-   "body": "Food handler course on foodsafegeorgia.com ($12.95), send Tasha the certificate + receipt by 10/31\nPrint resumes for the career fair, free at Career Services through 10/13\nStill need to get the Business Law book\nDegree audit for Ms. Patterson on 10/13"
-  },
-  {
-   "id": "n9",
-   "title": "Rec letter packet for Prof. Hayes",
-   "updated": "2026-10-06T21:10",
-   "body": "Halcyon Health IT Analyst Development Program. App deadline Fri 10/30, letter goes through their portal.\nProf. Hayes said yes (email 10/6). She wants by Fri 10/16:\n- resume (add capstone + Peach Street)\n- program description link\n- unofficial transcript (GMU portal > Records)\n- paragraph on my part of the capstone (volunteer sign-up + reminder texts for Grant Park Community Pantry)\n- paragraph on working 20-25 hrs a week with a full load\nAfter I submit my part, forward her the portal invite. She's aiming for the 26th.\nThank-you card after."
-  },
-  {
-   "id": "n10",
-   "title": "Kroger list",
-   "updated": "2026-10-07T18:12",
-   "body": "eggs (digital coupon loaded)\nchicken thighs, family pack if it's still $1.49/lb\njasmine rice\nspinach\nfrozen broccoli x2\nbread\ncoffee (shared, split w/ Trey)\ntrash bags (shared, split w/ Trey)\nGatorade for hoops\npick up fluticasone at the pharmacy counter (ready since 10/6, they hold it 10 days)"
-  },
-  {
-   "id": "n11",
-   "title": "Macon Oct 23-25",
-   "updated": "2026-10-07T22:40",
-   "body": "Leave Fri 10/23 after class, around 1. Fill up at Kroger first with fuel points.\nMom's 50th dinner Sat 10/24 at 6, Natalie's Soul Kitchen, 2150 Riverside Dr. Party of 8. Keisha put down the $50 deposit, comes off the bill. Bill split 3 ways me, Keisha, Uncle Ray, about $90 each.\nGift: e-reader + cover, Keisha ordered it ($140.15). I owe her $70, send after the 10/16 check.\nElijah's soccer Sat 10 am at Tattnall Rec fields. I'm on Elijah duty.\nUncle Ray wants help moving his pictures to his new phone. Bring USB-C cable. Tell him not to reset the old one.\nGrandma wants 2 bottles of the Peach Street hot sauce.\nFri 10/23 off, approved 9/25. Sat brunch: Marcus takes it, I cover his Thu 10/22 5-10. Still need Luis to approve in ShiftPlanner once the 10/19 week posts.\nCapstone Milestone 3 due Fri 11:59 pm, submit before I leave.\nDrive back Sun after lunch."
   }
  ],
  "email": [
@@ -461,7 +387,7 @@
    "to": "me",
    "date": "2026-10-03T10:40",
    "subject": "Onboarding item needed: TB skin test",
-   "body": "Hi Devon,\n\nWelcome to the IT Service Desk internship at Midtown Mercy Hospital. We're putting your onboarding file together and need one more item from you.\n\nPlease submit a negative TB skin test before your start date. The skin test takes two visits: after it is placed, you have to go back 48-72 hours later to have it read.\n\nReply to this email if you have any questions.\n\nThank you,\nTalent Acquisition\nMidtown Mercy Hospital",
+   "body": "Hi Devon,\n\nWelcome to the IT Service Desk internship at Midtown Mercy Hospital. Your start date is Monday, January 11, 2027. We're putting your onboarding file together and need one more item from you.\n\nPlease submit a negative TB skin test before your start date. The skin test takes two visits: after it is placed, you have to go back 48-72 hours later to have it read.\n\nReply to this email if you have any questions.\n\nThank you,\nTalent Acquisition\nMidtown Mercy Hospital",
    "unread": false
   },
   {
@@ -597,7 +523,7 @@
    "date": "2026-10-07T16:20",
    "subject": "Phone screen - IT Operations Analyst I",
    "body": "Hi Devon,\n\nThanks for applying for the IT Operations Analyst I role at Southline Logistics. I'd like to set up a 30-minute phone screen. I have these times open:\n\n- Monday, October 19, 1:30 PM\n- Tuesday, October 20, 4:30 PM\n- Thursday, October 22, 10:00 AM\n\nPlease reply with the time that works best and the best number to reach you. I'll also be at the GMU career fair on 10/14 if you want to stop by our table.\n\nBest,\nJordan Pierce\nCampus Recruiter, Southline Logistics\n(678) 555-0193",
-   "unread": true
+   "unread": false
   }
  ],
  "texts": [
@@ -637,6 +563,11 @@
      "from": "Fulton Community CU",
      "date": "2026-10-02T06:01",
      "body": "FCCU: Direct deposit of $612.40 posted to Checking x3381."
+    },
+    {
+     "from": "Fulton Community CU",
+     "date": "2026-10-07T12:42",
+     "body": "FCCU: Debit card purchase of $11.86 at KROGER #0347 on Checking x3381. Available balance $318.72."
     }
    ]
   },
@@ -856,6 +787,11 @@
     },
     {
      "from": "ShiftPlanner",
+     "date": "2026-10-06T17:10",
+     "body": "ShiftPlanner: Your swap with Marcus Reed at Peach Street Grill was approved by Luis M."
+    },
+    {
+     "from": "ShiftPlanner",
      "date": "2026-10-07T15:00",
      "body": "ShiftPlanner: Reminder, you work today at Peach Street Grill, 5:00 PM - 10:00 PM."
     }
@@ -912,6 +848,23 @@
   },
   {
    "id": "t13",
+   "with": "Kiara Brooks",
+   "unread": true,
+   "messages": [
+    {
+     "from": "me",
+     "date": "2026-10-04T11:05",
+     "body": "Hey Kiara, Simone moved Jaylen's dinner to Sat 10/17 around 8, you still coming up?"
+    },
+    {
+     "from": "Kiara Brooks",
+     "date": "2026-10-06T12:18",
+     "body": "I'm driving up from Macon after work, can't get there before like 8:30, can we do 9?"
+    }
+   ]
+  },
+  {
+   "id": "t14",
    "with": "Jaylen Brooks",
    "unread": false,
    "messages": [
@@ -953,7 +906,7 @@
    ]
   },
   {
-   "id": "t14",
+   "id": "t15",
    "with": "Glenwood Commons Leasing Office",
    "unread": false,
    "messages": [
@@ -975,18 +928,6 @@
    ]
   },
   {
-   "id": "t15",
-   "with": "Kiara Brooks",
-   "unread": true,
-   "messages": [
-    {
-     "from": "Kiara Brooks",
-     "date": "2026-10-06T12:18",
-     "body": "I'm driving up from Macon after work, can't get there before like 8:30, can we do 9?"
-    }
-   ]
-  },
-  {
    "id": "t16",
    "with": "Marcus Reed",
    "unread": false,
@@ -1000,6 +941,11 @@
      "from": "me",
      "date": "2026-10-06T14:27",
      "body": "bet, I got your Wednesday close, you got my Thursday open"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T14:29",
+     "body": "they put me on that open over my 11 o'clock class anyway lol"
     },
     {
      "from": "me",
@@ -1487,6 +1433,74 @@
    ]
   }
  ],
+ "notes": [
+  {
+   "id": "n1",
+   "title": "Taxes 2025",
+   "updated": "2026-02-10T20:30",
+   "body": "Filed with TaxSimple 2/10, free version.\nW-2 Peach Street Grill: $14,206.55 wages + tips.\nMom still claims me, checked the box that someone can claim me.\nFederal refund $412, should come around 2/24 to checking.\nGeorgia refund $96.\nPlan: $300 to savings, rest toward the Visa (laptop)."
+  },
+  {
+   "id": "n2",
+   "title": "Paychecks",
+   "updated": "2026-08-08T10:30",
+   "body": "Paychecks hit every other Friday\nPeach Street Grill direct deposit into Fulton CU checking 3381, usually there by 6 am.\nFall dates: 8/21, 9/4, 9/18, 10/2, 10/16, 10/30, 11/13, 11/27, 12/11, 12/25 (probably the 24th bc Christmas)\nEach check covers the two weeks ending the Sunday before. Card tips come on the check, cash tips I keep."
+  },
+  {
+   "id": "n3",
+   "title": "Class schedule fall 2026",
+   "updated": "2026-08-20T21:14",
+   "body": "Class schedule: Mon/Wed/Fri 9:00 am-12:15 pm, Tue/Thu 11:00 am-2:00 pm\n\nMWF\n9:00-10:15 CIS 4610 Database Systems, Calloway 310\n10:30-11:20 MGMT 3500 Human Resources, Sparks 204\n11:25-12:15 COMM 2050 Public Speaking, Langdale 118\n\nTue/Thu\n11:00-12:15 BLAW 3100 Business Law (Prof. Hayes), Calloway 220\n12:45-2:00 CIS 4980 Senior Capstone (Prof. Hayes), Calloway 220\n\nProf. Hayes office hours Tue/Thu 2:15-3:30, Calloway 512.\nTold Tasha my availability: MWF after 1, Tue/Thu after 3, weekends open."
+  },
+  {
+   "id": "n4",
+   "title": "Peach Street Grill stuff",
+   "updated": "2026-09-02T23:30",
+   "body": "Clock in on the POS, not more than 5 min early. Luis is strict about it.\nTip-out: 3% of food sales to bussers, 1% to bar, settled at end of shift.\nSwaps: both people request in ShiftPlanner, manager approves. Has to be at least 48 hrs before the shift.\nTime off: request 2 weeks ahead. Saturdays in football season need coverage before they'll approve.\nStaff meal half off, one per shift. No phones on the floor.\nUsually: Mon/Wed 5-10, Fri 5-11, Sat brunch 9-3. Sundays off.\nFood handler card expires 9/30. Need to redo it.\nWage $4.50/hr + tips. W-4 updated 8/10."
+  },
+  {
+   "id": "n5",
+   "title": "Bills + who pays what",
+   "updated": "2026-09-21T22:05",
+   "body": "Rent $1,450 total, my half $725. I pay mine on the Glenwood portal by the 1st, Trey pays his separately. Late fee after the 5th is $75.\nMetro Atlanta Power is in Trey's name. He pays, I Venmo him half when the bill comes. Sept was $88.60, sent $44.30 on 9/21.\nPeachnet Fiber $65, in my name, autopay the 10th from checking. Trey Venmos me $32.50.\nPhone is on Mom's Brightwave plan, I send her $35 by the 5th.\nCar insurance Southern Shield $118.40, autopay the 12th.\nCar payment to Uncle Ray $200 on the 15th through Dec ($600 left after Sept).\nTunebox Student $5.99 on the 21st (Visa).\nVisa 7719: pay the statement balance before the 25th.\nShared apartment stuff (paper towels, dish soap, trash bags, toilet paper): whoever buys it, the other one pays half."
+  },
+  {
+   "id": "n6",
+   "title": "Civic",
+   "updated": "2026-09-29T19:20",
+   "body": "2013 Honda Civic LX. Bought from Uncle Ray 4/11 for $2,800. Paid $1,200 down, $200 on the 15th through Dec.\n9/29 Moreland Auto Care: front pads + rotors, $311.98 on the Visa. Mom sent $100, so mine is $211.98.\nMileage at pickup 95,936.\nRear pads about 30%, recheck in spring.\nTire rotation free with next oil change.\nNext oil change at 98,400 or mid Oct. Last one 4/18 at 92,412.\nTag renewal due by my birthday 3/3.\nSouthern Shield policy SS-GA-4471902, card in glove box."
+  },
+  {
+   "id": "n7",
+   "title": "Meds + health",
+   "updated": "2026-10-02T19:45",
+   "body": "Fluticasone nasal spray, 2 sprays each side every morning (fall allergies). Kroger Pharmacy #0347, Rx 6608142, refill every 30 days, $4.20.\nAlbuterol inhaler, 2 puffs 15 min before hoops or if my chest gets tight. Rx 6608139, $10. One in the car, one in my backpack.\nInsurance: Mom's Pinebrook Health plan till 26. Member ID PBH 448271905-02. Dental is Pinebrook too.\nFlu shot done 9/30 at Student Health, free.\nDentist: Edgewood Dental Studio, moved to Tue 10/20 at 3 (was Wed 10/14 at 1, career fair).\nStudent Health walk-ins M-F 8-4."
+  },
+  {
+   "id": "n8",
+   "title": "To do",
+   "updated": "2026-10-04T21:40",
+   "body": "Food handler course on foodsafegeorgia.com ($12.95), send Tasha the certificate + receipt by 10/31\nPrint resumes for the career fair, free at Career Services through 10/13\nStill need to get the Business Law book\nDegree audit for Ms. Patterson on 10/13\nMidtown Mercy onboarding stuff"
+  },
+  {
+   "id": "n9",
+   "title": "Rec letter packet for Prof. Hayes",
+   "updated": "2026-10-06T21:10",
+   "body": "Halcyon Health IT Analyst Development Program. App deadline Fri 10/30, letter goes through their portal.\nProf. Hayes said yes (email 10/6). She wants by Fri 10/16:\n- resume (add capstone + Peach Street)\n- program description link\n- unofficial transcript (GMU portal > Records)\n- paragraph on my part of the capstone (volunteer sign-up + reminder texts for Grant Park Community Pantry)\n- paragraph on working 20-25 hrs a week with a full load\nAfter I submit my part, forward her the portal invite. She's aiming for the 26th.\nThank-you card after."
+  },
+  {
+   "id": "n10",
+   "title": "Kroger list",
+   "updated": "2026-10-07T18:12",
+   "body": "eggs (digital coupon loaded)\nchicken thighs, family pack if it's still $1.49/lb\njasmine rice\nspinach\nfrozen broccoli x2\nbread\ncoffee (shared, split w/ Trey)\ntrash bags (shared, split w/ Trey)\nGatorade for hoops\npick up fluticasone at the pharmacy counter (ready since 10/6, they hold it 10 days)"
+  },
+  {
+   "id": "n11",
+   "title": "Macon Oct 23-25",
+   "updated": "2026-10-07T22:40",
+   "body": "Leave Fri 10/23 after class, around 1. Fill up at Kroger first with fuel points.\nMom's 50th dinner Sat 10/24 at 6, Natalie's Soul Kitchen, 2150 Riverside Dr. Party of 8. Keisha put down the $50 deposit, comes off the bill. Bill split 3 ways me, Keisha, Uncle Ray, about $90 each.\nGift: e-reader + cover, Keisha ordered it ($140.15). I owe her $70, send after the 10/16 check.\nElijah's soccer Sat 10 am at Tattnall Rec fields. I'm on Elijah duty.\nUncle Ray wants help moving his pictures to his new phone. Bring USB-C cable. Tell him not to reset the old one.\nGrandma wants 2 bottles of the Peach Street hot sauce.\nFri 10/23 off, approved 9/25. Sat brunch: Marcus takes it, I cover his Thu 10/22 5-10. Still need Luis to approve in ShiftPlanner once the 10/19 week posts.\nCapstone Milestone 3 due Fri 11:59 pm, submit before I leave.\nDrive back Sun after lunch."
+  }
+ ],
  "calendar": [
   {
    "id": "c1",
@@ -1514,6 +1528,14 @@
   },
   {
    "id": "c4",
+   "title": "Work shift - Peach Street Grill",
+   "start": "2026-10-10T09:00",
+   "end": "2026-10-10T15:00",
+   "location": "Peach Street Grill, 418 Edgewood Ave SE, Atlanta",
+   "notes": "Server (Brunch) 9-3."
+  },
+  {
+   "id": "c5",
    "title": "Staff meeting - fall menu tasting",
    "start": "2026-10-12T15:00",
    "end": "2026-10-12T16:00",
@@ -1521,7 +1543,7 @@
    "notes": "Paid hour. Clear under the kitchen sink tonight for pest control."
   },
   {
-   "id": "c5",
+   "id": "c6",
    "title": "Work shift - Peach Street Grill",
    "start": "2026-10-12T16:00",
    "end": "2026-10-12T21:00",
@@ -1529,7 +1551,7 @@
    "notes": "Server 4-9, right after the staff meeting."
   },
   {
-   "id": "c6",
+   "id": "c7",
    "title": "Pest control in unit",
    "start": "2026-10-13T09:00",
    "end": "2026-10-13T13:00",
@@ -1537,7 +1559,7 @@
    "notes": "Biscuit in Trey's room with the door shut. Under-sink stuff cleared."
   },
   {
-   "id": "c7",
+   "id": "c8",
    "title": "First-Gen Scholars check-in - Ms. Patterson",
    "start": "2026-10-13T14:30",
    "end": "2026-10-13T15:00",
@@ -1545,7 +1567,7 @@
    "notes": "Bring degree audit + spring course plan. Grad application due 11/15."
   },
   {
-   "id": "c8",
+   "id": "c9",
    "title": "Work shift - Peach Street Grill",
    "start": "2026-10-13T16:00",
    "end": "2026-10-13T21:00",
@@ -1553,15 +1575,15 @@
    "notes": "Server 4-9."
   },
   {
-   "id": "c9",
+   "id": "c10",
    "title": "Career & Internship Fair",
    "start": "2026-10-14T12:30",
-   "end": "2026-10-14T16:00",
+   "end": "2026-10-14T15:00",
    "location": "Student Center Ballroom, 3rd floor",
    "notes": "15 resumes, business casual. Southline table (Jordan Pierce) + Halcyon Health."
   },
   {
-   "id": "c10",
+   "id": "c11",
    "title": "Work shift (open) - Peach Street Grill",
    "start": "2026-10-15T07:00",
    "end": "2026-10-15T13:00",
@@ -1569,7 +1591,7 @@
    "notes": "Opening shift 7 am-1 pm."
   },
   {
-   "id": "c11",
+   "id": "c12",
    "title": "Prof. Hayes office hours",
    "start": "2026-10-15T14:15",
    "end": "2026-10-15T14:45",
@@ -1577,7 +1599,7 @@
    "notes": "Questions on the rec letter packet before it's due Friday. Hoops at Candler 8pm."
   },
   {
-   "id": "c12",
+   "id": "c13",
    "title": "Capstone client meeting - Grant Park Community Pantry",
    "start": "2026-10-16T13:00",
    "end": "2026-10-16T14:00",
@@ -1585,7 +1607,23 @@
    "notes": "Priya picks me up outside Langdale at 12:20. Bring laptop with demo. Payday: Keisha $70, Trey $48.21, Simone $7. Send Prof. Hayes the rec letter packet today. Work 5-11."
   },
   {
-   "id": "c13",
+   "id": "c14",
+   "title": "Work shift - Peach Street Grill",
+   "start": "2026-10-16T17:00",
+   "end": "2026-10-16T23:00",
+   "location": "Peach Street Grill, 418 Edgewood Ave SE, Atlanta",
+   "notes": "Server 5-11."
+  },
+  {
+   "id": "c15",
+   "title": "Work shift - Peach Street Grill",
+   "start": "2026-10-17T09:00",
+   "end": "2026-10-17T15:00",
+   "location": "Peach Street Grill, 418 Edgewood Ave SE, Atlanta",
+   "notes": "Server (Brunch) 9-3."
+  },
+  {
+   "id": "c16",
    "title": "Jaylen's birthday dinner",
    "start": "2026-10-17T20:00",
    "end": "2026-10-17T22:30",
@@ -1593,7 +1631,7 @@
    "notes": "Venmo Simone my share of Jaylen's food after. Don't mention the cake. Brunch shift 9-3 first."
   },
   {
-   "id": "c14",
+   "id": "c17",
    "title": "Southline phone screen (tentative)",
    "start": "2026-10-19T13:30",
    "end": "2026-10-19T14:00",
@@ -1601,7 +1639,7 @@
    "notes": "Reply to Jordan Pierce to confirm. Other options Tue 10/20 4:30, Thu 10/22 10:00."
   },
   {
-   "id": "c15",
+   "id": "c18",
    "title": "Business Law midterm",
    "start": "2026-10-20T11:00",
    "end": "2026-10-20T12:15",
@@ -1609,7 +1647,7 @@
    "notes": "Moved from Tue 10/13."
   },
   {
-   "id": "c16",
+   "id": "c19",
    "title": "Dentist - cleaning",
    "start": "2026-10-20T15:00",
    "end": "2026-10-20T16:00",
@@ -1617,7 +1655,7 @@
    "notes": "Moved from Wed 10/14. Pinebrook Dental under Mom. Arrive 2:50. $40 if I cancel under 24 hrs."
   },
   {
-   "id": "c17",
+   "id": "c20",
    "title": "Interview Skills workshop (First-Gen Scholars)",
    "start": "2026-10-21T13:00",
    "end": "2026-10-21T14:00",
@@ -1625,7 +1663,7 @@
    "notes": "3rd workshop = $500 completion grant. Work at 5."
   },
   {
-   "id": "c18",
+   "id": "c21",
    "title": "Cover Marcus's shift",
    "start": "2026-10-22T17:00",
    "end": "2026-10-22T22:00",
@@ -1633,7 +1671,7 @@
    "notes": "Swap: Marcus takes my Sat 10/24 brunch. Needs Luis to approve in ShiftPlanner."
   },
   {
-   "id": "c19",
+   "id": "c22",
    "title": "Macon - Mom's 50th",
    "start": "2026-10-23T13:00",
    "end": "2026-10-25T17:00",
@@ -1641,7 +1679,7 @@
    "notes": "Leave after class around 1, text Mom when I leave. Submit capstone Milestone 3 before I go. Elijah's soccer Sat 10 am. Uncle Ray's phone. 2 bottles hot sauce for Grandma."
   },
   {
-   "id": "c20",
+   "id": "c23",
    "title": "Mom's 50th birthday dinner",
    "start": "2026-10-24T18:00",
    "end": "2026-10-24T20:30",
@@ -1649,7 +1687,7 @@
    "notes": "Party of 8. Bill split 3 ways with Keisha and Uncle Ray, about $90 each. Keisha's $50 deposit comes off. Ray bringing red velvet cake from Ms. Bea's."
   },
   {
-   "id": "c21",
+   "id": "c24",
    "title": "Halcyon Health application deadline",
    "start": "2026-10-30T17:00",
    "end": "2026-10-30T17:30",
@@ -1657,7 +1695,7 @@
    "notes": "Make sure Prof. Hayes uploaded her letter. Payday: Uncle Ray $200. Food handler card + receipt to Tasha by tomorrow."
   },
   {
-   "id": "c22",
+   "id": "c25",
    "title": "Kofi Banks - The Eastline",
    "start": "2026-11-05T20:00",
    "end": "2026-11-05T23:00",
@@ -1921,7 +1959,7 @@
    "id": "x24",
    "date": "2026-10-07T12:41",
    "account": "Checking ending 3381",
-   "description": "KROGER #0347 ATLANTA GA DEBIT 3381 - AVAIL BAL $318.72",
+   "description": "KROGER #0347 ATLANTA GA",
    "amount": -11.86
   }
  ]

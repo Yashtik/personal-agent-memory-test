@@ -136,8 +136,8 @@
   {
    "name": "Hana",
    "relation": "Mei's sister",
-   "email": "",
-   "phone": ""
+   "email": "hana.huang.sea@gmail.com",
+   "phone": "(206) 555-0172"
   }
  ],
  "email": [
@@ -559,9 +559,29 @@
      "body": "Since my raise, let's do rent 60/40 starting October - I'll cover the 60"
     },
     {
+     "from": "me",
+     "date": "2026-09-28T22:16",
+     "body": "Deal, thank you."
+    },
+    {
+     "from": "me",
+     "date": "2026-09-30T20:05",
+     "body": "Priya signed off on the OHSU visit, so Portland is Thu 10/22 to Sun. Nadia's doing my cultures."
+    },
+    {
+     "from": "Daniel Park",
+     "date": "2026-09-30T20:11",
+     "body": "I'll fly up Friday after work and stay through Sunday."
+    },
+    {
      "from": "Daniel Park",
      "date": "2026-10-02T12:31",
      "body": "Ordered your mom that Fellow kettle she kept looking at last time, it's from me for her birthday"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-04T15:58",
+     "body": "When you land on the 17th, are you stopping at home first?"
     },
     {
      "from": "Daniel Park",
@@ -804,7 +824,7 @@
     {
      "from": "Mei",
      "date": "2026-10-03T21:00",
-     "body": "My sister found my sleeping bag but I still want to borrow yours, it's so much warmer"
+     "body": "Ravi found my sleeping bag but I still want to borrow yours, it's so much warmer"
     },
     {
      "from": "me",
@@ -1067,6 +1087,11 @@
      "body": "Tom sent me the whole Le Carré box set for my birthday, all the Smiley ones"
     },
     {
+     "from": "Tom",
+     "date": "2026-09-03T20:31",
+     "body": "Start with Tinker Tailor. Don't skip ahead."
+    },
+    {
      "from": "Helen Park",
      "date": "2026-09-24T17:10",
      "body": "Thanksgiving at my house again. Come Wednesday? Tom you're on the couch, Daniel and Alice get the guest room."
@@ -1107,6 +1132,11 @@
      "from": "Jess",
      "date": "2026-09-17T20:15",
      "body": "I keep borrowing Sam's shears for the bonsai, I really need my own trimming tools"
+    },
+    {
+     "from": "Sam",
+     "date": "2026-09-17T20:22",
+     "body": "I want them back by spring"
     },
     {
      "from": "Jess",
@@ -1267,7 +1297,7 @@
     {
      "from": "Mei",
      "date": "2026-10-05T21:06",
-     "body": "Alice I'm taking your 20 degree bag, mine smells like my sister's dog."
+     "body": "Alice I'm taking your 20 degree bag, mine still smells like mildew."
     }
    ]
   },
@@ -1425,6 +1455,11 @@
    "unread": false,
    "messages": [
     {
+     "from": "me",
+     "date": "2026-10-06T18:48",
+     "body": "Dinner next week, just us two? I'll find somewhere safe."
+    },
+    {
      "from": "Mei",
      "date": "2026-10-06T19:05",
      "body": "Hana's visiting that week so I'm bringing her along to dinner, hope that's ok!"
@@ -1473,7 +1508,7 @@
    "id": "n7",
    "title": "Gift ideas",
    "updated": "2026-09-17T22:00",
-   "body": "Mom 65: photo book with Lena.\nMei 35: group Northfold gift card for Patagonia (Jess's idea). Cake from Crumb Theory.\nDaniel, Christmas: ceramics class for two? Good drafting pencils? Last year was the Northfold down jacket.\nLeo: dinosaur headlamp.\nLucia holiday tip in December: $150, split with Daniel."
+   "body": "Mom 65: photo book with Lena (joint), plus something from me.\nMei 35: group Northfold gift card for Patagonia (Jess's idea). Cake from Crumb Theory.\nDaniel, Christmas: ceramics class for two? Good drafting pencils? Last year was the Northfold down jacket.\nLeo: dinosaur headlamp.\nLucia holiday tip in December: $150, split with Daniel."
   },
   {
    "id": "n8",
@@ -1484,7 +1519,7 @@
   {
    "id": "n9",
    "title": "Lease renewal - think",
-   "updated": "2026-09-29T21:00",
+   "updated": "2026-09-28T21:45",
    "body": "Offer: 12 months at $4,429 (+$229, 5.5%) or month-to-month at $4,730. Answer by 11/15.\n12 months = $2,214.50 each, up $114.50.\nMonth-to-month = $2,365 each. No.\nGood: sink finally getting fixed, parking spot #3, 15 min bike to work.\nAsk Kevin: 2% if we sign for 18 months? Bathroom fan fixed before we sign.\nTalk to Daniel this weekend."
   },
   {
@@ -1521,7 +1556,7 @@
    "id": "n15",
    "title": "Point Reyes 11/14 - food + packing",
    "updated": "2026-10-06T22:40",
-   "body": "Sky Camp site 7, Saturday night. Jess booked ($38 with fee, on Splitwise).\nLeave home 9:30 in the Subaru (me, Mei, Ravi). Jess meets us at Bear Valley at 1:30 after work.\n\nEverything GF so Mei can eat all of it:\nSat dinner: chicken and vegetable coconut curry, rice, corn tortillas. Tamari, not soy. Check the curry paste label.\nSun breakfast: shakshuka in the NEW pan, corn tortillas, fruit.\nSnacks: GF crackers (check label), cheese, nuts, dark chocolate, apples.\nMei only: her bread and oats in Ravi's sealed bin.\nDrinks: Jess bringing NA beer and sparkling water, I'm getting a pack of the NA hazy too. Hot cider packets. Daniel's 2 beers stay in his pack.\n\nGear: new pan + red board (Mei only), new sponge, tent, pads, my 20F bag goes to Mei, I take the old 30F. Headlamps, water filter, stove + 2 fuel cans.\nI buy food, split 5 ways on Splitwise."
+   "body": "Sky Camp site 7, Saturday night. Jess booked ($38 with fee, on Splitwise).\nLeave home 9:30 in the Subaru (me, Daniel, Mei, Ravi). Jess meets us at Bear Valley at 1:30 after work.\n\nEverything GF so Mei can eat all of it:\nSat dinner: chicken and vegetable coconut curry, rice, corn tortillas. Tamari, not soy. Check the curry paste label.\nSun breakfast: shakshuka in the NEW pan, corn tortillas, fruit.\nSnacks: GF crackers (check label), cheese, nuts, dark chocolate, apples.\nMei only: her bread and oats in Ravi's sealed bin.\nDrinks: Jess bringing NA beer and sparkling water, I'm getting a pack of the NA hazy too. Hot cider packets. Daniel's 2 beers stay in his pack.\n\nGear: new pan + red board (Mei only), new sponge, tent, pads, my 20F bag goes to Mei, I take the old 30F. Headlamps, water filter, stove + 2 fuel cans.\nI buy food, split 5 ways on Splitwise."
   },
   {
    "id": "n16",
@@ -1537,7 +1572,7 @@
   },
   {
    "id": "n18",
-   "title": "Settle up - October (for Nov 1)",
+   "title": "Settle up - October",
    "updated": "2026-10-07T12:58",
    "body": "Pacific Bay Energy, Aug 24-Sep 23 bill, autopay 10/6 (me): $112.36, D owes $56.18\nFogline, Oct (D): $65.00, I owe $32.50\nLucia Mon 10/12 (moved from 10/9) (me): $150, D owes $75\nLucia Fri 10/23 (me): $150, D owes $75\n\nNot house stuff but agreed to add:\nD's United ticket to Denver: $348.60\nD's share of Mei's gift card: $40\n\nWe'll be in Denver on the 1st, do it from Mom's. Pay rent on the portal before we leave."
   },
@@ -1583,6 +1618,14 @@
   },
   {
    "id": "c5",
+   "title": "Haircut - Bloom Hair Studio",
+   "start": "2026-10-09T16:30",
+   "end": "2026-10-09T17:15",
+   "location": "Bloom Hair Studio, 3260 22nd St",
+   "notes": "With Ana. $72. Cancellations with less than 24 hours' notice are charged in full."
+  },
+  {
+   "id": "c6",
    "title": "Tom lands SFO",
    "start": "2026-10-09T18:40",
    "end": "2026-10-09T19:30",
@@ -1590,7 +1633,7 @@
    "notes": "Daniel picking him up. Tom staying through Mon morning."
   },
   {
-   "id": "c6",
+   "id": "c7",
    "title": "Camera-ready due",
    "start": "2026-10-10T00:00",
    "end": "2026-10-10T23:59",
@@ -1598,7 +1641,15 @@
    "notes": "BioImage Computing Workshop, paper #112. 11:59 pm AoE."
   },
   {
-   "id": "c7",
+   "id": "c8",
+   "title": "Indigenous Peoples' Day",
+   "start": "2026-10-12T00:00",
+   "end": "2026-10-12T23:59",
+   "location": "",
+   "notes": "Brightwater open. Banks and post office closed."
+  },
+  {
+   "id": "c9",
    "title": "Lucia - cleaning",
    "start": "2026-10-12T11:00",
    "end": "2026-10-12T14:00",
@@ -1606,7 +1657,15 @@
    "notes": "Moved from Fri 10/9 because of the plumber. $150 Venmo. She's doing the oven."
   },
   {
-   "id": "c8",
+   "id": "c10",
+   "title": "Daniel in NYC",
+   "start": "2026-10-13T00:00",
+   "end": "2026-10-17T23:59",
+   "location": "New York, NY",
+   "notes": "Site visits and client meetings for the Gowanus library project."
+  },
+  {
+   "id": "c11",
    "title": "PT - Erin Cho",
    "start": "2026-10-13T07:30",
    "end": "2026-10-13T08:15",
@@ -1614,7 +1673,7 @@
    "notes": "Visit 4 of 6. $40 copay."
   },
   {
-   "id": "c9",
+   "id": "c12",
    "title": "Confocal - LSM 980",
    "start": "2026-10-13T13:00",
    "end": "2026-10-13T16:00",
@@ -1622,7 +1681,7 @@
    "notes": "Moved from Mon 10/12 (laser service). ZO-1 stains for abstract. CC 4410."
   },
   {
-   "id": "c10",
+   "id": "c13",
    "title": "Water off in building",
    "start": "2026-10-14T09:00",
    "end": "2026-10-14T13:00",
@@ -1630,7 +1689,7 @@
    "notes": "Riser valve. Fill kettle and pitchers the night before."
   },
   {
-   "id": "c11",
+   "id": "c14",
    "title": "Lab meeting - I'm presenting",
    "start": "2026-10-14T10:00",
    "end": "2026-10-14T11:00",
@@ -1638,39 +1697,39 @@
    "notes": "Moved for the seminar. Organoid barrier recovery data."
   },
   {
-   "id": "c12",
+   "id": "c15",
    "title": "Anniversary with Daniel",
    "start": "2026-10-17T00:00",
    "end": "2026-10-17T23:59",
    "location": "",
-   "notes": ""
+   "notes": "Six years."
   },
   {
-   "id": "c13",
+   "id": "c16",
    "title": "Jess's birthday",
    "start": "2026-10-20T00:00",
    "end": "2026-10-20T23:59",
    "location": "",
-   "notes": ""
+   "notes": "Turns 33."
   },
   {
-   "id": "c14",
+   "id": "c17",
    "title": "Portland trip",
    "start": "2026-10-22T00:00",
    "end": "2026-10-25T23:59",
    "location": "Portland, OR",
-   "notes": ""
+   "notes": "OHSU visit with the Okafor lab Thu-Fri, organoid talk Fri 10 AM. Daniel flies up Fri night. Alaska 1341 SFO 7:10 AM Thu, home Sun 5:55 PM. Hotel Vintage, 3 nights. Nadia feeding my organoids Thu-Fri."
   },
   {
-   "id": "c15",
+   "id": "c18",
    "title": "Mom's birthday",
    "start": "2026-10-25T00:00",
    "end": "2026-10-25T23:59",
    "location": "",
-   "notes": ""
+   "notes": "65th. Party Sat 10/31 in Denver."
   },
   {
-   "id": "c16",
+   "id": "c19",
    "title": "Covering Sam's cultures",
    "start": "2026-10-26T09:00",
    "end": "2026-10-28T17:00",
@@ -1678,7 +1737,7 @@
    "notes": "HEK293T passage Tue. BW-CO7 feed Mon + Wed. Sam back Thu 10/29."
   },
   {
-   "id": "c17",
+   "id": "c20",
    "title": "Dentist - cleaning",
    "start": "2026-10-29T08:00",
    "end": "2026-10-29T09:00",
@@ -1686,7 +1745,7 @@
    "notes": "Dr. Haddad. Confirmed by text."
   },
   {
-   "id": "c18",
+   "id": "c21",
    "title": "Fly to Denver - UA 2274",
    "start": "2026-10-30T08:20",
    "end": "2026-10-30T11:52",
@@ -1694,7 +1753,7 @@
    "notes": "K7QM2D. Seats 21A/21B. Times changed by United. Owen picking us up."
   },
   {
-   "id": "c19",
+   "id": "c22",
    "title": "Mom's 65th - Ember & Vine",
    "start": "2026-10-31T18:30",
    "end": "2026-10-31T21:30",
@@ -1702,7 +1761,7 @@
    "notes": "Garden Room. Salmon x2. Bring the card and Leo's candy."
   },
   {
-   "id": "c20",
+   "id": "c23",
    "title": "Rent + settle up",
    "start": "2026-11-01T09:00",
    "end": "2026-11-01T09:30",
@@ -1710,7 +1769,7 @@
    "notes": "Pay rent on the portal. Settle up with Daniel, including his $348.60 flight and $40 gift card."
   },
   {
-   "id": "c21",
+   "id": "c24",
    "title": "Fly home - UA 1839",
    "start": "2026-11-02T18:15",
    "end": "2026-11-02T20:02",
@@ -1718,7 +1777,7 @@
    "notes": "K7QM2D. Seats 18E/18F."
   },
   {
-   "id": "c22",
+   "id": "c25",
    "title": "Mei's 35th - dinner at Mei and Ravi's",
    "start": "2026-11-07T19:30",
    "end": "2026-11-07T22:00",
@@ -1726,7 +1785,7 @@
    "notes": "Small get-together, 6 of us. Get there at 7:15. Pick up cake at Crumb Theory 2-5."
   },
   {
-   "id": "c23",
+   "id": "c26",
    "title": "Point Reyes - Sky Camp site 7",
    "start": "2026-11-14T09:30",
    "end": "2026-11-15T15:00",

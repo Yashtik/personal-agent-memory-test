@@ -186,7 +186,7 @@
    "to": "me",
    "date": "2026-08-31T16:44",
    "subject": "New message from Dr. Patel",
-   "body": "Hi Tomás,\n\nYour wrist X-rays came back normal, no fracture or arthritis. This fits with tendinitis from repetitive strain. Keep the brace on while you're working, take naproxen 500 mg twice a day with food for up to 10 days, then only as needed. If it isn't better in 4 weeks, message us and I'll send a PT referral.\n\nDr. Patel",
+   "body": "Hi Tomás,\n\nYour wrist X-rays came back normal, no fracture or arthritis. This fits with tendinitis from repetitive strain. Keep the brace on while you're working, take naproxen 500 mg twice a day with food for up to 10 days, then only as needed. If it isn't better in 4 weeks, message us and I'll send a PT referral.\n\nOne more thing: the rough pink spot on your left forearm that we looked at is an actinic keratosis, which is early sun damage. Nothing urgent, but I want you using EltaMD UV Clear SPF 46 every morning on your face and forearms, and I'd like to recheck the spot in about 6 weeks.\n\nDr. Patel",
    "unread": false
   },
   {
@@ -209,6 +209,15 @@
   },
   {
    "id": "e9",
+   "from": "me",
+   "to": "Owen Brandt <owen@kilncoffee.com>",
+   "date": "2026-09-11T16:20",
+   "subject": "Invoice TA-2026-017 - packaging refresh deposit",
+   "body": "Hi Owen,\n\nAttached is invoice TA-2026-017 for the 50% deposit on the packaging refresh.\n\nAmount: $3,200.00\nDue: on receipt\n\nPayment details are on the invoice. Thanks!\n\nTomás\nTomás Alvarez Design",
+   "unread": false
+  },
+  {
+   "id": "e10",
    "from": "Hill Country Credit Union <alerts@hillcountrycu.org>",
    "to": "me",
    "date": "2026-09-14T08:55",
@@ -217,7 +226,7 @@
    "unread": false
   },
   {
-   "id": "e10",
+   "id": "e11",
    "from": "me",
    "to": "Owen Brandt <owen@kilncoffee.com>",
    "date": "2026-09-16T17:05",
@@ -226,7 +235,7 @@
    "unread": false
   },
   {
-   "id": "e11",
+   "id": "e12",
    "from": "Lone Star Health Plan <eob@lonestarhealthplan.com>",
    "to": "me",
    "date": "2026-09-18T06:10",
@@ -235,16 +244,16 @@
    "unread": false
   },
   {
-   "id": "e12",
+   "id": "e13",
    "from": "Mara Quinn <mara.quinn@fennelandco.com>",
    "to": "me",
    "date": "2026-09-18T11:47",
    "subject": "Re: Third revision round",
-   "body": "Hi Tomás,\n\nApproved, please go ahead with a third revision round at the $450 you quoted. Consider this an amendment to the contract.\n\nThanks,\nMara\n\nMara Quinn\nBrand Manager, Fennel & Co\n2400 E César Chávez St, Suite 300, Austin TX 78702",
+   "body": "Hi Tomás,\n\nApproved, please go ahead with a third revision round at the $450 you quoted. Consider this an amendment to the contract.\n\nOps wants one more pass on everything before the Burnet reopening, so I'd rather have it lined up now than scramble in October.\n\nThanks,\nMara\n\nMara Quinn\nBrand Manager, Fennel & Co\n2400 E César Chávez St, Suite 300, Austin TX 78702\n\nOn Wed, Sep 16, 2026 at 4:12 PM Tomás Alvarez <tomas@tomasalvarez.design> wrote:\n> Hi Mara,\n>\n> Following up on our call. The contract covers two revision rounds. If ops wants a third pass after round 2, I can do one more round for $450. Just let me know in writing.\n>\n> Tomás",
    "unread": false
   },
   {
-   "id": "e13",
+   "id": "e14",
    "from": "Fennel & Co <hello@fennelandco.com>",
    "to": "me",
    "date": "2026-09-21T07:30",
@@ -253,7 +262,7 @@
    "unread": false
   },
   {
-   "id": "e14",
+   "id": "e15",
    "from": "Southwest Airlines <southwestairlines@ifly.southwest.com>",
    "to": "me",
    "date": "2026-09-22T08:52",
@@ -262,7 +271,7 @@
    "unread": false
   },
   {
-   "id": "e15",
+   "id": "e16",
    "from": "Tessa Lund <accounts@kilncoffee.com>",
    "to": "me",
    "date": "2026-09-25T15:30",
@@ -271,16 +280,16 @@
    "unread": false
   },
   {
-   "id": "e16",
+   "id": "e17",
    "from": "Austin Energy <billing@austinenergy-notices.com>",
    "to": "me",
    "date": "2026-09-28T05:40",
    "subject": "Your bill is ready - account ending 7712",
-   "body": "Service address: 1807 Holly St, Unit 2\nBilling period: 08/26/2026 - 09/24/2026\n\nElectric (812 kWh): $84.19\nWater and wastewater: $18.07\nTrash and recycling: $10.20\n\nTotal due: $112.46\nAutopay scheduled: 10/20/2026 from checking ending 6618\n\nLast month: $134.80",
+   "body": "Service address: 1807 Holly St, Unit 2\nBilling period: 08/26/2026 - 09/24/2026\n\nElectric (775 kWh): $80.33\nWater and wastewater: $18.07\nTrash and recycling: $10.20\n\nTotal due: $108.60\nAutopay scheduled: 10/20/2026 from checking ending 6618\n\nLast month: $134.80",
    "unread": false
   },
   {
-   "id": "e17",
+   "id": "e18",
    "from": "Mara Quinn <mara.quinn@fennelandco.com>",
    "to": "me",
    "date": "2026-09-28T09:41",
@@ -289,7 +298,7 @@
    "unread": false
   },
   {
-   "id": "e18",
+   "id": "e19",
    "from": "Patel Family Medicine Billing <billing@patelfamilymed.com>",
    "to": "me",
    "date": "2026-09-29T07:30",
@@ -298,7 +307,7 @@
    "unread": false
   },
   {
-   "id": "e19",
+   "id": "e20",
    "from": "Cedar Street Pharmacy <rx@cedarstreetrx.com>",
    "to": "me",
    "date": "2026-09-30T08:15",
@@ -307,7 +316,7 @@
    "unread": false
   },
   {
-   "id": "e20",
+   "id": "e21",
    "from": "AIGA Austin <membership@aigaaustin.org>",
    "to": "me",
    "date": "2026-09-30T09:00",
@@ -316,7 +325,7 @@
    "unread": false
   },
   {
-   "id": "e21",
+   "id": "e22",
    "from": "Travis County Tax Office <noreply@traviscountytax.org>",
    "to": "me",
    "date": "2026-10-01T06:00",
@@ -325,7 +334,7 @@
    "unread": false
   },
   {
-   "id": "e22",
+   "id": "e23",
    "from": "Brennan Property Management <residents@brennanpm.com>",
    "to": "me",
    "date": "2026-10-01T07:14",
@@ -334,7 +343,7 @@
    "unread": false
   },
   {
-   "id": "e23",
+   "id": "e24",
    "from": "AIGA Austin <hello@aigaaustin.org>",
    "to": "me",
    "date": "2026-10-01T08:00",
@@ -343,7 +352,7 @@
    "unread": false
   },
   {
-   "id": "e24",
+   "id": "e25",
    "from": "Hill Country Credit Union <alerts@hillcountrycu.org>",
    "to": "me",
    "date": "2026-10-01T09:03",
@@ -352,7 +361,7 @@
    "unread": false
   },
   {
-   "id": "e25",
+   "id": "e26",
    "from": "Austin Public Library <rooms@austinlibrary.org>",
    "to": "me",
    "date": "2026-10-01T15:48",
@@ -361,7 +370,7 @@
    "unread": false
   },
   {
-   "id": "e26",
+   "id": "e27",
    "from": "Lone Star Health Plan <referrals@lonestarhealthplan.com>",
    "to": "me",
    "date": "2026-10-02T11:26",
@@ -370,7 +379,7 @@
    "unread": false
   },
   {
-   "id": "e27",
+   "id": "e28",
    "from": "Hill Country Credit Union <alerts@hillcountrycu.org>",
    "to": "me",
    "date": "2026-10-02T18:12",
@@ -379,7 +388,7 @@
    "unread": false
   },
   {
-   "id": "e28",
+   "id": "e29",
    "from": "Austin Public Library <notices@austinlibrary.org>",
    "to": "me",
    "date": "2026-10-03T07:05",
@@ -388,7 +397,7 @@
    "unread": false
   },
   {
-   "id": "e29",
+   "id": "e30",
    "from": "Hill Country Credit Union <alerts@hillcountrycu.org>",
    "to": "me",
    "date": "2026-10-03T12:47",
@@ -397,7 +406,7 @@
    "unread": false
   },
   {
-   "id": "e30",
+   "id": "e31",
    "from": "Priya Shah <priya.shah@aigaaustin.org>",
    "to": "me",
    "date": "2026-10-03T14:22",
@@ -406,7 +415,7 @@
    "unread": false
   },
   {
-   "id": "e31",
+   "id": "e32",
    "from": "Hill Country Credit Union <alerts@hillcountrycu.org>",
    "to": "me",
    "date": "2026-10-04T10:31",
@@ -415,7 +424,7 @@
    "unread": false
   },
   {
-   "id": "e32",
+   "id": "e33",
    "from": "Nora Feld <nora@brightsidestudio.com>",
    "to": "me",
    "date": "2026-10-04T15:36",
@@ -424,7 +433,7 @@
    "unread": false
   },
   {
-   "id": "e33",
+   "id": "e34",
    "from": "Mercado Verde <orders@mercadoverde.com>",
    "to": "me",
    "date": "2026-10-04T17:48",
@@ -433,7 +442,7 @@
    "unread": false
   },
   {
-   "id": "e34",
+   "id": "e35",
    "from": "Brennan Property Management <maintenance@brennanpm.com>",
    "to": "me",
    "date": "2026-10-05T11:30",
@@ -442,7 +451,7 @@
    "unread": false
   },
   {
-   "id": "e35",
+   "id": "e36",
    "from": "Motion Physical Therapy <frontdesk@motionptatx.com>",
    "to": "me",
    "date": "2026-10-05T13:15",
@@ -451,7 +460,7 @@
    "unread": false
   },
   {
-   "id": "e36",
+   "id": "e37",
    "from": "Owen Brandt <owen@kilncoffee.com>",
    "to": "me",
    "date": "2026-10-05T16:02",
@@ -460,7 +469,7 @@
    "unread": false
   },
   {
-   "id": "e37",
+   "id": "e38",
    "from": "Hill Country Credit Union <alerts@hillcountrycu.org>",
    "to": "me",
    "date": "2026-10-05T19:20",
@@ -469,7 +478,7 @@
    "unread": false
   },
   {
-   "id": "e38",
+   "id": "e39",
    "from": "Austin Public Library <notices@austinlibrary.org>",
    "to": "me",
    "date": "2026-10-06T07:02",
@@ -478,7 +487,7 @@
    "unread": false
   },
   {
-   "id": "e39",
+   "id": "e40",
    "from": "Patel Family Medicine <noreply@patelfamilymed.com>",
    "to": "me",
    "date": "2026-10-06T10:00",
@@ -487,7 +496,25 @@
    "unread": false
   },
   {
-   "id": "e40",
+   "id": "e41",
+   "from": "me",
+   "to": "Mara Quinn <mara.quinn@fennelandco.com>",
+   "date": "2026-10-06T12:28",
+   "subject": "Round 2 deck - PDF",
+   "body": "Hi Mara,\n\nAttached is the round 2 deck as a PDF for Wes. It's 14 MB, so I also put it in the shared Fennel Dropbox folder in case the attachment bounces.\n\nTomás\nTomás Alvarez Design",
+   "unread": false
+  },
+  {
+   "id": "e42",
+   "from": "Hill Country Credit Union <alerts@hillcountrycu.org>",
+   "to": "me",
+   "date": "2026-10-06T21:14",
+   "subject": "You received $54.30 with Zelle",
+   "body": "KEI TANAKA sent you $54.30 with Zelle.\nMemo: electric sept\nDeposited to: Checking ending 6618\nDate: 10/06/2026",
+   "unread": false
+  },
+  {
+   "id": "e43",
    "from": "Nora Feld <nora@norafeld.com>",
    "to": "me",
    "date": "2026-10-06T21:40",
@@ -496,7 +523,7 @@
    "unread": false
   },
   {
-   "id": "e41",
+   "id": "e44",
    "from": "Mara Quinn <mara.quinn@fennelandco.com>",
    "to": "me",
    "date": "2026-10-07T14:18",
@@ -505,7 +532,7 @@
    "unread": false
   },
   {
-   "id": "e42",
+   "id": "e45",
    "from": "Owen Brandt <owen@kilncoffee.com>",
    "to": "me",
    "date": "2026-10-07T17:55",
@@ -899,6 +926,11 @@
      "from": "me",
      "date": "2026-10-06T12:30",
      "body": "Just sent it, 14 MB so check your Dropbox link if the attachment bounces"
+    },
+    {
+     "from": "Mara Quinn",
+     "date": "2026-10-06T12:34",
+     "body": "Got it, thanks. See you at SoCo Tue the 13th at 9"
     }
    ]
   },
@@ -1025,7 +1057,7 @@
     {
      "from": "Lucía Alvarez",
      "date": "2026-09-22T09:20",
-     "body": "Yay. I have work Friday until 1 so take the Orange Line to me? Key is with the downstairs neighbor, Mrs. Kowalski"
+     "body": "Yay. Friday the 30th I'm at work until 1 so take the Orange Line to me? Key is with the downstairs neighbor, Mrs. Kowalski"
     },
     {
      "from": "me",
@@ -1044,8 +1076,18 @@
     },
     {
      "from": "Lucía Alvarez",
+     "date": "2026-09-28T21:18",
+     "body": "I know you're already coming for Ben's the weekend after, but I want you at mine too 🥺"
+    },
+    {
+     "from": "Lucía Alvarez",
      "date": "2026-09-29T12:41",
      "body": "if you come in Friday land after 8pm pls, I'm at work til 7 and I want to be the one picking you up"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-29T13:10",
+     "body": "Let me look at my October and I'll get back to you"
     }
    ]
   },
@@ -1228,6 +1270,11 @@
      "body": "Same. I can do Venmo or Zelle"
     },
     {
+     "from": "Leo Castillo",
+     "date": "2026-10-05T20:33",
+     "body": "In. Zelle for me too, might be 10 min late"
+    },
+    {
      "from": "me",
      "date": "2026-10-05T20:40",
      "body": "If it lands around 360 with tip that's 72 each. I'll post the real total after"
@@ -1330,44 +1377,44 @@
   {
    "id": "n3",
    "title": "Holly St house stuff",
-   "updated": "2026-09-03T22:40",
-   "body": "Rent $2,150. I pay Brennan on the 1st through the portal, Kei Zelles me $1,075 (his paycheck lands on the 2nd, that's fine).\nAustin Energy is in my name, Google Fiber in Kei's. End of month whoever paid more gets half the difference.\nShared staples (eggs, rice, oil, TP, oat milk): take turns ordering Mercado Verde. Everything else is your own shelf.\nMiso: Kei feeds 7 AM and 6 PM. When he's away I do it, half a can + 1/4 cup dry. Litter every other day.\nKei's standups 9:30-9:45 weekdays, no blender then. My client calls go on the fridge whiteboard.\nOvernight guests: heads up a few days before. Couch is fine.\nTrash Tuesday night, recycling every other Tuesday (green week).\nSpare key: lockbox by the side gate, code 0612. Hana has the other one."
+   "updated": "2026-09-30T21:10",
+   "body": "Rent $2,150. I pay Brennan on the 1st through the portal, Kei Zelles me $1,075 (his paycheck lands on the 2nd, that's fine).\nAustin Energy is in my name, Google Fiber in Kei's ($70/mo). End of month whoever paid more gets half the difference.\n9/30: switched to something simpler. Whoever has the bill in their name pays it, the other one Zelles half of that bill once it posts.\nShared staples (eggs, rice, oil, TP, oat milk): take turns ordering Mercado Verde. Everything else is your own shelf.\nMiso: Kei feeds 7 AM and 6 PM. When he's away I do it, half a can + 1/4 cup dry. Litter every other day.\nKei's standups 9:30-9:45 weekdays, no blender then. My client calls go on the fridge whiteboard.\nOvernight guests: heads up a few days before. Couch is fine.\nTrash Tuesday night, recycling every other Tuesday (green week).\nSpare key: lockbox by the side gate, code 0612. Hana has the other one."
   },
   {
    "id": "n4",
    "title": "Money - October",
    "updated": "2026-10-03T13:00",
-   "body": "Coming in:\n- Fennel & Co $3,500 when round 2 is approved (invoice as soon as Mara confirms in writing)\n- Fennel & Co $3,500 on final files (10/23)\n- Kiln $3,200 on print-ready files\n- Kei $1,075 rent (got it 10/2), $21.23 shower curtain + filters (got it 10/3)\n\nGoing out:\n- Rent $2,150 (paid 10/1)\n- Austin Energy $112.46 autopay 10/20\n- Dad, car insurance $94 (paid 10/1)\n- Eastside Climbing $79, Adobe $59.99\n- Nora $650 second half for Kiln copy\n- Patel Family Medicine $68 by 10/29\n- AIGA renewal $150 by 11/15\n- Car registration $83.25 by 11/30\n- Q4 estimated tax $2,400 by 1/15, Gwen might raise it"
+   "body": "Coming in:\n- Fennel & Co $3,500 when round 2 is approved (invoice as soon as Mara confirms in writing)\n- Fennel & Co $3,500 on final files (10/23)\n- Kiln $3,200 on print-ready files\n- Kei $1,075 rent (got it 10/2), $21.23 shower curtain + filters (got it 10/3)\n\nGoing out:\n- Rent $2,150 (paid 10/1)\n- Austin Energy $108.60 autopay 10/20\n- Dad, car insurance $94 (paid 10/1)\n- Eastside Climbing $79, Adobe $59.99\n- Nora $650 second half for Kiln copy\n- Patel Family Medicine $68 by 10/29\n- AIGA renewal $150 by 11/15\n- Car registration $83.25 by 11/30\n- Q4 estimated tax $2,400 by 1/15, Gwen might raise it"
   },
   {
    "id": "n5",
    "title": "Chicago - Ben's birthday",
    "updated": "2026-10-04T11:05",
-   "body": "Fly Fri 10/30 SW 1418, AUS 7:05 to MDW 9:40. Back Mon 11/2 SW 2263, MDW 6:15 to AUS 9:05. Conf Q7XK2M.\nLucía works till 1 Friday. Orange Line from Midway, transfer to Blue at Clark/Lake, get off at Logan Square. Key with Mrs. Kowalski downstairs.\nDinner Sat at Marisol Cocina, 2524 N Milwaukee. 12 people, Ben organizing, everyone pays their own.\nHalloween party after, need a costume. Ask Kei if I can borrow the jumpsuit.\nGift: framed print of the Logan Square poster I made her. Frame at Blue Bonnet Frame Shop, $65, ready 10/24.\nAsk Kei to water the plants. Miso is his problem."
+   "body": "Fly Fri 10/30 SW 1418, AUS 7:05 to MDW 9:40. Back Mon 11/2 SW 2263, MDW 6:15 to AUS 9:05. Conf Q7XK2M.\nLucía works till 1 on Fri 10/30. Orange Line from Midway, transfer to Blue at Clark/Lake, get off at Logan Square. Key with Mrs. Kowalski downstairs.\nDinner Sat at Marisol Cocina, 2524 N Milwaukee. 12 people, Ben organizing, everyone pays their own.\nHalloween party after, need a costume. Ask Kei if I can borrow the jumpsuit.\nGift: framed print of the Logan Square poster I made him. Frame at Blue Bonnet Frame Shop, $65, ready 10/24.\nAsk Kei to water the plants. Miso is his problem."
   },
   {
    "id": "n6",
-   "title": "Portfolio review night notes",
-   "updated": "2026-10-04T22:10",
-   "body": "What I tell students every year:\n- Lead with your 3 best projects, not chronological.\n- Show the process for one project, not all of them.\n- Say what the brief was in one sentence before you show anything.\n- Real client work > class projects, even if it's small (menus, band posters).\n- Cut anything you have to apologize for.\n- PDF under 15 MB, name it firstname-lastname-portfolio.pdf.\n\nStudents: Jenna Cho (Texas State) first at 6:30, then Marco Villanueva (ACC), then Aaliyah Brooks (UT).\nNora picking me up 5:20."
-  },
-  {
-   "id": "n7",
    "title": "Dr. Patel 10/20",
    "updated": "2026-10-05T21:30",
    "body": "Wrist: better with the brace but still aches after long Figma days. Took naproxen most days last week, trying to cut back. PT eval 10/22 at Motion.\nCedar fever was bad last January, ask about starting something in December.\nSleep 6.5-7 hrs. Coffee 3 cups a day (Kiln samples, not helping).\nTetanus booster: last one 2015? Check.\nFlu shot at the visit.\nMom wants me to ask about cholesterol since Dad's was high.\nPay the $68 from the 8/28 visit before 10/29, EOB matches."
   },
   {
-   "id": "n8",
+   "id": "n7",
    "title": "Kiln Coffee packaging",
    "updated": "2026-10-06T09:20",
-   "body": "Owen Brandt, co-founder. Billing to Tessa (accounts@kilncoffee.com), cc Owen. They pay on the 10th and 25th.\n\nScope: 4 single origins + Firebox blend, 12 oz and 2 lb bags. Front, back, brew guide, sticker for tins.\nFee: $6,400. $3,200 deposit (paid 9/25, TA-2026-017), $3,200 on print-ready files.\nOne round of revisions after proofs, then print. Anything new (cold brew cans Owen keeps mentioning) is a separate quote.\n\nNora writes copy, $1,300 out of my fee. Paid her $650 on 10/4, other $650 when we deliver.\n\nDates: proof review Fri 10/9, final art to Pinnacle 10/20, press check Tue 10/27 9 AM in San Marcos.\n12 oz back panel is 4.25 in now, not 4.5."
+   "body": "Owen Brandt, co-founder. Kiln is a wholesale roaster (restaurants, offices, Central Market), plus retail bags. Billing to Tessa (accounts@kilncoffee.com), cc Owen. They pay on the 10th and 25th.\n\nScope: 4 single origins + Firebox blend, 12 oz and 2 lb bags. Front, back, brew guide, sticker for tins.\nFee: $6,400. $3,200 deposit (paid 9/25, TA-2026-017), $3,200 on print-ready files.\nOne round of revisions after proofs, then print. Anything new (cold brew cans Owen keeps mentioning) is a separate quote.\n\nNora writes copy, $1,300 out of my fee. Paid her $650 on 10/4, other $650 when we deliver.\n\nDates: proof review Fri 10/9, final art to Pinnacle 10/20, press check Tue 10/27 9 AM in San Marcos.\n12 oz back panel is 4.25 in now, not 4.5."
+  },
+  {
+   "id": "n8",
+   "title": "Portfolio review night notes",
+   "updated": "2026-10-07T08:40",
+   "body": "What I tell students every year:\n- Lead with your 3 best projects, not chronological.\n- Show the process for one project, not all of them.\n- Say what the brief was in one sentence before you show anything.\n- Real client work > class projects, even if it's small (menus, band posters).\n- Cut anything you have to apologize for.\n- PDF under 15 MB, name it firstname-lastname-portfolio.pdf.\n\nStudents: Jenna Cho (Texas State) first at 6:30, then Marco Villanueva (ACC), then Aaliyah Brooks (UT).\nNora picking me up 5:20."
   },
   {
    "id": "n9",
    "title": "Fennel round 2 changes",
    "updated": "2026-10-07T16:40",
-   "body": "From Mara's email 10/7:\n- Wordmark approved, done\n- Clay approved. Send Pantone + CMYK specs to Lena at Hartline Print by Fri 10/9\n- Lid sticker icon only, approved\n- Breakfast menu board: move seasonal panel from right to left\n- Bag: remove 'Since 2014'\n\nFinal files due 10/23. Burnet store reopens 11/9.\nAsk Mara to confirm round 2 approval in writing so I can send the $3,500 invoice."
+   "body": "From Mara's email 10/7:\n- Wordmark approved, done\n- Clay approved. Send Pantone + CMYK specs to Lena at Hartline Print by Fri 10/9\n- Lid sticker icon only, approved\n- Breakfast menu board: move seasonal panel from right to left\n- Bag: remove 'Since 2014'\n\nFinal files due 10/23. Burnet store reopens 11/9.\nAsk Mara to confirm round 2 approval in writing so I can send the $3,500 invoice. That one goes out on its own as soon as she confirms, before anything for final files."
   }
  ],
  "calendar": [
@@ -1432,7 +1479,7 @@
    "title": "Fennel & Co on-site signage walkthrough",
    "start": "2026-10-13T09:00",
    "end": "2026-10-13T12:30",
-   "location": "Fennel & Co, South Congress location",
+   "location": "Fennel & Co, South Congress location, 1918 S Congress Ave",
    "notes": "Bring printed signage mockups."
   },
   {
@@ -1653,132 +1700,139 @@
   },
   {
    "id": "x5",
+   "date": "2026-09-02T18:05",
+   "account": "Checking ending 6618",
+   "description": "ZELLE FROM KEI TANAKA",
+   "amount": 1075.0
+  },
+  {
+   "id": "x6",
    "date": "2026-09-09T14:30",
    "account": "Visa ending 3092",
    "description": "OVENLY KITCHEN SUPPLY AUSTIN TX",
    "amount": -175.0
   },
   {
-   "id": "x6",
+   "id": "x7",
    "date": "2026-09-14T08:55",
    "account": "Checking ending 6618",
    "description": "ZELLE FROM LUCIA ALVAREZ",
    "amount": 87.5
   },
   {
-   "id": "x7",
+   "id": "x8",
    "date": "2026-09-15T16:20",
    "account": "Checking ending 6618",
    "description": "IRS USATAXPYMT",
    "amount": -2400.0
   },
   {
-   "id": "x8",
+   "id": "x9",
    "date": "2026-09-21T05:00",
    "account": "Checking ending 6618",
    "description": "AUSTIN ENERGY AUTOPAY",
    "amount": -134.8
   },
   {
-   "id": "x9",
+   "id": "x10",
    "date": "2026-09-22T08:51",
    "account": "Visa ending 3092",
    "description": "SOUTHWEST AIRLINES 5262418833",
    "amount": -248.96
   },
   {
-   "id": "x10",
+   "id": "x11",
    "date": "2026-09-28T06:00",
    "account": "Checking ending 6618",
    "description": "ACH DEPOSIT KILN COFFEE LLC",
    "amount": 3200.0
   },
   {
-   "id": "x11",
+   "id": "x12",
    "date": "2026-09-30T18:22",
    "account": "Visa ending 3092",
    "description": "CEDAR STREET PHARMACY AUSTIN",
    "amount": -12.4
   },
   {
-   "id": "x12",
+   "id": "x13",
    "date": "2026-10-01T07:12",
    "account": "Checking ending 6618",
    "description": "BRENNAN PM ONLINE PMT",
    "amount": -2150.0
   },
   {
-   "id": "x13",
+   "id": "x14",
    "date": "2026-10-01T09:03",
    "account": "Checking ending 6618",
    "description": "ZELLE TO RAFAEL ALVAREZ",
    "amount": -94.0
   },
   {
-   "id": "x14",
+   "id": "x15",
    "date": "2026-10-02T04:30",
    "account": "Visa ending 3092",
    "description": "EASTSIDE CLIMBING CO MEMBERSHIP",
    "amount": -79.0
   },
   {
-   "id": "x15",
+   "id": "x16",
    "date": "2026-10-02T18:12",
    "account": "Checking ending 6618",
    "description": "ZELLE FROM KEI TANAKA",
    "amount": 1075.0
   },
   {
-   "id": "x16",
+   "id": "x17",
    "date": "2026-10-03T12:47",
    "account": "Checking ending 6618",
    "description": "ZELLE FROM KEI TANAKA",
    "amount": 21.23
   },
   {
-   "id": "x17",
+   "id": "x18",
    "date": "2026-10-04T08:34",
    "account": "Checking ending 6618",
    "description": "ZELLE FROM JONAH REYES",
    "amount": 40.0
   },
   {
-   "id": "x18",
+   "id": "x19",
    "date": "2026-10-04T10:31",
    "account": "Checking ending 6618",
    "description": "ZELLE TO NORA FELD",
    "amount": -650.0
   },
   {
-   "id": "x19",
+   "id": "x20",
    "date": "2026-10-04T17:44",
    "account": "Visa ending 3092",
    "description": "MERCADO VERDE DELIVERY",
    "amount": -86.42
   },
   {
-   "id": "x20",
+   "id": "x21",
    "date": "2026-10-05T19:20",
    "account": "Checking ending 6618",
    "description": "ZELLE TO DANI ORTIZ",
    "amount": -150.0
   },
   {
-   "id": "x21",
+   "id": "x22",
    "date": "2026-10-06T03:15",
    "account": "Visa ending 3092",
    "description": "ADOBE *CREATIVE CLOUD",
    "amount": -59.99
   },
   {
-   "id": "x22",
+   "id": "x23",
    "date": "2026-10-06T21:14",
    "account": "Checking ending 6618",
-   "description": "ZELLE FROM KEI TANAKA - MEMO: electric sept",
+   "description": "ZELLE FROM KEI TANAKA",
    "amount": 54.3
   },
   {
-   "id": "x23",
+   "id": "x24",
    "date": "2026-10-07T08:12",
    "account": "Visa ending 3092",
    "description": "FENNEL & CO #07 E CESAR CHAVEZ",
