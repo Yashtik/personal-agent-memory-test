@@ -1,0 +1,1975 @@
+{
+ "person": {
+  "id": "priya",
+  "name": "Priya Natarajan",
+  "line": "Priya Natarajan, 34, product manager in Seattle, mother of a three-year-old",
+  "pronoun": "she",
+  "today": "2026-10-08T09:00"
+ },
+ "contacts": [
+  {
+   "name": "Arjun Mehta",
+   "relation": "husband",
+   "email": "arjun.mehta.sea@gmail.com",
+   "phone": "(206) 555-0182"
+  },
+  {
+   "name": "Meera",
+   "relation": "daughter",
+   "email": "",
+   "phone": ""
+  },
+  {
+   "name": "Kiran Mehta",
+   "relation": "mother-in-law (Mummy)",
+   "email": "kiranmehta.pune@gmail.com",
+   "phone": "+91 98220 41736"
+  },
+  {
+   "name": "Papa",
+   "relation": "father-in-law (Ramesh Mehta)",
+   "email": "ramesh.mehta1956@gmail.com",
+   "phone": "+91 98220 41790"
+  },
+  {
+   "name": "Joshi uncle",
+   "relation": "family friend (Sudhir Joshi, Bellevue)",
+   "email": "sudhir.joshi@outlook.com",
+   "phone": "(425) 555-0139"
+  },
+  {
+   "name": "Dana Whitfield",
+   "relation": "coworker, Trellisly",
+   "email": "dana.whitfield@trellisly.com",
+   "phone": "(206) 555-0164"
+  },
+  {
+   "name": "Hana",
+   "relation": "babysitter",
+   "email": "hanak.sits@gmail.com",
+   "phone": "(206) 555-0127"
+  },
+  {
+   "name": "Lucia",
+   "relation": "babysitter",
+   "email": "lucia.o.seattle@gmail.com",
+   "phone": "(206) 555-0191"
+  },
+  {
+   "name": "Nisha Mehta",
+   "relation": "sister-in-law (Arjun's sister, Chicago)",
+   "email": "nisha.mehta.chi@gmail.com",
+   "phone": "(312) 555-0177"
+  },
+  {
+   "name": "Amma",
+   "relation": "mother (Lakshmi Natarajan, Sunnyvale)",
+   "email": "lakshmi.natarajan52@yahoo.com",
+   "phone": "(408) 555-0123"
+  },
+  {
+   "name": "Kavya Raman",
+   "relation": "friend",
+   "email": "kavya.raman@gmail.com",
+   "phone": "(206) 555-0148"
+  },
+  {
+   "name": "Sneha Iyer",
+   "relation": "friend",
+   "email": "sneha.iyer.sea@gmail.com",
+   "phone": "(206) 555-0156"
+  },
+  {
+   "name": "Jess Moreno",
+   "relation": "friend",
+   "email": "jessmoreno@fastmail.com",
+   "phone": "(206) 555-0133"
+  },
+  {
+   "name": "Rohan Raman",
+   "relation": "friend, Kavya's husband",
+   "email": "rohan.raman@gmail.com",
+   "phone": "(206) 555-0161"
+  },
+  {
+   "name": "Rachel Ostrowski",
+   "relation": "neighbor, Theo's mom",
+   "email": "rachel.ostrowski@gmail.com",
+   "phone": "(206) 555-0115"
+  },
+  {
+   "name": "Maya Chen",
+   "relation": "Puddlefern parent, Juniper's mom",
+   "email": "maya.chen.hq@gmail.com",
+   "phone": "(206) 555-0168"
+  },
+  {
+   "name": "Ben Castillo",
+   "relation": "manager, Trellisly",
+   "email": "ben.castillo@trellisly.com",
+   "phone": "(206) 555-0145"
+  },
+  {
+   "name": "Tamsin Reilly",
+   "relation": "Meera's teacher, Puddlefern Otters room",
+   "email": "treilly@puddlefernlearning.com",
+   "phone": "(206) 555-0153"
+  },
+  {
+   "name": "Cascade Pediatric Allergy",
+   "relation": "Meera's allergy clinic (Dr. Anjali Rao)",
+   "email": "frontdesk@cascadepedsallergy.com",
+   "phone": "(206) 555-0110"
+  },
+  {
+   "name": "Splash Starts Swim School",
+   "relation": "Meera's swim school (Fremont)",
+   "email": "fremont@splashstarts.com",
+   "phone": "(206) 555-0172"
+  },
+  {
+   "name": "Ravenna Corner Pharmacy",
+   "relation": "pharmacy",
+   "email": "rx@ravennacornerrx.com",
+   "phone": "(206) 555-0105"
+  },
+  {
+   "name": "Wallingford Children's Clinic",
+   "relation": "Meera's pediatrician (Dr. Paul Haddad)",
+   "email": "appointments@wallingfordkids.com",
+   "phone": "(206) 555-0187"
+  },
+  {
+   "name": "Greg Lindqvist",
+   "relation": "handyman",
+   "email": "greg@lindqvisthandyman.com",
+   "phone": "(206) 555-0119"
+  }
+ ],
+ "email": [
+  {
+   "id": "e1",
+   "from": "The Alder Hotel <stay@alderhotelpdx.com>",
+   "to": "me",
+   "date": "2025-12-28T11:24",
+   "subject": "Thanks for staying with us - folio ALD-22914",
+   "body": "Hi Priya,\n\nThanks for spending part of your holidays with us. Your final folio is below.\n\nDec 26-28, 2025 (2 nights)\nKing room with crib, 2 x $219.00: $438.00\nValet parking, 2 x $38.00: $76.00\nTaxes: $70.08\n\nTotal: $584.08\nCharged to Visa ending 3087\n\nThe Alder Hotel, 815 SW Alder St, Portland",
+   "unread": false
+  },
+  {
+   "id": "e2",
+   "from": "Staywell <bookings@staywell.com>",
+   "to": "me",
+   "date": "2026-01-20T22:03",
+   "subject": "Booking confirmed: Icicle Creek A-frame, Feb 13-16",
+   "body": "Host: Marta\nGuests: 2 adults, 1 child\nCheck-in: Fri Feb 13, 4:00 PM\nCheck-out: Mon Feb 16, 11:00 AM\nAddress: 9145 Icicle Rd, Leavenworth, WA\n\n3 nights x $245.00: $735.00\nCleaning fee: $95.00\nService fee: $118.60\nTaxes: $93.12\nTotal: $1,041.72\nCharged to Visa ending 3087\n\nFree cancellation until Feb 6. Pack-and-play and high chair provided on request.",
+   "unread": false
+  },
+  {
+   "id": "e3",
+   "from": "Cascade Pediatric Allergy Patient Portal <portal@cascadepedsallergy.com>",
+   "to": "me",
+   "date": "2026-04-22T15:10",
+   "subject": "After-visit summary: Meera Mehta, 04/22/2026",
+   "body": "Provider: Anjali Rao, MD\n\nSkin prick testing: peanut positive (wheal 9 mm). Tree nuts, sesame and egg negative.\nPlan: Continue strict peanut avoidance. Tree nuts may stay in her diet.\nEpinephrine: EpiPen Jr 0.15 mg, two pens with her at all times.\nAction plan for daycare signed today, valid through 10/31/2026.\nFollow-up: 6 months.\n\nCall (206) 555-0110 with questions.",
+   "unread": false
+  },
+  {
+   "id": "e4",
+   "from": "ParcelMart <orders@parcelmart.com>",
+   "to": "me",
+   "date": "2026-05-11T20:48",
+   "subject": "Your ParcelMart order #PM-49120-0383 is confirmed",
+   "body": "Hi Priya,\n\nThanks for your order.\n\nToddler Step Stool, two-step, gray - $21.99\nCabinet Safety Latches, 12-pack - $15.99\nKids' 2-in-1 Toilet Trainer Seat - $26.49\n\nSubtotal: $64.47\nTax: $6.67\nTotal: $71.14\nPaid with Visa ending 3087\n\nArriving Thursday, May 14.",
+   "unread": false
+  },
+  {
+   "id": "e5",
+   "from": "Puddlefern Billing <billing@puddlefernlearning.com>",
+   "to": "me, Arjun Mehta",
+   "date": "2026-07-15T10:00",
+   "subject": "2026-27 tuition agreement - Meera Mehta",
+   "body": "Hi Priya and Arjun,\n\nThank you for re-enrolling Meera in the Sprouts room for 2026-27.\n\nFull-time tuition (5 days, 8:00 AM - 6:00 PM): $2,140/month starting September 1 (up from $2,045).\nAutopay on the 1st from checking ending 6614.\nLate pickup: $15 per 15 minutes after 6:00 PM.\nOne month's written notice is required to withdraw.\n\nPlease sign the attached agreement by August 1.\n\nPuddlefern Billing",
+   "unread": false
+  },
+  {
+   "id": "e6",
+   "from": "Splash Starts Swim School <fremont@splashstarts.com>",
+   "to": "me",
+   "date": "2026-08-20T19:42",
+   "subject": "You're registered! Fall session - Guppies 2",
+   "body": "Swimmer: Meera Mehta (age 3)\nClass: Guppies 2 (parent-assisted)\nWhen: Saturdays 9:30-10:00 AM, Sept 12 - Nov 14 (10 classes)\nWhere: Splash Starts Fremont, 621 N 36th St, Seattle\nInstructor: Coach Bree\n\nFall tuition: $198.00\nPaid: Visa ending 3087\n\nMissed a class? Each swimmer gets up to 2 make-up classes per session. Book them through the front desk at least 48 hours ahead. No refunds after the second class.\n\nSee you in the water!\nSplash Starts Swim School",
+   "unread": false
+  },
+  {
+   "id": "e7",
+   "from": "Rainier Health Plan <noreply@rainierhealthplan.com>",
+   "to": "me",
+   "date": "2026-09-10T06:12",
+   "subject": "Your Explanation of Benefits is ready",
+   "body": "Member: Meera Mehta\nSubscriber: Priya Natarajan\nClaim #RH-26-0418832\n\nProvider: Cascade Pediatric Allergy\nDate of service: 04/22/2026\nOffice visit, established patient; skin prick testing (food panel)\n\nAmount billed: $310.00\nAllowed amount: $262.00\nPlan paid: $199.60\nYour responsibility: $62.40 (specialist copay $40.00 + coinsurance $22.40)\n\nThis is not a bill. Your provider may bill you for the amount you owe.",
+   "unread": false
+  },
+  {
+   "id": "e8",
+   "from": "Puddlefern Early Learning <office@puddlefernlearning.com>",
+   "to": "me",
+   "date": "2026-09-12T15:20",
+   "subject": "Meera's snack box",
+   "unread": false,
+   "body": "Hi Priya, thanks for the box of SunnyBites oat bars for Meera's cubby! We'll give her one at afternoon snack on the days she asks, and let you know when it runs low.\n\nPuddlefern Front Office"
+  },
+  {
+   "id": "e9",
+   "from": "Cascade Pediatric Allergy Billing <billing@cascadepedsallergy.com>",
+   "to": "me",
+   "date": "2026-09-15T09:40",
+   "subject": "Your statement from Cascade Pediatric Allergy",
+   "body": "Patient: Meera Mehta\nAccount #CPA-30917\nDate of service: 04/22/2026, Dr. Anjali Rao\n\nCharges: $310.00\nInsurance payment (Rainier Health Plan): -$199.60\nInsurance adjustment: -$48.00\n\nBalance due: $62.40\nDue by: 10/10/2026\n\nPay online in the patient portal or call billing at (206) 555-0110, option 3.",
+   "unread": false
+  },
+  {
+   "id": "e10",
+   "from": "Lumen Benefits <claims@lumenbenefits.com>",
+   "to": "me",
+   "date": "2026-09-17T15:22",
+   "subject": "Claim approved: Dependent Care FSA",
+   "body": "Claim DC-2026-0912\nProvider: Puddlefern Early Learning\nService: September 2026 tuition, Meera Mehta\nAmount submitted: $2,140.00\n\nPaid now: $416.67 (your available balance)\nPending: $1,723.33, paid automatically as payroll contributions post\n\nDirect deposit to checking ending 6614 on 09/18/2026.",
+   "unread": false
+  },
+  {
+   "id": "e11",
+   "from": "Cascadia Power & Light <billing@cascadiapower.com>",
+   "to": "me",
+   "date": "2026-09-18T07:20",
+   "subject": "Your bill is ready - account 4402-7719",
+   "body": "Service address: 3821 Burke Ave N, Seattle\nBilling period: Aug 14 - Sep 13, 2026\nUsage: 612 kWh\n\nAmount due: $118.47\nAutopay will draft from checking ending 6614 on 09/25/2026.",
+   "unread": false
+  },
+  {
+   "id": "e12",
+   "from": "Trellisly People Ops <people@trellisly.com>",
+   "to": "me",
+   "date": "2026-09-22T15:30",
+   "subject": "Time off approved",
+   "body": "Hi Priya,\n\nBen Castillo approved your time off request:\nFriday 10/30 - Wednesday 11/4 (4 working days, PTO)\n\nRemaining PTO balance after this request: 6.5 days.\n\nPeople Ops",
+   "unread": false
+  },
+  {
+   "id": "e13",
+   "from": "Tamsin Reilly <treilly@puddlefernlearning.com>",
+   "to": "me, Arjun Mehta",
+   "date": "2026-09-24T13:20",
+   "subject": "Meera's allergy action plan",
+   "body": "Hi Priya and Arjun,\n\nQuick heads up from our annual health file check. Meera's allergy action plan on file is signed through 10/31/2026, so we'll need a new one signed by Dr. Rao before then. The EpiPen Jr we keep in the Sprouts room expires 11/2026 as well, so if you're getting a new prescription, please send one of the new pens in and we'll send the old one home.\n\nThe blank form is attached. Thanks so much!\n\nTamsin Reilly\nLead Teacher, Sprouts Room",
+   "unread": false
+  },
+  {
+   "id": "e14",
+   "from": "Saffron & Salt <reservations@saffronandsalt.com>",
+   "to": "me",
+   "date": "2026-09-25T21:03",
+   "subject": "Reservation confirmed: Saturday, October 17, party of 8",
+   "body": "Name: Priya Natarajan\nSaturday, October 17, 2026, 7:00 PM\nParty of 8, back room\n\nPrix fixe menu: $65 per person before tax and gratuity. A 20% service charge applies to parties of 6 or more.\nDeposit: $160.00 charged to Visa ending 3087 and applied to the final bill.\n\nWe've noted: one guest celebrating a birthday, one vegetarian, one guest avoiding shellfish.\nPlease confirm your final party size by Thursday, October 15.\n\nSaffron & Salt, 1514 E Olive Way, Seattle",
+   "unread": false
+  },
+  {
+   "id": "e15",
+   "from": "ParcelMart <orders@parcelmart.com>",
+   "to": "me",
+   "date": "2026-09-27T21:06",
+   "subject": "Your ParcelMart order #PM-58213-4407 is confirmed",
+   "body": "Hi Priya,\n\nThanks for your order.\n\nKids' Rubber Rain Boots, Ladybug, toddler size 9 - $34.99\nLadybug Costume with Wings, 3T-4T - $24.99\nHumidifier Wick Filters, 2-pack - $17.49\n\nSubtotal: $77.47\nTax: $8.02\nTotal: $85.49\nPaid with Visa ending 3087\n\nArriving Wednesday, September 30.\nShipping to: Priya Natarajan, 3821 Burke Ave N, Seattle, WA 98103",
+   "unread": false
+  },
+  {
+   "id": "e16",
+   "from": "Puddlefern Early Learning <office@puddlefernlearning.com>",
+   "to": "me, Arjun Mehta",
+   "date": "2026-09-28T08:30",
+   "subject": "Fall supply list",
+   "unread": false,
+   "body": "Hello families,\n\nFall supply list for the Sprouts room:\n- 2 packs unscented baby wipes\n- 1 full change of clothes\n- 1 crib sheet\n- 1 tube of diaper cream\n- 1 refillable water bottle labeled with name\n\nThank you!\nPuddlefern Front Office"
+  },
+  {
+   "id": "e17",
+   "from": "Splash Starts Swim School <fremont@splashstarts.com>",
+   "to": "me",
+   "date": "2026-09-28T11:15",
+   "subject": "Extra lesson booked: Sun Oct 11",
+   "body": "Hi Priya,\n\nMeera's extra lesson is booked:\nSunday, October 11, 10:00-10:30 AM\nCoach Mateo, Pool B\n\nPlease arrive 10 minutes early to change.\n\nDevon\nFront Desk, Splash Starts Fremont",
+   "unread": false
+  },
+  {
+   "id": "e18",
+   "from": "Skyvara Travel <tickets@skyvaratravel.com>",
+   "to": "me",
+   "date": "2026-09-28T13:52",
+   "subject": "E-ticket confirmation SKV-884120: Mehta / Pune - Seattle",
+   "body": "Booking reference: SKV-884120\nAirline PNR: 6QJ4TR\n\nPassengers:\n1. MEHTA/KIRAN MRS\n2. MEHTA/RAMESH MR - wheelchair assistance (WCHR) requested\n\nOutbound, Saturday 3 October 2026\nIA 141 Pune (PNQ) 06:10 - Delhi (DEL) 08:20\nIA 172 Delhi (DEL) 13:40 - Seattle (SEA) 16:50\n\nReturn, Tuesday 3 November 2026\nIA 173 Seattle (SEA) 19:05 - Delhi (DEL) 00:05 on 5 Nov\nIA 148 Delhi (DEL) 06:15 - Pune (PNQ) 08:25 on 5 Nov\n\nEconomy, 2 x 23 kg checked bags per passenger\n\nFare: 2 x $1,184.00\nTaxes and fees: $118.00\nTotal: $2,486.00\nPaid: Visa ending 3087 (cardholder P NATARAJAN)\n\nTravel insurance: not purchased.\nChanges allowed up to 24 hours before departure for $150 per ticket plus any fare difference.\n\nSkyvara Travel",
+   "unread": false
+  },
+  {
+   "id": "e19",
+   "from": "Puddlefern Billing <billing@puddlefernlearning.com>",
+   "to": "me",
+   "date": "2026-09-28T16:05",
+   "subject": "Statement for October - Meera Mehta",
+   "body": "Account: Mehta / Natarajan\nChild: Meera Mehta, Sprouts room\n\nOctober tuition (full time, 5 days): $2,140.00\nLate pickup fee, 9/18 (signed out 6:12 PM): $15.00\n\nTotal due: $2,155.00\nAutopay from checking ending 6614 on 10/1.\n\nPuddlefern Billing",
+   "unread": false
+  },
+  {
+   "id": "e20",
+   "from": "Cascade Pediatric Allergy Billing <billing@cascadepedsallergy.com>",
+   "to": "me",
+   "date": "2026-09-29T20:12",
+   "subject": "Payment received - thank you",
+   "body": "We received your payment of $62.40 on 09/29/2026 for account #CPA-30917 (Meera Mehta).\nPaid with Visa ending 3087.\nRemaining balance: $0.00",
+   "unread": false
+  },
+  {
+   "id": "e21",
+   "from": "Nisha Mehta <nisha.mehta.chi@gmail.com>",
+   "to": "me, Arjun Mehta",
+   "date": "2026-09-30T16:05",
+   "subject": "Re: Mummy Papa tickets",
+   "body": "Sent $1,243 by Zelle to your joint account just now, that's half of the $2,486. I'll buy their travel insurance separately since it's cheaper through my work plan, about $186 for both, so don't add it on Skyvara.\n\nAlso we're flying in Nov 5-9 for Diwali with the kids, already booked. We'll get a hotel near Green Lake, don't worry about space.\n\nNisha",
+   "unread": false
+  },
+  {
+   "id": "e22",
+   "from": "Farah Siddiqui <farah@skyvaratravel.com>",
+   "to": "me",
+   "date": "2026-10-01T05:40",
+   "subject": "Special assistance confirmed - SKV-884120",
+   "body": "Hi Priya,\n\nIndus Air has confirmed wheelchair assistance for Mr. Ramesh Mehta at Pune, Delhi (including the transfer) and Seattle, in both directions. We have also moved both passengers to seats 31C and 31D on the Delhi-Seattle sector (aisle and middle, near the lavatory) as you asked.\n\nPlease have Mr. Mehta carry his surgeon's fitness-to-fly letter in his hand luggage.\n\nRegards,\nFarah Siddiqui\nSkyvara Travel",
+   "unread": false
+  },
+  {
+   "id": "e23",
+   "from": "Puddlefern Early Learning <office@puddlefernlearning.com>",
+   "to": "me",
+   "date": "2026-10-01T07:30",
+   "subject": "Puddlefern Pages - October 2026",
+   "body": "Hello Puddlefern families,\n\nA few dates for October and November:\n\n- Fri 10/9: CLOSED for staff training day\n- Thu 10/15: Picture day (Sprouts and Herons rooms in the morning)\n- Fri 10/23: Fall Festival and family potluck, 4:30-6:30 PM in the play yard. Puddlefern is a nut-free school, so please check labels on anything you bring.\n- Wed 11/11: CLOSED for Veterans Day\n- Thu 11/26 - Fri 11/27: CLOSED for Thanksgiving\n\nOctober tuition was drafted on 10/1. Questions about your statement go to billing@puddlefernlearning.com.\n\nA reminder that anyone picking up who isn't on your authorized list must be added in writing at least 24 hours ahead and show photo ID at first pickup.\n\nWarmly,\nJoelle Barnes\nDirector, Puddlefern Early Learning",
+   "unread": false
+  },
+  {
+   "id": "e24",
+   "from": "Cascade Pediatric Allergy <frontdesk@cascadepedsallergy.com>",
+   "to": "me",
+   "date": "2026-10-01T10:05",
+   "subject": "Preparing for skin prick testing",
+   "unread": false,
+   "body": "Hi Priya,\n\nBefore a skin prick test, stop all antihistamines, including Zyrtec, Claritin and Benadryl, for 5 days. Antihistamines block the test result.\n\nCall (206) 555-0110 with questions.\n\nCascade Pediatric Allergy"
+  },
+  {
+   "id": "e25",
+   "from": "ParcelMart <orders@parcelmart.com>",
+   "to": "me",
+   "date": "2026-10-02T13:21",
+   "subject": "Your ParcelMart order #PM-58302-1196 is confirmed",
+   "body": "Hi Priya,\n\nThanks for your order.\n\nKids' Rubber Rain Boots, Ladybug, toddler size 10 - $34.99\nPlug-in Night Light with Dusk Sensor - $7.99\n\nSubtotal: $42.98\nTax: $4.45\nTotal: $47.43\nPaid with Visa ending 3087\n\nArriving Tuesday, October 6.\nShipping to: Priya Natarajan, 3821 Burke Ave N, Seattle, WA 98103",
+   "unread": false
+  },
+  {
+   "id": "e26",
+   "from": "Cascade Pediatric Allergy Patient Portal <portal@cascadepedsallergy.com>",
+   "to": "me",
+   "date": "2026-10-02T14:25",
+   "subject": "New message from Corinne Walsh, RN",
+   "body": "Hi Priya,\n\nDr. Rao reviewed your question. Please keep Meera on Zyrtec 2.5 ml every night at bedtime for now. She'll look at the dose at the October 20 visit, since Meera turns 4 in January.\n\nWe received the Puddlefern action plan form you uploaded and Dr. Rao will sign it at the visit. If Splash Starts needs its own form, bring that too and she'll do both.\n\nThe EpiPen Jr refill was sent to Ravenna Corner Pharmacy on 9/29.\n\nCorinne Walsh, RN\nCascade Pediatric Allergy",
+   "unread": false
+  },
+  {
+   "id": "e27",
+   "from": "Splash Starts Swim School <fremont@splashstarts.com>",
+   "to": "me",
+   "date": "2026-10-02T14:40",
+   "subject": "Make-up class booked: Thu Oct 15",
+   "unread": false,
+   "body": "Hi Priya,\n\nMeera's make-up lesson for the missed Sept 24 class is booked for Thursday Oct 15 at 10:00 am, Little Dippers pool.\n\nPlease arrive 10 minutes early to change.\n\nDevon\nFront Desk, Splash Starts Fremont"
+  },
+  {
+   "id": "e28",
+   "from": "Wallingford Children's Clinic <appointments@wallingfordkids.com>",
+   "to": "me",
+   "date": "2026-10-02T16:30",
+   "subject": "Appointment confirmed: Meera Mehta, Fri Oct 16",
+   "body": "Meera Mehta has a nurse visit for her flu vaccine on Friday, October 16 at 4:15 PM.\nWallingford Children's Clinic, 2101 N 45th St, Suite 2\n\nPlease bring her insurance card. If Meera has a fever that day, call us to reschedule.\n\nWallingford Children's Clinic\n(206) 555-0187",
+   "unread": false
+  },
+  {
+   "id": "e29",
+   "from": "Sound Harbor Credit Union <alerts@soundharborcu.org>",
+   "to": "me",
+   "date": "2026-10-03T06:00",
+   "subject": "Your September statement is ready",
+   "body": "Your statement for Joint Checking ending 6614 (Sept 1 - Sept 30, 2026) is now available in online banking.\n\nBeginning balance: $8,412.36\nEnding balance: $6,980.14\n\nSound Harbor Credit Union",
+   "unread": false
+  },
+  {
+   "id": "e30",
+   "from": "Ravenna Corner Pharmacy <rx@ravennacornerrx.com>",
+   "to": "me",
+   "date": "2026-10-03T11:42",
+   "subject": "Your vaccination record - 10/03/2026",
+   "body": "Patients: Priya Natarajan, Arjun Mehta\nVaccine: Influenza (2026-2027), 0.5 mL, left deltoid\nAdministered by: Tom Ferreira, PharmD\nBilled to Rainier Health Plan. Amount paid: $0.00\n\nYour record has been sent to the Washington State Immunization Information System.\n\nRavenna Corner Pharmacy, 2209 NE 65th St",
+   "unread": false
+  },
+  {
+   "id": "e31",
+   "from": "Fremont Fresh Market <delivery@fremontfresh.com>",
+   "to": "me",
+   "date": "2026-10-04T10:20",
+   "subject": "Your delivery receipt - order 117-2209",
+   "body": "Delivered Sunday, Oct 4, 10:12 AM\n\nOrganic whole milk, 1 gal - $6.49\nToor dal, 4 lb - $8.99\nBasmati rice, 10 lb - $19.99\nGreek yogurt, 32 oz x 2 - $11.98\nBananas, 2.3 lb - $1.61\nHoneycrisp apples, 3 lb - $8.97\nChicken thighs, 2.1 lb - $12.58\nSpinach, 2 bunches - $5.98\nGoldfish crackers, 30 oz - $11.49\nSunflower seed butter, 16 oz - $6.99\nPaneer, 14 oz x 2 - $13.98\nFrozen peas, 2 lb - $3.49\n\nSubtotal: $112.54\nDelivery fee: $5.99\nBag fee: $0.40\nDriver tip: $12.00\nTotal: $130.93\nCharged to Visa ending 3087",
+   "unread": false
+  },
+  {
+   "id": "e32",
+   "from": "ParcelMart Returns <returns@parcelmart.com>",
+   "to": "me",
+   "date": "2026-10-05T06:02",
+   "subject": "Your refund for order #PM-58213-4407",
+   "body": "Hi Priya,\n\nWe've received your return.\n\nKids' Rubber Rain Boots, Ladybug, toddler size 9\nReason: Too small\nDropped off: 10/3 at the Stone Way ParcelMart Locker\n\nRefund: $38.61 ($34.99 + $3.62 tax) to Visa ending 3087. Refunds usually show up in 3-5 business days.\n\nParcelMart Returns",
+   "unread": false
+  },
+  {
+   "id": "e33",
+   "from": "Splash Starts Swim School <news@splashstarts.com>",
+   "to": "me",
+   "date": "2026-10-05T08:00",
+   "subject": "Splash Starts October news",
+   "body": "Hi swim families!\n\n- No classes Saturday, October 31: the Fremont pool is closed for fall maintenance. Saturday classes get an extra week, so the fall session now ends November 21.\n- Halloween Costume Swim: Saturday, October 24, right after your regular class. Swimsuit-friendly costumes only.\n- Winter registration opens October 26 for current families and November 2 for everyone else.\n- Swimmers with allergies or medical needs should have a current medical form on file with the front desk.\n\nSee you at the pool,\nSplash Starts Swim School",
+   "unread": true
+  },
+  {
+   "id": "e34",
+   "from": "Ben Castillo <ben.castillo@trellisly.com>",
+   "to": "product-leads@trellisly.com",
+   "date": "2026-10-05T09:10",
+   "subject": "Q4 planning offsite - Thu 10/22",
+   "body": "Team,\n\nLogistics for the Q4 planning offsite:\nThursday, October 22, 9:00 AM - 4:00 PM\nThe Foundry Room, 2201 Western Ave, Seattle\nBreakfast from 8:30, lunch catered. Let Maribel know dietary needs by 10/15.\n\nPlease come with your top three Q1 bets and one thing you'd cut. Dinner after is optional, Pike Street Tavern at 5:30, and the team budget covers it.\n\nBen",
+   "unread": false
+  },
+  {
+   "id": "e35",
+   "from": "Northlake Dental Studio <hello@northlakedentalstudio.com>",
+   "to": "me",
+   "date": "2026-10-05T11:55",
+   "subject": "See you Monday, October 26",
+   "body": "Hi Priya,\n\nThis is a reminder of your cleaning and exam with Dr. Lee Anne Park on Monday, October 26 at 8:00 AM.\nNorthlake Dental Studio, 3417 Stone Way N, Seattle\n\nYour estimated cost is $0 under Rainier Dental (preventive). X-rays are due this visit.\n\nNeed to reschedule? Call (206) 555-0140 at least 48 hours ahead.",
+   "unread": false
+  },
+  {
+   "id": "e36",
+   "from": "ParcelMart Product Safety <product-safety@parcelmart.com>",
+   "to": "me",
+   "date": "2026-10-06T07:45",
+   "subject": "SAFETY RECALL: SunnyBites Oat Bars",
+   "unread": true,
+   "body": "Hi Priya,\n\nOur records show you bought this product from ParcelMart.\n\nSunnyBites is recalling ALL flavors of SunnyBites Oat Bars purchased since Monday, August 10 because they may contain UNDECLARED PEANUT from shared equipment. Do not eat them. Throw them away or return them to any ParcelMart Locker for a full refund to your original payment method.\n\nParcelMart Product Safety"
+  },
+  {
+   "id": "e37",
+   "from": "Trellisly Benefits <benefits@trellisly.com>",
+   "to": "me",
+   "date": "2026-10-06T09:00",
+   "subject": "Open enrollment runs Nov 2-16",
+   "body": "Hi Priya,\n\nOpen enrollment for 2027 benefits runs November 2-16. If you don't make changes, your medical, dental and vision plans carry over. FSA and Dependent Care FSA elections do not carry over and must be made again.\n\n2027 Dependent Care FSA limit: $7,500 per household.\nReminder: 2026 Dependent Care FSA claims can be submitted until March 31, 2027.\n\nTrellisly Benefits",
+   "unread": true
+  },
+  {
+   "id": "e38",
+   "from": "Cascade Pediatric Allergy <frontdesk@cascadepedsallergy.com>",
+   "to": "me",
+   "date": "2026-10-06T10:58",
+   "subject": "Appointment reminder: Meera Mehta, Tue Oct 20",
+   "body": "Patient: Meera Mehta\nProvider: Anjali Rao, MD\nVisit type: Follow-up (eczema)\nDate: Tuesday, October 20, 2026 at 10:15 AM\nLocation: Cascade Pediatric Allergy, 9730 3rd Ave NE, Suite 210, Seattle\n\nPlease arrive 10 minutes early. Bring your insurance card, both of Meera's epinephrine auto-injectors, and a list of current medications. Parking is free in the garage off NE 98th St; bring your ticket to the front desk for validation.\n\nTo cancel or reschedule, call (206) 555-0110 at least 24 hours ahead. Late cancellations are charged $50.",
+   "unread": false
+  },
+  {
+   "id": "e39",
+   "from": "Dana Whitfield <dana.whitfield@trellisly.com>",
+   "to": "me",
+   "date": "2026-10-06T13:02",
+   "subject": "Friday 10/16 - Corvo call",
+   "body": "Hey,\n\nI'm taking Friday 10/16 off (my sister is moving into her new place in Tacoma). Could you cover the 11 AM vendor call with Corvo? It's just their monthly status update. I'll forward the invite and last month's notes.\n\nThank you!\nDana",
+   "unread": false
+  },
+  {
+   "id": "e40",
+   "from": "Puddlefern Family Association <pfa@puddlefernlearning.com>",
+   "to": "me",
+   "date": "2026-10-06T20:31",
+   "subject": "You signed up: Fall Festival potluck",
+   "body": "Thanks, Priya! You're signed up to bring:\nFruit platter (serves 15)\n\nFall Festival: Friday 10/23, 4:30-6:30 PM, Puddlefern play yard\n\nReminder: Puddlefern is nut-free. Store-bought items should stay in their original packaging with the label; homemade dishes need an ingredient card. The Sprouts room has 2 children with peanut allergies and 1 with an egg allergy.\n\nPuddlefern Family Association",
+   "unread": false
+  },
+  {
+   "id": "e41",
+   "from": "Northbeam Internet <billing@northbeam.net>",
+   "to": "me",
+   "date": "2026-10-07T02:10",
+   "subject": "Your Northbeam bill and a price change",
+   "body": "Hi Priya,\n\nWe charged $79.99 for Fiber 500 to Visa ending 3087 on 10/07.\n\nStarting with your November bill, Fiber 500 will be $84.99/month. You can switch to Fiber 300 at $69.99/month any time in your account.\n\nNorthbeam Internet",
+   "unread": true
+  },
+  {
+   "id": "e42",
+   "from": "ParcelMart <membership@parcelmart.com>",
+   "to": "me",
+   "date": "2026-10-07T07:15",
+   "subject": "Your ParcelMart Plus membership renews October 21",
+   "body": "Hi Priya,\n\nYour annual ParcelMart Plus membership renews on 10/21/2026 for $59.00, charged to Visa ending 3087.\n\nThis year you saved $41.80 in delivery fees across 23 orders.\n\nTo cancel or switch to monthly ($6.99/month), go to Account > Memberships before the renewal date.",
+   "unread": true
+  },
+  {
+   "id": "e43",
+   "from": "Puddlefern Early Learning <office@puddlefernlearning.com>",
+   "to": "me",
+   "date": "2026-10-07T14:10",
+   "subject": "Authorized pickup updated - Meera Mehta",
+   "body": "Hi Priya,\n\nWe've added the following to Meera's authorized pickup list, effective 10/8/2026 through 11/3/2026:\n- Kiran Mehta (grandmother)\n- Ramesh Mehta (grandfather)\n\nAlready on the list: Priya Natarajan, Arjun Mehta, Rachel Ostrowski, and your sitters Hana and Lucia.\n\nEach new person needs to show photo ID (a passport is fine) the first time they pick up. Pickup ends at 6:00 PM; the late fee is $15 for each 15 minutes after.\n\nPuddlefern Front Office",
+   "unread": false
+  },
+  {
+   "id": "e44",
+   "from": "Office of the CEO <ceo-office@trellisly.com>",
+   "to": "leadership@trellisly.com",
+   "date": "2026-10-07T15:30",
+   "subject": "Leadership dinner, Thu 10/22: new start time",
+   "unread": false,
+   "body": "Hello all,\n\nThe leadership dinner on Thursday Oct 22 now starts at 7:30 pm instead of 6:00 pm. Same venue.\n\nThank you,\nOffice of the CEO"
+  },
+  {
+   "id": "e45",
+   "from": "Dana Whitfield <dana.whitfield@trellisly.com>",
+   "to": "me",
+   "date": "2026-10-07T16:48",
+   "subject": "Tuesday roadmap review - prep",
+   "body": "Hi Priya,\n\nFor Tuesday's roadmap review (10/13, 8:30), can you bring the Q4 capacity numbers for the Payments squad? Ben wants to see whether the invoice export work fits before code freeze on 12/11. I'll have the dependency map updated by Monday afternoon.\n\nAlso, since you're out 11/3, I'll run that week's review and send you notes.\n\nThanks,\nDana",
+   "unread": false
+  },
+  {
+   "id": "e46",
+   "from": "Dana Whitfield <dana.whitfield@trellisly.com>",
+   "to": "roadmap-review@trellisly.com",
+   "date": "2026-10-07T18:22",
+   "subject": "Roadmap review moving to Thu 10/15",
+   "unread": false,
+   "body": "Hi all, I'm moving next week's roadmap review from Tuesday Oct 13 to Thursday Oct 15, same time. Back to Tuesdays after that.\n\nDana"
+  }
+ ],
+ "texts": [
+  {
+   "id": "t1",
+   "with": "Arjun Mehta",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Arjun Mehta",
+     "date": "2026-09-17T12:10",
+     "body": "Mummy and Papa are staying with us from Oct 3 to Nov 3. I told them we'd do a big family dinner out on Saturday Oct 10 while they're here"
+    },
+    {
+     "from": "Arjun Mehta",
+     "date": "2026-09-18T08:05",
+     "body": "Meera worked out how to open the hallway drawer, so I moved the spare EpiPen into the basket on top of the fridge"
+    },
+    {
+     "from": "Arjun Mehta",
+     "date": "2026-10-06T16:02",
+     "body": "Can you get her today? My 4:30 is running over"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T16:04",
+     "body": "Yes, leaving at 5:15"
+    },
+    {
+     "from": "Arjun Mehta",
+     "date": "2026-10-06T16:05",
+     "body": "Thanks. Sunday swim lesson is at 10 right? I'll take her"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T16:07",
+     "body": "10:00 with Coach Mateo, pool B. Take the blue swim bag, her towel is already in it"
+    },
+    {
+     "from": "Arjun Mehta",
+     "date": "2026-10-07T12:30",
+     "body": "Mummy called. Papa's doing better after physio. I'll book his next sessions tonight"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T12:41",
+     "body": "Ok. Also Nisha's Zelle came through last week, $1,243"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-08T07:50",
+     "body": "Reminder Puddlefern is closed tomorrow. Hana is 8:30-4:15, you take over after"
+    },
+    {
+     "from": "Arjun Mehta",
+     "date": "2026-10-08T07:52",
+     "body": "Yep, it's on my calendar. Blocked the afternoon"
+    }
+   ]
+  },
+  {
+   "id": "t2",
+   "with": "Puddlefern Early Learning",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Puddlefern Early Learning",
+     "date": "2026-09-18T18:14",
+     "body": "Puddlefern: Meera was signed out at 6:12 PM by Priya Natarajan. A $15 late pickup fee applies."
+    },
+    {
+     "from": "Puddlefern Early Learning",
+     "date": "2026-10-07T12:00",
+     "body": "Puddlefern: Reminder - we are CLOSED Friday 10/9 for staff training. See you Monday 10/12!"
+    }
+   ]
+  },
+  {
+   "id": "t3",
+   "with": "Greg Lindqvist",
+   "unread": false,
+   "messages": [
+    {
+     "from": "me",
+     "date": "2026-09-22T18:30",
+     "body": "Hi Greg, it's Priya on Burke Ave. The side gate latch is broken again and the downspout by the back steps came loose. Any chance this week?"
+    },
+    {
+     "from": "Greg Lindqvist",
+     "date": "2026-09-22T19:02",
+     "body": "Can do Saturday 9/26 around 1. Latch is probably $30-40 in parts. Labor $95/hr, maybe an hour"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-22T19:05",
+     "body": "Saturday works. I'll leave the side gate open"
+    },
+    {
+     "from": "Greg Lindqvist",
+     "date": "2026-09-26T14:20",
+     "body": "All done. New latch $38 + 1 hr = $133. Downspout just needed a strap, no charge. Venmo is fine"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-26T14:30",
+     "body": "Sent $140, keep the change. Thanks Greg!"
+    }
+   ]
+  },
+  {
+   "id": "t4",
+   "with": "Sneha Iyer, Jess Moreno, Rohan Raman",
+   "unread": false,
+   "messages": [
+    {
+     "from": "me",
+     "date": "2026-09-25T21:00",
+     "body": "Booked Saffron & Salt for Sat 10/17, 7pm, back room for 8. I put down the $160 deposit. That's $20 each for the 7 of us (Kavya's on us)"
+    },
+    {
+     "from": "Sneha Iyer",
+     "date": "2026-09-25T21:05",
+     "body": "Amazing. Venmo-ing you now"
+    },
+    {
+     "from": "Jess Moreno",
+     "date": "2026-09-25T21:20",
+     "body": "Sent! Are we splitting her share of dinner too?"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-25T21:24",
+     "body": "Yes. Prix fixe is $65 plus tax and 20% service. I'll send the final split after"
+    },
+    {
+     "from": "Rohan Raman",
+     "date": "2026-09-26T08:10",
+     "body": "Thanks Priya. I'll get the cake from Hazel & Rye, so count me out of the deposit and I'll cover that instead?"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-26T08:15",
+     "body": "Works for me"
+    },
+    {
+     "from": "Rohan Raman",
+     "date": "2026-10-06T19:30",
+     "body": "Still 8? Ankit might not make it, his flight back from Denver lands at 8"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T19:42",
+     "body": "Let's keep 8 till Thursday the 15th, that's when the restaurant needs the final count"
+    }
+   ]
+  },
+  {
+   "id": "t5",
+   "with": "Sound Harbor CU",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Sound Harbor CU",
+     "date": "2026-09-28T13:47",
+     "body": "Sound Harbor CU: Was this you? $2,486.00 at SKYVARA TRAVEL on card ending 3087. Reply YES or NO."
+    },
+    {
+     "from": "me",
+     "date": "2026-09-28T13:48",
+     "body": "YES"
+    },
+    {
+     "from": "Sound Harbor CU",
+     "date": "2026-09-28T13:48",
+     "body": "Thanks. Your card is ready to use."
+    },
+    {
+     "from": "Sound Harbor CU",
+     "date": "2026-09-30T16:02",
+     "body": "Sound Harbor CU: Zelle payment of $1,243.00 from NISHA MEHTA deposited to checking ending 6614."
+    }
+   ]
+  },
+  {
+   "id": "t6",
+   "with": "Ben Castillo",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Ben Castillo",
+     "date": "2026-09-29T13:52",
+     "body": "Can we push our 1:1 to 2:30? Finance review is running long"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-29T13:53",
+     "body": "Sure"
+    },
+    {
+     "from": "Ben Castillo",
+     "date": "2026-10-05T09:15",
+     "body": "Sent the offsite email. Can you be one of the two people who presents Q1 bets? 15 min"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T09:30",
+     "body": "Yes, happy to. I'll go after Dana"
+    }
+   ]
+  },
+  {
+   "id": "t7",
+   "with": "ParcelMart",
+   "unread": false,
+   "messages": [
+    {
+     "from": "ParcelMart",
+     "date": "2026-09-30T08:41",
+     "body": "ParcelMart: Order #PM-58213-4407 is out for delivery today."
+    },
+    {
+     "from": "ParcelMart",
+     "date": "2026-09-30T14:18",
+     "body": "ParcelMart: Delivered to front porch. Photo: pmrt.co/d/58213"
+    },
+    {
+     "from": "ParcelMart",
+     "date": "2026-10-06T09:05",
+     "body": "ParcelMart: Order #PM-58302-1196 is out for delivery today."
+    },
+    {
+     "from": "ParcelMart",
+     "date": "2026-10-06T15:52",
+     "body": "ParcelMart: Delivered to front porch. Photo: pmrt.co/d/58302"
+    }
+   ]
+  },
+  {
+   "id": "t8",
+   "with": "Ravenna Corner Pharmacy",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Ravenna Corner Pharmacy",
+     "date": "2026-09-30T10:14",
+     "body": "Ravenna Corner Pharmacy: An Rx for MEERA M is ready for pickup. Hours today 9AM-8PM. Reply STOP to opt out."
+    },
+    {
+     "from": "Ravenna Corner Pharmacy",
+     "date": "2026-10-02T09:00",
+     "body": "Ravenna Corner Pharmacy: Reminder - flu shot appointment Sat 10/3 at 11:00 AM for 2 people. Reply C to confirm."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T09:12",
+     "body": "C"
+    },
+    {
+     "from": "Ravenna Corner Pharmacy",
+     "date": "2026-10-02T09:12",
+     "body": "Thanks, you're confirmed. Please bring your insurance card."
+    }
+   ]
+  },
+  {
+   "id": "t9",
+   "with": "Maya Chen",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Maya Chen",
+     "date": "2026-10-02T17:45",
+     "body": "Hi Priya! Juniper keeps asking for Meera. Playdate at ours Sunday 10/11, 2-4?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T18:01",
+     "body": "She'd love that! She has a swim lesson at 10 so the afternoon is perfect. Just a reminder she has a peanut allergy"
+    },
+    {
+     "from": "Maya Chen",
+     "date": "2026-10-02T18:05",
+     "body": "Totally, I remember. We don't keep peanut stuff at home anyway. I'll just do apple slices and cheese for snack"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T18:06",
+     "body": "Perfect, I'll send her EpiPen pouch with her. Arjun will drop her off"
+    },
+    {
+     "from": "Maya Chen",
+     "date": "2026-10-02T18:07",
+     "body": "See you Sunday!"
+    }
+   ]
+  },
+  {
+   "id": "t10",
+   "with": "Rachel Ostrowski",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Rachel Ostrowski",
+     "date": "2026-10-03T13:10",
+     "body": "Theo's party invite is going out tonight! Sunday 10/25, 2-4 at Bounce Barn in Interbay. Meera's on the list obviously"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-03T13:22",
+     "body": "Yay, she'll be so excited. Is the cake from a nut-free place? Just so I know whether to bring her own cupcake"
+    },
+    {
+     "from": "Rachel Ostrowski",
+     "date": "2026-10-03T13:25",
+     "body": "Little Oven Bakery, they're fully nut-free. I'll save the box label for you"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-03T13:26",
+     "body": "You're the best"
+    },
+    {
+     "from": "Rachel Ostrowski",
+     "date": "2026-10-05T08:15",
+     "body": "Also can you still grab Theo Wed 10/21 at pickup? Mark's in Boise all week"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T08:31",
+     "body": "Hana's doing Meera's pickup that day, I asked her to grab Theo too. She'll bring him straight to yours by 4"
+    },
+    {
+     "from": "Rachel Ostrowski",
+     "date": "2026-10-05T08:32",
+     "body": "Perfect. I'll add Hana to Theo's pickup list today"
+    }
+   ]
+  },
+  {
+   "id": "t11",
+   "with": "Fremont Fresh Market",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Fremont Fresh Market",
+     "date": "2026-10-04T09:30",
+     "body": "Fremont Fresh: Your driver Kevin is on the way, arriving 10:05-10:20."
+    },
+    {
+     "from": "Fremont Fresh Market",
+     "date": "2026-10-04T10:12",
+     "body": "Fremont Fresh: Delivered to your front door. Rate your order: ff.co/r/1172209"
+    }
+   ]
+  },
+  {
+   "id": "t12",
+   "with": "Lucia",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Lucia",
+     "date": "2026-10-04T14:22",
+     "body": "Hi Priya, I'm so sorry, I can't do Wednesday 10/21. My chem midterm got moved to 4pm that day"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-04T14:30",
+     "body": "No problem, good luck! I'll ask Hana. You're still good for 10/14?"
+    },
+    {
+     "from": "Lucia",
+     "date": "2026-10-04T14:31",
+     "body": "Yes 10/14, and every Wednesday after the 21st. And Saturday the 17th for your dinner is still on"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T20:15",
+     "body": "For Saturday: can you do 6:30 to 10:30? Meera's Zyrtec is 2.5 ml at bedtime, the syringe is in the cup by the kitchen sink. Bed by 7:30"
+    },
+    {
+     "from": "Lucia",
+     "date": "2026-10-06T20:41",
+     "body": "Got it, 6:30 works. Same rate?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T20:42",
+     "body": "Yep $25/hr. I'll Venmo after"
+    },
+    {
+     "from": "Lucia",
+     "date": "2026-10-07T21:36",
+     "body": "Hi Priya, looking forward to Wednesday! I usually bring my own snacks and a granola bar for the evening, hope that's ok"
+    }
+   ]
+  },
+  {
+   "id": "t13",
+   "with": "Hana",
+   "unread": false,
+   "messages": [
+    {
+     "from": "me",
+     "date": "2026-10-04T14:40",
+     "body": "Hi Hana! Lucia can't do Wed 10/21. Could you do pickup at 3:30 and stay till 7:30? And still good for Fri 10/9, 8:30-4:30?"
+    },
+    {
+     "from": "Hana",
+     "date": "2026-10-04T15:02",
+     "body": "Yes to both! I'll be there at 8:20 on Friday"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T08:40",
+     "body": "Thank you! For the 21st, Rachel asked if you can grab Theo at pickup too and drop him at their house by 4. She's adding you to his list"
+    },
+    {
+     "from": "Hana",
+     "date": "2026-10-05T09:10",
+     "body": "No problem! Nap on Friday still around 1?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T19:44",
+     "body": "Yes, 1 to 2:30ish. Lunch is in the fridge, labeled. Snacks in the left pantry bin. Same as always, only what's in our kitchen, nothing from outside even at the library"
+    },
+    {
+     "from": "Hana",
+     "date": "2026-10-05T19:46",
+     "body": "Of course"
+    },
+    {
+     "from": "Hana",
+     "date": "2026-10-07T21:01",
+     "body": "Thanks for Tuesday, Meera was great and went down easy! One thing, the EpiPen Jr in the diaper bag says it expires 10/2026"
+    },
+    {
+     "from": "Hana",
+     "date": "2026-10-07T21:03",
+     "body": "Also could I leave at 4:15 on Friday instead of 4:30? I have a study group at 5"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T21:10",
+     "body": "Totally fine, Arjun will take over at 4:15. I'll pay you through 4:30"
+    }
+   ]
+  },
+  {
+   "id": "t14",
+   "with": "Northlake Dental Studio",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Northlake Dental Studio",
+     "date": "2026-10-05T12:00",
+     "body": "Northlake Dental Studio: Priya, your cleaning is Mon 10/26 at 8:00 AM. Reply C to confirm."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T12:31",
+     "body": "C"
+    }
+   ]
+  },
+  {
+   "id": "t15",
+   "with": "Cascadia Power & Light",
+   "unread": true,
+   "messages": [
+    {
+     "from": "Cascadia Power & Light",
+     "date": "2026-10-05T15:00",
+     "body": "Cascadia Power & Light: Planned outage at 3821 Burke Ave N on Tue 10/20, 9AM-1PM, for pole replacement. Reply STOP to opt out."
+    }
+   ]
+  },
+  {
+   "id": "t16",
+   "with": "Dana Whitfield",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Dana Whitfield",
+     "date": "2026-10-06T08:24",
+     "body": "Running 5 min late to roadmap, start without me"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T08:25",
+     "body": "No worries"
+    },
+    {
+     "from": "Dana Whitfield",
+     "date": "2026-10-06T10:02",
+     "body": "Thanks for kicking it off. Ben liked the cut list"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T10:05",
+     "body": "Ha, good. Next week we need the capacity numbers, I'll pull them Monday"
+    }
+   ]
+  },
+  {
+   "id": "t17",
+   "with": "Cascade Pediatric Allergy",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Cascade Pediatric Allergy",
+     "date": "2026-10-06T11:00",
+     "body": "Cascade Pediatric Allergy: MEERA M has an appt Tue 10/20 at 10:15 AM with Dr. Rao. Reply C to confirm, R to reschedule."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T11:35",
+     "body": "C"
+    },
+    {
+     "from": "Cascade Pediatric Allergy",
+     "date": "2026-10-06T11:35",
+     "body": "Thank you, your appointment is confirmed."
+    }
+   ]
+  },
+  {
+   "id": "t18",
+   "with": "Splash Starts Swim School",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Splash Starts Swim School",
+     "date": "2026-10-07T10:00",
+     "body": "Splash Starts: Reminder for MEERA M, extra lesson Sun 10/11 at 10:00 AM, Pool B. Reply C to confirm."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T10:22",
+     "body": "C. Her dad will bring her."
+    },
+    {
+     "from": "Splash Starts Swim School",
+     "date": "2026-10-07T10:22",
+     "body": "Confirmed. See you Sunday!"
+    }
+   ]
+  },
+  {
+   "id": "t19",
+   "with": "Wallingford Children's Clinic",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Wallingford Children's Clinic",
+     "date": "2026-10-07T17:00",
+     "body": "Wallingford Children's Clinic: MEERA M has a nurse visit Fri 10/16 at 4:15 PM. Reply C to confirm or call (206) 555-0187."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T17:20",
+     "body": "C"
+    }
+   ]
+  },
+  {
+   "id": "t20",
+   "with": "Kavya Raman",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Kavya Raman",
+     "date": "2026-10-07T20:15",
+     "body": "Rohan is being SO weird about Saturday the 17th. What do you know"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T20:18",
+     "body": "Nothing! Keep the evening free and wear something nice"
+    },
+    {
+     "from": "Kavya Raman",
+     "date": "2026-10-07T20:19",
+     "body": "Priya."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T20:20",
+     "body": "My lips are sealed"
+    }
+   ]
+  },
+  {
+   "id": "t21",
+   "with": "Kiran Mehta",
+   "unread": true,
+   "messages": [
+    {
+     "from": "Kiran Mehta",
+     "date": "2026-10-07T21:48",
+     "body": "Priya beta, for Saturday the 10th, the Patels have asked Papa and me for their puja that evening and we said yes, we did not know about dinner. Can we go out Sunday instead? Any time is fine for us. And Papa's old friend Joshi uncle is in Seattle that weekend, he would love to join us for dinner if that is ok. Tell me what you and Arjun think."
+    }
+   ]
+  }
+ ],
+ "whatsapp": [
+  {
+   "id": "w1",
+   "chat": "Papa",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Papa",
+     "date": "2026-09-20T07:45",
+     "body": "[Video] Today's exercises. Physio says good progress"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-20T08:10",
+     "body": "Wow Papa! Looking strong"
+    },
+    {
+     "from": "Papa",
+     "date": "2026-09-20T08:12",
+     "body": "Walked 1.5 km in the society garden this morning. How is Seattle weather in October?"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-20T08:20",
+     "body": "Rainy and around 50-60F. Bring a warm jacket and shoes with good grip, the sidewalks get slippery"
+    },
+    {
+     "from": "Papa",
+     "date": "2026-10-01T07:30",
+     "body": "Dr. Kulkarni gave the fitness to fly letter. He says continue physio there also if possible, twice a week"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-01T07:51",
+     "body": "Okay Papa, I'll find a physio near us for October"
+    }
+   ]
+  },
+  {
+   "id": "w2",
+   "chat": "Amma",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Amma",
+     "date": "2026-09-27T09:15",
+     "body": "Kanna, Appa and I booked Nov 24 to 29 for Thanksgiving. Flight lands 1:15 pm on the 24th"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-27T09:40",
+     "body": "Yay! Mummy and Papa are here till Nov 3, so the guest room will be free for you"
+    },
+    {
+     "from": "Amma",
+     "date": "2026-09-27T09:42",
+     "body": "Good good. Is Meera still taking that allergy medicine at night?"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-27T09:45",
+     "body": "Yes, Zyrtec 2.5 ml at bedtime. We see Dr. Rao Oct 20"
+    },
+    {
+     "from": "Amma",
+     "date": "2026-10-02T19:20",
+     "body": "I will bring rasam powder and murukku. Murukku I make in sesame oil only, no peanut"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T19:31",
+     "body": "Thank you Amma. Meera keeps asking for Paati"
+    }
+   ]
+  },
+  {
+   "id": "w3",
+   "chat": "Mehta Family",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Arjun Mehta",
+     "date": "2026-09-28T14:05",
+     "body": "Tickets booked! Sat Oct 3, Pune 6:10 am, Delhi to Seattle lands 4:50 pm same day. Return Nov 3. Priya put it on her card"
+    },
+    {
+     "from": "Nisha Mehta",
+     "date": "2026-09-28T14:20",
+     "body": "I'll send half to the joint account. I'll buy insurance through my work plan"
+    },
+    {
+     "from": "Papa",
+     "date": "2026-09-28T21:30",
+     "body": "Thank you beta. Wheelchair is not needed, I can walk"
+    },
+    {
+     "from": "Kiran Mehta",
+     "date": "2026-09-28T21:32",
+     "body": "He is taking the wheelchair. Delhi airport is very long"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-28T21:40",
+     "body": "Papa it's already requested, only for the airports. Skyvara will confirm"
+    },
+    {
+     "from": "Nisha Mehta",
+     "date": "2026-10-01T09:10",
+     "body": "Also we booked Nov 5-9 for Diwali. Kids are so excited to see Meera"
+    },
+    {
+     "from": "Arjun Mehta",
+     "date": "2026-10-01T09:15",
+     "body": "Joshi uncle is doing dinner on the 7th for all of us"
+    },
+    {
+     "from": "Arjun Mehta",
+     "date": "2026-10-08T07:41",
+     "body": "Saw Mummy's message. Of course Joshi uncle should come, I already called Papa and told him to bring him along"
+    }
+   ]
+  },
+  {
+   "id": "w4",
+   "chat": "Nisha Mehta",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Nisha Mehta",
+     "date": "2026-09-29T22:10",
+     "body": "Bhabhi, how much were the tickets total?"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-29T22:20",
+     "body": "$2,486 for both, including taxes. Return Nov 3"
+    },
+    {
+     "from": "Nisha Mehta",
+     "date": "2026-09-29T22:22",
+     "body": "Ok sending $1,243 tomorrow. I'll do the insurance, $186 through my work plan"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-29T22:24",
+     "body": "Perfect. I'll forward you the e-ticket for the insurance form"
+    },
+    {
+     "from": "Nisha Mehta",
+     "date": "2026-10-02T12:40",
+     "body": "Insurance done, $186. Emailed the policy to Mummy and you"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T12:55",
+     "body": "Thanks Nisha"
+    }
+   ]
+  },
+  {
+   "id": "w5",
+   "chat": "Kiran Mehta",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Kiran Mehta",
+     "date": "2026-09-30T20:15",
+     "body": "Priya beta, did Nisha send her half? Papa is asking"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-30T20:40",
+     "body": "Yes Mummy, she sent it today. All paid."
+    },
+    {
+     "from": "Kiran Mehta",
+     "date": "2026-10-01T19:05",
+     "body": "Papa saw the physio again after his knee surgery. She said no climbing into bathtubs at all, he must have a walk-in shower wherever he stays"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-01T19:30",
+     "body": "Okay Mummy, noted. How is the walking?"
+    },
+    {
+     "from": "Kiran Mehta",
+     "date": "2026-10-01T19:34",
+     "body": "Much better. Only one stick now. 20 minutes walk morning and evening. She gave exercises for the flight also"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-01T19:36",
+     "body": "That's great. See you on Saturday"
+    },
+    {
+     "from": "Kiran Mehta",
+     "date": "2026-10-06T21:10",
+     "body": "What size for Meera? I am getting her a small lehenga for Diwali"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T21:25",
+     "body": "4T Mummy, she's tall. And please no sweets with peanuts from the shop, even sealed ones"
+    }
+   ]
+  },
+  {
+   "id": "w6",
+   "chat": "Joshi uncle",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Joshi uncle",
+     "date": "2026-10-04T10:12",
+     "body": "Priya, Arjun told me Nov 3, 7:05 pm flight. I will bring the Sienna, all 4 suitcases will fit. Arjun can take Mummy Papa in his car"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-04T10:30",
+     "body": "Thank you uncle! Arjun will meet you at departures. Papa has wheelchair assistance so check-in may take extra time"
+    },
+    {
+     "from": "Joshi uncle",
+     "date": "2026-10-04T10:33",
+     "body": "No problem. I will park in the garage, not circle"
+    },
+    {
+     "from": "Joshi uncle",
+     "date": "2026-10-05T18:40",
+     "body": "Dinner Nov 7 Saturday 6:30 at our place. Sunita aunty is asking what Meera can eat. She is making kaju katli and chikki"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T18:52",
+     "body": "Uncle, cashews are fine for her, it's only peanuts. So please keep the chikki away from her, and no peanut oil in anything she eats"
+    },
+    {
+     "from": "Joshi uncle",
+     "date": "2026-10-05T18:55",
+     "body": "Understood. Sunita uses sunflower oil anyway. We will keep the chikki on a separate table"
+    }
+   ]
+  },
+  {
+   "id": "w7",
+   "chat": "Sprouts Room Parents",
+   "unread": true,
+   "messages": [
+    {
+     "from": "Maya Chen",
+     "date": "2026-10-05T20:05",
+     "body": "Fall festival sign-up is up! Link is in the Puddlefern email. Still need drinks and napkins"
+    },
+    {
+     "from": "Rachel Ostrowski",
+     "date": "2026-10-05T20:12",
+     "body": "Took napkins and cups"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T20:30",
+     "body": "Fruit platter from us"
+    },
+    {
+     "from": "Leah Brandt",
+     "date": "2026-10-05T20:44",
+     "body": "Reminder from Tamsin: everything nut-free with labels, there are 2 kids in Sprouts with peanut allergies"
+    },
+    {
+     "from": "Maya Chen",
+     "date": "2026-10-07T07:58",
+     "body": "Picture day is Thursday the 15th, not Friday. Someone asked"
+    },
+    {
+     "from": "Leah Brandt",
+     "date": "2026-10-07T08:02",
+     "body": "Thanks! Does anyone have a sitter for the 11/11 closure? Ours is away"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T08:15",
+     "body": "Lucia might be free, she's a UW student and starts Wednesdays with us next week. I can share her number"
+    }
+   ]
+  },
+  {
+   "id": "w8",
+   "chat": "Sneha Iyer",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Sneha Iyer",
+     "date": "2026-10-06T12:10",
+     "body": "Garba this Friday 10/9 at Crossroads, 7pm. $15 tickets. You in?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T12:40",
+     "body": "Ugh I wish. Puddlefern's closed Friday, I'll be wiped by the evening"
+    },
+    {
+     "from": "Sneha Iyer",
+     "date": "2026-10-06T12:42",
+     "body": "Bring Meera! Lots of kids go for the first hour"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T12:45",
+     "body": "Hmm maybe 7 to 7:30 and then home for bedtime. I'll let you know Thursday"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "id": "n1",
+   "title": "Leavenworth packing",
+   "updated": "2026-02-11T21:20",
+   "body": "Pack-and-play (host has one, confirmed), Meera's snow suit + mittens, sled, white noise machine, EpiPen pouch + spare, her own snacks for the drive, chains for the car, groceries from Fremont Fresh on Thursday."
+  },
+  {
+   "id": "n2",
+   "title": "Sitter notes",
+   "updated": "2026-05-06T21:30",
+   "body": "Meera has a peanut allergy. First aid kit and her spare EpiPen are in the hallway drawer under the coat hooks. Bedtime 7:30.\n\nHer EpiPen goes everywhere with her in the red pouch in her backpack.\nWatch for: hives, lip or eye swelling, coughing, throwing up after eating. If more than one of these, EpiPen in the outer thigh, then 911, then call me.\nBath at 6:45, two books, lights out 7:30. White noise on.\nShe naps at daycare, so no nap after pickup on weekdays.\nScreen time: one Bluey episode max.\nArjun: (206) 555-0182\nWallingford Children's Clinic: (206) 555-0187\nCascade Pediatric Allergy: (206) 555-0110\nRachel Ostrowski, two doors down: (206) 555-0115"
+  },
+  {
+   "id": "n3",
+   "title": "House rules for sitters",
+   "updated": "2026-05-06T21:45",
+   "body": "For Hana, Lucia, and anyone watching Meera:\n- No food brought in from outside the house, only what's in our kitchen. That includes your own snacks, cafe treats, and anything another parent offers at the park.\n- Wash hands when you arrive.\n- Back door stays locked. The side gate latch sticks, check that it's shut.\n- No visitors without asking me first.\n- Car seat is in the hall closet, but ask before taking her anywhere by car.\n- Text me if you leave the house and where you're going.\n- Pay: Venmo on the 1st for the month before. Text me your hours or I'll track them."
+  },
+  {
+   "id": "n4",
+   "title": "Meera meds",
+   "updated": "2026-08-07T21:10",
+   "body": "Meera: Zyrtec 2.5 ml every night at bedtime (children's Zyrtec, 1 mg/ml). Dr. Rao's office started it 8/5 for the eczema flares and itchy eyes. Oral syringe lives in the cup by the kitchen sink.\nEpiPen Jr 0.15 mg x 2: one in the red pouch, one spare at home. The one at Puddlefern expires 11/2026.\nHydrocortisone 1% for the patches behind her knees, thin layer, max twice a day.\nChildren's Tylenol: 5 ml for her weight (34 lb), no more often than every 4-6 hours.\nRefills at Ravenna Corner Pharmacy."
+  },
+  {
+   "id": "n5",
+   "title": "Puddlefern 2026-27 closures",
+   "updated": "2026-08-20T20:00",
+   "body": "Closed: Mon 9/7 Labor Day, Fri 10/9 staff training, Wed 11/11 Veterans Day, Thu-Fri 11/26-27 Thanksgiving, Thu 12/24 - Fri 1/1 winter break, Mon 1/18 MLK Day, Mon 2/15 Presidents Day, Fri 3/12 staff training, Mon 5/31 Memorial Day.\nEarly close 3 pm: Wed 11/25, Wed 12/23.\nTuition $2,140/mo, autopay on the 1st. Late pickup $15 per 15 min after 6.\nCoverage: 10/9 Hana. 11/11 ask Lucia. Winter break: Amma? or split PTO with Arjun."
+  },
+  {
+   "id": "n6",
+   "title": "Dr. Rao 10/20",
+   "updated": "2026-10-04T21:40",
+   "body": "- Sign Puddlefern action plan (current one expires 10/31) + Splash Starts medical form\n- New EpiPen Jr 2-pack: prescription sent to the pharmacy, not picked up yet. Send one to Puddlefern, bring their old one home\n- Zyrtec 2.5 ml nightly since August: go up to 5 ml once she turns 4?\n- Eczema behind knees is better since Zyrtec\n- When to retest peanut? Is an oral food challenge ever an option?\n- Flu shot 10/16 at Wallingford Children's, anything to watch for?\n- Grandparents here for a month: what to tell them about sweets and cooking oils\n- Arjun can't come. I'm taking the morning off, back at work by 12:30"
+  },
+  {
+   "id": "n7",
+   "title": "Q4 roadmap prep",
+   "updated": "2026-10-06T21:00",
+   "body": "Payments squad capacity Q4: 6 engineers, minus Kofi on parental leave from 11/16, minus holidays = about 170 eng-days.\nInvoice export: about 60 eng-days (Dana thinks 75 with QA).\nCode freeze 12/11.\nCut list: bulk refund UI to Q1, custom fields v2 to Q1.\nOpen: Corvo SDK upgrade date, ask Dana Tuesday.\nI'm out 10/30 - 11/4. Dana runs the 11/3 roadmap review."
+  },
+  {
+   "id": "n8",
+   "title": "Kavya bday dinner - money",
+   "updated": "2026-10-06T22:05",
+   "body": "Saffron & Salt, Sat 10/17, 7 pm, party of 8 (back room)\nDeposit $160 paid by me 9/25 on Visa.\n$20 deposit share each from the 7 of us (not Kavya):\nSneha - paid 9/25\nJess - paid 9/25\nMarisol - paid 9/27\nAnkit - owes\nRohan - covering the cake instead (Hazel & Rye)\nArjun + me - ours\nAfter dinner: final bill / 7 people, minus what each already put in."
+  },
+  {
+   "id": "n9",
+   "title": "Sitter hours",
+   "updated": "2026-10-07T21:15",
+   "body": "September\nHana ($24/hr): Sat 9/12 6-10:30 pm (4.5), Sat 9/19 9 am-1 pm (4), Sat 9/26 6 pm-midnight (6) = 14.5 hrs = $348. Paid Venmo 10/2.\nHana: Wednesdays 9/2, 9/9, 9/16, 9/23, 9/30, 3:30-7:30 = 20 hrs = $480. Paid Venmo 10/2.\n\nOctober so far\nHana: Tue 10/6 5:30-10 pm (4.5)\nHana: Wed 10/7 3:30-7:30 (4)\nHana: Fri 10/9 8:30-4:30, daycare closed. Pay 8 hrs ($192) even though she's leaving at 4:15\nLucia: Wed 10/14 3:30-7:30\nLucia: Sat 10/17 6:30-10:30, Kavya's dinner\nHana: Wed 10/21 3:30-7:30, covering for Lucia\nLucia: Wed 10/28"
+  },
+  {
+   "id": "n10",
+   "title": "Mummy & Papa visit",
+   "updated": "2026-10-07T22:00",
+   "body": "Sat Oct 3 - Tue Nov 3\nIA 172 lands SEA 4:50 pm. Arjun + Joshi uncle (Sienna) at arrivals. Wheelchair assistance at all airports, Skyvara confirmed 10/1. Seats 31C/31D.\nTickets $2,486 on my Visa. Nisha paid half ($1,243, Zelle 9/30) and bought their insurance ($186).\nPuddlefern pickup list: both added 10/8-11/3 (confirmed 10/7). Passports the first time.\nFind a physio near us for Papa, twice a week from October (Dr. Kulkarni). He's not on our insurance, so cash rates.\nPapa's meds: metformin and BP tablets, bringing 3 months' supply.\nMummy: no onion or garlic on Tuesdays.\nDiwali: Nisha + kids Nov 5-9, Joshi uncle's dinner Sat Nov 7.\nAmma + Appa Nov 24-29.\nMy PTO 10/30 - 11/4 approved."
+  }
+ ],
+ "calendar": [
+  {
+   "id": "c1",
+   "title": "Swim - one-off Thursday class",
+   "start": "2026-09-24T10:00",
+   "end": "2026-09-24T10:30",
+   "location": "Splash Starts Fremont, 621 N 36th St",
+   "notes": "Little Dippers pool."
+  },
+  {
+   "id": "c2",
+   "title": "1:1 with Ben",
+   "start": "2026-09-29T14:30",
+   "end": "2026-09-29T15:00",
+   "location": "Trellisly, Ben's office",
+   "notes": "Moved from 2:00. Offsite agenda, Kofi's leave coverage."
+  },
+  {
+   "id": "c3",
+   "title": "Flu shots - Priya & Arjun",
+   "start": "2026-10-03T11:00",
+   "end": "2026-10-03T11:20",
+   "location": "Ravenna Corner Pharmacy, 2209 NE 65th St",
+   "notes": "Bring insurance cards."
+  },
+  {
+   "id": "c4",
+   "title": "Hana babysitting",
+   "start": "2026-10-06T17:30",
+   "end": "2026-10-06T22:00",
+   "location": "Home",
+   "notes": "Hana 5:30-10 pm. Dinner and bedtime."
+  },
+  {
+   "id": "c5",
+   "title": "Puddlefern closed - Hana 8:30-4:15",
+   "start": "2026-10-09T08:30",
+   "end": "2026-10-09T16:30",
+   "location": "Home",
+   "notes": "Staff training day. Arjun WFH, takes over at 4:15. Pay Hana 8 hrs ($192)."
+  },
+  {
+   "id": "c6",
+   "title": "Swim - Guppies 2",
+   "start": "2026-10-10T09:30",
+   "end": "2026-10-10T10:00",
+   "location": "Splash Starts Fremont, 621 N 36th St",
+   "notes": "Saturdays through Nov 21, no class 10/31. Coach Bree."
+  },
+  {
+   "id": "c7",
+   "title": "Swim extra lesson (Arjun taking her)",
+   "start": "2026-10-11T10:00",
+   "end": "2026-10-11T10:30",
+   "location": "Splash Starts Fremont, 621 N 36th St",
+   "notes": "Coach Mateo, Pool B."
+  },
+  {
+   "id": "c8",
+   "title": "Meera playdate at Juniper's",
+   "start": "2026-10-11T14:00",
+   "end": "2026-10-11T16:00",
+   "location": "Maya Chen's, 4012 Woodland Park Ave N",
+   "notes": "Arjun drop-off and pickup. Send the EpiPen pouch."
+  },
+  {
+   "id": "c9",
+   "title": "Roadmap review with Dana",
+   "start": "2026-10-13T08:30",
+   "end": "2026-10-13T09:30",
+   "location": "Trellisly, 1201 Western Ave, 6th floor, Rainier room / Zoom",
+   "notes": "Weekly on Tuesdays, 8:30-9:30 am PT."
+  },
+  {
+   "id": "c10",
+   "title": "Picture day",
+   "start": "2026-10-15T09:00",
+   "end": "2026-10-15T09:30",
+   "location": "Puddlefern Early Learning, 4610 Stone Way N",
+   "notes": "Sprouts in the morning. Green dress, hair clips."
+  },
+  {
+   "id": "c11",
+   "title": "Corvo monthly status (covering for Dana)",
+   "start": "2026-10-16T11:00",
+   "end": "2026-10-16T11:30",
+   "location": "Zoom",
+   "notes": "Dana out. Her notes from September are in the shared folder."
+  },
+  {
+   "id": "c12",
+   "title": "Meera flu shot",
+   "start": "2026-10-16T16:15",
+   "end": "2026-10-16T16:35",
+   "location": "Wallingford Children's Clinic, 2101 N 45th St, Suite 2",
+   "notes": "Nurse visit. Leave work at 3:30, get her from Puddlefern first. Insurance card."
+  },
+  {
+   "id": "c13",
+   "title": "Kavya's birthday dinner",
+   "start": "2026-10-17T19:00",
+   "end": "2026-10-17T21:30",
+   "location": "Saffron & Salt, 1514 E Olive Way",
+   "notes": "Party of 8, back room. Lucia 6:30-10:30. Final count due 10/15."
+  },
+  {
+   "id": "c14",
+   "title": "Meera - Dr. Rao eczema follow-up",
+   "start": "2026-10-20T10:15",
+   "end": "2026-10-20T11:15",
+   "location": "Cascade Pediatric Allergy, 9730 3rd Ave NE, Suite 210",
+   "notes": "Bring both EpiPens, Puddlefern + Splash Starts forms, insurance card. Garage ticket for validation. Back at work by 12:30."
+  },
+  {
+   "id": "c15",
+   "title": "Hana - Puddlefern pickup + Theo",
+   "start": "2026-10-21T15:30",
+   "end": "2026-10-21T19:30",
+   "location": "Puddlefern Early Learning, 4610 Stone Way N",
+   "notes": "Covering for Lucia. Drop Theo at Rachel's by 4."
+  },
+  {
+   "id": "c16",
+   "title": "Q4 planning offsite",
+   "start": "2026-10-22T09:00",
+   "end": "2026-10-22T16:00",
+   "location": "The Foundry Room, 2201 Western Ave",
+   "notes": "Presenting Q1 bets after Dana, 15 min. Breakfast from 8:30. Dinner 5:30 Pike Street Tavern (optional)."
+  },
+  {
+   "id": "c17",
+   "title": "Puddlefern Fall Festival",
+   "start": "2026-10-23T16:30",
+   "end": "2026-10-23T18:30",
+   "location": "Puddlefern Early Learning, 4610 Stone Way N",
+   "notes": "We're bringing a fruit platter (serves 15). Keep the label."
+  },
+  {
+   "id": "c18",
+   "title": "Theo's birthday party",
+   "start": "2026-10-25T14:00",
+   "end": "2026-10-25T16:00",
+   "location": "Bounce Barn, 2001 15th Ave W",
+   "notes": "Cake from Little Oven Bakery (nut-free). Gift around $25. Grip socks."
+  },
+  {
+   "id": "c19",
+   "title": "Dentist - cleaning",
+   "start": "2026-10-26T08:00",
+   "end": "2026-10-26T09:00",
+   "location": "Northlake Dental Studio, 3417 Stone Way N",
+   "notes": "X-rays due. Arjun does daycare drop-off."
+  },
+  {
+   "id": "c20",
+   "title": "Check-in with Tamsin",
+   "start": "2026-10-28T16:45",
+   "end": "2026-10-28T17:05",
+   "location": "Puddlefern Early Learning, Sprouts room",
+   "notes": "Fall check-in. Ask how pickup with the grandparents is going."
+  },
+  {
+   "id": "c21",
+   "title": "Mummy & Papa fly home - IA 173",
+   "start": "2026-11-03T17:00",
+   "end": "2026-11-03T19:05",
+   "location": "SEA airport, departures",
+   "notes": "Wheelchair assistance for Papa, allow extra time. Arjun + Joshi uncle (Sienna). I'm on PTO, I'll do Puddlefern pickup."
+  },
+  {
+   "id": "c22",
+   "title": "Diwali dinner at Joshi uncle's",
+   "start": "2026-11-07T18:30",
+   "end": "2026-11-07T21:30",
+   "location": "15012 SE 24th St, Bellevue",
+   "notes": "All of us + Nisha and kids. Chikki on a separate table. Bring a gift for Sunita aunty."
+  }
+ ],
+ "assistant_chats": [
+  {
+   "id": "a1",
+   "date": "2026-09-14T08:20",
+   "turns": [
+    {
+     "role": "user",
+     "text": "How many swim classes does Meera have this fall and when does it end?"
+    },
+    {
+     "role": "assistant",
+     "text": "Splash Starts Guppies 2 has 10 Saturday classes, 9:30-10:00 AM, from September 12 to November 14, with Coach Bree at the Fremont pool. You get up to 2 make-up classes per session, booked at least 48 hours ahead."
+    },
+    {
+     "role": "user",
+     "text": "Is there class on Halloween?"
+    },
+    {
+     "role": "assistant",
+     "text": "October 31 is a Saturday, so it's on the schedule according to the registration email. I'll flag it if Splash Starts announces any changes."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "date": "2026-09-24T21:15",
+   "turns": [
+    {
+     "role": "user",
+     "text": "My father-in-law had a knee replacement in August and is flying Pune to Seattle via Delhi at the start of October. What should we ask the airline for?"
+    },
+    {
+     "role": "assistant",
+     "text": "A few things to request through Skyvara or the airline: wheelchair assistance (code WCHR, for someone who can walk short distances but not long terminal walks) at every airport, including the Delhi transfer; an aisle seat so he can stand and stretch; and a seat near the lavatory if possible. Many airlines want a fitness-to-fly letter from the surgeon within a few months of joint surgery, so it's worth asking his surgeon now. Compression socks and walking the aisle every hour or two help on the long leg."
+    },
+    {
+     "role": "user",
+     "text": "Ok. Remind me to ask Skyvara about seats when I book."
+    },
+    {
+     "role": "assistant",
+     "text": "Done. When you book, I'll remind you to ask Skyvara for wheelchair assistance at all three airports and an aisle seat on the Delhi-Seattle leg."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "date": "2026-10-01T21:30",
+   "turns": [
+    {
+     "role": "user",
+     "text": "Hana did 4.5 hours on 9/12, 4 on 9/19 and 6 on 9/26. She also did all the Wednesdays in September, 3:30 to 7:30. What do I owe her?"
+    },
+    {
+     "role": "assistant",
+     "text": "Saturdays: 4.5 + 4 + 6 = 14.5 hours at $24 = $348.\nWednesdays: 5 Wednesdays (9/2, 9/9, 9/16, 9/23, 9/30) x 4 hours = 20 hours at $24 = $480.\nTotal: $828."
+    },
+    {
+     "role": "user",
+     "text": "Thanks. Add it to my sitter hours note."
+    },
+    {
+     "role": "assistant",
+     "text": "Added the September totals to your Sitter hours note."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "date": "2026-10-05T19:30",
+   "turns": [
+    {
+     "role": "user",
+     "text": "Help me write a quick text to Hana for Friday when daycare is closed. Lunch in fridge, snacks in the left pantry bin, library story time 10:30, nap at 1, Arjun is home. And the usual food rule."
+    },
+    {
+     "role": "assistant",
+     "text": "Here's a draft:\n\nHi Hana! For Friday: lunch is in the fridge, labeled. Snacks are in the left pantry bin. Library story time is at 10:30 if it's not pouring, and nap is around 1. Arjun is working from home if you need anything. Same as always, only food from our kitchen, nothing from outside, even at the library."
+    },
+    {
+     "role": "user",
+     "text": "Shorter."
+    },
+    {
+     "role": "assistant",
+     "text": "For Friday: lunch in the fridge (labeled), snacks in the left pantry bin. Story time 10:30 if it's dry, nap around 1, Arjun's home. Only food from our kitchen, as always."
+    }
+   ]
+  }
+ ],
+ "transactions": [
+  {
+   "id": "x1",
+   "date": "2025-12-28T11:20",
+   "account": "Visa ending 3087",
+   "description": "THE ALDER HOTEL PORTLAND",
+   "amount": -584.08
+  },
+  {
+   "id": "x2",
+   "date": "2026-01-20T22:02",
+   "account": "Visa ending 3087",
+   "description": "STAYWELL*ICICLE CREEK A-FRAME",
+   "amount": -1041.72
+  },
+  {
+   "id": "x3",
+   "date": "2026-05-11T20:47",
+   "account": "Visa ending 3087",
+   "description": "PARCELMART*PM49120-0383",
+   "amount": -71.14
+  },
+  {
+   "id": "x4",
+   "date": "2026-08-20T19:40",
+   "account": "Visa ending 3087",
+   "description": "SPLASH STARTS SWIM SCHOOL",
+   "amount": -198.0
+  },
+  {
+   "id": "x5",
+   "date": "2026-09-01T03:00",
+   "account": "Joint checking ending 6614",
+   "description": "PUDDLEFERN EARLY LEARNING AUTOPAY",
+   "amount": -2140.0
+  },
+  {
+   "id": "x6",
+   "date": "2026-09-08T20:36",
+   "account": "Visa ending 3087",
+   "description": "PARCELMART*PM57964-2210 SunnyBites Oat Bars, variety pack, 24 ct (delivered Sept 10)",
+   "amount": -26.39
+  },
+  {
+   "id": "x7",
+   "date": "2026-09-18T09:00",
+   "account": "Joint checking ending 6614",
+   "description": "LUMEN BENEFITS DCFSA REIMB",
+   "amount": 416.67
+  },
+  {
+   "id": "x8",
+   "date": "2026-09-21T18:25",
+   "account": "Visa ending 3087",
+   "description": "RAVENNA CORNER PHARMACY",
+   "amount": -25.0
+  },
+  {
+   "id": "x9",
+   "date": "2026-09-25T04:00",
+   "account": "Joint checking ending 6614",
+   "description": "CASCADIA POWER & LIGHT AUTOPAY",
+   "amount": -118.47
+  },
+  {
+   "id": "x10",
+   "date": "2026-09-25T21:02",
+   "account": "Visa ending 3087",
+   "description": "SAFFRON & SALT SEATTLE",
+   "amount": -160.0
+  },
+  {
+   "id": "x11",
+   "date": "2026-09-26T14:30",
+   "account": "Joint checking ending 6614",
+   "description": "VENMO PAYMENT - GREG LINDQVIST",
+   "amount": -140.0
+  },
+  {
+   "id": "x12",
+   "date": "2026-09-27T21:05",
+   "account": "Visa ending 3087",
+   "description": "PARCELMART*PM58213-4407",
+   "amount": -85.49
+  },
+  {
+   "id": "x13",
+   "date": "2026-09-28T13:45",
+   "account": "Visa ending 3087",
+   "description": "SKYVARA TRAVEL",
+   "amount": -2486.0
+  },
+  {
+   "id": "x14",
+   "date": "2026-09-29T20:10",
+   "account": "Visa ending 3087",
+   "description": "CASCADE PEDIATRIC ALLERGY",
+   "amount": -62.4
+  },
+  {
+   "id": "x15",
+   "date": "2026-09-30T15:58",
+   "account": "Joint checking ending 6614",
+   "description": "ZELLE FROM NISHA MEHTA",
+   "amount": 1243.0
+  },
+  {
+   "id": "x16",
+   "date": "2026-10-01T03:00",
+   "account": "Joint checking ending 6614",
+   "description": "PUDDLEFERN EARLY LEARNING AUTOPAY",
+   "amount": -2155.0
+  },
+  {
+   "id": "x17",
+   "date": "2026-10-02T08:30",
+   "account": "Joint checking ending 6614",
+   "description": "VENMO PAYMENT - HANA",
+   "amount": -348.0
+  },
+  {
+   "id": "x18",
+   "date": "2026-10-02T08:31",
+   "account": "Joint checking ending 6614",
+   "description": "VENMO PAYMENT - HANA",
+   "amount": -480.0
+  },
+  {
+   "id": "x19",
+   "date": "2026-10-02T13:20",
+   "account": "Visa ending 3087",
+   "description": "PARCELMART*PM58302-1196",
+   "amount": -47.43
+  },
+  {
+   "id": "x20",
+   "date": "2026-10-04T10:15",
+   "account": "Visa ending 3087",
+   "description": "FREMONT FRESH MARKET",
+   "amount": -130.93
+  },
+  {
+   "id": "x21",
+   "date": "2026-10-04T13:18",
+   "account": "Joint checking ending 6614",
+   "description": "PARCELMART*PM58351-0874 Order confirmed: CloudSoft Baby Wipes, Fresh Cucumber Scent, 2-pack (ordered by Arjun Mehta)",
+   "amount": -18.67
+  },
+  {
+   "id": "x22",
+   "date": "2026-10-05T06:00",
+   "account": "Visa ending 3087",
+   "description": "PARCELMART REFUND PM58213-4407",
+   "amount": 38.61
+  },
+  {
+   "id": "x23",
+   "date": "2026-10-07T02:00",
+   "account": "Visa ending 3087",
+   "description": "NORTHBEAM INTERNET",
+   "amount": -79.99
+  }
+ ]
+}
