@@ -1,0 +1,1972 @@
+{
+ "person": {
+  "id": "alice",
+  "name": "Alice Chen",
+  "line": "Alice Chen, 34, research scientist in San Francisco",
+  "pronoun": "she",
+  "today": "2026-10-08T09:00"
+ },
+ "contacts": [
+  {
+   "name": "Daniel Park",
+   "relation": "partner",
+   "email": "daniel.park.arch@gmail.com",
+   "phone": "(415) 555-0182"
+  },
+  {
+   "name": "Mom",
+   "relation": "mother",
+   "email": "susan.chen.co@gmail.com",
+   "phone": "(303) 555-0127"
+  },
+  {
+   "name": "Owen",
+   "relation": "Lena's husband",
+   "email": "owen.bauer@gmail.com",
+   "phone": "(720) 555-0193"
+  },
+  {
+   "name": "Tom",
+   "relation": "Daniel's brother",
+   "email": "tompark.la@gmail.com",
+   "phone": "(213) 555-0139"
+  },
+  {
+   "name": "Helen Park",
+   "relation": "Daniel's mother",
+   "email": "helenpark.pasadena@gmail.com",
+   "phone": "(626) 555-0115"
+  },
+  {
+   "name": "Mei",
+   "relation": "friend",
+   "email": "mei.huang.sf@gmail.com",
+   "phone": "(415) 555-0156"
+  },
+  {
+   "name": "Ravi Shah",
+   "relation": "Mei's partner",
+   "email": "ravi.shah.sf@gmail.com",
+   "phone": "(415) 555-0124"
+  },
+  {
+   "name": "Jess",
+   "relation": "friend",
+   "email": "jess.okoro@gmail.com",
+   "phone": "(415) 555-0171"
+  },
+  {
+   "name": "Sam",
+   "relation": "labmate at Brightwater",
+   "email": "sam.whitfield@brightwatertx.com",
+   "phone": "(510) 555-0148"
+  },
+  {
+   "name": "Priya Raman",
+   "relation": "manager, Brightwater Therapeutics",
+   "email": "priya.raman@brightwatertx.com",
+   "phone": "(415) 555-0133"
+  },
+  {
+   "name": "Nadia Kowalski",
+   "relation": "postdoc, Raman lab",
+   "email": "nadia.kowalski@brightwatertx.com",
+   "phone": "(415) 555-0187"
+  },
+  {
+   "name": "Theo Nakamura",
+   "relation": "imaging core manager, Brightwater",
+   "email": "tnakamura@brightwatertx.com",
+   "phone": "(415) 555-0161"
+  },
+  {
+   "name": "Kevin Alvarez",
+   "relation": "property manager, Mission Street Properties",
+   "email": "kalvarez@missionstreetprops.com",
+   "phone": "(415) 555-0110"
+  },
+  {
+   "name": "Lucia Mendes",
+   "relation": "house cleaner, every other Friday",
+   "email": "luciamendes.clean@gmail.com",
+   "phone": "(415) 555-0119"
+  },
+  {
+   "name": "Marco Bellini",
+   "relation": "upstairs neighbor, Apt 4",
+   "email": "marco.bellini@gmail.com",
+   "phone": "(415) 555-0142"
+  },
+  {
+   "name": "Erin Cho",
+   "relation": "physical therapist, Coastline Physical Therapy",
+   "email": "frontdesk@coastlinept.com",
+   "phone": "(415) 555-0105"
+  },
+  {
+   "name": "Dr. Rachel Lindqvist",
+   "relation": "primary care, Hollis Park Medical",
+   "email": "portal@hollisparkmed.com",
+   "phone": "(415) 555-0190"
+  },
+  {
+   "name": "Juniper Street Dental",
+   "relation": "dentist (Dr. Haddad)",
+   "email": "hello@juniperstreetdental.com",
+   "phone": "(415) 555-0177"
+  },
+  {
+   "name": "Dolores Pharmacy",
+   "relation": "pharmacy",
+   "email": "rx@dolorespharmacy.com",
+   "phone": "(415) 555-0102"
+  },
+  {
+   "name": "Northfold Outfitters",
+   "relation": "outdoor clothing store, customer care",
+   "email": "help@northfold.com",
+   "phone": "(888) 555-0134"
+  },
+  {
+   "name": "Lena Chen",
+   "relation": "sister",
+   "email": "lena.chen.bauer@gmail.com",
+   "phone": "(720) 555-0164"
+  },
+  {
+   "name": "Hana",
+   "relation": "Mei's sister",
+   "email": "",
+   "phone": ""
+  }
+ ],
+ "email": [
+  {
+   "id": "e1",
+   "from": "United Airlines <receipts@united.com>",
+   "to": "me",
+   "date": "2025-12-01T19:22",
+   "subject": "Your receipt - confirmation P3LX8W",
+   "body": "Confirmation: P3LX8W\nPassenger: ALICE CHEN\n\nFri, Dec 5, 2025\nUA 1176  San Francisco (SFO) 8:00 AM - Boston (BOS) 4:35 PM\nEconomy  Seat 24C\n\nTue, Dec 9, 2025\nUA 2211  Boston (BOS) 6:10 PM - San Francisco (SFO) 9:48 PM\nEconomy  Seat 19D\n\nFare: $441.86\nTaxes and fees: $70.54\nTotal charged: $512.40\nVisa ending 5126",
+   "unread": false
+  },
+  {
+   "id": "e2",
+   "from": "Northfold Outfitters <orders@northfold.com>",
+   "to": "me",
+   "date": "2025-12-03T18:05",
+   "subject": "Order confirmed - NF-1987320",
+   "body": "Thanks for your order, Alice.\n\nSummit Down Jacket, Men's, Navy, L - $249.00\nGift wrap: Yes\nGift receipt included\n\nSubtotal: $249.00\nTax: $21.48\nTotal: $270.48\nVisa ending 5126",
+   "unread": false
+  },
+  {
+   "id": "e3",
+   "from": "Brightwater Expenses <expenses@brightwatertx.com>",
+   "to": "me",
+   "date": "2025-12-18T14:05",
+   "subject": "Expense report ER-1182 approved",
+   "body": "Report: ER-1182 - Winter Cell Biology Meeting, Boston (Dec 5-9)\nSubmitted by: Alice Chen\nApproved by: Priya Raman\n\nAirfare (United): $512.40\nHotel (Harborview Inn, 4 nights): $1,146.88\nMeals: $187.25\nGround transportation: $64.00\n\nTotal reimbursed: $1,910.53\nDeposit to checking ending 8203 on Dec 24.",
+   "unread": false
+  },
+  {
+   "id": "e4",
+   "from": "Mission Street Properties <leasing@missionstreetprops.com>",
+   "to": "me, Daniel Park",
+   "date": "2026-01-12T11:20",
+   "subject": "Your new lease is ready to sign",
+   "body": "Dear Alice and Daniel,\n\nYour renewal lease for 2847 Harrison St #3 is ready to sign in the resident portal.\n\nTerm: Feb 1, 2026 - Jan 31, 2027\nMonthly rent: $4,200.00 (previously $4,150.00)\nParking space #3 included.\n\nPlease sign by January 20.\n\nMission Street Properties Leasing",
+   "unread": false
+  },
+  {
+   "id": "e5",
+   "from": "Northfold Outfitters <orders@northfold.com>",
+   "to": "me",
+   "date": "2026-08-24T20:33",
+   "subject": "Order confirmed - NF-2291847",
+   "body": "Thanks for your order, Alice.\n\nRidgeline 2.5L Rain Shell, Women's, Moss, M - $189.00\nMerino 200 Crew Base Layer, Women's, Charcoal, M - $78.00\nTrail Wool Socks 2-pack, M - $26.00\n\nSubtotal: $293.00\nShipping: Free\nTax: $25.27\nTotal: $318.27\nVisa ending 5126\n\nShipping to: Alice Chen, 2847 Harrison St #3, San Francisco, CA 94110\nReturns accepted within 30 days of delivery.",
+   "unread": false
+  },
+  {
+   "id": "e6",
+   "from": "Mission Street Properties <noreply@missionstreetprops.com>",
+   "to": "me",
+   "date": "2026-08-28T09:00",
+   "subject": "Reminder: renters insurance proof due Sept 30",
+   "body": "Hi Alice,\n\nOur records show your renters insurance policy expires soon. Please upload a current declarations page in the resident portal by September 30. Minimum liability coverage required: $100,000.\n\nThank you,\nMission Street Properties",
+   "unread": false
+  },
+  {
+   "id": "e7",
+   "from": "Northfold Outfitters <returns@northfold.com>",
+   "to": "me",
+   "date": "2026-09-08T12:10",
+   "subject": "Your return label - NF-2291847",
+   "body": "Hi Alice,\n\nYour prepaid return label is attached.\n\nReturning: Ridgeline 2.5L Rain Shell, Women's, Moss, M\n\nPlease drop the package at any Pacific Parcel location by Sep 24. Once we receive it, your refund of $189.00 will go back to your Visa ending 5126 in 3 to 5 business days.\n\nNorthfold Outfitters Customer Care",
+   "unread": false
+  },
+  {
+   "id": "e8",
+   "from": "Juniper Street Dental <hello@juniperstreetdental.com>",
+   "to": "me",
+   "date": "2026-09-08T12:15",
+   "subject": "Appointment confirmed: Thu Oct 29, 8:00 AM",
+   "body": "Hi Alice,\n\nYou're booked for a cleaning and exam with Dr. Farah Haddad.\n\nThursday, October 29, 8:00 AM\nJuniper Street Dental, 2390 Mission St, Suite 210\n\nThis is your second cleaning of 2026, which your plan covers in full. X-rays are not due until next year.\n\nPlease give us 48 hours notice if you need to reschedule.",
+   "unread": false
+  },
+  {
+   "id": "e9",
+   "from": "United Airlines <receipts@united.com>",
+   "to": "me",
+   "date": "2026-09-12T15:41",
+   "subject": "Your receipt - confirmation K7QM2D",
+   "body": "Confirmation: K7QM2D\nPassengers: ALICE CHEN, DANIEL PARK\n\nFri, Oct 30, 2026\nUA 2274  San Francisco (SFO) 7:05 AM - Denver (DEN) 10:38 AM\nEconomy (K)  Seats 21A, 21B\n\nMon, Nov 2, 2026\nUA 1839  Denver (DEN) 6:15 PM - San Francisco (SFO) 8:02 PM\nEconomy (K)  Seats 18E, 18F\n\nFare per passenger: $298.14\nTaxes and fees per passenger: $50.46\nTotal per passenger: $348.60\n\nTotal charged: $697.20\nVisa ending 5126\n\nCarry-on bag and personal item included. First checked bag $40 each way.",
+   "unread": false
+  },
+  {
+   "id": "e10",
+   "from": "Granite Hall Climbing <members@granitehall.com>",
+   "to": "me",
+   "date": "2026-09-15T11:02",
+   "subject": "Membership freeze confirmed",
+   "body": "Hi Alice,\n\nYour membership freeze is set.\n\nFreeze: Oct 1 - Oct 31, 2026\nFreeze fee: $15.00, charged Sep 30\nBilling resumes Nov 1 at $95.00/month\n\nWhile frozen you can still climb on a day pass ($28) or come in as a member's guest ($22). Feel better soon.",
+   "unread": false
+  },
+  {
+   "id": "e11",
+   "from": "Northfold Outfitters <returns@northfold.com>",
+   "to": "me",
+   "date": "2026-09-17T09:40",
+   "subject": "Return received, refund issued - NF-2291847",
+   "body": "Hi Alice,\n\nWe received your return and issued a refund.\n\nRidgeline 2.5L Rain Shell, Women's, Moss, M\nRefund: $189.00\nTo: Visa ending 5126\n\nIt can take 3 to 5 business days to show on your statement.",
+   "unread": false
+  },
+  {
+   "id": "e12",
+   "from": "Coastline Physical Therapy <frontdesk@coastlinept.com>",
+   "to": "me",
+   "date": "2026-09-22T10:05",
+   "subject": "Your plan of care and upcoming visits",
+   "body": "Hi Alice,\n\nThanks for coming in today. Here's your plan with Erin Cho, DPT.\n\nDiagnosis: left rotator cuff strain\nVisits authorized by Pacific Crest Health: 6, through Nov 20\nCopay: $40 per visit\n\nUpcoming visits (Tuesdays, 7:30 AM):\nSep 29, Oct 6, Oct 13, Oct 20, Oct 27\n\nPlease do your home exercises daily. Cancel at least 24 hours ahead to avoid a $50 late-cancel fee.\n\nCoastline Physical Therapy\n1490 Valencia St, San Francisco",
+   "unread": false
+  },
+  {
+   "id": "e13",
+   "from": "Daniel Park <daniel.park.arch@gmail.com>",
+   "to": "me",
+   "date": "2026-09-24T13:12",
+   "subject": "Fwd: Itinerary for Daniel Park",
+   "body": "FYI\n\n---------- Forwarded message ----------\nFrom: United Airlines <receipts@united.com>\nSubject: Itinerary for Daniel Park\n\nConfirmation: R9VD4J\nPassenger: DANIEL PARK\n\nSat, Oct 17, 2026\nUA 1532  New York (JFK) 3:05 PM - San Francisco (SFO) 6:20 PM\nEconomy  Seat 31C\n\nCarry-on bag and personal item included.",
+   "unread": false
+  },
+  {
+   "id": "e14",
+   "from": "Mom <susan.chen.co@gmail.com>",
+   "to": "me",
+   "date": "2026-09-25T16:48",
+   "subject": "Guest room and December",
+   "body": "Dear Alice,\n\nLena says you and Daniel come on the 30th. I will have the guest room ready. I cleaned out the garage last weekend and found your science fair ribbons from 7th grade, I will keep them for you.\n\nThe school is having a retirement lunch for me on December 18 at 12:00 in the library. You don't have to come, it's a work day for you. I just wanted you to know.\n\nTell Daniel I am making his favorite char siu buns.\n\nLove,\nMom",
+   "unread": false
+  },
+  {
+   "id": "e15",
+   "from": "Daniel Park <daniel.park.arch@gmail.com>",
+   "to": "me",
+   "date": "2026-09-27T20:41",
+   "subject": "Fwd: Fogline Internet - September statement",
+   "body": "For the sheet.\n\n---------- Forwarded message ----------\nFrom: Fogline Internet <billing@foglinenet.com>\nSubject: September statement\n\nAccount: Daniel Park, 2847 Harrison St #3\nGigabit Fiber, September: $65.00\nCharged to card ending 7714 on Sep 25.",
+   "unread": false
+  },
+  {
+   "id": "e16",
+   "from": "Mission Street Properties <leasing@missionstreetprops.com>",
+   "to": "me, Daniel Park",
+   "date": "2026-09-28T10:30",
+   "subject": "Lease renewal offer - 2847 Harrison St #3",
+   "body": "Dear Alice Chen and Daniel Park,\n\nYour current lease ends January 31, 2027. Current monthly rent: $4,200.00.\n\nRenewal options:\n1. 12-month lease, Feb 1, 2027 - Jan 31, 2028: $4,429.00/month\n2. Month-to-month starting Feb 1, 2027: $4,730.00/month\n\nPlease choose an option in the resident portal by November 15, 2026. If we don't hear from you, the lease will convert to month-to-month at the rate above.\n\nMission Street Properties Leasing",
+   "unread": false
+  },
+  {
+   "id": "e17",
+   "from": "Pacific Bay Energy <billing@pacificbayenergy.com>",
+   "to": "me",
+   "date": "2026-09-29T06:00",
+   "subject": "Your September bill is ready",
+   "body": "Account ending 0937\nService address: 2847 Harrison St Apt 3, San Francisco\nBilling period: Aug 24 - Sep 23, 2026\n\nElectric, 212 kWh: $71.88\nGas, 18 therms: $40.48\nAmount due: $112.36\n\nAutopay will charge your Visa ending 5126 on Oct 6.\n\nLast bill (Jul 24 - Aug 23): $98.74, paid Sep 6.",
+   "unread": false
+  },
+  {
+   "id": "e18",
+   "from": "Northfold Outfitters <orders@northfold.com>",
+   "to": "me",
+   "date": "2026-09-29T21:15",
+   "subject": "Order confirmed - NF-2304412",
+   "body": "Thanks for your order, Alice.\n\nTrailhead Fleece Beanie, Charcoal - $32.00\nBackordered: estimated to ship Oct 6\n\nSubtotal: $32.00\nShipping: Free\nTax: $2.76\nTotal: $34.76\nVisa ending 5126",
+   "unread": false
+  },
+  {
+   "id": "e19",
+   "from": "Northfold Rewards <rewards@northfold.com>",
+   "to": "me",
+   "date": "2026-09-30T10:00",
+   "subject": "Alice, your $20 reward expires Oct 31",
+   "body": "You have 1,240 points and a $20 reward waiting.\n\nReward code: NFR-20-K8WQ\nExpires: Oct 31, 2026\nGood online or in store, including our Valencia St shop.",
+   "unread": true
+  },
+  {
+   "id": "e20",
+   "from": "United MileagePlus <mileageplus@united.com>",
+   "to": "me",
+   "date": "2026-10-01T06:00",
+   "subject": "Your October MileagePlus statement",
+   "body": "Alice Chen\nMileagePlus # ending 4730\n\nMileage balance: 41,286\nActivity since last statement:\n09/12  Award miles pending - K7QM2D (posts after travel)\n09/18  Bayline Visa partner miles +612\n\nUpcoming trip: San Francisco to Denver, Fri Oct 30.\n\nYour miles don't expire.",
+   "unread": false
+  },
+  {
+   "id": "e21",
+   "from": "Hollis Park Medical <portal@hollisparkmed.com>",
+   "to": "me",
+   "date": "2026-10-01T07:32",
+   "subject": "Message from Dr. Lindqvist about your results",
+   "body": "Hi Alice,\n\nYour labs from 9/28 look good overall.\n\nTSH 2.1 (range 0.45-4.5). Your thyroid is well controlled, so stay on levothyroxine 75 mcg daily.\nVitamin D 24 ng/mL. That's on the low side. Please start vitamin D3 2,000 IU daily with food, and we'll recheck at your next physical.\nLDL 96, A1c 5.2. Both normal.\n\nNo follow-up needed before next year unless something comes up. Good luck with the shoulder PT.\n\nDr. Rachel Lindqvist\nHollis Park Medical",
+   "unread": false
+  },
+  {
+   "id": "e22",
+   "from": "Mission Street Properties <noreply@missionstreetprops.com>",
+   "to": "me",
+   "date": "2026-10-01T08:14",
+   "subject": "Payment received - 2847 Harrison St #3",
+   "body": "Thank you for your payment.\n\nResident: Alice Chen\nUnit: 2847 Harrison St #3\nAmount: $4,200.00\nMethod: ACH, checking ending 8203\nApplied to: October 2026 rent\n\nUnit balance after this payment: $0.00\n\nRent is due on the 1st. A $75 late fee applies to balances unpaid after the 5th.",
+   "unread": false
+  },
+  {
+   "id": "e23",
+   "from": "BioImage Computing Workshop 2026 <chairs@bioimagecomputing.org>",
+   "to": "me",
+   "date": "2026-10-01T16:05",
+   "subject": "Reminder: camera-ready due Oct 10 - Paper #112",
+   "body": "Dear Alice Chen,\n\nPaper #112: Label-free tracking of epithelial barrier recovery in colon organoids\n\nReminder: camera-ready versions are due Saturday Oct 10, 11:59 pm AoE. Please upload the final PDF and the signed copyright form in the submission system. Camera-ready papers may be up to 9 pages plus references.\n\nBioImage Computing Workshop 2026 Organizing Committee",
+   "unread": false
+  },
+  {
+   "id": "e24",
+   "from": "Bayline Credit Union <statements@baylinecu.org>",
+   "to": "me",
+   "date": "2026-10-02T06:00",
+   "subject": "Your September statements are ready",
+   "body": "Hi Alice,\n\nYour statements for the period ending Sep 30 are ready in online banking.\n\nChecking ending 8203\nVisa ending 5126: statement balance $1,846.22, minimum due $40.00, due Oct 25. Autopay is set to pay the full statement balance.",
+   "unread": false
+  },
+  {
+   "id": "e25",
+   "from": "Sam <sam.whitfield@brightwatertx.com>",
+   "to": "me",
+   "date": "2026-10-02T17:10",
+   "subject": "Culture handoff 10/26-10/28",
+   "body": "Thanks again for covering. Here's everything:\n\nHEK293T (P14, flask labeled SW-HEK): passage Tue 10/27, 1:10 split. Freeze one vial on Tuesday if they look good.\nBW-CO7 organoids: feed Mon 10/26 and Wed 10/28 with ENR media. Media is in the 4C, shelf 2, labeled SW.\nPlease don't touch the knockdown plates on the top shelf of incubator 3, they're timed for when I'm back.\n\nI'm back Thursday 10/29. I've got your cultures Fri 10/30 and Mon 11/2, just leave me the same kind of sheet.\n\nSam",
+   "unread": false
+  },
+  {
+   "id": "e26",
+   "from": "Crumb Theory Bakery <orders@crumbtheory.com>",
+   "to": "me",
+   "date": "2026-10-03T13:20",
+   "subject": "Order CT-5521 confirmed - pickup Sat Nov 7",
+   "body": "Hi Alice,\n\n8\" Chocolate Olive Oil Cake\nWriting: Happy 35th Mei\nCandles: 1 pack\n\nPaid: $58.00, Visa ending 5126\nPickup: Saturday, Nov 7, 2-5 PM\nCrumb Theory, 3150 18th St, San Francisco\n\nOur kitchen is 100% gluten-free. Keep the cake refrigerated and take it out an hour before serving.",
+   "unread": false
+  },
+  {
+   "id": "e27",
+   "from": "Lena Chen <lena.chen.bauer@gmail.com>",
+   "to": "me",
+   "date": "2026-10-03T20:02",
+   "subject": "Mom's 65th - plan + money",
+   "body": "Ok here's where we are.\n\nWhere: Ember & Vine, Garden Room, Sat Oct 31, 6:30 PM\nWho: 13 adults + Leo\nFood: prix fixe $72/adult, kids menu $18. With tax and 20% tip I'm guessing around $1,230 total.\nDeposit: $300, I paid it on my card. It comes off the final bill.\n\nMoney: you and me 50/50 on everything. Send me $150 for half the deposit whenever, and I'll send you a request for the rest after the dinner.\n\nGift: I'm making the photo book ($86, so $43 each). Send me your 10 best photos of Mom by the 15th.\n\nMenu picks (salmon, lamb shank, mushroom risotto) are due to the restaurant by Oct 20, tell me yours and Daniel's.\n\nDon't tell Mom about the slideshow.\n\nL",
+   "unread": false
+  },
+  {
+   "id": "e28",
+   "from": "Lena Chen <lena.chen.bauer@gmail.com>",
+   "to": "me",
+   "date": "2026-10-03T20:05",
+   "subject": "Fwd: Private dining confirmation - Ember & Vine",
+   "body": "FYI\n\n---------- Forwarded message ----------\nFrom: Ember & Vine Events <events@emberandvinedenver.com>\nSubject: Private dining confirmation\n\nHi Lena,\n\nYou're confirmed for the Garden Room.\nDate: Saturday, October 31, 6:30-9:30 PM\nParty: Chen, 14 guests\nDeposit: $300.00 received (card ending 2208), applied to your final bill\nMenu selections due: October 20\nFinal headcount due: October 27\nCancellations within 48 hours forfeit the deposit.\n\nEmber & Vine, 3410 Tejon St, Denver",
+   "unread": false
+  },
+  {
+   "id": "e29",
+   "from": "Pacific Crest Health <claims@pacificcresthealth.com>",
+   "to": "me",
+   "date": "2026-10-04T05:00",
+   "subject": "Your Explanation of Benefits is ready",
+   "body": "Member: Alice Chen\nPlan: Brightwater PPO\n\nClaim 1: Coastline Physical Therapy, 09/22/2026, PT evaluation\nBilled: $285.00  Allowed: $196.40  Plan paid: $156.40  You owe: $40.00 (copay)\n\nClaim 2: Hollis Park Medical, 09/28/2026, preventive visit and labs\nBilled: $412.00  Allowed: $268.15  Plan paid: $268.15  You owe: $0.00\n\nThis is not a bill.",
+   "unread": false
+  },
+  {
+   "id": "e30",
+   "from": "United Airlines <deals@united.com>",
+   "to": "me",
+   "date": "2026-10-04T10:02",
+   "subject": "Fare alert: San Francisco to Los Angeles from $189",
+   "body": "You asked us to watch this route.\n\nSFO - LAX roundtrip\nDepart Wed, Nov 25 - Return Sun, Nov 29\nEconomy from $189 per person (was $214 when you set the alert)\n\nFares can change at any time. Thanksgiving week seats are selling quickly.",
+   "unread": true
+  },
+  {
+   "id": "e31",
+   "from": "Northfold Outfitters <hello@northfold.com>",
+   "to": "me",
+   "date": "2026-10-05T07:00",
+   "subject": "Layering for a wet fall + Fall Trail Days",
+   "body": "Rain's coming back. Here's how we layer for it: merino base, light fleece, and a shell that actually breathes.\n\nFall Trail Days, Oct 16-19: members get 20% off insulation and rain gear.\n\nFree clinic at our Valencia St store: re-waterproofing your shell, Thu Oct 15, 6:30 PM.",
+   "unread": true
+  },
+  {
+   "id": "e32",
+   "from": "Kevin Alvarez <kalvarez@missionstreetprops.com>",
+   "to": "me",
+   "date": "2026-10-05T14:52",
+   "subject": "Maintenance request MS-4471 - kitchen sink",
+   "body": "Hi Alice and Daniel,\n\nThanks for the photos of the drain leak under the kitchen sink. Bayside Plumbing is scheduled for Friday, October 9, between 8 and 11 AM. They'll replace the trap and check the supply lines.\n\nPlease clear out the cabinet under the sink before they arrive. There's no charge to you for this repair.\n\nThe bathroom fan is on the list too. I'm waiting on a quote from our electrician and will follow up separately.\n\nKevin Alvarez\nProperty Manager, Mission Street Properties\n(415) 555-0110",
+   "unread": false
+  },
+  {
+   "id": "e33",
+   "from": "Priya Raman <priya.raman@brightwatertx.com>",
+   "to": "me, Sam, Nadia Kowalski",
+   "date": "2026-10-05T19:44",
+   "subject": "PCSS abstracts - drafts to me by 10/16",
+   "body": "Hi all,\n\nPacific Cell Signaling Symposium abstracts are due Tuesday 10/20 at 5 PM Pacific. 300 words max, one figure optional.\n\nAlice: the organoid barrier recovery story, with the TEER time course as the figure.\nNadia: the TNF dose-response work.\nSam: you're a co-author on both, please send Alice your knockdown numbers before the 16th.\n\nDrafts to me by Friday 10/16 so I have the weekend. Lab meeting is Wednesday 10/14 at 10 this week (moved for the seminar), Alice presenting.\n\nPriya",
+   "unread": false
+  },
+  {
+   "id": "e34",
+   "from": "Brightwater Benefits <benefits@brightwatertx.com>",
+   "to": "me",
+   "date": "2026-10-06T09:00",
+   "subject": "Open enrollment is Nov 2-13",
+   "body": "Open enrollment for 2027 benefits runs November 2-13 in Workday.\n\nWhat's changing:\n- Pacific Crest PPO employee premiums go up about 4%.\n- Healthcare FSA limit rises to $3,300.\n- New: $40/month commuter benefit for bike share.\n\nIf you do nothing, your current elections roll over, except FSA, which you must re-elect.\n\nInfo session: Wed Oct 21, 12 PM, Room 1B and on video.",
+   "unread": true
+  },
+  {
+   "id": "e35",
+   "from": "Northfold Outfitters <orders@northfold.com>",
+   "to": "me",
+   "date": "2026-10-06T15:02",
+   "subject": "Your order has shipped - NF-2304412",
+   "body": "Good news, your order is on the way.\n\nTrailhead Fleece Beanie, Charcoal\nCarrier: Pacific Parcel\nEstimated delivery: Fri, Oct 9 by 8 PM\nNo signature required.",
+   "unread": false
+  },
+  {
+   "id": "e36",
+   "from": "Mission Street Properties <noreply@missionstreetprops.com>",
+   "to": "me",
+   "date": "2026-10-06T16:00",
+   "subject": "Notice: water shutoff Wed Oct 14, 9 AM - 1 PM",
+   "body": "To all residents of 2847 Harrison St:\n\nWater will be shut off on Wednesday, October 14, from 9 AM to 1 PM so our plumber can replace the main riser valve. Please store water for drinking and cooking ahead of time and keep faucets closed during the work.\n\nQuestions: Kevin Alvarez, (415) 555-0110.",
+   "unread": false
+  },
+  {
+   "id": "e37",
+   "from": "United Airlines <notifications@united.com>",
+   "to": "me",
+   "date": "2026-10-06T21:08",
+   "subject": "Schedule change for your trip to Denver (K7QM2D)",
+   "body": "Hi Alice,\n\nWe've made a change to your upcoming trip.\n\nFri, Oct 30\nUA 2274  SFO - DEN\nWas: depart 7:05 AM, arrive 10:38 AM\nNow: depart 8:20 AM, arrive 11:52 AM\n\nYour seats (21A, 21B) have not changed. Your return flight on Mon, Nov 2 (UA 1839, 6:15 PM) is not affected.\n\nIf the new time doesn't work for you, you can switch to another flight between SFO and DEN on the same day at no cost in My Trips.\n\nUnited Airlines",
+   "unread": false
+  },
+  {
+   "id": "e38",
+   "from": "Northfold Outfitters <giftcards@northfold.com>",
+   "to": "me",
+   "date": "2026-10-07T12:48",
+   "subject": "Your e-gift card is scheduled",
+   "body": "Order GC-778213\n\nNorthfold e-gift card: $200.00\nTo: Mei Huang (mei.huang.sf@gmail.com)\nDelivery: Sat, Oct 24 at 9:00 AM\nMessage: Happy 35th! For Patagonia. Love, Alice, Daniel, Jess, Ravi and Sam\n\nCharged to Visa ending 5126.",
+   "unread": false
+  },
+  {
+   "id": "e39",
+   "from": "Theo Nakamura <tnakamura@brightwatertx.com>",
+   "to": "me",
+   "date": "2026-10-07T16:22",
+   "subject": "Confocal booking moved: LSM 980, Tue Oct 13 1-4 PM",
+   "body": "Hi Alice,\n\nThe 980 is down Monday 10/12 for laser service, so I moved your session from Mon 1-4 PM to Tue 10/13, 1-4 PM. Same room (Imaging Core, 210).\n\nRate is $45/hr, billed to cost center 4410. Please cancel at least 24 hours ahead or the full block is charged.\n\nTheo Nakamura\nImaging Core Manager",
+   "unread": false
+  }
+ ],
+ "texts": [
+  {
+   "id": "t1",
+   "with": "Northfold Outfitters",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Northfold Outfitters",
+     "date": "2026-08-26T10:12",
+     "body": "Northfold: Your order NF-2291847 has shipped with Pacific Parcel, arriving Sat 8/29."
+    },
+    {
+     "from": "Northfold Outfitters",
+     "date": "2026-08-29T14:31",
+     "body": "Northfold: Delivered. Order NF-2291847 was left at the front door."
+    },
+    {
+     "from": "Northfold Outfitters",
+     "date": "2026-10-06T15:03",
+     "body": "Northfold: Your order NF-2304412 has shipped, arriving Fri 10/9 by 8 PM."
+    }
+   ]
+  },
+  {
+   "id": "t2",
+   "with": "Marco Bellini",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Marco Bellini",
+     "date": "2026-08-29T17:45",
+     "body": "Hey, a Northfold box was sitting at the front door for #3. I brought it up to mine, grab it whenever."
+    },
+    {
+     "from": "me",
+     "date": "2026-08-29T17:58",
+     "body": "Thank you! I'll come up around 7."
+    },
+    {
+     "from": "Marco Bellini",
+     "date": "2026-10-07T19:20",
+     "body": "Can I borrow your step ladder this weekend? Changing the hallway bulb on our landing."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T19:33",
+     "body": "Sure, Daniel's home Friday morning, grab it from him. Another box is coming Friday too if you see it."
+    }
+   ]
+  },
+  {
+   "id": "t3",
+   "with": "Daniel Park",
+   "unread": false,
+   "messages": [
+    {
+     "from": "me",
+     "date": "2026-09-10T19:42",
+     "body": "the Northfold M was way too tight in the shoulders, sent it back"
+    },
+    {
+     "from": "Daniel Park",
+     "date": "2026-09-28T22:10",
+     "body": "Since my raise, let's do rent 60/40 starting October - I'll cover the 60"
+    },
+    {
+     "from": "Daniel Park",
+     "date": "2026-10-02T12:31",
+     "body": "Ordered your mom that Fellow kettle she kept looking at last time, it's from me for her birthday"
+    },
+    {
+     "from": "Daniel Park",
+     "date": "2026-10-04T16:08",
+     "body": "I'll come straight from SFO on the 17th, no time to go home first"
+    },
+    {
+     "from": "Daniel Park",
+     "date": "2026-10-06T18:12",
+     "body": "Kevin says plumber Fri 8-11. I'll work from home Friday morning so someone's here."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T18:20",
+     "body": "Thank you. I asked Lucia to move to Monday at 11 so she's not working around the plumber. Tom lands 6:40 Fri right?"
+    },
+    {
+     "from": "Daniel Park",
+     "date": "2026-10-06T18:22",
+     "body": "6:40 into SFO. I'll drive if it's raining, otherwise BART."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T08:57",
+     "body": "United moved our Denver flight. Now 8:20 out, lands 11:52. Same seats. Owen's getting us instead of Lena."
+    },
+    {
+     "from": "Daniel Park",
+     "date": "2026-10-07T09:02",
+     "body": "More sleep, fine by me. Return the same?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T09:04",
+     "body": "Yes, still 6:15 Monday."
+    },
+    {
+     "from": "Daniel Park",
+     "date": "2026-10-07T09:10",
+     "body": "I still owe you 348.60 for my ticket. Now or with the Nov 1 settle up?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T09:14",
+     "body": "Nov 1 is fine, I'll put it on the sheet. Plus $40 for Mei's gift card."
+    }
+   ]
+  },
+  {
+   "id": "t4",
+   "with": "United Airlines",
+   "unread": false,
+   "messages": [
+    {
+     "from": "United Airlines",
+     "date": "2026-09-12T15:44",
+     "body": "United: Thanks for booking. Confirmation K7QM2D, SFO to DEN on Oct 30, 2 travelers."
+    },
+    {
+     "from": "United Airlines",
+     "date": "2026-10-06T21:10",
+     "body": "United: Your flight UA 2274 on Oct 30 has a new schedule. Departs SFO 8:20 AM, arrives DEN 11:52 AM. Details in the United app."
+    }
+   ]
+  },
+  {
+   "id": "t5",
+   "with": "Bayline Credit Union",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Bayline Credit Union",
+     "date": "2026-09-17T10:12",
+     "body": "Bayline Alert: A credit of $189.00 from NORTHFOLD OUTFITTERS posted to Visa ending 5126."
+    },
+    {
+     "from": "Bayline Credit Union",
+     "date": "2026-10-05T08:00",
+     "body": "Bayline Alert: Visa ending 5126 statement balance $1,846.22, minimum $40.00 due 10/25. Autopay will pay the full balance."
+    }
+   ]
+  },
+  {
+   "id": "t6",
+   "with": "Hollis Park Medical",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Hollis Park Medical",
+     "date": "2026-09-27T09:00",
+     "body": "Hollis Park Medical: Reminder of your annual physical with Dr. Lindqvist on Mon 9/28 at 8:40 AM. Please fast for 10 hours before for labs."
+    },
+    {
+     "from": "Hollis Park Medical",
+     "date": "2026-10-01T07:30",
+     "body": "Hollis Park Medical: New test results and a message from your provider are in your patient portal."
+    }
+   ]
+  },
+  {
+   "id": "t7",
+   "with": "Granite Hall Climbing",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Granite Hall Climbing",
+     "date": "2026-09-30T09:00",
+     "body": "Granite Hall: Your membership freeze is active Oct 1-31. A $15 freeze fee was charged. Billing resumes 11/1 at $95/mo."
+    },
+    {
+     "from": "me",
+     "date": "2026-09-30T09:20",
+     "body": "Can I still come in to belay a friend?"
+    },
+    {
+     "from": "Granite Hall Climbing",
+     "date": "2026-09-30T10:05",
+     "body": "Yes! Day pass is $28, or $22 as a member's guest."
+    }
+   ]
+  },
+  {
+   "id": "t8",
+   "with": "Priya Raman",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Priya Raman",
+     "date": "2026-10-01T13:55",
+     "body": "Running 10 min late for our 1:1. Grab 4B and I'll be right there."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-01T13:56",
+     "body": "No problem."
+    },
+    {
+     "from": "Priya Raman",
+     "date": "2026-10-01T16:30",
+     "body": "Approved your PTO for 10/30 and 11/2 in Workday. Make sure Sam has your cultures."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T11:31",
+     "body": "Thank you! He's got them, we swapped."
+    }
+   ]
+  },
+  {
+   "id": "t9",
+   "with": "Sam",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Sam",
+     "date": "2026-10-02T11:05",
+     "body": "Can you cover my cultures 10/26-28? HEK293T passage Tue, organoids feed Mon/Wed. I'll email a sheet."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T11:20",
+     "body": "Yes. Can you do mine Fri 10/30 and Mon 11/2? I'm in Denver for my mom's birthday."
+    },
+    {
+     "from": "Sam",
+     "date": "2026-10-02T11:22",
+     "body": "Done. Putting both on the shared lab calendar."
+    },
+    {
+     "from": "Sam",
+     "date": "2026-10-07T16:40",
+     "body": "Theo moved your confocal to Tue 10/13 1-4, the 980 is down Monday for service."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T16:52",
+     "body": "Ok thanks. Tuesday morning is PT so the afternoon works."
+    }
+   ]
+  },
+  {
+   "id": "t10",
+   "with": "Jess",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Jess",
+     "date": "2026-10-02T17:30",
+     "body": "Do you still have that cast iron? I want to make shakshuka at camp"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T17:41",
+     "body": "Yes but it's not safe for Mei, it's had bread in it forever. I bought a new pan just for camp. Shakshuka in that and everyone eats it."
+    },
+    {
+     "from": "Jess",
+     "date": "2026-10-02T17:43",
+     "body": "Smart. Corn tortillas instead of pita then"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T17:45",
+     "body": "Already on the list. I'm also grabbing a pack of that NA hazy you liked from Folsom St Market."
+    },
+    {
+     "from": "Jess",
+     "date": "2026-10-02T17:48",
+     "body": "I said I'd bring some too, so we'll be swimming in it. And truly not a big deal if people drink"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T17:50",
+     "body": "I know. Daniel's bringing two beers, that's it."
+    }
+   ]
+  },
+  {
+   "id": "t11",
+   "with": "Dolores Pharmacy",
+   "unread": true,
+   "messages": [
+    {
+     "from": "Dolores Pharmacy",
+     "date": "2026-10-03T11:24",
+     "body": "Dolores Pharmacy: Thanks for visiting. Your flu vaccine was recorded and sent to your provider."
+    },
+    {
+     "from": "Dolores Pharmacy",
+     "date": "2026-10-07T14:02",
+     "body": "Dolores Pharmacy: A prescription for ALICE C is ready for pickup at 3021 24th St. Copay $10.00. We'll hold it until 10/14."
+    }
+   ]
+  },
+  {
+   "id": "t12",
+   "with": "Mei",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Mei",
+     "date": "2026-10-03T21:00",
+     "body": "My sister found my sleeping bag but I still want to borrow yours, it's so much warmer"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-03T21:04",
+     "body": "Take it. I'll bring it in the car Saturday."
+    },
+    {
+     "from": "Mei",
+     "date": "2026-10-03T21:05",
+     "body": "Also please don't do anything for my birthday. I mean it."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-03T21:06",
+     "body": "Noted."
+    },
+    {
+     "from": "Mei",
+     "date": "2026-10-06T12:15",
+     "body": "Ravi says everyone's coming over for dinner on the 7th. If anyone's planning something else, please nothing from a place with a shared fryer. I got glutened at that taco place in August and lost three days."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T12:22",
+     "body": "Nobody's planning anything. But if they were, it would be safe. Promise."
+    }
+   ]
+  },
+  {
+   "id": "t13",
+   "with": "Ravi Shah",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Ravi Shah",
+     "date": "2026-10-04T10:04",
+     "body": "Sent you $29 for half the cake. She thinks the 7th is just dinner."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-04T10:10",
+     "body": "Perfect. Daniel and I will bring it over at 7:15."
+    },
+    {
+     "from": "Ravi Shah",
+     "date": "2026-10-04T10:12",
+     "body": "She's going to be so mad. In a good way."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T12:25",
+     "body": "She just texted me 'no shared fryer' for the 7th. She suspects something."
+    },
+    {
+     "from": "Ravi Shah",
+     "date": "2026-10-06T12:40",
+     "body": "She always says that. We're fine."
+    }
+   ]
+  },
+  {
+   "id": "t14",
+   "with": "Tom",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Tom",
+     "date": "2026-10-05T14:22",
+     "body": "Hey Alice, Daniel said it's cool if I crash Fri-Mon? Kyle's wedding is Saturday in Sonoma."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T14:40",
+     "body": "Of course. Couch is yours. You can take the Subaru Saturday, just fill the tank."
+    },
+    {
+     "from": "Tom",
+     "date": "2026-10-05T14:42",
+     "body": "Deal. I land SFO 6:40 Friday."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T15:12",
+     "body": "Heads up, our cleaner comes Monday at 11 so you'll need to be out by then. Daniel has the spare key for you."
+    },
+    {
+     "from": "Tom",
+     "date": "2026-10-05T15:14",
+     "body": "My flight Monday is 9:10, I'll be gone by 7. Sunday dim sum is on me."
+    }
+   ]
+  },
+  {
+   "id": "t15",
+   "with": "Lucia Mendes",
+   "unread": false,
+   "messages": [
+    {
+     "from": "me",
+     "date": "2026-10-05T14:58",
+     "body": "Hi Lucia, could we move Friday 10/9 to Monday 10/12? We have a plumber coming Friday morning."
+    },
+    {
+     "from": "Lucia Mendes",
+     "date": "2026-10-05T15:05",
+     "body": "Monday ok. 11 am?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T15:07",
+     "body": "11 is perfect. Same $150, I'll Venmo after."
+    },
+    {
+     "from": "Lucia Mendes",
+     "date": "2026-10-05T15:08",
+     "body": "Thank you. I will do the oven this time, last time no time."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T15:09",
+     "body": "Great, thank you! Then back to normal Friday 10/23."
+    }
+   ]
+  },
+  {
+   "id": "t16",
+   "with": "Kevin Alvarez",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Kevin Alvarez",
+     "date": "2026-10-05T15:10",
+     "body": "Hi Alice, Bayside Plumbing confirmed Fri 10/9 between 8 and 11 for the kitchen sink. Will someone be home or should I let them in with the master key?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T15:25",
+     "body": "Daniel will be home. Please have them call him at (415) 555-0182 when they're on the way."
+    },
+    {
+     "from": "Kevin Alvarez",
+     "date": "2026-10-05T15:27",
+     "body": "Will do. Also a reminder that the renewal offer needs an answer by 11/15."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T15:30",
+     "body": "Got it, we'll reply before then. Any update on the bathroom fan?"
+    },
+    {
+     "from": "Kevin Alvarez",
+     "date": "2026-10-05T15:41",
+     "body": "Electrician quote should come this week. I'll let you know."
+    }
+   ]
+  },
+  {
+   "id": "t17",
+   "with": "Coastline Physical Therapy",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Coastline Physical Therapy",
+     "date": "2026-10-05T18:00",
+     "body": "Coastline PT: Reminder, Alice has an appointment Tue 10/6 at 7:30 AM with Erin Cho. Reply R to reschedule."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T18:21",
+     "body": "R. Is anything later that morning open? I have an early call."
+    },
+    {
+     "from": "Coastline Physical Therapy",
+     "date": "2026-10-05T18:40",
+     "body": "Hi Alice, Erin has 8:15 on 10/6. We moved you to 8:15."
+    },
+    {
+     "from": "Coastline Physical Therapy",
+     "date": "2026-10-06T09:10",
+     "body": "Coastline PT: Your next appointment is Tue 10/13 at 7:30 AM with Erin Cho. Visit 4 of 6 authorized."
+    }
+   ]
+  },
+  {
+   "id": "t18",
+   "with": "Juniper Street Dental",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Juniper Street Dental",
+     "date": "2026-10-06T09:00",
+     "body": "Juniper Street Dental: Hi Alice, reminder of your cleaning with Dr. Haddad on Thu 10/29 at 8:00 AM. Reply C to confirm, R to reschedule."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T09:14",
+     "body": "C"
+    },
+    {
+     "from": "Juniper Street Dental",
+     "date": "2026-10-06T09:14",
+     "body": "Thanks Alice, you're confirmed for Thu 10/29 at 8:00 AM."
+    }
+   ]
+  },
+  {
+   "id": "t19",
+   "with": "Helen Park",
+   "unread": true,
+   "messages": [
+    {
+     "from": "Helen Park",
+     "date": "2026-10-06T19:02",
+     "body": "Alice, thank you for having Tom this weekend. He's hopeless about towels. I'm sending a bag with him for you two."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T19:15",
+     "body": "We're happy to have him! Thank you Helen."
+    },
+    {
+     "from": "Helen Park",
+     "date": "2026-10-06T19:20",
+     "body": "Persimmons from the tree. Eat them when they're soft, not before."
+    }
+   ]
+  },
+  {
+   "id": "t20",
+   "with": "Owen",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Owen",
+     "date": "2026-10-07T09:20",
+     "body": "Hey, Owen here. I'll grab you two at DEN on the 30th. 11:52 arrival, UA 2274? I'll wait in the cell phone lot, text when you're out."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T09:31",
+     "body": "Yes UA 2274. Carry-on only so we'll be quick. Thank you!"
+    },
+    {
+     "from": "Owen",
+     "date": "2026-10-07T09:33",
+     "body": "Leo's coming too, he wants to see the planes."
+    }
+   ]
+  }
+ ],
+ "whatsapp": [
+  {
+   "id": "w1",
+   "chat": "Parks",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Daniel Park",
+     "date": "2026-09-03T20:14",
+     "body": "Tom sent me the whole Le Carré box set for my birthday, all the Smiley ones"
+    },
+    {
+     "from": "Helen Park",
+     "date": "2026-09-24T17:10",
+     "body": "Thanksgiving at my house again. Come Wednesday? Tom you're on the couch, Daniel and Alice get the guest room."
+    },
+    {
+     "from": "Tom",
+     "date": "2026-09-24T17:22",
+     "body": "Couch again. Fine."
+    },
+    {
+     "from": "Daniel Park",
+     "date": "2026-09-24T17:30",
+     "body": "We'll fly Wed the 25th, back Sunday."
+    },
+    {
+     "from": "me",
+     "date": "2026-09-24T17:36",
+     "body": "I'm watching United fares to LAX, about $214 right now. Helen what should we bring?"
+    },
+    {
+     "from": "Helen Park",
+     "date": "2026-09-24T17:40",
+     "body": "Alice the brussels sprouts like last year. Tom brings wine and ice, nothing else."
+    },
+    {
+     "from": "Tom",
+     "date": "2026-09-24T17:41",
+     "body": "Wine and ice. I can do that."
+    }
+   ]
+  },
+  {
+   "id": "w2",
+   "chat": "Tuesday climbers",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Jess",
+     "date": "2026-09-17T20:15",
+     "body": "I keep borrowing Sam's shears for the bonsai, I really need my own trimming tools"
+    },
+    {
+     "from": "Jess",
+     "date": "2026-10-05T12:02",
+     "body": "Tues 6:30 at Granite Hall?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T12:10",
+     "body": "I'm frozen till end of Oct for the shoulder. I'll come belay though."
+    },
+    {
+     "from": "Sam",
+     "date": "2026-10-05T12:15",
+     "body": "I can do the 13th, I'm in Mexico City the 27th."
+    },
+    {
+     "from": "Jess",
+     "date": "2026-10-05T12:18",
+     "body": "13th then. Alice it's $28 for a day pass right?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T12:20",
+     "body": "$28, or $22 if you bring me in as your guest."
+    },
+    {
+     "from": "Jess",
+     "date": "2026-10-05T12:21",
+     "body": "I'll bring you in."
+    }
+   ]
+  },
+  {
+   "id": "w3",
+   "chat": "Chen family",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Lena Chen",
+     "date": "2026-09-20T18:30",
+     "body": "Thanksgiving: Owen's parents are coming to us Thursday. Mom, you'll come here?"
+    },
+    {
+     "from": "Mom",
+     "date": "2026-09-20T18:41",
+     "body": "Yes. Alice are you coming?"
+    },
+    {
+     "from": "me",
+     "date": "2026-09-20T19:02",
+     "body": "We're doing Thanksgiving with Daniel's family in Pasadena this year. Christmas in Denver though, probably Dec 22-27."
+    },
+    {
+     "from": "Mom",
+     "date": "2026-09-20T19:05",
+     "body": "OK. Christmas then. I'll make the turnip cake."
+    },
+    {
+     "from": "Owen",
+     "date": "2026-09-28T08:47",
+     "body": "Leo's first day at Little Sprouts. He didn't cry once."
+    },
+    {
+     "from": "Mom",
+     "date": "2026-09-28T09:10",
+     "body": "So big! Grandma is proud."
+    }
+   ]
+  },
+  {
+   "id": "w4",
+   "chat": "Mei's 35th (no Mei!)",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Ravi Shah",
+     "date": "2026-09-30T20:15",
+     "body": "Let's keep it small: dinner at our place Sat Nov 7 at 7:30, 6 of us. I'll cook, all gluten free so she can eat anything."
+    },
+    {
+     "from": "me",
+     "date": "2026-09-30T20:22",
+     "body": "I'll order the chocolate olive oil cake from Crumb Theory, pickup that afternoon."
+    },
+    {
+     "from": "Ravi Shah",
+     "date": "2026-09-30T20:23",
+     "body": "I'll pay you half the cake."
+    },
+    {
+     "from": "Jess",
+     "date": "2026-09-30T20:30",
+     "body": "Gift: Northfold gift card for her Patagonia trip? $40 each from 5 of us = $200"
+    },
+    {
+     "from": "Sam",
+     "date": "2026-09-30T20:41",
+     "body": "In"
+    },
+    {
+     "from": "Daniel Park",
+     "date": "2026-09-30T20:44",
+     "body": "In"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T12:55",
+     "body": "Bought the $200 Northfold e-gift card, it emails to her the morning of the 24th. $40 each to me when you can. Ravi already sent cake money."
+    },
+    {
+     "from": "Jess",
+     "date": "2026-10-07T13:28",
+     "body": "Sent $40"
+    }
+   ]
+  },
+  {
+   "id": "w5",
+   "chat": "Point Reyes 11/14",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Jess",
+     "date": "2026-10-01T19:02",
+     "body": "Sky Camp site 7 booked for Sat 11/14! $30 + $8 fee, I put it in Splitwise."
+    },
+    {
+     "from": "Mei",
+     "date": "2026-10-01T19:05",
+     "body": "Yay. Sorry in advance, food is a lot with me."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-01T19:10",
+     "body": "Not sorry at all. I'm doing the shopping and cooking. Everything gluten free, I bought a separate pan and board and I'm not bringing any regular bread."
+    },
+    {
+     "from": "Ravi Shah",
+     "date": "2026-10-01T19:12",
+     "body": "I'll bring Mei's bread and oats in a sealed bin."
+    },
+    {
+     "from": "Jess",
+     "date": "2026-10-01T19:15",
+     "body": "I'll bring sparkling water and NA beer. Bring whatever else you want."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T21:00",
+     "body": "Car: Subaru takes 4 plus gear. Leaving our place 9:30 Saturday."
+    },
+    {
+     "from": "Jess",
+     "date": "2026-10-05T21:04",
+     "body": "I work till 11 Sat, I'll drive up separately and meet you at Bear Valley at 1:30."
+    },
+    {
+     "from": "Mei",
+     "date": "2026-10-05T21:06",
+     "body": "Alice I'm taking your 20 degree bag, mine smells like my sister's dog."
+    }
+   ]
+  },
+  {
+   "id": "w6",
+   "chat": "Mom",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Mom",
+     "date": "2026-10-02T19:40",
+     "body": "Alice did you book flights? Lena said Friday."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T19:52",
+     "body": "Yes Mom, Friday Oct 30, landing around 10:40. Back Monday evening. Daniel's coming too."
+    },
+    {
+     "from": "Mom",
+     "date": "2026-10-02T19:55",
+     "body": "Good. Does Daniel eat lamb? Lena is asking about the menu."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-02T20:01",
+     "body": "He'll get the salmon. You get whatever you want, it's your birthday."
+    },
+    {
+     "from": "Mom",
+     "date": "2026-10-07T10:15",
+     "body": "Lena says your flight changed?"
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T10:20",
+     "body": "Lands 11:52 now. Owen is picking us up. We'll be at your place by 1."
+    },
+    {
+     "from": "Mom",
+     "date": "2026-10-07T10:22",
+     "body": "OK I will make lunch. Bring me a loaf from Pollard's if you can."
+    }
+   ]
+  },
+  {
+   "id": "w7",
+   "chat": "Lena Chen",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Lena Chen",
+     "date": "2026-10-03T20:10",
+     "body": "Sent you the email with everything. Deposit is in, $300 on my card."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-03T20:25",
+     "body": "Sending you $150 for my half tomorrow. Rest after the dinner?"
+    },
+    {
+     "from": "Lena Chen",
+     "date": "2026-10-03T20:27",
+     "body": "Yes, I'll put the final bill on my card and send you a photo of the receipt."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-04T09:12",
+     "body": "Sent the $150. Daniel and I both want the salmon. Mom will pick the lamb, she always does."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T08:15",
+     "body": "United moved our flight on the 30th. We land 11:52 now instead of 10:38, still UA 2274. Does that still work for you?"
+    },
+    {
+     "from": "Lena Chen",
+     "date": "2026-10-07T08:51",
+     "body": "Ugh I have an 11:30 meeting I can't move. Owen can get you, he'll text you."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-07T08:55",
+     "body": "Perfect, thank you. Photos for the book coming this weekend."
+    }
+   ]
+  },
+  {
+   "id": "w8",
+   "chat": "Raman lab",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Priya Raman",
+     "date": "2026-10-05T08:10",
+     "body": "Lab meeting moved to Wed 10/14 at 10 because of the seminar. Alice is up, Nadia next week."
+    },
+    {
+     "from": "Nadia Kowalski",
+     "date": "2026-10-05T08:32",
+     "body": "-80 #2 alarm went off overnight. Facilities says the compressor's fine, the door wasn't latched."
+    },
+    {
+     "from": "Sam",
+     "date": "2026-10-05T08:40",
+     "body": "That was me, sorry. Checked everything, it's back at -78."
+    },
+    {
+     "from": "Priya Raman",
+     "date": "2026-10-05T08:44",
+     "body": "Thanks Sam. Abstract drafts to me by 10/16 please."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-05T08:50",
+     "body": "Mine will be in by Thursday the 15th."
+    }
+   ]
+  },
+  {
+   "id": "w9",
+   "chat": "2847 Harrison neighbors",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Marco Bellini",
+     "date": "2026-10-06T16:20",
+     "body": "Kevin posted a notice: water off Wed 10/14, 9 to 1, for the riser."
+    },
+    {
+     "from": "Joyce (Apt 1)",
+     "date": "2026-10-06T16:31",
+     "body": "Again? Last time it ran to 3."
+    },
+    {
+     "from": "me",
+     "date": "2026-10-06T16:40",
+     "body": "We also have a plumber in Friday morning for our sink, sorry in advance for any noise."
+    },
+    {
+     "from": "Raj (Apt 2)",
+     "date": "2026-10-06T17:05",
+     "body": "Also someone opened a box in the lobby Monday. Maybe get things sent to the lockers at the corner store?"
+    },
+    {
+     "from": "Marco Bellini",
+     "date": "2026-10-06T17:12",
+     "body": "I'm home most days, I'll bring up anything I see for 1, 2 or 3."
+    }
+   ]
+  },
+  {
+   "id": "w10",
+   "chat": "Mei",
+   "unread": false,
+   "messages": [
+    {
+     "from": "Mei",
+     "date": "2026-10-06T19:05",
+     "body": "Hana's visiting that week so I'm bringing her along to dinner, hope that's ok!"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "id": "n1",
+   "title": "Mei - food",
+   "updated": "2025-10-14T21:30",
+   "body": "Mei has coeliac disease - no gluten at all, cross-contamination matters too.\n- Not a preference. Even crumbs make her sick for days.\n- Not safe: shared toaster, shared fryer, flour in the air, wooden spoons or boards that have touched bread.\n- Oats only if certified GF.\n- Soy sauce has wheat, use tamari. Check stock cubes, curry paste, malt vinegar, beer.\n- When she eats here: new sponge, clean pan, cook her food first, her own butter.\n- Places she trusts: Wildgrain Kitchen (whole kitchen GF), Crumb Theory bakery. Ask her before booking anywhere else.\n- Don't make a fuss in front of people, just handle it."
+  },
+  {
+   "id": "n2",
+   "title": "Boston trip - expenses",
+   "updated": "2025-12-11T20:00",
+   "body": "Winter Cell Biology Meeting, Dec 5-9.\nUnited P3LX8W: $512.40 (my Visa)\nHarborview Inn, 4 nights: $1,146.88\nMeals: $187.25\nTaxis: $64.00\nTotal $1,910.53. Submit the expense report by 12/15, receipts in the Boston folder."
+  },
+  {
+   "id": "n3",
+   "title": "House money rules",
+   "updated": "2026-02-03T20:15",
+   "body": "Agreed with Daniel when the new lease started 2/1.\n- Rent split 50/50. $4,200 total, $2,100 each. Each of us pays our own half on the Mission Street portal by the 1st.\n- Utilities 50/50. Pacific Bay Energy is on my Visa (autopay around the 6th). Fogline internet is on Daniel's card, $65.\n- Lucia (every other Friday, $150) also 50/50. I pay her and add it to the sheet.\n- Groceries paid by whoever shops. No tracking.\n- Settle up on the 1st: total the month on the sheet, whoever owes sends the difference on Venmo.\n- Trips and family stuff stay separate unless we say so."
+  },
+  {
+   "id": "n4",
+   "title": "Jess",
+   "updated": "2026-06-21T22:10",
+   "body": "Jess - not drinking since June. Told me at brunch 6/20.\n- She's fine with other people drinking. Don't push, don't ask why.\n- Likes: NA hazy IPAs, sparkling water with lime, ginger beer, hot cider.\n- Pick places with real NA options, not just soda.\n- Her birthday is Oct 20, plan something that isn't a bar."
+  },
+  {
+   "id": "n5",
+   "title": "Daniel gift ideas",
+   "updated": "2026-07-08T22:20",
+   "body": "- spy novels\n- good pens\n- coffee stuff"
+  },
+  {
+   "id": "n6",
+   "title": "Mom",
+   "updated": "2026-09-16T21:05",
+   "body": "Mom mentioned her gardening gloves are falling apart, and she's into jigsaw puzzles again."
+  },
+  {
+   "id": "n7",
+   "title": "Gift ideas",
+   "updated": "2026-09-17T22:00",
+   "body": "Mom 65: photo book with Lena.\nMei 35: group Northfold gift card for Patagonia (Jess's idea). Cake from Crumb Theory.\nDaniel, Christmas: ceramics class for two? Good drafting pencils? Last year was the Northfold down jacket.\nLeo: dinosaur headlamp.\nLucia holiday tip in December: $150, split with Daniel."
+  },
+  {
+   "id": "n8",
+   "title": "Shoulder PT",
+   "updated": "2026-09-22T19:30",
+   "body": "Left rotator cuff strain (climbing, 9/5). Erin Cho at Coastline, Tuesdays 7:30 AM. 6 visits through 11/20, $40 copay each.\nHome program once a day:\n- band external rotations 3x15\n- wall slides 2x10\n- sleeper stretch 3x30s\n- scap squeezes 3x15\nNo overhead climbing until Erin clears it. Granite Hall frozen for October ($15).\nIce 10 min after if sore."
+  },
+  {
+   "id": "n9",
+   "title": "Lease renewal - think",
+   "updated": "2026-09-29T21:00",
+   "body": "Offer: 12 months at $4,429 (+$229, 5.5%) or month-to-month at $4,730. Answer by 11/15.\n12 months = $2,214.50 each, up $114.50.\nMonth-to-month = $2,365 each. No.\nGood: sink finally getting fixed, parking spot #3, 15 min bike to work.\nAsk Kevin: 2% if we sign for 18 months? Bathroom fan fixed before we sign.\nTalk to Daniel this weekend."
+  },
+  {
+   "id": "n10",
+   "title": "Northfold",
+   "updated": "2026-09-29T21:30",
+   "body": "$20 reward expires 10/31. Gaiters?"
+  },
+  {
+   "id": "n11",
+   "title": "Meds + health",
+   "updated": "2026-10-01T08:10",
+   "body": "Levothyroxine 75 mcg: 6:30 AM, empty stomach, 30 min before coffee. 90-day supply at Dolores Pharmacy, $10. Next refill ready 10/7, pick up by 10/14.\nVitamin D3 2,000 IU with lunch. New, from Dr. Lindqvist 10/1 (level was 24).\nTSH 2.1 on 9/28, dose stays the same.\nFlu shot: Sat 10/3 at Dolores.\nDentist: Juniper Street Dental, Thu 10/29 8 AM, second cleaning this year.\nInsurance: Pacific Crest, Brightwater PPO."
+  },
+  {
+   "id": "n12",
+   "title": "Settle up - September (done 10/1)",
+   "updated": "2026-10-01T08:30",
+   "body": "Pacific Bay Energy, Jul 24-Aug 23 bill, paid 9/6 (me): $98.74, D owes $49.37\nFogline, Sept (D): $65.00, I owe $32.50\nLucia 9/11 + 9/25 (me): $300, D owes $150.00\n\nNet: Daniel owes me $166.87. He sent it on Venmo 10/1. Done."
+  },
+  {
+   "id": "n13",
+   "title": "Sam's cultures 10/26-28",
+   "updated": "2026-10-02T17:30",
+   "body": "HEK293T P14 (flask SW-HEK): passage Tue 10/27, 1:10. Freeze a vial Tuesday.\nBW-CO7 organoids: feed Mon 10/26 + Wed 10/28, ENR media, 4C shelf 2 labeled SW.\nDon't touch the knockdown plates, incubator 3 top shelf.\nHe's back Thu 10/29. He does mine Fri 10/30 + Mon 11/2. Write him a sheet by 10/29."
+  },
+  {
+   "id": "n14",
+   "title": "Mom 65th - Denver",
+   "updated": "2026-10-04T09:30",
+   "body": "Sat 10/31, 6:30, Ember & Vine Garden Room. 13 adults + Leo.\nLena paid the $300 deposit. I sent her $150 on 10/4. Final bill around $1,230, split 50/50 with Lena after.\nMenu due 10/20: me + Daniel salmon. Told Lena.\nPhoto book: Lena's making it, $86, I owe her $43. Send her 10 photos by 10/15.\nBring: Pollard's sourdough for Mom, card from both of us, Halloween candy for Leo.\nMom's retirement lunch at school Dec 18, 12:00. Can't go. Send flowers to the school."
+  },
+  {
+   "id": "n15",
+   "title": "Point Reyes 11/14 - food + packing",
+   "updated": "2026-10-06T22:40",
+   "body": "Sky Camp site 7, Saturday night. Jess booked ($38 with fee, on Splitwise).\nLeave home 9:30 in the Subaru (me, Mei, Ravi). Jess meets us at Bear Valley at 1:30 after work.\n\nEverything GF so Mei can eat all of it:\nSat dinner: chicken and vegetable coconut curry, rice, corn tortillas. Tamari, not soy. Check the curry paste label.\nSun breakfast: shakshuka in the NEW pan, corn tortillas, fruit.\nSnacks: GF crackers (check label), cheese, nuts, dark chocolate, apples.\nMei only: her bread and oats in Ravi's sealed bin.\nDrinks: Jess bringing NA beer and sparkling water, I'm getting a pack of the NA hazy too. Hot cider packets. Daniel's 2 beers stay in his pack.\n\nGear: new pan + red board (Mei only), new sponge, tent, pads, my 20F bag goes to Mei, I take the old 30F. Headlamps, water filter, stove + 2 fuel cans.\nI buy food, split 5 ways on Splitwise."
+  },
+  {
+   "id": "n16",
+   "title": "PCSS abstract",
+   "updated": "2026-10-06T23:05",
+   "body": "Due Tue 10/20, 5 PM PT. Draft to Priya Fri 10/16 (told her Thu 10/15). 300 words max.\nWorking title: Barrier recovery in patient-derived colon organoids after TNF-alpha challenge.\nNeed: TEER time course from the September runs. ZO-1 confocal images (Tue 10/13, 1-4, LSM 980).\nAuthors: me, Sam, Nadia, Priya. Get Sam's knockdown numbers before 10/16."
+  },
+  {
+   "id": "n17",
+   "title": "Denver trip 10/30-11/2",
+   "updated": "2026-10-07T09:40",
+   "body": "United K7QM2D, me + Daniel, $697.20 on my Visa. Daniel owes $348.60 (on the Nov 1 sheet).\nOut Fri 10/30: UA 2274 SFO 8:20 AM, DEN 11:52 AM. (Was 7:05/10:38, United changed it 10/6.) Seats 21A/21B.\nBack Mon 11/2: UA 1839 DEN 6:15 PM, SFO 8:02 PM. Seats 18E/18F.\nOwen picking us up, Lena has a meeting. Text him from the plane.\nPTO 10/30 + 11/2 approved. Sam has my cultures both days.\nStaying at Mom's. Carry-on only."
+  },
+  {
+   "id": "n18",
+   "title": "Settle up - October (for Nov 1)",
+   "updated": "2026-10-07T12:58",
+   "body": "Pacific Bay Energy, Aug 24-Sep 23 bill, autopay 10/6 (me): $112.36, D owes $56.18\nFogline, Oct (D): $65.00, I owe $32.50\nLucia Mon 10/12 (moved from 10/9) (me): $150, D owes $75\nLucia Fri 10/23 (me): $150, D owes $75\n\nNot house stuff but agreed to add:\nD's United ticket to Denver: $348.60\nD's share of Mei's gift card: $40\n\nWe'll be in Denver on the 1st, do it from Mom's. Pay rent on the portal before we leave."
+  },
+  {
+   "id": "n19",
+   "title": "Tom visiting 10/9-10/12",
+   "updated": "2026-10-07T21:15",
+   "body": "Lands SFO 6:40 PM Fri. Daniel picking him up.\nPullout couch. Clean sheets and 2 towels on the chair (Helen will ask).\nSpare key from Daniel.\nSat: Kyle's wedding in Sonoma, takes the Subaru. Fill the tank.\nSun: dim sum at 11, Tom paying.\nMon: his flight 9:10 AM, out by 7. Lucia at 11.\nHelen's sending persimmons with him."
+  }
+ ],
+ "calendar": [
+  {
+   "id": "c1",
+   "title": "Annual physical - Dr. Lindqvist",
+   "start": "2026-09-28T08:40",
+   "end": "2026-09-28T09:30",
+   "location": "Hollis Park Medical, 1801 Divisadero St, Suite 300",
+   "notes": "Fasting 10 hours for labs. Bring med list. Ask about vitamin D."
+  },
+  {
+   "id": "c2",
+   "title": "Flu shot",
+   "start": "2026-10-03T11:00",
+   "end": "2026-10-03T11:20",
+   "location": "Dolores Pharmacy, 3021 24th St",
+   "notes": "Walk-in. Bring insurance card."
+  },
+  {
+   "id": "c3",
+   "title": "PT - Erin Cho",
+   "start": "2026-10-06T08:15",
+   "end": "2026-10-06T09:00",
+   "location": "Coastline Physical Therapy, 1490 Valencia St",
+   "notes": "Moved from 7:30. Visit 3 of 6. $40 copay."
+  },
+  {
+   "id": "c4",
+   "title": "Plumber - kitchen sink (MS-4471)",
+   "start": "2026-10-09T08:00",
+   "end": "2026-10-09T11:00",
+   "location": "2847 Harrison St #3",
+   "notes": "Bayside Plumbing. Daniel home. Clear out the cabinet under the sink Thursday night."
+  },
+  {
+   "id": "c5",
+   "title": "Tom lands SFO",
+   "start": "2026-10-09T18:40",
+   "end": "2026-10-09T19:30",
+   "location": "SFO",
+   "notes": "Daniel picking him up. Tom staying through Mon morning."
+  },
+  {
+   "id": "c6",
+   "title": "Camera-ready due",
+   "start": "2026-10-10T00:00",
+   "end": "2026-10-10T23:59",
+   "location": "",
+   "notes": "BioImage Computing Workshop, paper #112. 11:59 pm AoE."
+  },
+  {
+   "id": "c7",
+   "title": "Lucia - cleaning",
+   "start": "2026-10-12T11:00",
+   "end": "2026-10-12T14:00",
+   "location": "Home",
+   "notes": "Moved from Fri 10/9 because of the plumber. $150 Venmo. She's doing the oven."
+  },
+  {
+   "id": "c8",
+   "title": "PT - Erin Cho",
+   "start": "2026-10-13T07:30",
+   "end": "2026-10-13T08:15",
+   "location": "Coastline Physical Therapy, 1490 Valencia St",
+   "notes": "Visit 4 of 6. $40 copay."
+  },
+  {
+   "id": "c9",
+   "title": "Confocal - LSM 980",
+   "start": "2026-10-13T13:00",
+   "end": "2026-10-13T16:00",
+   "location": "Brightwater Imaging Core, Room 210",
+   "notes": "Moved from Mon 10/12 (laser service). ZO-1 stains for abstract. CC 4410."
+  },
+  {
+   "id": "c10",
+   "title": "Water off in building",
+   "start": "2026-10-14T09:00",
+   "end": "2026-10-14T13:00",
+   "location": "2847 Harrison St",
+   "notes": "Riser valve. Fill kettle and pitchers the night before."
+  },
+  {
+   "id": "c11",
+   "title": "Lab meeting - I'm presenting",
+   "start": "2026-10-14T10:00",
+   "end": "2026-10-14T11:00",
+   "location": "Brightwater, 4th floor, Conf Room 4B",
+   "notes": "Moved for the seminar. Organoid barrier recovery data."
+  },
+  {
+   "id": "c12",
+   "title": "Anniversary with Daniel",
+   "start": "2026-10-17T00:00",
+   "end": "2026-10-17T23:59",
+   "location": "",
+   "notes": ""
+  },
+  {
+   "id": "c13",
+   "title": "Jess's birthday",
+   "start": "2026-10-20T00:00",
+   "end": "2026-10-20T23:59",
+   "location": "",
+   "notes": ""
+  },
+  {
+   "id": "c14",
+   "title": "Portland trip",
+   "start": "2026-10-22T00:00",
+   "end": "2026-10-25T23:59",
+   "location": "Portland, OR",
+   "notes": ""
+  },
+  {
+   "id": "c15",
+   "title": "Mom's birthday",
+   "start": "2026-10-25T00:00",
+   "end": "2026-10-25T23:59",
+   "location": "",
+   "notes": ""
+  },
+  {
+   "id": "c16",
+   "title": "Covering Sam's cultures",
+   "start": "2026-10-26T09:00",
+   "end": "2026-10-28T17:00",
+   "location": "Brightwater, Raman lab",
+   "notes": "HEK293T passage Tue. BW-CO7 feed Mon + Wed. Sam back Thu 10/29."
+  },
+  {
+   "id": "c17",
+   "title": "Dentist - cleaning",
+   "start": "2026-10-29T08:00",
+   "end": "2026-10-29T09:00",
+   "location": "Juniper Street Dental, 2390 Mission St, Suite 210",
+   "notes": "Dr. Haddad. Confirmed by text."
+  },
+  {
+   "id": "c18",
+   "title": "Fly to Denver - UA 2274",
+   "start": "2026-10-30T08:20",
+   "end": "2026-10-30T11:52",
+   "location": "SFO Terminal 3",
+   "notes": "K7QM2D. Seats 21A/21B. Times changed by United. Owen picking us up."
+  },
+  {
+   "id": "c19",
+   "title": "Mom's 65th - Ember & Vine",
+   "start": "2026-10-31T18:30",
+   "end": "2026-10-31T21:30",
+   "location": "Ember & Vine, 3410 Tejon St, Denver",
+   "notes": "Garden Room. Salmon x2. Bring the card and Leo's candy."
+  },
+  {
+   "id": "c20",
+   "title": "Rent + settle up",
+   "start": "2026-11-01T09:00",
+   "end": "2026-11-01T09:30",
+   "location": "",
+   "notes": "Pay rent on the portal. Settle up with Daniel, including his $348.60 flight and $40 gift card."
+  },
+  {
+   "id": "c21",
+   "title": "Fly home - UA 1839",
+   "start": "2026-11-02T18:15",
+   "end": "2026-11-02T20:02",
+   "location": "Denver International Airport",
+   "notes": "K7QM2D. Seats 18E/18F."
+  },
+  {
+   "id": "c22",
+   "title": "Mei's 35th - dinner at Mei and Ravi's",
+   "start": "2026-11-07T19:30",
+   "end": "2026-11-07T22:00",
+   "location": "Mei and Ravi's place",
+   "notes": "Small get-together, 6 of us. Get there at 7:15. Pick up cake at Crumb Theory 2-5."
+  },
+  {
+   "id": "c23",
+   "title": "Point Reyes - Sky Camp site 7",
+   "start": "2026-11-14T09:30",
+   "end": "2026-11-15T15:00",
+   "location": "Point Reyes National Seashore",
+   "notes": "Leave home 9:30 in the Subaru. Jess meets us at Bear Valley 1:30. All food GF."
+  }
+ ],
+ "assistant_chats": [
+  {
+   "id": "a1",
+   "date": "2026-09-08T12:30",
+   "turns": [
+    {
+     "role": "user",
+     "text": "Quick one: when should I use Welch's t-test instead of a regular Student's t-test?"
+    },
+    {
+     "role": "assistant",
+     "text": "Use Welch's whenever the two groups might have different variances or different sample sizes, which in practice is most of the time. Student's t-test assumes equal variances, and when that's wrong it can give misleading p-values, especially if the smaller group has the larger variance. Welch's adjusts the degrees of freedom to account for this and loses very little power when the variances turn out to be equal, so many statisticians recommend it as the default. In Python it's scipy.stats.ttest_ind(a, b, equal_var=False), and in R, t.test() already runs Welch's unless you set var.equal = TRUE."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "date": "2026-09-28T21:40",
+   "turns": [
+    {
+     "role": "user",
+     "text": "Mission Street sent a renewal offer. 12 months at $4,429 or month to month at $4,730. We pay $4,200 now. What's the difference per person?"
+    },
+    {
+     "role": "assistant",
+     "text": "At $4,429 the rent goes up $229 a month, or about 5.5%. Split 50/50 that's $2,214.50 each, $114.50 more than the $2,100 you each pay now. Month-to-month at $4,730 would be $2,365 each, which is $150.50 more per person per month than the 12-month option, about $1,806 each over a year. Your answer is due by November 15."
+    },
+    {
+     "role": "user",
+     "text": "Remind me to talk to Daniel about it this weekend, and to ask Kevin about an 18 month option."
+    },
+    {
+     "role": "assistant",
+     "text": "Done. You have a reminder Saturday morning to talk with Daniel about the renewal, and a note to ask Kevin Alvarez whether they'd offer a smaller increase for an 18-month lease."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "date": "2026-10-02T20:15",
+   "turns": [
+    {
+     "role": "user",
+     "text": "Help me plan food for one night of camping for 5. Mei has coeliac so it all has to be gluten free. Jess doesn't drink."
+    },
+    {
+     "role": "assistant",
+     "text": "Here's a simple plan:\nDinner: chicken and vegetable coconut curry with rice and corn tortillas.\nBreakfast: shakshuka with corn tortillas and fruit.\nSnacks: GF crackers, cheese, nuts, dark chocolate, apples.\nDrinks: NA beer, sparkling water, hot cider.\nFor Mei: use tamari instead of soy sauce, check labels on curry paste, stock and crackers, only certified GF oats, and use a pan, board and sponge that haven't touched gluten."
+    },
+    {
+     "role": "user",
+     "text": "Good. Shakshuka has to go in the new pan, my cast iron has had bread in it. And I don't want to make it weird for Jess, she said it's fine if people drink."
+    },
+    {
+     "role": "assistant",
+     "text": "Got it. The shakshuka goes in the new pan and the cast iron stays home. I've put NA beer and sparkling water on the main drinks list for everyone, so nothing looks like a special arrangement. Daniel's two beers can just stay in his pack."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "date": "2026-10-06T21:25",
+   "turns": [
+    {
+     "role": "user",
+     "text": "United changed our Denver flight. What's the new time?"
+    },
+    {
+     "role": "assistant",
+     "text": "Your October 30 flight, UA 2274, now leaves SFO at 8:20 AM and lands in Denver at 11:52 AM, instead of 7:05 and 10:38. Your seats, 21A and 21B, didn't change. The return on November 2, UA 1839 at 6:15 PM, is the same. Lena was planning to pick you up at 10:38, so she'll need the new time."
+    },
+    {
+     "role": "user",
+     "text": "Update the calendar and draft something to Lena."
+    },
+    {
+     "role": "assistant",
+     "text": "Calendar updated to 8:20 to 11:52 AM. Draft for Lena: \"United moved our flight on the 30th. We land 11:52 now instead of 10:38, still UA 2274. Does that still work for you?\""
+    },
+    {
+     "role": "user",
+     "text": "I'll send it on WhatsApp in the morning."
+    }
+   ]
+  }
+ ],
+ "transactions": [
+  {
+   "id": "x1",
+   "date": "2025-12-01T19:22",
+   "account": "Bayline Visa ending 5126",
+   "description": "UNITED AIRLINES 0162395511804",
+   "amount": -512.4
+  },
+  {
+   "id": "x2",
+   "date": "2025-12-03T18:05",
+   "account": "Bayline Visa ending 5126",
+   "description": "NORTHFOLD OUTFITTERS ONLINE",
+   "amount": -270.48
+  },
+  {
+   "id": "x3",
+   "date": "2026-08-24T20:33",
+   "account": "Bayline Visa ending 5126",
+   "description": "NORTHFOLD OUTFITTERS ONLINE",
+   "amount": -318.27
+  },
+  {
+   "id": "x4",
+   "date": "2026-09-01T07:58",
+   "account": "Bayline Checking ending 8203",
+   "description": "MISSION STREET PROPERTIES WEBPAY",
+   "amount": -2100.0
+  },
+  {
+   "id": "x5",
+   "date": "2026-09-12T15:41",
+   "account": "Bayline Visa ending 5126",
+   "description": "UNITED AIRLINES 0162418830257",
+   "amount": -697.2
+  },
+  {
+   "id": "x6",
+   "date": "2026-09-17T09:35",
+   "account": "Bayline Visa ending 5126",
+   "description": "NORTHFOLD OUTFITTERS REFUND NF-2291847",
+   "amount": 189.0
+  },
+  {
+   "id": "x7",
+   "date": "2026-09-25T15:20",
+   "account": "Bayline Checking ending 8203",
+   "description": "VENMO TO LUCIA MENDES",
+   "amount": -150.0
+  },
+  {
+   "id": "x8",
+   "date": "2026-09-29T08:20",
+   "account": "Bayline Visa ending 5126",
+   "description": "COASTLINE PHYSICAL THERAPY",
+   "amount": -40.0
+  },
+  {
+   "id": "x9",
+   "date": "2026-09-29T21:15",
+   "account": "Bayline Visa ending 5126",
+   "description": "NORTHFOLD OUTFITTERS ONLINE",
+   "amount": -34.76
+  },
+  {
+   "id": "x10",
+   "date": "2026-09-30T00:10",
+   "account": "Bayline Checking ending 8203",
+   "description": "GRANITE HALL CLIMBING FREEZE FEE",
+   "amount": -15.0
+  },
+  {
+   "id": "x11",
+   "date": "2026-10-01T07:58",
+   "account": "Bayline Checking ending 8203",
+   "description": "MISSION STREET PROPERTIES WEBPAY",
+   "amount": -4200.0
+  },
+  {
+   "id": "x12",
+   "date": "2026-10-01T08:35",
+   "account": "Bayline Checking ending 8203",
+   "description": "VENMO FROM DANIEL PARK - SEPT SETTLE UP",
+   "amount": 166.87
+  },
+  {
+   "id": "x13",
+   "date": "2026-10-02T03:00",
+   "account": "Bayline Checking ending 8203",
+   "description": "BRIGHTWATER THERAPEUTICS PAYROLL",
+   "amount": 4862.15
+  },
+  {
+   "id": "x14",
+   "date": "2026-10-03T13:20",
+   "account": "Bayline Visa ending 5126",
+   "description": "CRUMB THEORY BAKERY",
+   "amount": -58.0
+  },
+  {
+   "id": "x15",
+   "date": "2026-10-04T09:14",
+   "account": "Bayline Checking ending 8203",
+   "description": "VENMO TO LENA CHEN - DEPOSIT HALF",
+   "amount": -150.0
+  },
+  {
+   "id": "x16",
+   "date": "2026-10-04T10:05",
+   "account": "Bayline Checking ending 8203",
+   "description": "VENMO FROM RAVI SHAH - CAKE",
+   "amount": 29.0
+  },
+  {
+   "id": "x17",
+   "date": "2026-10-05T17:42",
+   "account": "Bayline Visa ending 5126",
+   "description": "FOLSOM STREET MARKET",
+   "amount": -94.18
+  },
+  {
+   "id": "x18",
+   "date": "2026-10-06T04:10",
+   "account": "Bayline Visa ending 5126",
+   "description": "PACIFIC BAY ENERGY AUTOPAY",
+   "amount": -112.36
+  },
+  {
+   "id": "x19",
+   "date": "2026-10-06T09:05",
+   "account": "Bayline Visa ending 5126",
+   "description": "COASTLINE PHYSICAL THERAPY",
+   "amount": -40.0
+  },
+  {
+   "id": "x20",
+   "date": "2026-10-07T12:48",
+   "account": "Bayline Visa ending 5126",
+   "description": "NORTHFOLD OUTFITTERS E-GIFT",
+   "amount": -200.0
+  },
+  {
+   "id": "x21",
+   "date": "2026-10-07T13:30",
+   "account": "Bayline Checking ending 8203",
+   "description": "VENMO FROM JESS OKORO - MEI GIFT",
+   "amount": 40.0
+  }
+ ]
+}
